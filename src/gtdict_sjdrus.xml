@@ -1,0 +1,3447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sjd">
+   <e>
+      <lg>
+         <l pos="xxx">барбанн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">барабан</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">коэдтҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">чум</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">на̄ввьт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">зверь</t>
+            <t xml:lang="rus" pos="xxx">волк</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нӯрмусс</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">младший</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄ннэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">много</t>
+            <t xml:lang="rus" pos="xxx">многие</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нӯраш</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">молодежь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нӯрр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">молодой</t>
+            <t xml:lang="rus" pos="xxx">юный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ма̄ййт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">молоко</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ся̄ххтар</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мох</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӯйй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">муж</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ка̄ллесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">муж</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">юррт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мысль</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пэ̄ссэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мыть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуэннч</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мясо</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӣххче</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">смотреть</t>
+            <t xml:lang="rus" pos="xxx">наблюдать</t>
+            <t xml:lang="rus" pos="xxx">проверять</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">уййнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">смотреть</t>
+            <t xml:lang="rus" pos="xxx">наблюдать</t>
+            <t xml:lang="rus" pos="xxx">видеть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">агас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">навсегда</t>
+            <t xml:lang="rus" pos="xxx">на века</t>
+            <t xml:lang="rus" pos="xxx">на веки</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">моа̄з</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">назад</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">моа̄ст</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">назад</t>
+            <t xml:lang="rus" pos="xxx">домой</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">коа̄ввнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">найти</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кырьйхэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">писать</t>
+            <t xml:lang="rus" pos="xxx">написать</t>
+            <t xml:lang="rus" pos="xxx">составить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">о̄ллмэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">народ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нарэдт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">народ</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ррьмь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">настоящий</t>
+            <t xml:lang="rus" pos="xxx">современный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ррьмъя</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сегоднящний</t>
+            <t xml:lang="rus" pos="xxx">настоящий</t>
+            <t xml:lang="rus" pos="xxx">современный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ррмъя</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сегоднящний</t>
+            <t xml:lang="rus" pos="xxx">настоящий</t>
+            <t xml:lang="rus" pos="xxx">современный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ррьмъенч</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сегоднящний</t>
+            <t xml:lang="rus" pos="xxx">настоящий</t>
+            <t xml:lang="rus" pos="xxx">современный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ррмъенч</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сегоднящний</t>
+            <t xml:lang="rus" pos="xxx">настоящий</t>
+            <t xml:lang="rus" pos="xxx">современный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">алльм</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">небо</t>
+            <t xml:lang="rus" pos="xxx">снег</t>
+            <t xml:lang="rus" pos="xxx">пурга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">не̄дтӭль</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">неделя</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">лыввтъе</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">петь саамские песьни</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ва̄ннҍцлэнне</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">пешком</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ва̄нҍцнэлле</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">пешком</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">рыбпехь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">платок</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄ррк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">погода</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пӣӈӈк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ветер</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нуҏҏьтпиӈӈк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">восточный ветер</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуэрьялпиӈӈк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">западный ветер</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">соа̄ййвпиӈӈк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">южный ветер</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ввялпиӈӈк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">северный ветер</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пэ̄ввл</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">облако</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">поа̄шштпе̄ййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">солнечный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">поа̄ххкпе̄ййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">тёплый день</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуэххьт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">туча</t>
+            <t xml:lang="rus" pos="xxx">плохое настроение</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуэххт вырэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">туча</t>
+            <t xml:lang="rus" pos="xxx">плохое настроение</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вэ̄дз</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">снег</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вэ̄дзчалльм</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">снежинка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">коа̄мм аббьр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">проливной дождь</t>
+            <t xml:lang="rus" pos="xxx">дождь</t>
+            <t xml:lang="rus" pos="xxx">ливень</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">аббьр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дождь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">а̄ббьр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дождь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тӣрьмесьюккс</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">радуга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">шэ̄ӈӈ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">шторм</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ра̄ссь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">растение</t>
+            <t xml:lang="rus" pos="xxx">зелень</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ё̄ӈӈ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">брусника</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чемнушш</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">вороника</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">уйххькмушш</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">голубика</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӯмпар</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">гриб</t>
+            <t xml:lang="rus" pos="xxx">грибы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӯммпар</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">гриб</t>
+            <t xml:lang="rus" pos="xxx">грибы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">рыххпмуррьй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">клюква</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тэ̄ӈас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">куст ягоды</t>
+            <t xml:lang="rus" pos="xxx">кусты ягоды</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тэ̄ӈӈас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">куст ягоды</t>
+            <t xml:lang="rus" pos="xxx">кусты ягоды</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">са̄ррь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">черника</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">са̄ррьтэӈас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">куст черники</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">лӣййн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лён</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">лэ̄сст</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лист</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">лӯмь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">морошка (ед. число)</t>
+            <t xml:lang="rus" pos="xxx">морошка (мн. число)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">лӯэмман</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">морошка (ед. число)</t>
+            <t xml:lang="rus" pos="xxx">морошка (мн. число)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">сӯлльлэсст</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">щавель</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄гель</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ягель (ед. число)</t>
+            <t xml:lang="rus" pos="xxx">ягель (мн. число)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">я̄гкал</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ягель (ед. число)</t>
+            <t xml:lang="rus" pos="xxx">ягель (мн. число)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">о̄лэнь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">багульник</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мӯрр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дерево</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пе̄ссьмурр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">береза</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">суэгкь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ствол берёзы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пе̄ссь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">береста</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӯсс</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ель</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">выррьп</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">верба</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пуай</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ива</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӣрре</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">карликовая береза</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кэскас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">можевельник</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нуэҏҏт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">можевельник</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ле̄ххьп</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ольха</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">субпь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">осина</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">роашшьн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">рябина</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пе̄дзь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сосна</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">уммель</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">почка на дереве</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ма̄лль</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сок березовый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ме̄рр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">море</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">аджь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">отец</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пя̄йвнэгк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">солнечная погода</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ля̄ммт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лес</t>
+            <t xml:lang="rus" pos="xxx">густой лес</t>
+            <t xml:lang="rus" pos="xxx">тайга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">я̄мме</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">умиреть</t>
+            <t xml:lang="rus" pos="xxx">умирать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ёамнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">умиреть</t>
+            <t xml:lang="rus" pos="xxx">умирать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">коаннҍтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">убить</t>
+            <t xml:lang="rus" pos="xxx">убивать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">контче</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">убить</t>
+            <t xml:lang="rus" pos="xxx">убивать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx"/>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">убить</t>
+            <t xml:lang="rus" pos="xxx">убивать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ле̄шшэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лежать (человек)</t>
+            <t xml:lang="rus" pos="xxx">лежать (животные)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">лыввдэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лежать (человек)</t>
+            <t xml:lang="rus" pos="xxx">лежать (животные)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ышштэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сесть</t>
+            <t xml:lang="rus" pos="xxx">сидеть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">оаррэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сесть</t>
+            <t xml:lang="rus" pos="xxx">сидеть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуэдтӭ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">спать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">по̄ннц</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">перо (о птице)</t>
+            <t xml:lang="rus" pos="xxx">перья</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">понц</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">перо (о птице)</t>
+            <t xml:lang="rus" pos="xxx">перья</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">се̄ййп</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">хвост</t>
+            <t xml:lang="rus" pos="xxx">волочиться</t>
+            <t xml:lang="rus" pos="xxx">ходить следом за кем-нибудь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">лоаннҍт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">птица</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вэ̄рр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кровь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ххьт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кость</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ххт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кость</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">маннҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">яйцо</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӯлль</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">рыба</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӯттҍк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сердце</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯйвас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">печень</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нюххчемь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">язык</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ча̄дзь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">вода</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">поа̄лкас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">тропа</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">куллэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">слышать</t>
+            <t xml:lang="rus" pos="xxx">чувствовать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тӣдтӭ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">знать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ва̄ннҍцэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ходить</t>
+            <t xml:lang="rus" pos="xxx">идти</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ма̄нн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">луна</t>
+            <t xml:lang="rus" pos="xxx">месяц</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ыйй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ночь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пе̄ййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">солнце</t>
+            <t xml:lang="rus" pos="xxx">день</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кыррьтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лететь</t>
+            <t xml:lang="rus" pos="xxx">летать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кыртче</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лететь</t>
+            <t xml:lang="rus" pos="xxx">летать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чуэннче</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">стоять</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯйе</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">плыть, плавать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯйнэдтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">плыть, плавать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мӯрр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дерево</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӣллкэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">белый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">руччкэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">жёлтый</t>
+            <t xml:lang="rus" pos="xxx">коричневый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пугк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">всё</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кунн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">зола</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">па̄ҏҏк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кора</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чуэййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">живот</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чо̄ййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">живот</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">шӯрр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">большой</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чоа̄ххпэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">чёрный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чоа̄ххьпесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">чёрный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">раннҍт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">грудь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">рыдт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">полость груди</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯйй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">масло</t>
+            <t xml:lang="rus" pos="xxx">жир</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кэлмас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">холодно</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кэ̄ллм</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">холодный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пе̄ннэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">собака</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">коашшьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сухой</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пе̄лльй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ухо</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄ммьнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">земля</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄ммьне</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">земля</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чалльм</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">глаз</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кэ̄ннц</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ноготь</t>
+            <t xml:lang="rus" pos="xxx">копыто</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">то̄лл</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">огонь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ю̄лльк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">нога</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ю̄лльклабпь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">стопа</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тӣвтас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">наполнен</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тӣввт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">полный</t>
+            <t xml:lang="rus" pos="xxx">достаточно</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">шӣг</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">хороший</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">руэнн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">зелёный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯппт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">волос</t>
+            <t xml:lang="rus" pos="xxx">волосы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯпт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">волос</t>
+            <t xml:lang="rus" pos="xxx">волосы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӣдт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">рука</t>
+            <t xml:lang="rus" pos="xxx">кисть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӣдтлабпь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кисть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӣдткоаллдэгк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">горсть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуеййв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">голова</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чуэррьв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">рог</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">поа̄кас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">тепло</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">жоа̄рряй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">жарко</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">жоа̄рр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">жаркий</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мунн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">я</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пӯллв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">колено</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пуввл</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">колено</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">куххьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">длинный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тыххьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">вошь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">па̄ххьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">гора</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ня̄лльм</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">рот</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нэ̄мм</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">имя</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ча̄пэх</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">шея</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нышшьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">затылок</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">о̄дт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">новый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нюннҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">нос</t>
+            <t xml:lang="rus" pos="xxx">клюв</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">эйй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">не</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">э̄ххт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">один</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">олма</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">человек</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">рӯппьсес</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">красный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуэнҍтэсь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">корень</t>
+            <t xml:lang="rus" pos="xxx">корни</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуаннтас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">корень</t>
+            <t xml:lang="rus" pos="xxx">корни</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ёрьпесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">круглый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ёрпас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кругловатый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯнтас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">песок</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">корнэгк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">семя</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">лышшьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кожа</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">удць</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">маленький</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">сувв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дым</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄ссьт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">звезда</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ке̄ддҍк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">камень</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тудт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">тот</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄дт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">этот</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тэдта</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">это</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ка̄ццькэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">грызть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пӯлле</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">горячий</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пӯлле</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">гореть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пуэлльтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">жеть</t>
+            <t xml:lang="rus" pos="xxx">сжеть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пуэдтӭ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">прийти</t>
+            <t xml:lang="rus" pos="xxx">приходить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">по̄дтлэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">прийти</t>
+            <t xml:lang="rus" pos="xxx">приходить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">югкэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">пить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">по̄ррэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">есть</t>
+            <t xml:lang="rus" pos="xxx">кушать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">аннҍтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дать</t>
+            <t xml:lang="rus" pos="xxx">давать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">э̄ннтлэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дать</t>
+            <t xml:lang="rus" pos="xxx">давать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">це̄ӆӆькэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сказать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">са̄ррнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">говорить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӯххт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">два</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мыйй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мы</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мӣ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">что</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ке̄</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кто</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нызан</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">женщина</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нызан олма</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">женщина</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">то̄нн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ты</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄лле</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">жить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">югке</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">разный</t>
+            <t xml:lang="rus" pos="xxx">всякий</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ю̄гке</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">делить</t>
+            <t xml:lang="rus" pos="xxx">разделить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӣдже</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">бежать</t>
+            <t xml:lang="rus" pos="xxx">бежать (человек)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">каррэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">бежать</t>
+            <t xml:lang="rus" pos="xxx">бежать (животное)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">карсэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">побегать</t>
+            <t xml:lang="rus" pos="xxx">(животное)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пе̄гке</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ползти</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чӯййкэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">идти на лыжах</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вāннҍцэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">идти</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">выйе</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ехать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ёадтсэллэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">намереваться ехать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯллькэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">пойти</t>
+            <t xml:lang="rus" pos="xxx">отправиться</t>
+            <t xml:lang="rus" pos="xxx">направиться</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кархэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ехать быстро</t>
+            <t xml:lang="rus" pos="xxx">мчаться</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ёадтӭ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ехать на чем</t>
+            <t xml:lang="rus" pos="xxx">идти</t>
+            <t xml:lang="rus" pos="xxx">двигаться</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">сāххьп</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сок от ягод</t>
+            <t xml:lang="rus" pos="xxx">желчный пузырь</t>
+            <t xml:lang="rus" pos="xxx">жёлчь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ле̄ййп</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">хлеб</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вя̄рр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">суп</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">я̄вв</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мука</t>
+            <t xml:lang="rus" pos="xxx">суп из мяса или рыбы заправленный мукой</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">саррь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">черника</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пӯййт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">жир</t>
+            <t xml:lang="rus" pos="xxx">сало</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чай</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">чай</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кофе</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кофе</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">выннҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">вино (ед. число)</t>
+            <t xml:lang="rus" pos="xxx">вино (мн. число)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вынҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">вино (ед. число)</t>
+            <t xml:lang="rus" pos="xxx">вино (мн. число)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">бражка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">пиво</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пиво</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">пиво</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӣллькесь выннҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">водка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӣллькесь роавас ча̄дзь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">водка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">водка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">водка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӯйй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">масло</t>
+            <t xml:lang="rus" pos="xxx">топленый жир</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">сӯлль</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">соль</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пырре</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">пирог</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кӯлль</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">рыба</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">шāӈӈьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ватрушка</t>
+            <t xml:lang="rus" pos="xxx">шаньга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">чӯххпэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">резать</t>
+            <t xml:lang="rus" pos="xxx">обрезать</t>
+            <t xml:lang="rus" pos="xxx">нарезать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄дтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">резать</t>
+            <t xml:lang="rus" pos="xxx">отрезать</t>
+            <t xml:lang="rus" pos="xxx">разрезать</t>
+            <t xml:lang="rus" pos="xxx">нарезать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пāшшьтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">печь</t>
+            <t xml:lang="rus" pos="xxx">испечь</t>
+            <t xml:lang="rus" pos="xxx">жарить</t>
+            <t xml:lang="rus" pos="xxx">изжарить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">поа̄штчедтэ пе̄йвэсьт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">загорать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кыппьте</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">варить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тӯлльтхэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">вскипятить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӣршэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мешать</t>
+            <t xml:lang="rus" pos="xxx">размешивать</t>
+            <t xml:lang="rus" pos="xxx">перемешив ать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄кхэллэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мешать чего</t>
+            <t xml:lang="rus" pos="xxx">мешать кому</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">суэллдэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">солить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">уррьт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">скалистая гора</t>
+            <t xml:lang="rus" pos="xxx">высокая гора</t>
+            <t xml:lang="rus" pos="xxx">цепь гор</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кāннҍт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">холм</t>
+            <t xml:lang="rus" pos="xxx">гора</t>
+            <t xml:lang="rus" pos="xxx">возвышенность</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">сыййт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">село</t>
+            <t xml:lang="rus" pos="xxx">селение</t>
+            <t xml:lang="rus" pos="xxx">деревня</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">са̄ттк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">село (на берегу моря)</t>
+            <t xml:lang="rus" pos="xxx">селение (на берегу моря)</t>
+            <t xml:lang="rus" pos="xxx">деревня (на берегу моря)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ча̄рр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">тундра</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">я̄ввьр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">озеро</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вāррь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лес</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">па̄ххьк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">тундровая гора</t>
+            <t xml:lang="rus" pos="xxx">тундра</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">суэл</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">остров</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пэ̄ҏҏт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дом</t>
+            <t xml:lang="rus" pos="xxx">жилище</t>
+            <t xml:lang="rus" pos="xxx">квартира</t>
+            <t xml:lang="rus" pos="xxx">комната</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ёгк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">река</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">коавас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">кувакса</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ланнҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">город</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">байна</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">баня</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">па̄ррьн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">парень</t>
+            <t xml:lang="rus" pos="xxx">юноша</t>
+            <t xml:lang="rus" pos="xxx">мальчик</t>
+            <t xml:lang="rus" pos="xxx">ребенок</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">а̄джя</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">папа</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">а̄джь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">отец</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">я̄нна</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мама</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">е̄ннҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мать</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуэррьпенҍ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сестра</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вӣлльй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">брат</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ка̄ннҍц</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">друг</t>
+            <t xml:lang="rus" pos="xxx">подруга</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">а̄ка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">бабушка</t>
+            <t xml:lang="rus" pos="xxx">старая женщина</t>
+            <t xml:lang="rus" pos="xxx">старуха</t>
+            <t xml:lang="rus" pos="xxx">старушка</t>
+            <t xml:lang="rus" pos="xxx">жёнушка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пāррьшя</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мальчик</t>
+            <t xml:lang="rus" pos="xxx">малыш</t>
+            <t xml:lang="rus" pos="xxx">ребёнок</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуэзьхемесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">несчастный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">коа̄ллэш</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">дорогой</t>
+            <t xml:lang="rus" pos="xxx">ценный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ра̄кесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">ласковый</t>
+            <t xml:lang="rus" pos="xxx">дружный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мӣллвэсь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">умный</t>
+            <t xml:lang="rus" pos="xxx">толковый</t>
+            <t xml:lang="rus" pos="xxx">мудрый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мӣллшэсь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">милый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мӣллса</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">милый</t>
+            <t xml:lang="rus" pos="xxx">милая</t>
+            <t xml:lang="rus" pos="xxx">любовь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">шоабшэмушш</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">любовь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">милса</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">любовь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тоӆӆкшэсь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">умный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">мӣллвэсь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">умный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нубпай</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">упрямый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нубпь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">упрямство</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тӣшшяй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">смешной</t>
+            <t xml:lang="rus" pos="xxx">шутливый</t>
+            <t xml:lang="rus" pos="xxx">забавный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">а̄рькэсь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">скромный</t>
+            <t xml:lang="rus" pos="xxx">стеснительный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">а̄ррькьесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">скромный</t>
+            <t xml:lang="rus" pos="xxx">стеснительный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ка̄йнэсь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">скромный</t>
+            <t xml:lang="rus" pos="xxx">стеснительный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ка̄ййнҍесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">скромный</t>
+            <t xml:lang="rus" pos="xxx">стеснительный</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">ка̄ййнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">стесняться</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нӯськесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">нерящливый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">руэняс</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">весело</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">руэньсесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">веселый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуазлэш</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">счастливый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">вуассай</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">счастливый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">оалм олма</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мужчина</t>
+            <t xml:lang="rus" pos="xxx">мужчины</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">оалм о̄ллмэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">мужчина</t>
+            <t xml:lang="rus" pos="xxx">мужчины</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нызан</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">женщина</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нӣйта</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">девочка</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">пуэресь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">старый</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">нӯрр</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">молодой</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">тоавас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сильный</t>
+            <t xml:lang="rus" pos="xxx">мошьный</t>
+            <t xml:lang="rus" pos="xxx">крепкий</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">фоаӊӊт</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">фантазия</t>
+            <t xml:lang="rus" pos="xxx">приключенческие случаи</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">туххк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">пучок</t>
+            <t xml:lang="rus" pos="xxx">букет (цветов)</t>
+            <t xml:lang="rus" pos="xxx">толпа</t>
+            <t xml:lang="rus" pos="xxx">набор</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">алльмсэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">опрокинуть</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">та̄йе</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">сходить с ума</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">кэ̄ннцэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">есть ложкой</t>
+            <t xml:lang="rus" pos="xxx">есть житкую пищу</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">луннцэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">есть ложкой</t>
+            <t xml:lang="rus" pos="xxx">есть житкую пищу</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">луннҍтҍе</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">колоть</t>
+            <t xml:lang="rus" pos="xxx">расколоть (дрова)</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">луннтнэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лопнуть</t>
+            <t xml:lang="rus" pos="xxx">треснить</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">луннтнэнтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лопаться</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">луннтнэнтэшкуэдтӭ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">готовиться к лопанью</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">луннтнэнтмэн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">лопаясь</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">са̄ррнмэн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">говоря</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">куаррнмэн</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">за шитьём</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">корнэдант</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">контакт</t>
+            <t xml:lang="rus" pos="xxx">связывание</t>
+            <t xml:lang="rus" pos="xxx">завязывание</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">корнэдтмушш</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">контакт</t>
+            <t xml:lang="rus" pos="xxx">связывание</t>
+            <t xml:lang="rus" pos="xxx">завязывание</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">корнэдтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">связаться</t>
+            <t xml:lang="rus" pos="xxx">пойти на контакт</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="xxx">уййнлэдтэ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t xml:lang="rus" pos="xxx">встретиться</t>
+            <t xml:lang="rus" pos="xxx">встречаться</t>
+         </tg>
+      </mg>
+   </e>
+</r>
