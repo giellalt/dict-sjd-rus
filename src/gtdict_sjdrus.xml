@@ -1,3446 +1,3435 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sjd">
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">барбанн</l>
+         <l pos="сущ.">барбанн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">барабан</t>
+            <t xml:lang="rus" pos="сущ.">барабан</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">коэдтҍ</l>
+         <l pos="сущ.">коэдтҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">чум</t>
+            <t xml:lang="rus" pos="сущ.">чум</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">на̄ввьт</l>
+         <l pos="сущ.">на̄ввьт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">зверь</t>
-            <t xml:lang="rus" pos="xxx">волк</t>
+            <t xml:lang="rus" pos="сущ.">зверь</t>
+            <t xml:lang="rus" pos="сущ.">волк</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нӯрмусс</l>
+         <l pos="сущ.">нӯрмусс</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">младший</t>
+            <t xml:lang="rus" pos="прил.опред.">младший</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄ннэ</l>
+         <l pos="мест.">е̄ннэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">много</t>
-            <t xml:lang="rus" pos="xxx">многие</t>
+            <t xml:lang="rus" pos="мест.">много</t>
+            <t xml:lang="rus" pos="мест.">многие</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нӯраш</l>
+         <l pos="сущ.">нӯраш</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">молодежь</t>
+            <t xml:lang="rus" pos="сущ.">молодежь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нӯрр</l>
+         <l pos="прил.">нӯрр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">молодой</t>
-            <t xml:lang="rus" pos="xxx">юный</t>
+            <t xml:lang="rus" pos="прил.опред.">молодой</t>
+            <t xml:lang="rus" pos="прил.опред.">юный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ма̄ййт</l>
+         <l pos="сущ.">ма̄ййт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">молоко</t>
+            <t xml:lang="rus" pos="сущ.">молоко</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ся̄ххтар</l>
+         <l pos="сущ.">ся̄ххтар</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мох</t>
+            <t xml:lang="rus" pos="сущ.">мох</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӯйй</l>
+         <l pos="сущ.">кӯйй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">муж</t>
+            <t xml:lang="rus" pos="сущ.">муж</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ка̄ллесь</l>
+         <l pos="сущ.">ка̄ллесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">муж</t>
+            <t xml:lang="rus" pos="сущ.">муж</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">юррт</l>
+         <l pos="сущ.">юррт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мысль</t>
+            <t xml:lang="rus" pos="сущ.">мысль</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пэ̄ссэ</l>
+         <l pos="глаг.">пэ̄ссэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мыть</t>
+            <t xml:lang="rus" pos="глаг.">мыть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуэннч</l>
+         <l pos="сущ.">вуэннч</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мясо</t>
+            <t xml:lang="rus" pos="сущ.">мясо</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӣххче</l>
+         <l pos="глаг.">кӣххче</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">смотреть</t>
-            <t xml:lang="rus" pos="xxx">наблюдать</t>
-            <t xml:lang="rus" pos="xxx">проверять</t>
+            <t xml:lang="rus" pos="глаг.">смотреть</t>
+            <t xml:lang="rus" pos="глаг.">наблюдать</t>
+            <t xml:lang="rus" pos="глаг.">проверять</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">уййнэ</l>
+         <l pos="глаг.">уййнэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">смотреть</t>
-            <t xml:lang="rus" pos="xxx">наблюдать</t>
-            <t xml:lang="rus" pos="xxx">видеть</t>
+            <t xml:lang="rus" pos="глаг.">смотреть</t>
+            <t xml:lang="rus" pos="глаг.">наблюдать</t>
+            <t xml:lang="rus" pos="глаг.">видеть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">агас</l>
+         <l pos="нареч.">агас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">навсегда</t>
-            <t xml:lang="rus" pos="xxx">на века</t>
-            <t xml:lang="rus" pos="xxx">на веки</t>
+            <t xml:lang="rus" pos="нареч.">навсегда</t>
+            <t xml:lang="rus" pos="AdP">на века</t>
+            <t xml:lang="rus" pos="AdP">на веки</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">моа̄з</l>
+         <l pos="нареч.">моа̄з</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">назад</t>
+            <t xml:lang="rus" pos="нареч.">назад</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">моа̄ст</l>
+         <l pos="нареч.">моа̄ст</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">назад</t>
-            <t xml:lang="rus" pos="xxx">домой</t>
+            <t xml:lang="rus" pos="нареч.">назад</t>
+            <t xml:lang="rus" pos="нареч.">домой</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">коа̄ввнэ</l>
+         <l pos="глаг.">коа̄ввнэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">найти</t>
+            <t xml:lang="rus" pos="глаг.">найти</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кырьйхэ</l>
+         <l pos="глаг.">кырьйхэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">писать</t>
-            <t xml:lang="rus" pos="xxx">написать</t>
-            <t xml:lang="rus" pos="xxx">составить</t>
+            <t xml:lang="rus" pos="глаг.">писать</t>
+            <t xml:lang="rus" pos="глаг.">написать</t>
+            <t xml:lang="rus" pos="глаг.">составить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">о̄ллмэ</l>
+         <l pos="сущ.">о̄ллмэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">народ</t>
+            <t xml:lang="rus" pos="сущ.">народ</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нарэдт</l>
+         <l pos="сущ.">нарэдт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">народ</t>
+            <t xml:lang="rus" pos="сущ.">народ</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ррьмь</l>
+         <l pos="сущ.">та̄ррьмь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">настоящий</t>
-            <t xml:lang="rus" pos="xxx">современный</t>
+            <t xml:lang="rus" pos="прил.опред.">настоящий</t>
+            <t xml:lang="rus" pos="прил.опред.">современный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ррьмъя</l>
+         <l pos="сущ.">та̄ррьмъя</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сегоднящний</t>
-            <t xml:lang="rus" pos="xxx">настоящий</t>
-            <t xml:lang="rus" pos="xxx">современный</t>
+            <t xml:lang="rus" pos="прил.опред.">сегоднящний</t>
+            <t xml:lang="rus" pos="прил.опред.">настоящий</t>
+            <t xml:lang="rus" pos="прил.опред.">современный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ррмъя</l>
+         <l pos="сущ.">та̄ррмъя</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сегоднящний</t>
-            <t xml:lang="rus" pos="xxx">настоящий</t>
-            <t xml:lang="rus" pos="xxx">современный</t>
+            <t xml:lang="rus" pos="прил.опред.">сегоднящний</t>
+            <t xml:lang="rus" pos="прил.опред.">настоящий</t>
+            <t xml:lang="rus" pos="прил.опред.">современный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ррьмъенч</l>
+         <l pos="сущ.">та̄ррьмъенч</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сегоднящний</t>
-            <t xml:lang="rus" pos="xxx">настоящий</t>
-            <t xml:lang="rus" pos="xxx">современный</t>
+            <t xml:lang="rus" pos="прил.опред.">сегоднящний</t>
+            <t xml:lang="rus" pos="прил.опред.">настоящий</t>
+            <t xml:lang="rus" pos="прил.опред.">современный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ррмъенч</l>
+         <l pos="сущ.">та̄ррмъенч</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сегоднящний</t>
-            <t xml:lang="rus" pos="xxx">настоящий</t>
-            <t xml:lang="rus" pos="xxx">современный</t>
+            <t xml:lang="rus" pos="прил.опред.">сегоднящний</t>
+            <t xml:lang="rus" pos="прил.опред.">настоящий</t>
+            <t xml:lang="rus" pos="прил.опред.">современный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">алльм</l>
+         <l pos="сущ.">алльм</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">небо</t>
-            <t xml:lang="rus" pos="xxx">снег</t>
-            <t xml:lang="rus" pos="xxx">пурга</t>
+            <t xml:lang="rus" pos="сущ.">небо</t>
+            <t xml:lang="rus" pos="сущ.">снег</t>
+            <t xml:lang="rus" pos="сущ.">пурга</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">не̄дтӭль</l>
+         <l pos="сущ.">не̄дтӭль</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">неделя</t>
+            <t xml:lang="rus" pos="сущ.">неделя</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">лыввтъе</l>
+         <l pos="глаг.">лыввтъе</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">петь саамские песьни</t>
+            <t xml:lang="rus" pos="VP">петь саамские песьни</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ва̄ннҍцлэнне</l>
+         <l pos="нареч.">ва̄ннҍцлэнне</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">пешком</t>
+            <t xml:lang="rus" pos="нареч.">пешком</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ва̄нҍцнэлле</l>
+         <l pos="нареч.">ва̄нҍцнэлле</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">пешком</t>
+            <t xml:lang="rus" pos="нареч.">пешком</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">рыбпехь</l>
+         <l pos="сущ.">рыбпехь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">платок</t>
+            <t xml:lang="rus" pos="сущ.">платок</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄ррк</l>
+         <l pos="сущ.">е̄ррк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">погода</t>
+            <t xml:lang="rus" pos="сущ.">погода</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пӣӈӈк</l>
+         <l pos="сущ.">пӣӈӈк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ветер</t>
+            <t xml:lang="rus" pos="сущ.">ветер</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нуҏҏьтпиӈӈк</l>
+         <l pos="сущ.">нуҏҏьтпиӈӈк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">восточный ветер</t>
+            <t xml:lang="rus" pos="NP">восточный ветер</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуэрьялпиӈӈк</l>
+         <l pos="сущ.">вуэрьялпиӈӈк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">западный ветер</t>
+            <t xml:lang="rus" pos="NP">западный ветер</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">соа̄ййвпиӈӈк</l>
+         <l pos="сущ.">соа̄ййвпиӈӈк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">южный ветер</t>
+            <t xml:lang="rus" pos="NP">южный ветер</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ввялпиӈӈк</l>
+         <l pos="сущ.">та̄ввялпиӈӈк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">северный ветер</t>
+            <t xml:lang="rus" pos="NP">северный ветер</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пэ̄ввл</l>
+         <l pos="сущ.">пэ̄ввл</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">облако</t>
+            <t xml:lang="rus" pos="сущ.">облако</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">поа̄шштпе̄ййв</l>
+         <l pos="сущ.">поа̄шштпе̄ййв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">солнечный</t>
+            <t xml:lang="rus" pos="NP">солнечный день</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">поа̄ххкпе̄ййв</l>
+         <l pos="сущ.">поа̄ххкпе̄ййв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">тёплый день</t>
+            <t xml:lang="rus" pos="NP">тёплый день</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуэххьт</l>
+         <l pos="сущ.">вуэххьт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">туча</t>
-            <t xml:lang="rus" pos="xxx">плохое настроение</t>
+            <t xml:lang="rus" pos="сущ.">туча</t>
+            <t xml:lang="rus" pos="NP">плохое настроение</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуэххт вырэ</l>
+         <l pos="NP">вуэххт вырэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">туча</t>
-            <t xml:lang="rus" pos="xxx">плохое настроение</t>
+            <t xml:lang="rus" pos="сущ.">туча</t>
+            <t xml:lang="rus" pos="NP">плохое настроение</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вэ̄дз</l>
+         <l pos="сущ.">вэ̄дз</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">снег</t>
+            <t xml:lang="rus" pos="сущ.">снег</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вэ̄дзчалльм</l>
+         <l pos="сущ.">вэ̄дзчалльм</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">снежинка</t>
+            <t xml:lang="rus" pos="сущ.">снежинка</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">коа̄мм аббьр</l>
+         <l pos="NP">коа̄мм аббьр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">проливной дождь</t>
-            <t xml:lang="rus" pos="xxx">дождь</t>
-            <t xml:lang="rus" pos="xxx">ливень</t>
+            <t xml:lang="rus" pos="NP">проливной дождь</t>
+            <t xml:lang="rus" pos="сущ.">дождь</t>
+            <t xml:lang="rus" pos="сущ.">ливень</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">аббьр</l>
+         <l pos="сущ.">аббьр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дождь</t>
+            <t xml:lang="rus" pos="сущ.">дождь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">а̄ббьр</l>
+         <l pos="сущ.">а̄ббьр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дождь</t>
+            <t xml:lang="rus" pos="сущ.">дождь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тӣрьмесьюккс</l>
+         <l pos="сущ.">тӣрьмесьюккс</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">радуга</t>
+            <t xml:lang="rus" pos="сущ.">радуга</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">шэ̄ӈӈ</l>
+         <l pos="сущ.">шэ̄ӈӈ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">шторм</t>
+            <t xml:lang="rus" pos="сущ.">шторм</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ра̄ссь</l>
+         <l pos="сущ.">ра̄ссь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">растение</t>
-            <t xml:lang="rus" pos="xxx">зелень</t>
+            <t xml:lang="rus" pos="сущ.">растение</t>
+            <t xml:lang="rus" pos="сущ.">зелень</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ё̄ӈӈ</l>
+         <l pos="сущ.">ё̄ӈӈ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">брусника</t>
+            <t xml:lang="rus" pos="сущ.">брусника</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чемнушш</l>
+         <l pos="сущ.">чемнушш</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">вороника</t>
+            <t xml:lang="rus" pos="сущ.">вороника</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">уйххькмушш</l>
+         <l pos="сущ.">уйххькмушш</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">голубика</t>
+            <t xml:lang="rus" pos="сущ.">голубика</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӯмпар</l>
+         <l pos="сущ.">кӯмпар</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">гриб</t>
-            <t xml:lang="rus" pos="xxx">грибы</t>
+            <t xml:lang="rus" pos="сущ.">гриб</t>
+            <t xml:lang="rus" pos="сущ.">грибы</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӯммпар</l>
+         <l pos="сущ.">кӯммпар</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">гриб</t>
-            <t xml:lang="rus" pos="xxx">грибы</t>
+            <t xml:lang="rus" pos="сущ.">гриб</t>
+            <t xml:lang="rus" pos="сущ.">грибы</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">рыххпмуррьй</l>
+         <l pos="сущ.">рыххпмуррьй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">клюква</t>
+            <t xml:lang="rus" pos="сущ.">клюква</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тэ̄ӈас</l>
+         <l pos="сущ.">тэ̄ӈас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">куст ягоды</t>
-            <t xml:lang="rus" pos="xxx">кусты ягоды</t>
+            <t xml:lang="rus" pos="NP">куст ягоды</t>
+            <t xml:lang="rus" pos="NP">кусты ягоды</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тэ̄ӈӈас</l>
+         <l pos="сущ.">тэ̄ӈӈас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">куст ягоды</t>
-            <t xml:lang="rus" pos="xxx">кусты ягоды</t>
+            <t xml:lang="rus" pos="NP">куст ягоды</t>
+            <t xml:lang="rus" pos="NP">кусты ягоды</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">са̄ррь</l>
+         <l pos="сущ.">са̄ррь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">черника</t>
+            <t xml:lang="rus" pos="сущ.">черника</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">са̄ррьтэӈас</l>
+         <l pos="сущ.">са̄ррьтэӈас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">куст черники</t>
+            <t xml:lang="rus" pos="NP">куст черники</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">лӣййн</l>
+         <l pos="сущ.">лӣййн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лён</t>
+            <t xml:lang="rus" pos="сущ.">лён</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">лэ̄сст</l>
+         <l pos="сущ.">лэ̄сст</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лист</t>
+            <t xml:lang="rus" pos="сущ.">лист</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">лӯмь</l>
+         <l pos="сущ.">лӯмь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">морошка (ед. число)</t>
-            <t xml:lang="rus" pos="xxx">морошка (мн. число)</t>
+            <t xml:lang="rus" pos="сущ.">морошка (ед. число)</t>
+            <t xml:lang="rus" pos="сущ.">морошка (мн. число)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">лӯэмман</l>
+         <l pos="сущ.">лӯэмман</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">морошка (ед. число)</t>
-            <t xml:lang="rus" pos="xxx">морошка (мн. число)</t>
+            <t xml:lang="rus" pos="сущ.">морошка (ед. число)</t>
+            <t xml:lang="rus" pos="сущ.">морошка (мн. число)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">сӯлльлэсст</l>
+         <l pos="сущ.">сӯлльлэсст</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">щавель</t>
+            <t xml:lang="rus" pos="сущ.">щавель</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄гель</l>
+         <l pos="сущ.">е̄гель</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ягель (ед. число)</t>
-            <t xml:lang="rus" pos="xxx">ягель (мн. число)</t>
+            <t xml:lang="rus" pos="сущ.">ягель (ед. число)</t>
+            <t xml:lang="rus" pos="сущ.">ягель (мн. число)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">я̄гкал</l>
+         <l pos="сущ.">я̄гкал</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ягель (ед. число)</t>
-            <t xml:lang="rus" pos="xxx">ягель (мн. число)</t>
+            <t xml:lang="rus" pos="сущ.">ягель (ед. число)</t>
+            <t xml:lang="rus" pos="сущ.">ягель (мн. число)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">о̄лэнь</l>
+         <l pos="сущ.">о̄лэнь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">багульник</t>
+            <t xml:lang="rus" pos="сущ.">багульник</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мӯрр</l>
+         <l pos="сущ.">мӯрр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дерево</t>
+            <t xml:lang="rus" pos="сущ.">дерево</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пе̄ссьмурр</l>
+         <l pos="сущ.">пе̄ссьмурр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">береза</t>
+            <t xml:lang="rus" pos="сущ.">береза</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">суэгкь</l>
+         <l pos="сущ.">суэгкь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ствол берёзы</t>
+            <t xml:lang="rus" pos="NP">ствол берёзы</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пе̄ссь</l>
+         <l pos="сущ.">пе̄ссь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">береста</t>
+            <t xml:lang="rus" pos="сущ.">береста</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӯсс</l>
+         <l pos="сущ.">кӯсс</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ель</t>
+            <t xml:lang="rus" pos="сущ.">ель</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">выррьп</l>
+         <l pos="сущ.">выррьп</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">верба</t>
+            <t xml:lang="rus" pos="сущ.">верба</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пуай</l>
+         <l pos="сущ.">пуай</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ива</t>
+            <t xml:lang="rus" pos="сущ.">ива</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӣрре</l>
+         <l pos="сущ.">кӣрре</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">карликовая береза</t>
+            <t xml:lang="rus" pos="NP">карликовая береза</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кэскас</l>
+         <l pos="сущ.">кэскас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">можевельник</t>
+            <t xml:lang="rus" pos="сущ.">можевельник</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нуэҏҏт</l>
+         <l pos="сущ.">нуэҏҏт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">можевельник</t>
+            <t xml:lang="rus" pos="сущ.">можевельник</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ле̄ххьп</l>
+         <l pos="сущ.">ле̄ххьп</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ольха</t>
+            <t xml:lang="rus" pos="сущ.">ольха</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">субпь</l>
+         <l pos="сущ.">субпь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">осина</t>
+            <t xml:lang="rus" pos="сущ.">осина</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">роашшьн</l>
+         <l pos="сущ.">роашшьн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">рябина</t>
+            <t xml:lang="rus" pos="сущ.">рябина</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пе̄дзь</l>
+         <l pos="сущ.">пе̄дзь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сосна</t>
+            <t xml:lang="rus" pos="сущ.">сосна</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">уммель</l>
+         <l pos="сущ.">уммель</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">почка на дереве</t>
+            <t xml:lang="rus" pos="NP">почка на дереве</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ма̄лль</l>
+         <l pos="сущ.">ма̄лль</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сок березовый</t>
+            <t xml:lang="rus" pos="NP">сок березовый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ме̄рр</l>
+         <l pos="сущ.">ме̄рр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">море</t>
+            <t xml:lang="rus" pos="сущ.">море</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">аджь</l>
+         <l pos="сущ.">аджь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">отец</t>
+            <t xml:lang="rus" pos="сущ.">отец</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пя̄йвнэгк</l>
+         <l pos="сущ.">пя̄йвнэгк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">солнечная погода</t>
+            <t xml:lang="rus" pos="NP">солнечная погода</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ля̄ммт</l>
+         <l pos="сущ.">ля̄ммт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лес</t>
-            <t xml:lang="rus" pos="xxx">густой лес</t>
-            <t xml:lang="rus" pos="xxx">тайга</t>
+            <t xml:lang="rus" pos="сущ.">лес</t>
+            <t xml:lang="rus" pos="NP">густой лес</t>
+            <t xml:lang="rus" pos="сущ.">тайга</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">я̄мме</l>
+         <l pos="глаг.">я̄мме</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">умиреть</t>
-            <t xml:lang="rus" pos="xxx">умирать</t>
+            <t xml:lang="rus" pos="глаг.">умиреть</t>
+            <t xml:lang="rus" pos="глаг.">умирать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ёамнэ</l>
+         <l pos="глаг.">ёамнэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">умиреть</t>
-            <t xml:lang="rus" pos="xxx">умирать</t>
+            <t xml:lang="rus" pos="глаг.">умиреть</t>
+            <t xml:lang="rus" pos="глаг.">умирать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">коаннҍтэ</l>
+         <l pos="глаг.">коаннҍтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">убить</t>
-            <t xml:lang="rus" pos="xxx">убивать</t>
+            <t xml:lang="rus" pos="глаг.">убить</t>
+            <t xml:lang="rus" pos="глаг.">убивать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">контче</l>
+         <l pos="глаг.">контче</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">убить</t>
-            <t xml:lang="rus" pos="xxx">убивать</t>
+            <t xml:lang="rus" pos="глаг.">убить</t>
+            <t xml:lang="rus" pos="глаг.">убивать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   
+   <e>
       <lg>
-         <l pos="xxx"/>
+         <l pos="глаг.">ле̄шшэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">убить</t>
-            <t xml:lang="rus" pos="xxx">убивать</t>
+            <t xml:lang="rus" pos="глаг.">лежать (человек)</t>
+            <t xml:lang="rus" pos="глаг.">лежать (животные)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ле̄шшэ</l>
+         <l pos="глаг.">лыввдэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лежать (человек)</t>
-            <t xml:lang="rus" pos="xxx">лежать (животные)</t>
+            <t xml:lang="rus" pos="глаг.">лежать (человек)</t>
+            <t xml:lang="rus" pos="глаг.">лежать (животные)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">лыввдэ</l>
+         <l pos="глаг.">ышштэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лежать (человек)</t>
-            <t xml:lang="rus" pos="xxx">лежать (животные)</t>
+            <t xml:lang="rus" pos="глаг.">сесть</t>
+            <t xml:lang="rus" pos="глаг.">сидеть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ышштэ</l>
+         <l pos="глаг.">оаррэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сесть</t>
-            <t xml:lang="rus" pos="xxx">сидеть</t>
+            <t xml:lang="rus" pos="глаг.">сесть</t>
+            <t xml:lang="rus" pos="глаг.">сидеть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">оаррэ</l>
+         <l pos="глаг.">вуэдтӭ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сесть</t>
-            <t xml:lang="rus" pos="xxx">сидеть</t>
+            <t xml:lang="rus" pos="глаг.">спать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуэдтӭ</l>
+         <l pos="сущ.">по̄ннц</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">спать</t>
+            <t xml:lang="rus" pos="сущ.">перо (о птице)</t>
+            <t xml:lang="rus" pos="сущ.">перья</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">по̄ннц</l>
+         <l pos="сущ.">понц</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">перо (о птице)</t>
-            <t xml:lang="rus" pos="xxx">перья</t>
+            <t xml:lang="rus" pos="сущ.">перо (о птице)</t>
+            <t xml:lang="rus" pos="сущ.">перья</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">понц</l>
+         <l pos="сущ.">се̄ййп</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">перо (о птице)</t>
-            <t xml:lang="rus" pos="xxx">перья</t>
+            <t xml:lang="rus" pos="сущ.">хвост</t>
+            <t xml:lang="rus" pos="глаг.">волочиться</t>
+            <t xml:lang="rus" pos="VP">ходить следом за кем-нибудь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">се̄ййп</l>
+         <l pos="сущ.">лоаннҍт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">хвост</t>
-            <t xml:lang="rus" pos="xxx">волочиться</t>
-            <t xml:lang="rus" pos="xxx">ходить следом за кем-нибудь</t>
+            <t xml:lang="rus" pos="сущ.">птица</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">лоаннҍт</l>
+         <l pos="сущ.">вэ̄рр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">птица</t>
+            <t xml:lang="rus" pos="сущ.">кровь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вэ̄рр</l>
+         <l pos="сущ.">та̄ххьт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кровь</t>
+            <t xml:lang="rus" pos="сущ.">кость</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ххьт</l>
+         <l pos="сущ.">та̄ххт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кость</t>
+            <t xml:lang="rus" pos="сущ.">кость</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ххт</l>
+         <l pos="сущ.">маннҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кость</t>
+            <t xml:lang="rus" pos="сущ.">яйцо</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">маннҍ</l>
+         <l pos="сущ.">кӯлль</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">яйцо</t>
+            <t xml:lang="rus" pos="сущ.">рыба</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӯлль</l>
+         <l pos="сущ.">кӯттҍк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">рыба</t>
+            <t xml:lang="rus" pos="сущ.">сердце</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӯттҍк</l>
+         <l pos="сущ.">вӯйвас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сердце</t>
+            <t xml:lang="rus" pos="сущ.">печень</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯйвас</l>
+         <l pos="сущ.">нюххчемь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">печень</t>
+            <t xml:lang="rus" pos="сущ.">язык</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нюххчемь</l>
+         <l pos="сущ.">ча̄дзь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">язык</t>
+            <t xml:lang="rus" pos="сущ.">вода</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ча̄дзь</l>
+         <l pos="сущ.">поа̄лкас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">вода</t>
+            <t xml:lang="rus" pos="сущ.">тропа</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">поа̄лкас</l>
+         <l pos="глаг.">куллэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">тропа</t>
+            <t xml:lang="rus" pos="глаг.">слышать</t>
+            <t xml:lang="rus" pos="глаг.">чувствовать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">куллэ</l>
+         <l pos="глаг.">тӣдтӭ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">слышать</t>
-            <t xml:lang="rus" pos="xxx">чувствовать</t>
+            <t xml:lang="rus" pos="глаг.">знать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тӣдтӭ</l>
+         <l pos="глаг.">ва̄ннҍцэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">знать</t>
+            <t xml:lang="rus" pos="глаг.">ходить</t>
+            <t xml:lang="rus" pos="глаг.">идти</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ва̄ннҍцэ</l>
+         <l pos="сущ.">ма̄нн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ходить</t>
-            <t xml:lang="rus" pos="xxx">идти</t>
+            <t xml:lang="rus" pos="сущ.">луна</t>
+            <t xml:lang="rus" pos="сущ.">месяц</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ма̄нн</l>
+         <l pos="сущ.">ыйй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">луна</t>
-            <t xml:lang="rus" pos="xxx">месяц</t>
+            <t xml:lang="rus" pos="сущ.">ночь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ыйй</l>
+         <l pos="сущ.">пе̄ййв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ночь</t>
+            <t xml:lang="rus" pos="сущ.">солнце</t>
+            <t xml:lang="rus" pos="сущ.">день</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пе̄ййв</l>
+         <l pos="глаг.">кыррьтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">солнце</t>
-            <t xml:lang="rus" pos="xxx">день</t>
+            <t xml:lang="rus" pos="глаг.">лететь</t>
+            <t xml:lang="rus" pos="глаг.">летать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кыррьтэ</l>
+         <l pos="глаг.">кыртче</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лететь</t>
-            <t xml:lang="rus" pos="xxx">летать</t>
+            <t xml:lang="rus" pos="глаг.">лететь</t>
+            <t xml:lang="rus" pos="глаг.">летать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кыртче</l>
+         <l pos="глаг.">чуэннче</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лететь</t>
-            <t xml:lang="rus" pos="xxx">летать</t>
+            <t xml:lang="rus" pos="глаг.">стоять</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чуэннче</l>
+         <l pos="глаг.">вӯйе</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">стоять</t>
+            <t xml:lang="rus" pos="глаг.">плыть</t>
+            <t xml:lang="rus" pos="глаг.">плавать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯйе</l>
+         <l pos="глаг.">вӯйнэдтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">плыть, плавать</t>
+            <t xml:lang="rus" pos="глаг.">плыть</t>
+            <t xml:lang="rus" pos="глаг.">плавать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯйнэдтэ</l>
+         <l pos="сущ.">мӯрр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">плыть, плавать</t>
+            <t xml:lang="rus" pos="сущ.">дерево</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мӯрр</l>
+         <l pos="прил.">вӣллкэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дерево</t>
+            <t xml:lang="rus" pos="прил.опред.">белый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӣллкэ</l>
+         <l pos="прил.">руччкэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">белый</t>
+            <t xml:lang="rus" pos="прил.опред.">жёлтый</t>
+            <t xml:lang="rus" pos="прил.опред.">коричневый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">руччкэ</l>
+         <l pos="мест.">пугк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">жёлтый</t>
-            <t xml:lang="rus" pos="xxx">коричневый</t>
+            <t xml:lang="rus" pos="мест.">всё</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пугк</l>
+         <l pos="сущ.">кунн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">всё</t>
+            <t xml:lang="rus" pos="сущ.">зола</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кунн</l>
+         <l pos="сущ.">па̄ҏҏк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">зола</t>
+            <t xml:lang="rus" pos="сущ.">кора</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">па̄ҏҏк</l>
+         <l pos="сущ.">чуэййв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кора</t>
+            <t xml:lang="rus" pos="сущ.">живот</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чуэййв</l>
+         <l pos="сущ.">чо̄ййв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">живот</t>
+            <t xml:lang="rus" pos="сущ.">живот</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чо̄ййв</l>
+         <l pos="сущ.">шӯрр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">живот</t>
+            <t xml:lang="rus" pos="сущ.">большой</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">шӯрр</l>
+         <l pos="прил.">чоа̄ххпэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">большой</t>
+            <t xml:lang="rus" pos="прил.опред.">чёрный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чоа̄ххпэ</l>
+         <l pos="прил.">чоа̄ххьпесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">чёрный</t>
+            <t xml:lang="rus" pos="прил.опред.">чёрный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чоа̄ххьпесь</l>
+         <l pos="сущ.">раннҍт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">чёрный</t>
+            <t xml:lang="rus" pos="сущ.">грудь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">раннҍт</l>
+         <l pos="сущ.">рыдт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">грудь</t>
+            <t xml:lang="rus" pos="NP">полость груди</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">рыдт</l>
+         <l pos="сущ.">вӯйй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">полость груди</t>
+            <t xml:lang="rus" pos="сущ.">масло</t>
+            <t xml:lang="rus" pos="сущ.">жир</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯйй</l>
+         <l pos="прил.">кэлмас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">масло</t>
-            <t xml:lang="rus" pos="xxx">жир</t>
+            <t xml:lang="rus" pos="прилаг.сказ.">холодно</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кэлмас</l>
+         <l pos="сущ.">кэ̄ллм</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">холодно</t>
+            <t xml:lang="rus" pos="прил.опред.">холодный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кэ̄ллм</l>
+         <l pos="сущ.">пе̄ннэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">холодный</t>
+            <t xml:lang="rus" pos="сущ.">собака</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пе̄ннэ</l>
+         <l pos="прил.">коашшьк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">собака</t>
+            <t xml:lang="rus" pos="прил.опред.">сухой</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">коашшьк</l>
+         <l pos="сущ.">пе̄лльй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сухой</t>
+            <t xml:lang="rus" pos="сущ.">ухо</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пе̄лльй</l>
+         <l pos="сущ.">е̄ммьнэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ухо</t>
+            <t xml:lang="rus" pos="сущ.">земля</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄ммьнэ</l>
+         <l pos="сущ.">е̄ммьне</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">земля</t>
+            <t xml:lang="rus" pos="сущ.">земля</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄ммьне</l>
+         <l pos="сущ.">чалльм</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">земля</t>
+            <t xml:lang="rus" pos="сущ.">глаз</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чалльм</l>
+         <l pos="сущ.">кэ̄ннц</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">глаз</t>
+            <t xml:lang="rus" pos="сущ.">ноготь</t>
+            <t xml:lang="rus" pos="сущ.">копыто</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кэ̄ннц</l>
+         <l pos="сущ.">то̄лл</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ноготь</t>
-            <t xml:lang="rus" pos="xxx">копыто</t>
+            <t xml:lang="rus" pos="сущ.">огонь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">то̄лл</l>
+         <l pos="сущ.">ю̄лльк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">огонь</t>
+            <t xml:lang="rus" pos="сущ.">нога</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ю̄лльк</l>
+         <l pos="сущ.">ю̄лльклабпь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">нога</t>
+            <t xml:lang="rus" pos="сущ.">стопа</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ю̄лльклабпь</l>
+         <l pos="прил.">тӣвтас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">стопа</t>
+            <t xml:lang="rus" pos="прилаг.сказ.">наполненно</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тӣвтас</l>
+         <l pos="прил.">тӣввт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">наполнен</t>
+            <t xml:lang="rus" pos="прил.опред.">полный</t>
+            <t xml:lang="rus" pos="прилаг.сказ.">достаточно</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тӣввт</l>
+         <l pos="прил.">шӣг</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">полный</t>
-            <t xml:lang="rus" pos="xxx">достаточно</t>
+            <t xml:lang="rus" pos="прил.опред.">хороший</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">шӣг</l>
+         <l pos="прил.">руэнн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">хороший</t>
+            <t xml:lang="rus" pos="прил.опред.">зелёный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">руэнн</l>
+         <l pos="сущ.">вӯппт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">зелёный</t>
+            <t xml:lang="rus" pos="сущ.">волос</t>
+            <t xml:lang="rus" pos="сущ.">волосы</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯппт</l>
+         <l pos="сущ.">вӯпт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">волос</t>
-            <t xml:lang="rus" pos="xxx">волосы</t>
+            <t xml:lang="rus" pos="сущ.">волос</t>
+            <t xml:lang="rus" pos="сущ.">волосы</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯпт</l>
+         <l pos="сущ.">кӣдт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">волос</t>
-            <t xml:lang="rus" pos="xxx">волосы</t>
+            <t xml:lang="rus" pos="сущ.">рука</t>
+            <t xml:lang="rus" pos="сущ.">кисть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӣдт</l>
+         <l pos="сущ.">кӣдтлабпь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">рука</t>
-            <t xml:lang="rus" pos="xxx">кисть</t>
+            <t xml:lang="rus" pos="сущ.">кисть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӣдтлабпь</l>
+         <l pos="сущ.">кӣдткоаллдэгк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кисть</t>
+            <t xml:lang="rus" pos="сущ.">горсть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӣдткоаллдэгк</l>
+         <l pos="сущ.">вуеййв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">горсть</t>
+            <t xml:lang="rus" pos="сущ.">голова</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуеййв</l>
+         <l pos="сущ.">чуэррьв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">голова</t>
+            <t xml:lang="rus" pos="сущ.">рог</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чуэррьв</l>
+         <l pos="прил.">поа̄кас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">рог</t>
+            <t xml:lang="rus" pos="прилаг.сказ.">тепло</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">поа̄кас</l>
+         <l pos="прил.">жоа̄рряй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">тепло</t>
+            <t xml:lang="rus" pos="прилаг.сказ.">жарко</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">жоа̄рряй</l>
+         <l pos="прил.">жоа̄рр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">жарко</t>
+            <t xml:lang="rus" pos="прил.опред.">жаркий</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">жоа̄рр</l>
+         <l pos="мест.">мунн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">жаркий</t>
+            <t xml:lang="rus" pos="мест.">я</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мунн</l>
+         <l pos="сущ.">пӯллв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">я</t>
+            <t xml:lang="rus" pos="сущ.">колено</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пӯллв</l>
+         <l pos="сущ.">пуввл</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">колено</t>
+            <t xml:lang="rus" pos="сущ.">колено</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пуввл</l>
+         <l pos="прил.">куххьк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">колено</t>
+            <t xml:lang="rus" pos="прил.опред.">длинный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">куххьк</l>
+         <l pos="сущ.">тыххьк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">длинный</t>
+            <t xml:lang="rus" pos="сущ.">вошь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тыххьк</l>
+         <l pos="сущ.">па̄ххьк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">вошь</t>
+            <t xml:lang="rus" pos="сущ.">гора</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">па̄ххьк</l>
+         <l pos="сущ.">ня̄лльм</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">гора</t>
+            <t xml:lang="rus" pos="сущ.">рот</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ня̄лльм</l>
+         <l pos="сущ.">нэ̄мм</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">рот</t>
+            <t xml:lang="rus" pos="сущ.">имя</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нэ̄мм</l>
+         <l pos="сущ.">ча̄пэх</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">имя</t>
+            <t xml:lang="rus" pos="сущ.">шея</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ча̄пэх</l>
+         <l pos="сущ.">нышшьк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">шея</t>
+            <t xml:lang="rus" pos="сущ.">затылок</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нышшьк</l>
+         <l pos="прил.">о̄дт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">затылок</t>
+            <t xml:lang="rus" pos="прил.опред.">новый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">о̄дт</l>
+         <l pos="сущ.">нюннҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">новый</t>
+            <t xml:lang="rus" pos="сущ.">нос</t>
+            <t xml:lang="rus" pos="сущ.">клюв</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нюннҍ</l>
+         <l pos="глаг.">эйй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">нос</t>
-            <t xml:lang="rus" pos="xxx">клюв</t>
+            <t xml:lang="rus" pos="част.">не</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">эйй</l>
+         <l pos="числ.">э̄ххт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">не</t>
+            <t xml:lang="rus" pos="числ.">один</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">э̄ххт</l>
+         <l pos="сущ.">олма</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">один</t>
+            <t xml:lang="rus" pos="сущ.">человек</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">олма</l>
+         <l pos="прил.">рӯппьсес</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">человек</t>
+            <t xml:lang="rus" pos="прил.опред.">красный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">рӯппьсес</l>
+         <l pos="сущ.">вуэнҍтэсь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">красный</t>
+            <t xml:lang="rus" pos="сущ.">корень</t>
+            <t xml:lang="rus" pos="сущ.">корни</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуэнҍтэсь</l>
+         <l pos="сущ.">вуаннтас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">корень</t>
-            <t xml:lang="rus" pos="xxx">корни</t>
+            <t xml:lang="rus" pos="сущ.">корень</t>
+            <t xml:lang="rus" pos="сущ.">корни</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуаннтас</l>
+         <l pos="прил.">ёрьпесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">корень</t>
-            <t xml:lang="rus" pos="xxx">корни</t>
+            <t xml:lang="rus" pos="прил.опред.">круглый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ёрьпесь</l>
+         <l pos="прил.">ёрпас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">круглый</t>
+            <t xml:lang="rus" pos="прил.опред.">кругловатый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ёрпас</l>
+         <l pos="сущ.">вӯнтас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кругловатый</t>
+            <t xml:lang="rus" pos="сущ.">песок</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯнтас</l>
+         <l pos="сущ.">корнэгк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">песок</t>
+            <t xml:lang="rus" pos="сущ.">семя</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">корнэгк</l>
+         <l pos="сущ.">лышшьк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">семя</t>
+            <t xml:lang="rus" pos="сущ.">кожа</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">лышшьк</l>
+         <l pos="прил.">удць</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кожа</t>
+            <t xml:lang="rus" pos="прил.опред.">маленький</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">удць</l>
+         <l pos="сущ.">сувв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">маленький</t>
+            <t xml:lang="rus" pos="сущ.">дым</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">сувв</l>
+         <l pos="сущ.">та̄ссьт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дым</t>
+            <t xml:lang="rus" pos="сущ.">звезда</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄ссьт</l>
+         <l pos="сущ.">ке̄ддҍк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">звезда</t>
+            <t xml:lang="rus" pos="сущ.">камень</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ке̄ддҍк</l>
+         <l pos="мест.">тудт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">камень</t>
+            <t xml:lang="rus" pos="мест.">тот</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тудт</l>
+         <l pos="мест.">та̄дт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">тот</t>
+            <t xml:lang="rus" pos="мест.">этот</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄дт</l>
+         <l pos="мест.">тэдта</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">этот</t>
+            <t xml:lang="rus" pos="мест.">это</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тэдта</l>
+         <l pos="глаг.">ка̄ццькэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">это</t>
+            <t xml:lang="rus" pos="глаг.">грызть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ка̄ццькэ</l>
+         <l pos="прил.">пӯлле</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">грызть</t>
+            <t xml:lang="rus" pos="прил.опред.">горячий</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пӯлле</l>
+         <l pos="глаг.">пӯлле</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">горячий</t>
+            <t xml:lang="rus" pos="глаг.">гореть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пӯлле</l>
+         <l pos="глаг.">пуэлльтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">гореть</t>
+            <t xml:lang="rus" pos="глаг.">жеть</t>
+            <t xml:lang="rus" pos="глаг.">сжеть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пуэлльтэ</l>
+         <l pos="глаг.">пуэдтӭ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">жеть</t>
-            <t xml:lang="rus" pos="xxx">сжеть</t>
+            <t xml:lang="rus" pos="глаг.">прийти</t>
+            <t xml:lang="rus" pos="глаг.">приходить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пуэдтӭ</l>
+         <l pos="глаг.">по̄дтлэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">прийти</t>
-            <t xml:lang="rus" pos="xxx">приходить</t>
+            <t xml:lang="rus" pos="глаг.">прийти</t>
+            <t xml:lang="rus" pos="глаг.">приходить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">по̄дтлэ</l>
+         <l pos="глаг.">югкэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">прийти</t>
-            <t xml:lang="rus" pos="xxx">приходить</t>
+            <t xml:lang="rus" pos="глаг.">пить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">югкэ</l>
+         <l pos="глаг.">по̄ррэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">пить</t>
+            <t xml:lang="rus" pos="глаг.">есть</t>
+            <t xml:lang="rus" pos="глаг.">кушать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">по̄ррэ</l>
+         <l pos="глаг.">аннҍтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">есть</t>
-            <t xml:lang="rus" pos="xxx">кушать</t>
+            <t xml:lang="rus" pos="глаг.">дать</t>
+            <t xml:lang="rus" pos="глаг.">давать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">аннҍтэ</l>
+         <l pos="глаг.">э̄ннтлэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дать</t>
-            <t xml:lang="rus" pos="xxx">давать</t>
+            <t xml:lang="rus" pos="глаг.">дать</t>
+            <t xml:lang="rus" pos="глаг.">давать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">э̄ннтлэ</l>
+         <l pos="глаг.">це̄ӆӆькэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дать</t>
-            <t xml:lang="rus" pos="xxx">давать</t>
+            <t xml:lang="rus" pos="глаг.">сказать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">це̄ӆӆькэ</l>
+         <l pos="глаг.">са̄ррнэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сказать</t>
+            <t xml:lang="rus" pos="глаг.">говорить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">са̄ррнэ</l>
+         <l pos="числ.">кӯххт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">говорить</t>
+            <t xml:lang="rus" pos="числ.">два</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӯххт</l>
+         <l pos="мест.">мыйй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">два</t>
+            <t xml:lang="rus" pos="мест.">мы</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мыйй</l>
+         <l pos="мест.">мӣ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мы</t>
+            <t xml:lang="rus" pos="мест.">что</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мӣ</l>
+         <l pos="мест.">ке̄</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">что</t>
+            <t xml:lang="rus" pos="мест.">кто</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ке̄</l>
+         <l pos="сущ.">нызан</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кто</t>
+            <t xml:lang="rus" pos="сущ.">женщина</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нызан</l>
+         <l pos="сущ.">нызан олма</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">женщина</t>
+            <t xml:lang="rus" pos="сущ.">женщина</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нызан олма</l>
+         <l pos="мест.">то̄нн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">женщина</t>
+            <t xml:lang="rus" pos="мест.">ты</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">то̄нн</l>
+         <l pos="глаг.">е̄лле</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ты</t>
+            <t xml:lang="rus" pos="глаг.">жить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄лле</l>
+         <l pos="прил.">югке</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">жить</t>
+            <t xml:lang="rus" pos="прил.опред.">разный</t>
+            <t xml:lang="rus" pos="прил.опред.">всякий</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">югке</l>
+         <l pos="глаг.">ю̄гке</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">разный</t>
-            <t xml:lang="rus" pos="xxx">всякий</t>
+            <t xml:lang="rus" pos="глаг.">делить</t>
+            <t xml:lang="rus" pos="глаг.">разделить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ю̄гке</l>
+         <l pos="глаг.">вӣдже</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">делить</t>
-            <t xml:lang="rus" pos="xxx">разделить</t>
+            <t xml:lang="rus" pos="глаг.">бежать (человек)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӣдже</l>
+         <l pos="глаг.">каррэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">бежать</t>
-            <t xml:lang="rus" pos="xxx">бежать (человек)</t>
+            <t xml:lang="rus" pos="глаг.">бежать (животное)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">каррэ</l>
+         <l pos="глаг.">карсэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">бежать</t>
-            <t xml:lang="rus" pos="xxx">бежать (животное)</t>
+            <t xml:lang="rus" pos="глаг.">побегать (животное)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">карсэ</l>
+         <l pos="глаг.">пе̄гке</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">побегать</t>
-            <t xml:lang="rus" pos="xxx">(животное)</t>
+            <t xml:lang="rus" pos="глаг.">ползти</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пе̄гке</l>
+         <l pos="глаг.">чӯййкэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ползти</t>
+            <t xml:lang="rus" pos="VP">идти на лыжах</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чӯййкэ</l>
+         <l pos="глаг.">вāннҍцэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">идти на лыжах</t>
+            <t xml:lang="rus" pos="глаг.">идти</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вāннҍцэ</l>
+         <l pos="глаг.">выйе</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">идти</t>
+            <t xml:lang="rus" pos="глаг.">ехать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">выйе</l>
+         <l pos="глаг.">ёадтсэллэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ехать</t>
+            <t xml:lang="rus" pos="VP">намереваться ехать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ёадтсэллэ</l>
+         <l pos="глаг.">вӯллькэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">намереваться ехать</t>
+            <t xml:lang="rus" pos="глаг.">пойти</t>
+            <t xml:lang="rus" pos="глаг.">отправиться</t>
+            <t xml:lang="rus" pos="глаг.">направиться</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯллькэ</l>
+         <l pos="глаг.">кархэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">пойти</t>
-            <t xml:lang="rus" pos="xxx">отправиться</t>
-            <t xml:lang="rus" pos="xxx">направиться</t>
+            <t xml:lang="rus" pos="VP">ехать быстро</t>
+            <t xml:lang="rus" pos="глаг.">мчаться</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кархэ</l>
+         <l pos="глаг.">ёадтӭ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ехать быстро</t>
-            <t xml:lang="rus" pos="xxx">мчаться</t>
+            <t xml:lang="rus" pos="VP">ехать на чем</t>
+            <t xml:lang="rus" pos="глаг.">идти</t>
+            <t xml:lang="rus" pos="глаг.">двигаться</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ёадтӭ</l>
+         <l pos="сущ.">сāххьп</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ехать на чем</t>
-            <t xml:lang="rus" pos="xxx">идти</t>
-            <t xml:lang="rus" pos="xxx">двигаться</t>
+            <t xml:lang="rus" pos="NP">сок от ягод</t>
+            <t xml:lang="rus" pos="NP">желчный пузырь</t>
+            <t xml:lang="rus" pos="сущ.">жёлчь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">сāххьп</l>
+         <l pos="сущ.">ле̄ййп</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сок от ягод</t>
-            <t xml:lang="rus" pos="xxx">желчный пузырь</t>
-            <t xml:lang="rus" pos="xxx">жёлчь</t>
+            <t xml:lang="rus" pos="сущ.">хлеб</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ле̄ййп</l>
+         <l pos="сущ.">вя̄рр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">хлеб</t>
+            <t xml:lang="rus" pos="сущ.">суп</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вя̄рр</l>
+         <l pos="сущ.">я̄вв</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">суп</t>
+            <t xml:lang="rus" pos="сущ.">мука</t>
+            <t xml:lang="rus" pos="NP">суп из мяса или рыбы заправленный мукой</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">я̄вв</l>
+         <l pos="сущ.">саррь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мука</t>
-            <t xml:lang="rus" pos="xxx">суп из мяса или рыбы заправленный мукой</t>
+            <t xml:lang="rus" pos="сущ.">черника</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">саррь</l>
+         <l pos="сущ.">пӯййт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">черника</t>
+            <t xml:lang="rus" pos="сущ.">жир</t>
+            <t xml:lang="rus" pos="сущ.">сало</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пӯййт</l>
+         <l pos="сущ.">чай</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">жир</t>
-            <t xml:lang="rus" pos="xxx">сало</t>
+            <t xml:lang="rus" pos="сущ.">чай</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чай</l>
+         <l pos="сущ.">кофе</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">чай</t>
+            <t xml:lang="rus" pos="сущ.">кофе</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кофе</l>
+         <l pos="сущ.">выннҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кофе</t>
+            <t xml:lang="rus" pos="сущ.">вино (ед. число)</t>
+            <t xml:lang="rus" pos="сущ.">вино (мн. число)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">выннҍ</l>
+         <l pos="сущ.">вынҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">вино (ед. число)</t>
-            <t xml:lang="rus" pos="xxx">вино (мн. число)</t>
+            <t xml:lang="rus" pos="сущ.">вино (ед. число)</t>
+            <t xml:lang="rus" pos="сущ.">вино (мн. число)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вынҍ</l>
+         <l pos="сущ.">бражка</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">вино (ед. число)</t>
-            <t xml:lang="rus" pos="xxx">вино (мн. число)</t>
+            <t xml:lang="rus" pos="сущ.">пиво</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">бражка</l>
+         <l pos="сущ.">пиво</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">пиво</t>
+            <t xml:lang="rus" pos="сущ.">пиво</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пиво</l>
+         <l pos="NP">вӣллькесь выннҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">пиво</t>
+            <t xml:lang="rus" pos="сущ.">водка</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӣллькесь выннҍ</l>
+         <l pos="NP">вӣллькесь роавас ча̄дзь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">водка</t>
+            <t xml:lang="rus" pos="сущ.">водка</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӣллькесь роавас ча̄дзь</l>
+         <l pos="сущ.">водка</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">водка</t>
+            <t xml:lang="rus" pos="сущ.">водка</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">водка</l>
+         <l pos="сущ.">вӯйй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">водка</t>
+            <t xml:lang="rus" pos="сущ.">масло</t>
+            <t xml:lang="rus" pos="NP">топленый жир</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӯйй</l>
+         <l pos="сущ.">сӯлль</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">масло</t>
-            <t xml:lang="rus" pos="xxx">топленый жир</t>
+            <t xml:lang="rus" pos="сущ.">соль</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">сӯлль</l>
+         <l pos="сущ.">пырре</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">соль</t>
+            <t xml:lang="rus" pos="сущ.">пирог</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пырре</l>
+         <l pos="сущ.">кӯлль</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">пирог</t>
+            <t xml:lang="rus" pos="сущ.">рыба</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кӯлль</l>
+         <l pos="сущ.">шāӈӈьк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">рыба</t>
+            <t xml:lang="rus" pos="сущ.">ватрушка</t>
+            <t xml:lang="rus" pos="сущ.">шаньга</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">шāӈӈьк</l>
+         <l pos="глаг.">чӯххпэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ватрушка</t>
-            <t xml:lang="rus" pos="xxx">шаньга</t>
+            <t xml:lang="rus" pos="глаг.">резать</t>
+            <t xml:lang="rus" pos="глаг.">обрезать</t>
+            <t xml:lang="rus" pos="глаг.">нарезать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">чӯххпэ</l>
+         <l pos="глаг.">е̄дтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">резать</t>
-            <t xml:lang="rus" pos="xxx">обрезать</t>
-            <t xml:lang="rus" pos="xxx">нарезать</t>
+            <t xml:lang="rus" pos="глаг.">резать</t>
+            <t xml:lang="rus" pos="глаг.">отрезать</t>
+            <t xml:lang="rus" pos="глаг.">разрезать</t>
+            <t xml:lang="rus" pos="глаг.">нарезать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄дтэ</l>
+         <l pos="глаг.">пāшшьтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">резать</t>
-            <t xml:lang="rus" pos="xxx">отрезать</t>
-            <t xml:lang="rus" pos="xxx">разрезать</t>
-            <t xml:lang="rus" pos="xxx">нарезать</t>
+            <t xml:lang="rus" pos="глаг.">печь</t>
+            <t xml:lang="rus" pos="глаг.">испечь</t>
+            <t xml:lang="rus" pos="глаг.">жарить</t>
+            <t xml:lang="rus" pos="глаг.">изжарить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пāшшьтэ</l>
+         <l pos="VP">поа̄штчедтэ пе̄йвэсьт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">печь</t>
-            <t xml:lang="rus" pos="xxx">испечь</t>
-            <t xml:lang="rus" pos="xxx">жарить</t>
-            <t xml:lang="rus" pos="xxx">изжарить</t>
+            <t xml:lang="rus" pos="глаг.">загорать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">поа̄штчедтэ пе̄йвэсьт</l>
+         <l pos="глаг.">кыппьте</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">загорать</t>
+            <t xml:lang="rus" pos="глаг.">варить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кыппьте</l>
+         <l pos="глаг.">тӯлльтхэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">варить</t>
+            <t xml:lang="rus" pos="глаг.">вскипятить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тӯлльтхэ</l>
+         <l pos="глаг.">вӣршэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">вскипятить</t>
+            <t xml:lang="rus" pos="глаг.">мешать</t>
+            <t xml:lang="rus" pos="глаг.">размешивать</t>
+            <t xml:lang="rus" pos="глаг.">перемешивать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӣршэ</l>
+         <l pos="глаг.">е̄кхэллэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мешать</t>
-            <t xml:lang="rus" pos="xxx">размешивать</t>
-            <t xml:lang="rus" pos="xxx">перемешив ать</t>
+            <t xml:lang="rus" pos="VP">мешать чего</t>
+            <t xml:lang="rus" pos="VP">мешать кому</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄кхэллэ</l>
+         <l pos="глаг.">суэллдэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мешать чего</t>
-            <t xml:lang="rus" pos="xxx">мешать кому</t>
+            <t xml:lang="rus" pos="глаг.">солить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">суэллдэ</l>
+         <l pos="сущ.">уррьт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">солить</t>
+            <t xml:lang="rus" pos="NP">скалистая гора</t>
+            <t xml:lang="rus" pos="NP">высокая гора</t>
+            <t xml:lang="rus" pos="NP">цепь гор</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">уррьт</l>
+         <l pos="сущ.">кāннҍт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">скалистая гора</t>
-            <t xml:lang="rus" pos="xxx">высокая гора</t>
-            <t xml:lang="rus" pos="xxx">цепь гор</t>
+            <t xml:lang="rus" pos="сущ.">холм</t>
+            <t xml:lang="rus" pos="сущ.">гора</t>
+            <t xml:lang="rus" pos="сущ.">возвышенность</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кāннҍт</l>
+         <l pos="сущ.">сыййт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">холм</t>
-            <t xml:lang="rus" pos="xxx">гора</t>
-            <t xml:lang="rus" pos="xxx">возвышенность</t>
+            <t xml:lang="rus" pos="сущ.">село</t>
+            <t xml:lang="rus" pos="сущ.">селение</t>
+            <t xml:lang="rus" pos="сущ.">деревня</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">сыййт</l>
+         <l pos="сущ.">са̄ттк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">село</t>
-            <t xml:lang="rus" pos="xxx">селение</t>
-            <t xml:lang="rus" pos="xxx">деревня</t>
+            <t xml:lang="rus" pos="сущ.">село (на берегу моря)</t>
+            <t xml:lang="rus" pos="сущ.">селение (на берегу моря)</t>
+            <t xml:lang="rus" pos="сущ.">деревня (на берегу моря)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">са̄ттк</l>
+         <l pos="сущ.">ча̄рр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">село (на берегу моря)</t>
-            <t xml:lang="rus" pos="xxx">селение (на берегу моря)</t>
-            <t xml:lang="rus" pos="xxx">деревня (на берегу моря)</t>
+            <t xml:lang="rus" pos="сущ.">тундра</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ча̄рр</l>
+         <l pos="сущ.">я̄ввьр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">тундра</t>
+            <t xml:lang="rus" pos="сущ.">озеро</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">я̄ввьр</l>
+         <l pos="сущ.">вāррь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">озеро</t>
+            <t xml:lang="rus" pos="сущ.">лес</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вāррь</l>
+         <l pos="сущ.">па̄ххьк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лес</t>
+            <t xml:lang="rus" pos="NP">тундровая гора</t>
+            <t xml:lang="rus" pos="сущ.">тундра</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">па̄ххьк</l>
+         <l pos="сущ.">суэл</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">тундровая гора</t>
-            <t xml:lang="rus" pos="xxx">тундра</t>
+            <t xml:lang="rus" pos="сущ.">остров</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">суэл</l>
+         <l pos="сущ.">пэ̄ҏҏт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">остров</t>
+            <t xml:lang="rus" pos="сущ.">дом</t>
+            <t xml:lang="rus" pos="сущ.">жилище</t>
+            <t xml:lang="rus" pos="сущ.">квартира</t>
+            <t xml:lang="rus" pos="сущ.">комната</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пэ̄ҏҏт</l>
+         <l pos="сущ.">ёгк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дом</t>
-            <t xml:lang="rus" pos="xxx">жилище</t>
-            <t xml:lang="rus" pos="xxx">квартира</t>
-            <t xml:lang="rus" pos="xxx">комната</t>
+            <t xml:lang="rus" pos="сущ.">река</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ёгк</l>
+         <l pos="сущ.">коавас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">река</t>
+            <t xml:lang="rus" pos="сущ.">кувакса</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">коавас</l>
+         <l pos="сущ.">ланнҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">кувакса</t>
+            <t xml:lang="rus" pos="сущ.">город</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ланнҍ</l>
+         <l pos="сущ.">байна</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">город</t>
+            <t xml:lang="rus" pos="сущ.">баня</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">байна</l>
+         <l pos="сущ.">па̄ррьн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">баня</t>
+            <t xml:lang="rus" pos="сущ.">парень</t>
+            <t xml:lang="rus" pos="сущ.">юноша</t>
+            <t xml:lang="rus" pos="сущ.">мальчик</t>
+            <t xml:lang="rus" pos="сущ.">ребенок</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">па̄ррьн</l>
+         <l pos="сущ.">а̄джя</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">парень</t>
-            <t xml:lang="rus" pos="xxx">юноша</t>
-            <t xml:lang="rus" pos="xxx">мальчик</t>
-            <t xml:lang="rus" pos="xxx">ребенок</t>
+            <t xml:lang="rus" pos="сущ.">папа</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">а̄джя</l>
+         <l pos="сущ.">а̄джь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">папа</t>
+            <t xml:lang="rus" pos="сущ.">отец</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">а̄джь</l>
+         <l pos="сущ.">я̄нна</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">отец</t>
+            <t xml:lang="rus" pos="сущ.">мама</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">я̄нна</l>
+         <l pos="сущ.">е̄ннҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мама</t>
+            <t xml:lang="rus" pos="сущ.">мать</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">е̄ннҍ</l>
+         <l pos="сущ.">вуэррьпенҍ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мать</t>
+            <t xml:lang="rus" pos="сущ.">сестра</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуэррьпенҍ</l>
+         <l pos="сущ.">вӣлльй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сестра</t>
+            <t xml:lang="rus" pos="сущ.">брат</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вӣлльй</l>
+         <l pos="сущ.">ка̄ннҍц</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">брат</t>
+            <t xml:lang="rus" pos="сущ.">друг</t>
+            <t xml:lang="rus" pos="сущ.">подруга</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ка̄ннҍц</l>
+         <l pos="сущ.">а̄ка</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">друг</t>
-            <t xml:lang="rus" pos="xxx">подруга</t>
+            <t xml:lang="rus" pos="сущ.">бабушка</t>
+            <t xml:lang="rus" pos="NP">старая женщина</t>
+            <t xml:lang="rus" pos="сущ.">старуха</t>
+            <t xml:lang="rus" pos="сущ.">старушка</t>
+            <t xml:lang="rus" pos="сущ.">жёнушка</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">а̄ка</l>
+         <l pos="сущ.">пāррьшя</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">бабушка</t>
-            <t xml:lang="rus" pos="xxx">старая женщина</t>
-            <t xml:lang="rus" pos="xxx">старуха</t>
-            <t xml:lang="rus" pos="xxx">старушка</t>
-            <t xml:lang="rus" pos="xxx">жёнушка</t>
+            <t xml:lang="rus" pos="сущ.">мальчик</t>
+            <t xml:lang="rus" pos="сущ.">малыш</t>
+            <t xml:lang="rus" pos="сущ.">ребёнок</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пāррьшя</l>
+         <l pos="прил.">вуэзьхемесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мальчик</t>
-            <t xml:lang="rus" pos="xxx">малыш</t>
-            <t xml:lang="rus" pos="xxx">ребёнок</t>
+            <t xml:lang="rus" pos="прил.опред.">несчастный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуэзьхемесь</l>
+         <l pos="прил.">коа̄ллэш</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">несчастный</t>
+            <t xml:lang="rus" pos="прил.опред.">дорогой</t>
+            <t xml:lang="rus" pos="прил.опред.">ценный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">коа̄ллэш</l>
+         <l pos="прил.">ра̄кесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">дорогой</t>
-            <t xml:lang="rus" pos="xxx">ценный</t>
+            <t xml:lang="rus" pos="прил.опред.">ласковый</t>
+            <t xml:lang="rus" pos="прил.опред.">дружный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ра̄кесь</l>
+         <l pos="прил.">мӣллвэсь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">ласковый</t>
-            <t xml:lang="rus" pos="xxx">дружный</t>
+            <t xml:lang="rus" pos="прил.опред.">умный</t>
+            <t xml:lang="rus" pos="прил.опред.">толковый</t>
+            <t xml:lang="rus" pos="прил.опред.">мудрый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мӣллвэсь</l>
+         <l pos="прил.">мӣллшэсь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">умный</t>
-            <t xml:lang="rus" pos="xxx">толковый</t>
-            <t xml:lang="rus" pos="xxx">мудрый</t>
+            <t xml:lang="rus" pos="прил.опред.">милый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мӣллшэсь</l>
+         <l pos="сущ.">мӣллса</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">милый</t>
+            <t xml:lang="rus" pos="прил.опред.">милый</t>
+            <t xml:lang="rus" pos="прил.опред.">милая</t>
+            <t xml:lang="rus" pos="сущ.">любовь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мӣллса</l>
+         <l pos="сущ.">шоабшэмушш</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">милый</t>
-            <t xml:lang="rus" pos="xxx">милая</t>
-            <t xml:lang="rus" pos="xxx">любовь</t>
+            <t xml:lang="rus" pos="сущ.">любовь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">шоабшэмушш</l>
+         <l pos="сущ.">милса</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">любовь</t>
+            <t xml:lang="rus" pos="сущ.">любовь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">милса</l>
+         <l pos="прил.">тоӆӆкшэсь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">любовь</t>
+            <t xml:lang="rus" pos="прил.опред.">умный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тоӆӆкшэсь</l>
+         <l pos="прил.">мӣллвэсь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">умный</t>
+            <t xml:lang="rus" pos="прил.опред.">умный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">мӣллвэсь</l>
+         <l pos="прил.">нубпай</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">умный</t>
+            <t xml:lang="rus" pos="прил.опред.">упрямый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нубпай</l>
+         <l pos="сущ.">нубпь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">упрямый</t>
+            <t xml:lang="rus" pos="сущ.">упрямство</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нубпь</l>
+         <l pos="прил.">тӣшшяй</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">упрямство</t>
+            <t xml:lang="rus" pos="прил.опред.">смешной</t>
+            <t xml:lang="rus" pos="прил.опред.">шутливый</t>
+            <t xml:lang="rus" pos="прил.опред.">забавный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тӣшшяй</l>
+         <l pos="прил.">а̄рькэсь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">смешной</t>
-            <t xml:lang="rus" pos="xxx">шутливый</t>
-            <t xml:lang="rus" pos="xxx">забавный</t>
+            <t xml:lang="rus" pos="прил.опред.">скромный</t>
+            <t xml:lang="rus" pos="прил.опред.">стеснительный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">а̄рькэсь</l>
+         <l pos="прил.">а̄ррькьесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">скромный</t>
-            <t xml:lang="rus" pos="xxx">стеснительный</t>
+            <t xml:lang="rus" pos="прил.опред.">скромный</t>
+            <t xml:lang="rus" pos="прил.опред.">стеснительный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">а̄ррькьесь</l>
+         <l pos="прил.">ка̄йнэсь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">скромный</t>
-            <t xml:lang="rus" pos="xxx">стеснительный</t>
+            <t xml:lang="rus" pos="прил.опред.">скромный</t>
+            <t xml:lang="rus" pos="прил.опред.">стеснительный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ка̄йнэсь</l>
+         <l pos="прил.">ка̄ййнҍесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">скромный</t>
-            <t xml:lang="rus" pos="xxx">стеснительный</t>
+            <t xml:lang="rus" pos="прил.опред.">скромный</t>
+            <t xml:lang="rus" pos="прил.опред.">стеснительный</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ка̄ййнҍесь</l>
+         <l pos="глаг.">ка̄ййнэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">скромный</t>
-            <t xml:lang="rus" pos="xxx">стеснительный</t>
+            <t xml:lang="rus" pos="глаг.">стесняться</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">ка̄ййнэ</l>
+         <l pos="прил.">нӯськесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">стесняться</t>
+            <t xml:lang="rus" pos="прил.опред.">нерящливый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нӯськесь</l>
+         <l pos="прил.">руэняс</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">нерящливый</t>
+            <t xml:lang="rus" pos="прилаг.сказ.">весело</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">руэняс</l>
+         <l pos="прил.">руэньсесь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">весело</t>
+            <t xml:lang="rus" pos="прил.опред.">веселый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">руэньсесь</l>
+         <l pos="прил.">вуазлэш</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">веселый</t>
+            <t xml:lang="rus" pos="прил.опред.">счастливый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуазлэш</l>
+         <l pos="прил.">вуассай</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">счастливый</t>
+            <t xml:lang="rus" pos="прил.опред.">счастливый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">вуассай</l>
+         <l pos="сущ.">оалм олма</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">счастливый</t>
+            <t xml:lang="rus" pos="сущ.">мужчина</t>
+            <t xml:lang="rus" pos="сущ.">мужчины</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">оалм олма</l>
+         <l pos="сущ.">оалм о̄ллмэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мужчина</t>
-            <t xml:lang="rus" pos="xxx">мужчины</t>
+            <t xml:lang="rus" pos="сущ.">мужчина</t>
+            <t xml:lang="rus" pos="сущ.">мужчины</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">оалм о̄ллмэ</l>
+         <l pos="сущ.">нызан</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">мужчина</t>
-            <t xml:lang="rus" pos="xxx">мужчины</t>
+            <t xml:lang="rus" pos="сущ.">женщина</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нызан</l>
+         <l pos="сущ.">нӣйта</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">женщина</t>
+            <t xml:lang="rus" pos="сущ.">девочка</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нӣйта</l>
+         <l pos="прил.">пуэресь</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">девочка</t>
+            <t xml:lang="rus" pos="прил.опред.">старый</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">пуэресь</l>
+         <l pos="прил.">нӯрр</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">старый</t>
+            <t xml:lang="rus" pos="прил.опред.">молодой</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">нӯрр</l>
+         <l pos="прил.">тоавас</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">молодой</t>
+            <t xml:lang="rus" pos="прил.опред.">сильный</t>
+            <t xml:lang="rus" pos="прил.опред.">мошьный</t>
+            <t xml:lang="rus" pos="прил.опред.">крепкий</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">тоавас</l>
+         <l pos="сущ.">фоаӊӊт</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сильный</t>
-            <t xml:lang="rus" pos="xxx">мошьный</t>
-            <t xml:lang="rus" pos="xxx">крепкий</t>
+            <t xml:lang="rus" pos="сущ.">фантазия</t>
+            <t xml:lang="rus" pos="NP">приключенческие случаи</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">фоаӊӊт</l>
+         <l pos="сущ.">туххк</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">фантазия</t>
-            <t xml:lang="rus" pos="xxx">приключенческие случаи</t>
+            <t xml:lang="rus" pos="сущ.">пучок</t>
+            <t xml:lang="rus" pos="сущ.">букет (цветов)</t>
+            <t xml:lang="rus" pos="сущ.">толпа</t>
+            <t xml:lang="rus" pos="сущ.">набор</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">туххк</l>
+         <l pos="глаг.">алльмсэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">пучок</t>
-            <t xml:lang="rus" pos="xxx">букет (цветов)</t>
-            <t xml:lang="rus" pos="xxx">толпа</t>
-            <t xml:lang="rus" pos="xxx">набор</t>
+            <t xml:lang="rus" pos="глаг.">опрокинуть</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">алльмсэ</l>
+         <l pos="глаг.">та̄йе</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">опрокинуть</t>
+            <t xml:lang="rus" pos="VP">сходить с ума</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">та̄йе</l>
+         <l pos="глаг.">кэ̄ннцэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">сходить с ума</t>
+            <t xml:lang="rus" pos="VP">есть ложкой</t>
+            <t xml:lang="rus" pos="VP">есть житкую пищу</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">кэ̄ннцэ</l>
+         <l pos="глаг.">луннцэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">есть ложкой</t>
-            <t xml:lang="rus" pos="xxx">есть житкую пищу</t>
+            <t xml:lang="rus" pos="VP">есть ложкой</t>
+            <t xml:lang="rus" pos="VP">есть житкую пищу</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">луннцэ</l>
+         <l pos="глаг.">луннҍтҍе</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">есть ложкой</t>
-            <t xml:lang="rus" pos="xxx">есть житкую пищу</t>
+            <t xml:lang="rus" pos="глаг.">колоть</t>
+            <t xml:lang="rus" pos="глаг.">расколоть (дрова)</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">луннҍтҍе</l>
+         <l pos="глаг.">луннтнэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">колоть</t>
-            <t xml:lang="rus" pos="xxx">расколоть (дрова)</t>
+            <t xml:lang="rus" pos="глаг.">лопнуть</t>
+            <t xml:lang="rus" pos="глаг.">треснить</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">луннтнэ</l>
+         <l pos="глаг.">луннтнэнтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лопнуть</t>
-            <t xml:lang="rus" pos="xxx">треснить</t>
+            <t xml:lang="rus" pos="глаг.">лопаться</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">луннтнэнтэ</l>
+         <l pos="глаг.">луннтнэнтэшкуэдтӭ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лопаться</t>
+            <t xml:lang="rus" pos="VP">готовиться к лопанью</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">луннтнэнтэшкуэдтӭ</l>
+         <l pos="сущ.">луннтнэнтмэн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">готовиться к лопанью</t>
+            <t xml:lang="rus" pos="сущ.">лопаясь</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">луннтнэнтмэн</l>
+         <l pos="прич.">са̄ррнмэн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">лопаясь</t>
+            <t xml:lang="rus" pos="прилаг.опред.">говорящий</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">са̄ррнмэн</l>
+         <l pos="прич.">куаррнмэн</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">говоря</t>
+            <t xml:lang="rus" pos="AdP">за шитьём</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">куаррнмэн</l>
+         <l pos="сущ.">корнэдант</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">за шитьём</t>
+            <t xml:lang="rus" pos="сущ.">контакт</t>
+            <t xml:lang="rus" pos="сущ.">связывание</t>
+            <t xml:lang="rus" pos="сущ.">завязывание</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">корнэдант</l>
+         <l pos="сущ.">корнэдтмушш</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">контакт</t>
-            <t xml:lang="rus" pos="xxx">связывание</t>
-            <t xml:lang="rus" pos="xxx">завязывание</t>
+            <t xml:lang="rus" pos="сущ.">контакт</t>
+            <t xml:lang="rus" pos="сущ.">связывание</t>
+            <t xml:lang="rus" pos="сущ.">завязывание</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">корнэдтмушш</l>
+         <l pos="глаг.">корнэдтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">контакт</t>
-            <t xml:lang="rus" pos="xxx">связывание</t>
-            <t xml:lang="rus" pos="xxx">завязывание</t>
+            <t xml:lang="rus" pos="глаг.">связаться</t>
+            <t xml:lang="rus" pos="VP">пойти на контакт</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e>
       <lg>
-         <l pos="xxx">корнэдтэ</l>
+         <l pos="глаг.">уййнлэдтэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="xxx">связаться</t>
-            <t xml:lang="rus" pos="xxx">пойти на контакт</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="xxx">уййнлэдтэ</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="xxx">встретиться</t>
-            <t xml:lang="rus" pos="xxx">встречаться</t>
+            <t xml:lang="rus" pos="глаг.">встретиться</t>
+            <t xml:lang="rus" pos="глаг.">встречаться</t>
          </tg>
       </mg>
    </e>
