@@ -1768,16 +1768,6 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">па̄ххьк</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">гора</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
          <l pos="сущ.">ня̄лльм</l>
       </lg>
       <mg>
@@ -2551,16 +2541,6 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">кӯлль</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">рыба</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
          <l pos="сущ.">шāӈӈьк</l>
       </lg>
       <mg>
@@ -2755,6 +2735,7 @@
       </lg>
       <mg>
          <tg>
+            <t xml:lang="rus" pos="сущ.">гора</t>
             <t xml:lang="rus" pos="NP">тундровая гора</t>
             <t xml:lang="rus" pos="сущ.">тундра</t>
          </tg>
@@ -3031,16 +3012,6 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="прил.">мӣллвэсь</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="прил.опред.">умный</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
          <l pos="прил.">нубпай</l>
       </lg>
       <mg>
@@ -3194,16 +3165,6 @@
          <tg>
             <t xml:lang="rus" pos="сущ.">мужчина</t>
             <t xml:lang="rus" pos="сущ.">мужчины</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="сущ.">нызан</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">женщина</t>
          </tg>
       </mg>
    </e>
