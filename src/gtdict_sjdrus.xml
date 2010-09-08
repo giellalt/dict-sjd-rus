@@ -85,7 +85,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">ся̄ххтар</l>
+         <l pos="сущ." src="KUR">ся̄ххтар</l>
       </lg>
       <mg>
          <tg>
@@ -145,12 +145,17 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="глаг.">кӣххче</l>
+         <l pos="глаг." src="KUR">кӣһче</l>
+         <graph_var src="AAA">кӣххче</graph_var>
       </lg>
       <mg>
          <tg>
             <t xml:lang="rus" pos="глаг.">смотреть</t>
+            </tg>
+            <tg>
             <t xml:lang="rus" pos="глаг.">наблюдать</t>
+            </tg>
+            <tg>
             <t xml:lang="rus" pos="глаг.">проверять</t>
          </tg>
       </mg>
@@ -445,7 +450,8 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">поа̄ххкпе̄ййв</l>
+         <l pos="сущ." src="KUR">поа̄һк-пе̄ййв</l>
+         <graph_var src="AAA">поа̄ххкпе̄ййв</graph_var>
       </lg>
       <mg>
          <tg>
