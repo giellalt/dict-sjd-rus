@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="ru">
+<head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script> 
+    <script type="text/javascript"> 
+ 
+      // Load the Google Onscreen Keyboard API
+      google.load("elements", "1", {
+          packages: "keyboard"
+        });
+ 
+      var kbd;  // A Keyboard object.
+ 
+      function onLoad() {
+        // Create an instance on Keyboard.
+        kbd = new google.elements.keyboard.Keyboard([
+          google.elements.keyboard.LayoutCode.RUSSIAN],
+          ['word']);
+      }
+ 
+      // If the keyboard is visible, hide it.
+      // If the keyboard is invisible, show it.
+      function toggleVisible() {
+        var button = document.getElementById("btVisible");
+        if (kbd.isVisible()) {
+          kbd.setVisible(false);
+          document.getElementById('btVisible').value = "Показать клавиатуру";
+        } else {
+          kbd.setVisible(true);
+          document.getElementById('btVisible').value = "Скрыть клавиатуру";
+        }
+      }
+ 
+      google.setOnLoadCallback(onLoad);
+    </script>
+
+    <script language="JavaScript" type="text/javascript">
+     <!-- // BEGIN
+     function addchar(mychar) {
+       var searchfield = document.getElementById("word");
+       var searchstring = searchfield.value;
+       searchfield.value = searchstring + mychar;
+    }
+     // END -->
+  </script>
+
+
+        <link rel="stylesheet" type="text/css" href="src/css/style.css" />
+        <title>Словаря Гиелатекно - Саамская языковая технология -</title>
+    </head>
+    
+<body>
+<div align="center">
+  <font size="4" color="#C0C0C0"><a href="http://giellatekno.uit.no/"><b>Giellatekno</b></a><i> - Саамская языковая технология -</i></font>
+</div>
+
+<div id="main">
+ <h2>Словаря Гиелатекно</h2>
+  <form class="translation" action="" method="post">
+  <fieldset><legend></legend>
+  <select onchange="ajaxFunction(this.value);" id="direction" name="direction" title="Выберите словарь">
+    <option class='header' value='' disabled='true'>Выберите словарь</option>
+    <option value='sjd-rus-lr' >Кильдинский &rarr; Русский</option>
+    <option value='rus-sjd-lr' >Русский &rarr; Кильдинский</option>
+  </select>
+  <br/>
+  <br/>
+  <table class="kildin_samichars">
+    <tr> 
+      <td><input type="button" value="ӓ" onclick="addchar('ӓ')"></td>
+      <td><input type="button" value="а̄" onclick="addchar('а̄')"></td>
+      <td><input type="button" value="е̄" onclick="addchar('е̄')"></td>
+      <td><input type="button" value="ё̄" onclick="addchar('ё̄')"></td>
+      <td><input type="button" value="һ" onclick="addchar('һ')"></td>
+      <td><input type="button" value="ӣ" onclick="addchar('ӣ')"></td>
+      <td><input type="button" value="j" onclick="addchar('j')"></td>
+      <td><input type="button" value="ҋ" onclick="addchar('ҋ')"></td>
+      <td><input type="button" value="ӆ" onclick="addchar('ӆ')"></td>
+      <td><input type="button" value="ӎ" onclick="addchar('ӎ')"></td>
+   </tr>
+    <tr> 
+      <td><input type="button" value="ӊ" onclick="addchar('ӊ')"></td>
+      <td><input type="button" value="ӈ" onclick="addchar('ӈ')"></td>
+      <td><input type="button" value="о̄" onclick="addchar('о̄')"></td>
+      <td><input type="button" value="ҏ" onclick="addchar('ҏ')"></td>
+      <td><input type="button" value="ӯ" onclick="addchar('ӯ')"></td>
+      <td><input type="button" value="ҍ" onclick="addchar('ҍ')"></td>
+      <td><input type="button" value="ӭ" onclick="addchar('ӭ')"></td>
+      <td><input type="button" value="э̄" onclick="addchar('э̄')"></td>
+      <td><input type="button" value="ю̄" onclick="addchar('ю̄')"></td>
+      <td><input type="button" value="я̄" onclick="addchar('я̄')"></td>
+      <!--       <td><input type="button" value="'" onclick="addchar(''')"></td> -->
+   </tr>
+  </table>
+  
+  <input id="word" name="word" type="text" onkeyup="delayLookUp(this.value,true, document.forms[0].direction.value);"/>
+  
+  <input type="button" onclick="toggleVisible()" id="btVisible" value="Скрыть клавиатуру"></input>
+ 
+  <br/>
+  </fieldset>
+  </form>
+    
+<div id="message"></div>
+<br/>
+<div id="message2"></div>
+<div id="result" style="overflow:auto; width:500px; height:400px;"></div>
+</div>
+
+<div align="center">
+  <p>
+  <i>Эти словари составлены с помощю
+  <a href="http://www.apertium.org/"><b>Apertium</b></a>
+  инструментов для словарей.
+  </i> 
+  </p>
+  <p>
+  <i>Авторское право: 2010 <a href="http://www.uit.no/"><b>университет г. Tромсе/Норвегия</b></a>.</i>
+  Обратная связь: <i>giellatekno@hum.uit.no</i>
+  </p>
+</div>
+</body>
+</html>
+
+<script src="src/js/lookup_ru.js" type="text/javascript"></script>
+	
