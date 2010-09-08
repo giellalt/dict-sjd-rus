@@ -62,7 +62,7 @@
   <fieldset><legend></legend>
   <select onchange="ajaxFunction(this.value);" id="direction" name="direction" title="Выберите словарь">
     <option class='header' value='' disabled='true'>Выберите словарь</option>
-    <option value='sjd-rus-lr' >Кильдинский &rarr; Русский</option>
+    <option selected="selected" value='sjd-rus-lr' >Кильдинский &rarr; Русский</option>
     <option value='rus-sjd-lr' >Русский &rarr; Кильдинский</option>
   </select>
   <br/>
@@ -97,7 +97,7 @@
   
   <input id="word" name="word" type="text" onkeyup="delayLookUp(this.value,true, document.forms[0].direction.value);"/>
   
-  <input type="button" onclick="toggleVisible()" id="btVisible" value="Скрыть клавиатуру"></input>
+  <input type="button" onclick="toggleVisible()" id="btVisible" value="Показать клавиатуру"></input>
  
   <br/>
   </fieldset>
