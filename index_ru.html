@@ -18,6 +18,12 @@
         kbd = new google.elements.keyboard.Keyboard([
           google.elements.keyboard.LayoutCode.RUSSIAN],
           ['word']);
+//        if (kbd.isVisible()) {
+//          kbd.setVisible(false);
+//          document.getElementById('btVisible').value = "Показать клавиатуру";
+//        } 
+
+        kbd.setVisible(false);
       }
  
       // If the keyboard is visible, hide it.
@@ -37,14 +43,12 @@
     </script>
 
     <script language="JavaScript" type="text/javascript">
-     <!-- // BEGIN
-     function addchar(mychar) {
-       var searchfield = document.getElementById("word");
-       var searchstring = searchfield.value;
-       searchfield.value = searchstring + mychar;
-    }
-     // END -->
-  </script>
+      function addchar(mychar) {
+         var searchfield = document.getElementById("word");
+         var searchstring = searchfield.value;
+         searchfield.value = searchstring + mychar;
+      }
+ </script>
 
 
         <link rel="stylesheet" type="text/css" href="src/css/style.css" />
@@ -52,12 +56,31 @@
     </head>
     
 <body>
-<div align="center">
-  <font size="4" color="#C0C0C0"><a href="http://giellatekno.uit.no/"><b>Giellatekno</b></a><i> - Саамская языковая технология -</i></font>
+<div align="left">
+  <table class="kildin_samichars">
+    <tr>
+      <td> 
+	<font size="4" color="#C0C0C0"><a href="http://giellatekno.uit.no/"><b>Giellatekno</b></a><i> - Саамская языковая технология -</i></font>
+      </td> 
+    </tr> 
+  </table>
 </div>
 
 <div id="main">
  <h2>Словаря Гиелатекно</h2>
+ Чтобы найти слово в словаре:
+  <ol>
+    <li>Выберите словарь</li>
+    <li>Начинайте писать слово</li>
+  </ol>
+
+  После использовании виртуальной клавиатуры и саамских букв,
+  поставьте курсор в следуюшее окно и нажмите на правую или на левую
+  стрелку на Вашей клавиатуре.
+
+  <br/>
+  <br/>
+
   <form class="translation" action="" method="post">
   <fieldset><legend></legend>
   <select onchange="ajaxFunction(this.value);" id="direction" name="direction" title="Выберите словарь">
