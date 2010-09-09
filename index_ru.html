@@ -2,83 +2,42 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="ru">
 <head>
-        <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
-    <script type="text/javascript" src="http://www.google.com/jsapi"></script> 
-    <script type="text/javascript"> 
- 
-      // Load the Google Onscreen Keyboard API
-      google.load("elements", "1", {
-          packages: "keyboard"
-        });
- 
-      var kbd;  // A Keyboard object.
- 
-      function onLoad() {
-        // Create an instance on Keyboard.
-        kbd = new google.elements.keyboard.Keyboard([
-          google.elements.keyboard.LayoutCode.RUSSIAN],
-          ['word']);
-//        if (kbd.isVisible()) {
-//          kbd.setVisible(false);
-//          document.getElementById('btVisible').value = "Показать клавиатуру";
-//        } 
+   <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+   <script type="text/javascript" src="src/js/popupBox.js"></script>
 
-        kbd.setVisible(false);
-      }
- 
-      // If the keyboard is visible, hide it.
-      // If the keyboard is invisible, show it.
-      function toggleVisible() {
-        var button = document.getElementById("btVisible");
-        if (kbd.isVisible()) {
-          kbd.setVisible(false);
-          document.getElementById('btVisible').value = "Показать клавиатуру";
-        } else {
-          kbd.setVisible(true);
-          document.getElementById('btVisible').value = "Скрыть клавиатуру";
-        }
-      }
- 
-      google.setOnLoadCallback(onLoad);
-    </script>
-
-    <script language="JavaScript" type="text/javascript">
+   <script language="JavaScript" type="text/javascript">
       function addchar(mychar) {
          var searchfield = document.getElementById("word");
          var searchstring = searchfield.value;
          searchfield.value = searchstring + mychar;
       }
- </script>
+   </script>
 
-
-        <link rel="stylesheet" type="text/css" href="src/css/style.css" />
-        <title>Словаря Гиелатекно - Саамская языковая технология -</title>
-    </head>
+   <link rel="stylesheet" type="text/css" href="src/css/style.css" />
+   <title>Словаря Гиелатекно - Саамская языковая технология -</title>
+</head>
     
 <body>
 <div id="gt_header" align="left">
-  <table>
-    <tr>
-      <td> 
-	<font size="4" color="#C0C0C0"><a href="http://giellatekno.uit.no/rus.html"><b>Giellatekno</b></a><i> - Саамская языковая технология -</i></font>
-      </td> 
-    </tr> 
-  </table>
+  <elem>
+  <a href="http://giellatekno.uit.no/rus.html">Giellatekno</a><i> - Саамская языковая технология -</i>
+  </elem>
 </div>
 
 <!-- <div id="spacer"></div> -->
 
-<div id="main">
- <h2>Словаря Гиелатекно</h2>
- Чтобы найти слово в словаре:
-  <ol>
-    <li>Выберите словарь</li>
-    <li>Начинайте писать слово</li>
-  </ol>
+<div id="main_left">
+  <br/>
+  <font size="1" color="#C0C0C0">&#8594; <a href="http://victorio.uit.no/webdict/index.html"><b>Все словари</b></a></font>
+</div>
 
-  После использовании виртуальной клавиатуры и саамских букв,
-  поставьте курсор в следуюшее окно и нажмите на правую или на левую
-  стрелку на Вашей клавиатуре.
+
+<div id="main">
+
+  <br/>
+  <elem>Словаря Гиелатекно</elem>
+  
+  
 
   <br/>
   <br/>
@@ -90,6 +49,8 @@
     <option selected="selected" value='sjd-rus-lr' >Кильдинский &rarr; Русский</option>
     <option value='rus-sjd-lr' >Русский &rarr; Кильдинский</option>
   </select>
+  
+   <elem_button><a href="help_ru.html" onClick="return show_hide_box(this,350,150,'2px dotted')">помощь</a></elem_button>
   <br/>
   <br/>
   <table class="kildin_samichars">
@@ -122,7 +83,7 @@
   
   <input id="word" name="word" type="text" style="font-family: Lucida Sans Unicode" onkeyup="delayLookUp(this.value,true, document.forms[0].direction.value);"/>
   
-  <input type="button" onclick="toggleVisible()" id="btVisible" value="Показать клавиатуру"></input>
+
  
   <br/>
   </fieldset>
