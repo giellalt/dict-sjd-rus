@@ -1,0 +1,7150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">август</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">поаррькма̄нн</t>
+            <t pos="xxx">а̄вгустма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">автобус</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">автобус</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">автор (писатель)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кырьйхей</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">адрес</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄дрес</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">аккуратно</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мо̄джьтэнне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">аккуратный</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мо̄джесь</t>
+            <t pos="xxx">пунншэсь</t>
+            <t pos="xxx">шӣххтлэсь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">алфавит</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">алфавит</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">апрель</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӯньтхемьма̄нн</t>
+            <t pos="xxx">апрельма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">аркан</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ля̄шшкэмнуррь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">армия</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄рмия</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бабочка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄лльп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бабушка (мать отца или матери)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оаххка</t>
+            <t pos="xxx">а̄ка</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бабушка (старая женщина)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄кэнч</t>
+            <t pos="xxx">а̄ка</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">барабан (шаманский)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">барабан</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бегом</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вӣжьнэлле</t>
+            <t pos="xxx">карлэнне</t>
+            <t pos="xxx">карнэлле</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бедно</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ва̄йвшэнне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бедный (неимущий)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ва̄йваш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бедный (несчастный)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэзьхемесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бедняк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ва̄йваш олма</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бежать (вода)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ко̄ллкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бежать (животное)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">каррэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бежать (рысцой)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуагкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бежать (человек)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вӣдже</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">безработный</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӯйхем</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">белка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэррев</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">белый (масть животного)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пя̄ӆӆьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">белый (светлый)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чӯввесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">белый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вӣллькесь</t>
+            <t pos="xxx">ӣввьн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">берег</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рыннт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">берёза (карликовая)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӣрре</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">берёза</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пе̄ссьмӯрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">берёста (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пе̄ссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">беседа</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">моайнас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">билет</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">билет</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бисер (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пе̄ссяр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бить (избивать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">васстэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бить (колоть)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">палле</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бить (наказывать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лӯгке</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бить (разбивать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">муррьтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бить (убить)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коаннҍтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бить (ударять)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">та̄гкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">благодарить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">па̄ссьпушшэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">блестеть (гореть)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пӯлле</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">блестеть (мерцать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пыӆӆькэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">блестеть (сиять)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэӆӆкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">близкий</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">алльт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">близко</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">алльтҍенне</t>
+            <t pos="xxx">алльткенне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">блюдце</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ю̄дтҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">богатырь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сāммъесь ōлма</t>
+            <t pos="xxx">тоавас ōлма</t>
+            <t pos="xxx">боһтерь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">болезнь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэ̄бп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">болезнь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэбпшэмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">болеть (быть больным)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэбпшэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">больница</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лыһцэмпэ̄ҏҏт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">большой</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шȳрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">брат (младший )</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нӯра вӣлльй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">брат (старший)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуаррса вӣлльй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">брат</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вӣлльй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">брать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вāлльтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">брови (ед. бровь)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кульм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бросить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чаццьке</t>
+            <t pos="xxx">сȳһпье</t>
+            <t pos="xxx">вуэлльктэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">брюки (только мн.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коадтӭ</t>
+            <t pos="xxx">пукс</t>
+            <t pos="xxx">пуфс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">будущий</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуэдтӭй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бульон</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лӣмм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бульон (мясной)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэннчлӣмм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бульон (рыбной)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӯлльлӣмм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">бусы</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">цуэтҍк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">быстро</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">удлынне</t>
+            <t pos="xxx">вэхтэнне</t>
+            <t pos="xxx">ваййшэнне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">быстрый (о реке, ручье)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выррьт-</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">быстрый (шустрый)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сȳрвэсь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">быстрый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">удлэсь</t>
+            <t pos="xxx">вэхтъэсь</t>
+            <t pos="xxx">ваййшэсь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ваш</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӣн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вдруг</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">āйнханна</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ведро</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēмьперь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">великий</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шȳрр</t>
+            <t pos="xxx">пэре шȳрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">веревка (в упряжи)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лāммч</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">веревка (из кореньев)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӣввт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">веревка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нȳррь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">верить (доверять)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вӣррэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">верить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оасскэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">веселый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">руэняс</t>
+            <t pos="xxx">вēссьлесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">весло (кормовое)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мелль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">весло</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">āррьй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">весна</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вести (автомобиль)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ëадҍхе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вести (оленя, корову)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лоаййҍте</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вести</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выгкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ветвь (ветка)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэккьс</t>
+            <t pos="xxx">рыссе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ветвь (хвойного дерева)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куэххьцев</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ветер</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пӣӊӊк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вечер</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēкьнэнч</t>
+            <t pos="xxx">ēкьна</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">внук (по отношению к бабушке)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">āххкэв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">внук (по отношению к дедушке )</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄йев</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">внучка (по отношению к бабушке)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">āххкэв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">внучка (по отношению к дедушке )</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄йев</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вода</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чāдзь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вождь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выгкэй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">воздух (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳйӊас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">война</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">туарр</t>
+            <t pos="xxx">война</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">волк</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пальтэсь</t>
+            <t pos="xxx">чиррм</t>
+            <t pos="xxx">скуммьп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">волна</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нэ̄ммп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">волосы</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳпт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ворона</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳрэч</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">восемнадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ка̄ххцэмплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">восемь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кāххц</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">воскресенье</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāссьпēййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">воспитание</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэпьсемушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">восток</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нуҏҏьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вправо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэлькесьпя̄лла</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">враг</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рēһкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">врач</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лыһцэй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вред (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ряххкхэмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">все</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пугк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">всегда</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пай</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">встать (подняться на ноги)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуэннчле</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">встать (проснувшись)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коадзъе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вторник</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ныммьпоаррк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вчера</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">яххта</t>
+            <t pos="xxx">еххта</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вы</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тыйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">вылечивать (вылечить)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лыһцэ</t>
+            <t pos="xxx">вуаннче лыһцэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">высокий</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">э̄ллессь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">выше</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">паййла</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гвоздь (деревянный)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуйхьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гвоздь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нāввьл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">где</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">касьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">глаз</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чāлльм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">глухарь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуххч</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">глухой (грам.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ӣннхем</t>
+            <t pos="xxx">глухэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">глухой (густой - о лесе)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">теммесь</t>
+            <t pos="xxx">сȳгкесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">глухой (лишëнный слуха)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кулхэмесь</t>
+            <t pos="xxx">кулнаһтӭм</t>
+            <t pos="xxx">пēлльйхем</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гнездо (беличье)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пэ̄рр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гнездо (птичье)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">год</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ыгкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">голова</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">голод</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нēлльк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">голодать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ня̄ллктэллэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">голос</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ӣнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">голый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāльяс</t>
+            <t pos="xxx">пефта</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гора (без растительности)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāһкь</t>
+            <t pos="xxx">пāһть</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гора (круча)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вӣрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гора (небольшая)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шаррьй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гора (скалистая)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">уррьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гора</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кāннҍт</t>
+            <t pos="xxx">тēррьм</t>
+            <t pos="xxx">луэххк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">горе</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пӣдтҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">горло (дыхательное)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэ̄ҏс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">горло</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чōнт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">горький</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пыччкар</t>
+            <t pos="xxx">пыччкресь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">горячий (о живых существах)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кȳттҍкеш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">горячий (о предметах)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пȳлле</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гость</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кȳссь</t>
+            <t pos="xxx">вāрэнь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">грести</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сугке</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гриб</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кȳмпар</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гром (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӣрмесь</t>
+            <t pos="xxx">чāркнэгк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">грудь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">раннҍт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">грустить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тоассктэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">грусть (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тоасськ</t>
+            <t pos="xxx">чуэввмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">грусть (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пэ̄джь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">грязь (только ед., в доме)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шāӆӆьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">грязь (только ед., на руках, одежде и. т. д. )</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сāккьс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">грязь (только ед., на улице)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нēшшь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">гусь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуэнь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">давать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">э̄ннтлэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">давно</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тула</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">далеко</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куһкень</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дальше</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">туммпла</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">два</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кȳххт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">двадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кȳххтлоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">двенадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӯххтэмплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">девяносто</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">āххцлоагк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">девятнадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">аххцэмплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">девять</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">аххц</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дед, дедушка (о старом мужчине)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ка̄ллсэнч</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дед, дедушка (по отношению к внукам)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄йй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">декабрь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">та̄лльвма̄нн</t>
+            <t pos="xxx">декабрьмāнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">день (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">деньги</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тēӊӊьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дерево</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мȳрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">держать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тȳллье</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">десять</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дети</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāррнэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дикий (об олене)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коаннҍт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дикий</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">дикэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">длинный</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кукесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">днем</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēййва</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">добро (только ед., всё хорошее)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пȳррь</t>
+            <t pos="xxx">ӣӊӊквȳдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">добро (только ед., имущество)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">я̄ллмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">добрый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пȳррь</t>
+            <t pos="xxx">ӣӊӊькьесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">добыча (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шыл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дождь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">аббьр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дом</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пэ̄ҏҏт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дорога (в распутицу)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рыдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дорога (зимник)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кя̄ййн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дорога</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуэкас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дочь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нӣййт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">древний (давнитний)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">туллъя</t>
+            <t pos="xxx">досельнэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">древний</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēрркъя</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дрова</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мȳр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">друг</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кāннҍц</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">другой (второй)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ныммьп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">другой</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мудта</t>
+            <t pos="xxx">ересь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">думать (заботиться)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пя̄ццлушшэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">думать (мыслить)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">юррьтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дым</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сȳвв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дыхание (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳййнмушш</t>
+            <t pos="xxx">вȳйӊас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дядя (брат матери)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чēдза</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дядя (брат отца)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ӣнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">дядя (старший брат отца)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">я̄гк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">еда (только ед., пища)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēррк</t>
+            <t pos="xxx">пōррмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">еда (только ед., продукты)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēвесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">елка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кȳсс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">есть, быть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лиййе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ехать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выййе</t>
+            <t pos="xxx">ёадтӭ</t>
+            <t pos="xxx">кāрхэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">еще</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вя̄л</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">жалеть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шоаллшэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">желудок (животного)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тоаӈӈьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">жена (молодая)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коаб</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">жена</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">āһкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">женщина</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нызан</t>
+            <t pos="xxx">āһкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">жечь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуэлльтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">живот</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чōййвь</t>
+            <t pos="xxx">чōввьй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">животное</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">жыва</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">жизнь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">я̄лл</t>
+            <t pos="xxx">я̄ллмушш</t>
+            <t pos="xxx">ēллемнāлль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">жир (рыбий)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кȳлльвȳйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">жир</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пȳййт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">жить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēлле</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">заблудиться</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чоаййдэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">завтра</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">янта</t>
+            <t pos="xxx">ента</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">завязать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кōррэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">задание</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">аннхҍтмушш</t>
+            <t pos="xxx">задание</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">задний</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">маӈӈь</t>
+            <t pos="xxx">маӈьмусс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">закат</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēййвлуэштэгк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">закон</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">закон</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">замерзнуть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кальмлуввэ</t>
+            <t pos="xxx">калльме</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">замок</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лōххк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">запас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лэ̄гк</t>
+            <t pos="xxx">апс</t>
+            <t pos="xxx">руэххк</t>
+            <t pos="xxx">воалмшэгк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">затылок</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нышшькмоант</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">заяц</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюэ̄ммель</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">звать (именовать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нэ̄ммдэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">звать (окликать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лэ̄ӊӊкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">звать (приглашать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коаххче</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">звать (приглашать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ня̄ввэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">звезда</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тāссьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">зверь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нāввьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">звук (голоса)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ӣнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">звук</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кулнэгк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">здесь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тэсьт</t>
+            <t pos="xxx">тэста</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">здоровье (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӣрвасвȳдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">здравствуй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӣррв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">зеленый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">руэнн</t>
+            <t pos="xxx">руэнас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">земля (почва)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лаввьн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">земля (сторона)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēммьне</t>
+            <t pos="xxx">ēммьн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">земля (страна)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ланнҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">земля (суша)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мāннтэр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">земля</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēммьне</t>
+            <t pos="xxx">ēммьн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">зеркало</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">зеркал</t>
+            <t pos="xxx">кыффкэмкāррь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">зима</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">талльв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">зло (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сēннтмушш</t>
+            <t pos="xxx">сēнтнэмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">злой (лютый)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">поасс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">злой (сердитый)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сентнэй</t>
+            <t pos="xxx">кȳттҍкешь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">змея (жестокий)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэ̄рр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">знать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӣдтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">зола (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кунн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">зуб</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāннҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">игла (для вязания сетей)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кēбп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">игла (хвойного дерева)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нӣввьл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">игла</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нӣввьл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">игра</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сӣрр</t>
+            <t pos="xxx">сӣррмȳшш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">игрушка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сӣренч</t>
+            <t pos="xxx">сӣря</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">идти (на лыжах)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чȳййке</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">идти (о дожде)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">āббрэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">идти (о снеге)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ёадтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">идти (отправляться кула-либо)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳлльке</t>
+            <t pos="xxx">ёадтсэллэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">идти (пешком)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вāннҍце</t>
+            <t pos="xxx">мэ̄ннэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">икра (только ед., рыбья)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мēййн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">имя</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нэ̄мм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">иней (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сыннҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">искать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ōдзэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">июль (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сӯйнко̄ссэма̄нн</t>
+            <t pos="xxx">июльма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">июнь (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ке̄ссьма̄нн</t>
+            <t pos="xxx">июньма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">какой</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">манҍтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">камень</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кēддҍк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">каникулы</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">каникула</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">капать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куашшкэ</t>
+            <t pos="xxx">куашкхэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кидать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чēццклэ</t>
+            <t pos="xxx">суэххпэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кипеть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тȳллтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">клей (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">няммь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">книга</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыррьй</t>
+            <t pos="xxx">кнӣга</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">когда</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куэссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">колено</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пȳввл</t>
+            <t pos="xxx">пȳллв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">конь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēбешь</t>
+            <t pos="xxx">россь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">копать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куаййве</t>
+            <t pos="xxx">рāбпэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кора (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кора (только ед., древесная)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāҏҏк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">корень</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэнҍтэсь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кормить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">поҏтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">корова</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лӣххьм</t>
+            <t pos="xxx">лӣххемь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">коса (зарлетённые волосы)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коассь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">коса (полоса земли, отмель)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳнтас куэррк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">коса (сельскохозяйственное орудие)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кōссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">костер</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тōлл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">который</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кȳ</t>
+            <t pos="xxx">коампэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">край (граница)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рȳммт</t>
+            <t pos="xxx">рēввьн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">край (местность)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāйхьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">красивый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мо̄джесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">красный (тёмно-красный)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рōшшкэсь</t>
+            <t pos="xxx">краснэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">красный</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рȳппьсесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">красота (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мōджевȳдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кривой (изогнутый)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">соййлесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кривой (о дереве)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">маӆӆьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кривой</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">поаннь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">крик</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ря̄гнэгк</t>
+            <t pos="xxx">ря̄гкмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кричать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ря̄гкэ</t>
+            <t pos="xxx">рēгкшэ</t>
+            <t pos="xxx">кугкхэллэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кровь (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вэ̄рр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">круг (на воде)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ōййяр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">круг</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">круг</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">крыло</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">суэйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">крыша</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пэ̄ҏҏтэ̄ля</t>
+            <t pos="xxx">кры̄ша</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">кто</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кē</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">купить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэссьтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">куропатка (самец)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ляксэгк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">куропатка (самка)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коамэн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">куропатка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рыххп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ладонь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коалдэгк</t>
+            <t pos="xxx">кидткоалдэгк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лапа (стопа)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лāбпь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лапа</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кēбпэль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ласка (только ед., проявление нежности)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лāлльмушш</t>
+            <t pos="xxx">роһцмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лаять</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">угкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лебедь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюххч</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">левый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чинч</t>
+            <t pos="xxx">чинчбелль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лежать (вытянувшись)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вэ̄ннъе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лежать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лēшшэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лекарство</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лекарство</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лентяй</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лāшшьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лес (большой)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ля̄ммт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лес</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вāррь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лететь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыррьтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лето</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кēссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лиса</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рӣммьн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лист (бумаги, железа, …)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лысст</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лист (растения)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лэ̄сст</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лицо (грам.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лицо</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лицо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кāссв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лоб</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэххьц</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ловить (добывать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">соагнэ</t>
+            <t pos="xxx">шылле</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ловить (хватать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тāбпэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лодка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вэнс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ложка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пасьтэмь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лопата</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куаййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лось</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сэ̄ррв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лошадь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēбешь</t>
+            <t pos="xxx">россь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">луна (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мāнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лыжи (подбитые камысом)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кāӆӆк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лыжи (узкие)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сōфс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лыжи (широкие)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коаллас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">лыжи</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сāвехь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">любить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шоабпшэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">любовь (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шоабпшэмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">люди</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ōллмэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">май (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыдтма̄нн</t>
+            <t pos="xxx">ма̄йма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">маленький</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">уцць</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мальчик</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāррьшя</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мама</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">я̄нна</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">март (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюххчма̄нн</t>
+            <t pos="xxx">мартма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">масло (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">масло (только ед., растительное)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пōснэвȳйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">масло (только ед., сливочное)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кузвȳйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">медведь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тāлл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">место (достижение)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сайй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">место (местность, край)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāйхьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">место (стоянка)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сайй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мех</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нāввьт</t>
+            <t pos="xxx">мехx</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">младший</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нȳрмусс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">много</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēннэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">молодежь (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нȳраш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">молодой</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нȳрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">молоко (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мāййт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">море</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мēрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мох</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сēфьтэрь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">муж</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кāллесь</t>
+            <t pos="xxx">кȳйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мужчина (пожилой)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кāллесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мужчина</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оалмолма</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мука</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">я̄вв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мусор (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">луэнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">муха</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуэраш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мы</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мыйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мысль</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">юрт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мыть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пэ̄ссэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мясо (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэннч</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">мяч</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāлл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">наблюдать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӣххче</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">навсегда</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">агас</t>
+            <t pos="xxx">агкьбайя</t>
+            <t pos="xxx">агкьбайяс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">назад</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">моаст моаз</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">найти</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коаввнэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">написать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кырьйхе</t>
+            <t pos="xxx">кырьйхассьтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">народ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нарэдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">настоящий</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тāррмъя</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">небо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">алльм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">неделя</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нēдтӭль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нельзя</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ыбе</t>
+            <t pos="xxx">эбэ</t>
+            <t pos="xxx">эйй вуэй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">немного</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сада</t>
+            <t pos="xxx">садга</t>
+            <t pos="xxx">садмадта</t>
+            <t pos="xxx">эйй ēннга</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нижний (по течению)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">валас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нижний</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вульма</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">новый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ōдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нога</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ю̄лльк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нож (большой)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">юӊӊк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нож</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ныййп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ножницы (только мн.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рувьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нора</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэӊӊк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нос</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюннҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">носки</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">суххквуэййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ночь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ыйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ноябрь (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коамма̄нн</t>
+            <t pos="xxx">ӣӈӈма̄нн</t>
+            <t pos="xxx">ноябрьмāнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">нюхать (брать след)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюххъе</t>
+            <t pos="xxx">аппьсе</t>
+            <t pos="xxx">кȳррдэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">обед (пища)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēррк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">обед (приём пищи)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēййввярр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">облако</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пэ̄ллв</t>
+            <t pos="xxx">пэ̄ввл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">обнять</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ассктэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">обрадовать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">роаммлуһтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">обувь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ва̄ннценҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">огонь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тōлл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">огромный</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оайхьк</t>
+            <t pos="xxx">пэре шȳрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">одежда (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оаз</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">одеть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ца̄гке</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">одеяло (связанное из толстой шерсти)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рāнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">одеяло</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">одеяла</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">один</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">э̄ххт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">одиннадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">э̄ххтэмплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">озеро</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">я̄ввьр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">окно</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">эххкан</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">октябрь (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рэ̄гкэмма̄нн</t>
+            <t pos="xxx">октябрьмāнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">олень</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуаз</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">он</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сōнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">она</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сōнн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">они</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сыйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">опять</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">авта</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">орел</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куэцькемь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">осень</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чēххч</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">отдых (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэӊӊмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">отец</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">аджь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">охотиться</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мēххьцтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">очень</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чофта</t>
+            <t pos="xxx">пэре</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">падать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ёрнэ</t>
+            <t pos="xxx">кэ̄ччнэ</t>
+            <t pos="xxx">кэ̄ррктэллэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">палец</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">цēххп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пальто</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пальта</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">папа</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">аджя</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">парень</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пāррьн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пастбище</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуэзēллемсайй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пасти</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пынне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пастух</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пастэх</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">паук</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оаз</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">перчатки</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">цēххпвоаһц</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">песня (саамская)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">луввьт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">песня</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лāввл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">петь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лāввлэ</t>
+            <t pos="xxx">луввтъе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пешком</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вāннҍцлэнне</t>
+            <t pos="xxx">вāнҍцнэлле</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">писатель</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кырьйхей</t>
+            <t pos="xxx">кнӣгакырьйхей</t>
+            <t pos="xxx">писатель</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">писать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кырьйхе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">письмо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыррьй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">югкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">плавник</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вēппьс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">плакать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лȳйхьке</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">платок</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рыппехь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">плечо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэлльк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">плохо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюэзельт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">плохой</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ню̄э̄ссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">победа</l>
+      </lg>
+      <mg>
+         <tg/>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">победа</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэйхьтмушш</t>
+            <t pos="xxx">вуайхьтмушш</t>
+            <t pos="xxx">победа</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">повар</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыппьтэй</t>
+            <t pos="xxx">повар</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">повесить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коадсэ</t>
+            <t pos="xxx">коазсэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">погода (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ēррк</t>
+            <t pos="xxx">шэ̄ӊӊ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">подарок</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ла̄ҋҋ</t>
+            <t pos="xxx">лāххь</t>
+            <t pos="xxx">тȳмаш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">подмышка</l>
+      </lg>
+      <mg>
+         <tg/>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">подушка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пōдэшк</t>
+            <t pos="xxx">вуэййвбялас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пожар</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пȳлльмушш</t>
+            <t pos="xxx">пуэллмушш</t>
+            <t pos="xxx">пожар</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">поздравить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӣрвхэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пол</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шалльт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">полдень</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēййвкэ̄сск</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">помощь (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вēһкь</t>
+            <t pos="xxx">вēһкьвȳдт</t>
+            <t pos="xxx">вēкьхэмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">понедельник</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳссарк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">понимать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оантшэ</t>
+            <t pos="xxx">тōӆӆькье</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">поселок</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сыййт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">почка (на дереве)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">уммель</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">привести</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пыһтӭ</t>
+            <t pos="xxx">лоаййтҍе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">привычка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выррьк</t>
+            <t pos="xxx">поайймушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">приятный</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шӣг</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">прямо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вȳййкесьт</t>
+            <t pos="xxx">вȳййксенне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">птица</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лоаннҍт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пугать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сȳррькхе</t>
+            <t pos="xxx">кēвхэ</t>
+            <t pos="xxx">пэӆтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пуговица</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуалл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пух (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">уййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пятка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кāннт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пятнадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выдтэмплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пятница</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пēтнэһц</t>
+            <t pos="xxx">выдантпе̄ййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пятно</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сāккьс сайй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пять</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">пятьдесят</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выдтлоагк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">работа</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лыххк</t>
+            <t pos="xxx">тӯ̄йй</t>
+            <t pos="xxx">ро̄бэһт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">работать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лыххкэ</t>
+            <t pos="xxx">ро̄бхушшэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">работать</l>
+      </lg>
+      <mg>
+         <tg/>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">радуга</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӣрмесью̄ккс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рана</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ра̄ӊӊҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рано</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄йкалт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рассказ</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">моайнас</t>
+            <t pos="xxx">са̄ррнмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рассказать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">моайнсе</t>
+            <t pos="xxx">моайнсассьтэ</t>
+            <t pos="xxx">са̄ррнэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">растение</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ра̄ссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">расти (проводить детство)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">выгкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">расти (увеличиваться)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шэ̄ннтэ</t>
+            <t pos="xxx">шуррнэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">расчесать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чоагкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рвать (делать дырявым)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ра̄ййкье</t>
+            <t pos="xxx">че̄гкьраһтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рвать (разрывать на части)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кышшкэ</t>
+            <t pos="xxx">пуатткэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рвать (срывать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">каххьце</t>
+            <t pos="xxx">рийхьфэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ребенок</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">па̄ррьшенч</t>
+            <t pos="xxx">па̄ррьшя</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">резать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">е̄дтэ</t>
+            <t pos="xxx">чӯххпэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ремень (широкий-кожаный с ножнами)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">та̄ссэм</t>
+            <t pos="xxx">та̄ссм</t>
+            <t pos="xxx">ремэнҍ</t>
+            <t pos="xxx">реммь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ресницы</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ре̄ммас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">родители (только мн.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄жья̄нна</t>
+            <t pos="xxx">ро̄дҍхель</t>
+            <t pos="xxx">ажьеннҍгоанҍц</t>
+            <t pos="xxx">я̄ннангоанҍц</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рот</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ня̄лльм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рубашка (нижняя)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">па̄ййт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рубашка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рубашка</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ругать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оаффкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ружье</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пысс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рука</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӣдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">русский</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рӯшш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">русский (человек)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">рӯшшлэнч</t>
+            <t pos="xxx">рӯшшла</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ручей</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэйй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">рыба</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӯлль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">самец</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оаресь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сани (только мн.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">соан</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сверху</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пайенҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">свет (только ед., мир)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">э̄ллмант</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">свет (только ед., осбещение)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чӯв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">светать (1 и 2 л. не употр.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чӯввнэ</t>
+            <t pos="xxx">чӯввнэннтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сделать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лыххкэ</t>
+            <t pos="xxx">тӯййше</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сейчас</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">есськ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">секрет</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пя̄йхьт</t>
+            <t pos="xxx">секреһт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">семнадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыджемплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">семь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыджемь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сентябрь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">че̄ххчма̄нн</t>
+            <t pos="xxx">сентябрьма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сердце</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӯттҍк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">серый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӯввесь</t>
+            <t pos="xxx">се̄ра</t>
+            <t pos="xxx">се̄рэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сестра</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэррьпенҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сильно</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тоаввсэнне</t>
+            <t pos="xxx">роаввсэнне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сказка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">моайнас</t>
+            <t pos="xxx">ба̄йхьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">скала</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коалле</t>
+            <t pos="xxx">па̄һть</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">слепой</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чальмхем</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">смерть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">соаррьм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">смех (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӣшш</t>
+            <t pos="xxx">сыййнэмналль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">смеяться (насмехаться)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">луэнне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">смеяться</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сыйнэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">смотреть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӣххче</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">снег (мокрый)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сӣббл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">снег</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вэ̄дз</t>
+            <t pos="xxx">куэллт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">собака</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пе̄ннэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сова</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кунньлоаннҍт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">солнце (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пе̄ййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сон</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нагерь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сорок</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">не̄лльйлоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сосать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюммэ</t>
+            <t pos="xxx">ниммэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сосед</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">поаллтъе̄ллей</t>
+            <t pos="xxx">сосед</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">спать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэдтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">спешить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыҏҏтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">спина (нижняя часть)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ваҏьтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">спина</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">се̄лльк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">спор</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оаҏҏтмушш</t>
+            <t pos="xxx">оаҏҏтэдтмушш</t>
+            <t pos="xxx">ругъедтмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">спросить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэ̄дже</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">среда</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ся̄рэдт</t>
+            <t pos="xxx">куалмантпе̄ййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стадо (небольшое)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чӣгар</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стадо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуэз</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">старик</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ка̄ллесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">старуха</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄кашка</t>
+            <t pos="xxx">а̄ка</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">старший</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуаррса</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">старый (о жибых существах)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуэресь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">старый (о предметах)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэммь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">старый (прежний)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">туллъя</t>
+            <t pos="xxx">е̄рркъя</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">старый (старинный)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">туллъя</t>
+            <t pos="xxx">е̄рркъя</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стирать (мыть)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пэ̄сслэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стирать (счищать)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чӣсстэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сто</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чӯдтҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стол</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">туэлль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сторож</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ваххтъей</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сторожить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ваххтъе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стоять (быть расположенным где-либо)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пыйюввэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стоять (иметь место)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лиййе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стоять (находиться в вертикальном положении)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуэннче</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">стрела</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюлл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">суббота</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сӯветҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">суп (с добовлением муки)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">я̄вв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">суп</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вя̄рр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">счастье (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">счет (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лоагк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">сын</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">алльк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">там</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тамьпе</t>
+            <t pos="xxx">тёллэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">танец</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пляссънэгк</t>
+            <t pos="xxx">пляссьемушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">танцевать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пляццьъе</t>
+            <t pos="xxx">нюччке</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">танцевать</l>
+      </lg>
+      <mg>
+         <tg/>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тарелка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тоарельк</t>
+            <t pos="xxx">пе̄ккарак</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тащить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ке̄ссе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">таять (1 и 2 л. не употр.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">суннтэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">твой</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">то̄н</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тело</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">роаӈӈьк</t>
+            <t pos="xxx">роабпь</t>
+            <t pos="xxx">лышшьк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тень (место, не осбещённое солнцем)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэ̄ппс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тень (от человека, предмета)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кывьнэхь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тепло</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">поакас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тетя (младшая сестра матери)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">вуэннь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тетя (младшая сестра отца)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сӣссь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тетя (старшая сестра матери)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куэсськ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тетя (старшая сестра отца)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мӯдтҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">толпа</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ла̄ннҍт</t>
+            <t pos="xxx">туххк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">толстый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэ̄сс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">топор</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оаккш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">трава</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">сӯййн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">трещина</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">луэммь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">три</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ко̄ллм</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тринадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ко̄ллмэмплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">трогать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лыкхэллэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">трусливый</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">роаннтэй</t>
+            <t pos="xxx">роантнэй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тряпка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">трепець</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">туман</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">цӣгк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тундра (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ча̄рр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тундра</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӯндар</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">тяжело</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ло̄ссэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">уважение (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">цысстъемушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">угол (мешка, наволочки)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чӣгк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">угол</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">уггл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">уголь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ылл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ударить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">та̄гклэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">узор</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыррьй</t>
+            <t pos="xxx">кырьйнэсс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">улыбка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">муэййнэмушш</t>
+            <t pos="xxx">сӣййнмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ум (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">то̄ӆӆк</t>
+            <t pos="xxx">мӣлл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">упасть (с чего-либо)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэ̄ххче</t>
+            <t pos="xxx">кэ̄рктэ</t>
+            <t pos="xxx">чо̄ннэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">упасть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ё̄ррэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">усы</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оабпан</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">утро</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ӣнцкэнч</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">учащийся</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">о̄хпнуввэй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">учеба (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">о̄хпнуввмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">уши</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пе̄льй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">февраль (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">по̄рркма̄нн</t>
+            <t pos="xxx">февральма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хвост (длинный)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">се̄ййп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хвост (короткий, напр. у оленя, лося, барана)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пӣжь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хвост (у птицы)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пэдтш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хвост (у рыбы)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пе̄цехь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хвоя (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куэхьцэв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хлеб (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ле̄ййп</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ходить (носить какую-либо одежду)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оаннӭ оаскэтҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ходить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ва̄ннҍце</t>
+            <t pos="xxx">ёадтӭ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хозяин</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">хозенҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">холм</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">те̄ррьм</t>
+            <t pos="xxx">ка̄ннҍт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">холод</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кэ̄лмас</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хорошо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пуэраст</t>
+            <t pos="xxx">шӣгк</t>
+            <t pos="xxx">шӣгктэнне</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">хромать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лыххклэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">худой (плохой)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нюэвесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">худой (тощий)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коашькесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">царапать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кышшкэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">царь</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">цоарр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">целовать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нӣссэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">цена</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">а̄ррв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">чайка (морская)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ча̄бар</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">чайка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ка̄йе</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">часы (только мн.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ча̄с</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">чашка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">на̄һпь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">человек</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">оалмэнч</t>
+            <t pos="xxx">олма</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">черный</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чоаххпесь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">четверг</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ня̄льянтпе̄ййв</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">четыре</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">не̄лльй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">четырнадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">не̄лльемплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">чистота (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">пӯннэшвӯдт</t>
+            <t pos="xxx">чӣцтвӯдт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">что</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мэ̄нн</t>
+            <t pos="xxx">мӣ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шапка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кабперь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шестнадцать</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кыдтэмплоагкь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шесть</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кудт</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шея</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ча̄паһт</t>
+            <t pos="xxx">ча̄пэх</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шить</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куаррэ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шишка (ушиба)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коаӆпэх</t>
+            <t pos="xxx">коаӆпхэсс</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шишка (хвойного дерева)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">па̄ццк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шкаф</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шкоаһп</t>
+            <t pos="xxx">шкаф</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">школа</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">шко̄ла</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шкура</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тӯлльй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шуба</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">то̄ҏҏк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">шушка (ушиба)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">па̄лл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">щека</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">нӣрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">щенок</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">куххьц</t>
+            <t pos="xxx">кудца</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">щепка</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">лоасст</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">щука</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ныгкешь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">это</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">тэдт</t>
+            <t pos="xxx">тэдта</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">эхо (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коаввк</t>
+            <t pos="xxx">коаввкмушш</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">юкола (только ед., вяленая рыба)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коашшьккӯлль</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">я</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мунн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ягель (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">е̄гель</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ягода</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">мӯррьй</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">язык (орган в полости рта)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">ню̄ххчемь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">язык (только ед., речь)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">кӣлл</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">яйцо</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">маннҍ</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">яма</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">коабпь</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">январь (только ед.)</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">о̄дтыгьма̄нн</t>
+            <t pos="xxx">январьма̄нн</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ящерица</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">те̄йнчлинк</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="rus-sjd900">
+      <lg>
+         <l pos="xxx">ящик</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="xxx">чуһкь</t>
+            <t pos="xxx">ышшьтэ</t>
+         </tg>
+      </mg>
+   </e>
+</r>
