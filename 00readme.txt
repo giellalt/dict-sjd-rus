@@ -15,7 +15,11 @@ on the e-element in the xml files:
 
 01 - this is the list of sjdoahpa lemmata that kindly have been corrected
  by native speaker A.A.Antonova via Elli
-02 - Michas Liste (in pseuo-rtf format)
+02 - Michas Liste downloaded from MPI server
+
+The list from MPI is the basis of dict extention: the infos from the
+list in pseudo-rtf format should be incorporated gradually.
+ 
  
  Micha: possible problems in the list 01:
  -too many multi-word-expressions for Kildin head-words (e.g. non-lexicalized нызан олма, вӣллькесь роавас ча̄дзь)?
@@ -49,8 +53,11 @@ Where should it live finally?
 Coping with different graphic variant
 ========================
 Value list of the attribute :
-k = Kuruč et al. 1985
-a = A.A.Antonova
+kur = Kuruč et al. 1985
+aaa = A.A.Antonova
+
+NB: Sjd Oahpa should be changed accordingly wrt. the different
+spelling variation, too!
 
 -----------------
 kur -> aaa mapping:
