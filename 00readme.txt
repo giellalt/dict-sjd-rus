@@ -74,8 +74,8 @@ Beachte Reihenfolge!
 2) Präaspiration
 2a) һ_Cь_# --> ххь_C_# (=Buchstabe <һ> vor einem der Buchstaben <к, п, т, ц, ч> vor dem Buchstaben <ь> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ь> im Wortauslaut wird gelöscht)
 2b) һ_Cҍ_# --> ххь_C_# (=Buchstabe <һ> vor einem der Buchstaben <к, п, т, ц, ч> vor dem Buchstaben <ҍ> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ҍ> im Wortauslaut wird gelöscht)
-2d) һ_C_ё --> ххь_C_# (=Buchstabe <һ> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <ё> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ё> wird zum Buchstaben <э>)
-2c) һ_C_е --> ххь_C_# (=Buchstabe <һ> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <е> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <е> wird zum Buchstaben <э>)
+2d) һ_C_ё --> ххь_C__ (=Buchstabe <һ> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <ё> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ё> wird zum Buchstaben <э>)
+2c) һ_C_е --> ххь_C__ (=Buchstabe <һ> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <е> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <е> wird zum Buchstaben <э>)
 ******* der Rest müsste bei der Reihenfolge egal sein ******* 
 2e) һ_C_я --> ххь_C_# (=Buchstabe <һ> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <я> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <я> wird zum Buchstaben <а>)
 2f) һ_C_ӓ --> ххь_C_# (=Buchstabe <һ> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <ӓ> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ӓ> wird zum Buchstaben <а>)
@@ -94,9 +94,9 @@ REGELN FÜR UMWANDLUNG DER GRAPHISCHEN VARIANTEN KUR (Kuruč 1995) --> AAA (=A.A
 2) Präaspiration
 2a) '_Cь_# --> ххь_C_# (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц, ч> vor dem Buchstaben <ь> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ь> im Wortauslaut wird gelöscht)
 2b) '_Cҍ_# --> ххь_C_# (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц, ч> vor dem Buchstaben <ҍ> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ҍ> im Wortauslaut wird gelöscht)
-2d) '_C_ё --> ххь_C_# (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <ё> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ё> wird zum Buchstaben <э>)
-2c) '_C_е --> ххь_C_# (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <е> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <е> wird zum Buchstaben <э>)
-******* der Rest müsste bei der Reihenfolge egal sein *******  
+2d) '_C_ё --> ххь_C__ (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <ё> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ё> wird zum Buchstaben <э>)
+2c) '_C_е --> ххь_C__ (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <е> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <е> wird zum Buchstaben <э>)
+******* der Rest müsste bei der Reihenfolge egal sein @cip: stimmt nicht ganz!*******  
 2e) '_C_я --> ххь_C_# (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <я> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <я> wird zum Buchstaben <а>)
 2f) '_C_ӓ --> ххь_C_# (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <ӓ> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ӓ> wird zum Buchstaben <а>)
 2g) '_C_ю --> ххь_C_# (=Buchstabe <'> vor einem der Buchstaben <к, п, т, ц> vor dem Buchstaben <ю> wird ersetzt durch Buchstabenkombination <хxь>; der Buchstabe <ю> wird zum Buchstaben <у>)
