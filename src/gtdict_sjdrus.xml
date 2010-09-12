@@ -85,7 +85,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ." src="KUR">ся̄ххтар</l>
+         <l pos="сущ." src="kur">ся̄ххтар</l>
       </lg>
       <mg>
          <tg>
@@ -145,8 +145,8 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="глаг." src="KUR">кӣһче</l>
-         <graph_var src="AAA">кӣххче</graph_var>
+         <l pos="глаг." src="kur">кӣһче</l>
+         <graph_var src="aaa">кӣххче</graph_var>
       </lg>
       <mg>
          <tg>
@@ -450,8 +450,8 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ." src="KUR">поа̄һк-пе̄ййв</l>
-         <graph_var src="AAA">поа̄ххкпе̄ййв</graph_var>
+         <l pos="сущ." src="kur">поа̄һк-пе̄ййв</l>
+         <graph_var src="aaa">поа̄ххкпе̄ййв</graph_var>
       </lg>
       <mg>
          <tg>
@@ -461,7 +461,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ." src="KUR">вуэххьт</l>
+         <l pos="сущ." src="kur">вуэххьт</l>
       </lg>
       <mg>
          <tg>
@@ -471,7 +471,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="mwe._NP: прилаг. сущ." src="AAA">вуэххт вырэ</l>
+         <l pos="mwe._NP: прилаг. сущ." src="aaa">вуэххт вырэ</l>
       </lg>
       <mg>
          <tg>
@@ -502,7 +502,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="mwe._NP: прилаг. сущ." src="AAA">коа̄мм аббьр</l>
+         <l pos="mwe._NP: прилаг. сущ." src="aaa">коа̄мм аббьр</l>
       </lg>
       <mg>
          <tg>
