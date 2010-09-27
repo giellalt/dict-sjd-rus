@@ -41,12 +41,28 @@ Where should it live finally?
 прилаг.сказ.	predicative adjective
 нареч.	adverb
 числ.	numeral
+числ.неопрeд. indefinite pronoun
 прилаг.опред.	attributive adjective
 част.	particle
 прилаг.	adjective
 прич.	participle
 предл.	preposition
+послел. postposition
 с.	connector
+
+----------------
+phrases, e.g.:
+mwe._NP: сущ. сущ.
+mwe._AP: нареч. прилаг.
+mwe._VP: глаг. мест.
+mwe._AdP: предл. мест.
+----------------
+
+
+=======================
+nonceforms (Russian words for which a !recommended alternative Saami form exists), marked with asterisk like in:
+<l src="kur" pos="сущ." nonceform="*">авгусст</l>
+But perhaps we should find another convention here?
 
 
 ========================
