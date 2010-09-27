@@ -126,5 +126,27 @@ Beachte:
 -----------------
 aaa-> kur mapping:
 -----------------
-???
+This question is answered now: This mapping is not possible due to underspecification!
+
+-----------------------------
+Sorting entries in the files:
+-----------------------------
+1.
+Using the parametrized script from the gtsvn/words/dicts/script (alphabetical sorting of lemmata according to the
+alphabet of the language used as parameter):
+
+from the gtsvn/words/dicts/sjdrus/src:
+xsltproc --param sortlang 'ru' ../../scripts/sort-dict.xsl sjdrus_mpi.xml > sorted_sjdrus_mpi.xml
+
+@cip added the sorted file for Michal to check the correctnes (sorted using Russian!!!)
+@cip: When looking only at the first and the last entries, I got a weird feeling.
+
+2.
+sorting by pos (@cip hast to write a small script)
+
+3.
+sorting by some other info (meta01, etc.): see 2.!
+
+
+
 
