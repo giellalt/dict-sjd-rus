@@ -28,6 +28,7 @@ list in pseudo-rtf format should be incorporated gradually.
  -some Kildin adjectives are inconsequently translated with either the Russian attributive or predicative adjective (perhaps, the translation should always include both forms tagged as прилаг.опред. and прилаг.сказ. [or the like] respectively?)
  -some Kildin verbs are inconsequently translated with either the Russian perfective or imperfective verb (perhaps, the translation should always include both forms tagged as глаг.несв. and глаг.св. [or the like] respectively?)
  -we have to deal consistently with the meaning groups (in case of multiple translations)
+ –several inflected forms (e.g. plural) occur as new entries (as lemmata on their own)
  
 ====================
 POS mapping
