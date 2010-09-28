@@ -492,26 +492,16 @@
    <e meta="01">
       <lg>
          <l pos="сущ.">лӯмь</l>
+         <grammar infl="nom.pl">луэмман</grammar>
       </lg>
       <mg>
          <tg>
             
-            <t xml:lang="rus" pos="сущ.">морошка (мн. число)</t>
+            <t xml:lang="rus" pos="сущ.">морошка</t>
          </tg>
       </mg>
    </e>
-   <e meta="01">
-      <lg>
-         <l pos="сущ.">луэмман</l>
-      </lg>
-      <mg>
-         <tg>
-            
-            <t xml:lang="rus" pos="сущ.">морошка (мн. число)</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
+      <e meta="01">
       <lg>
          <l pos="сущ.">сӯлльлэсст</l>
       </lg>
@@ -521,17 +511,7 @@
          </tg>
       </mg>
    </e>
-   <e meta="01">
-      <lg>
-         <l pos="сущ.">я̄гкал</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">ягель (мн. число)</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
+      <e meta="01">
       <lg>
          <l pos="сущ.">о̄лэнь</l>
       </lg>
@@ -730,8 +710,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">лежать (человек, животные)</t>
-                     </tg>
+            <t xml:lang="rus" pos="глаг.">лежать</t>
+                            </tg>
+                            <comment type="explanation">человек</comment>
+            <comment type="explanation">животные</comment>
+
       </mg>
    </e>
    <e meta="01">
@@ -740,8 +723,10 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">лежать (человек, животные)</t>
-         </tg>
+            <t xml:lang="rus" pos="глаг.">лежать</t></tg>
+            <comment type="explanation">человек</comment>
+            <comment type="explanation">животные</comment>
+        
       </mg>
    </e>
    <e meta="01">
@@ -779,23 +764,16 @@
    <e meta="01">
       <lg>
          <l pos="сущ.">по̄ннц</l>
+         <grammar infl="nom.pl">понц</grammar>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">перо (о птице)</t>
-         </tg>
+            <t xml:lang="rus" pos="сущ.">перо</t></tg>
+            <comment type="restriction">о птице</comment>
+         
       </mg>
    </e>
-   <e meta="01">
-      <lg>
-         <l pos="сущ.">понц</l>
-      </lg>
-      <mg>
-         <tg>
-                        <t xml:lang="rus" pos="сущ.">перья (о птице)</t>
-         </tg>
-      </mg>
-   </e>
+   
    <e meta="01">
       <lg>
          <l pos="сущ.">та̄ххьт</l>
@@ -1620,8 +1598,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">побегать (животное)</t>
-         </tg>
+            <t xml:lang="rus" pos="глаг.">побегать</t></tg>
+            <comment type="restriction">о животных</comment>
+         
       </mg>
    </e>
    <e meta="01">
@@ -1735,22 +1714,12 @@
    <e meta="01">
       <lg>
          <l pos="сущ.">выннҍ</l>
+         <grammar infl="nom.pl">вынҍ</grammar>
       </lg>
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">вино</t>
             
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="сущ.">вынҍ</l>
-      </lg>
-      <mg>
-         <tg>
-            
-            <t xml:lang="rus" pos="сущ.">вино (мн. число)</t>
          </tg>
       </mg>
    </e>
@@ -1940,10 +1909,12 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">село (на берегу моря)</t></tg>
-            <tg><t xml:lang="rus" pos="сущ.">селение (на берегу моря)</t></tg>
-            <tg><t xml:lang="rus" pos="сущ.">деревня (на берегу моря)</t>
+            <t xml:lang="rus" pos="сущ.">село</t>
+            </tg>
+            <tg><t xml:lang="rus" pos="сущ.">селение</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">деревня</t>
          </tg>
+         <comment type="explanation">на берегу моря</comment>
       </mg>
    </e>
    <e meta="01">
@@ -2348,9 +2319,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">пучок</t></tg>
-            <tg><t xml:lang="rus" pos="сущ.">букет (цветов)</t></tg>
-            <tg><t xml:lang="rus" pos="сущ.">толпа</t></tg>
+            <t xml:lang="rus" pos="сущ.">пучок</t></tg></mg><mg>
+            <tg><t xml:lang="rus" pos="сущ.">букет</t>
+            </tg>
+            <comment type="explanation">цветов</comment></mg><mg>
+            <tg><t xml:lang="rus" pos="сущ.">толпа</t></tg></mg><mg>
             <tg><t xml:lang="rus" pos="сущ.">набор</t>
          </tg>
       </mg>
@@ -2403,9 +2376,10 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">колоть</t>
-            <t xml:lang="rus" pos="глаг.">расколоть (дрова)</t>
+            <t xml:lang="rus" pos="глаг.">колоть</t></mg><mg>
+            <t xml:lang="rus" pos="глаг.">расколоть</t>
          </tg>
+         <comment type="restriction">дрова</comment>
       </mg>
    </e>
    <e meta="01">
@@ -2751,8 +2725,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">бежать (человек)</t>
+            <t xml:lang="rus" pos="глаг.">бежать</t>
          </tg>
+         <comment type="restriction">человек</comment>
       </mg>
          </e>
    <e meta="02">
@@ -2771,8 +2746,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">бежать (животное)</t>
+            <t xml:lang="rus" pos="глаг.">бежать</t>
          </tg>
+         <comment type="restriction">животное</comment>
       </mg>
       
    </e>
@@ -11409,6 +11385,7 @@
    <e meta="02" merged="2">
       <lg>
          <l src="kur" pos="сущ.">е̄гель</l>
+         <grammar infl="nom.pl">я̄гкал</grammar>
       </lg>
       <mg>
          <tg>
