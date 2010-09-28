@@ -17,6 +17,11 @@
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">зверь</t>
+             </tg>
+      </mg>
+      <mg>
+         <tg>
+            
             <t xml:lang="rus" pos="сущ.">волк</t>
          </tg>
       </mg>
@@ -37,8 +42,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="мест.">много</t>
-            <t xml:lang="rus" pos="мест.">многие</t>
+            <t xml:lang="rus" pos="мест.">много</t></tg>
+            <tg><t xml:lang="rus" pos="мест.">многие</t>
          </tg>
       </mg>
    </e>
@@ -58,8 +63,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">молодой</t>
-            <t xml:lang="rus" pos="прилаг.опред.">юный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">молодой</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">юный</t>
          </tg>
       </mg>
    </e>
@@ -116,9 +121,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">смотреть</t>
-            <t xml:lang="rus" pos="глаг.">наблюдать</t>
-            <t xml:lang="rus" pos="глаг.">видеть</t>
+            <t xml:lang="rus" pos="глаг.">смотреть</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">наблюдать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">видеть</t>
          </tg>
       </mg>
    </e>
@@ -138,8 +143,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="нареч.">назад</t>
-            <t xml:lang="rus" pos="нареч.">домой</t>
+            <t xml:lang="rus" pos="нареч.">назад</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="нареч.">домой</t>
          </tg>
       </mg>
    </e>
@@ -165,12 +170,13 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">та̄ррьмь</l>
+         <l pos="сущ.">та̄ррьм</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">настоящий</t>
-            <t xml:lang="rus" pos="прилаг.опред.">современный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">сегоднящний</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">настоящий</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">современный</t>
          </tg>
       </mg>
    </e>
@@ -180,21 +186,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">сегоднящний</t>
-            <t xml:lang="rus" pos="прилаг.опред.">настоящий</t>
-            <t xml:lang="rus" pos="прилаг.опред.">современный</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="сущ.">та̄ррмъя</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">сегоднящний</t>
-            <t xml:lang="rus" pos="прилаг.опред.">настоящий</t>
-            <t xml:lang="rus" pos="прилаг.опред.">современный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">сегоднящний</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">настоящий</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">современный</t>
          </tg>
       </mg>
    </e>
@@ -204,21 +198,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">сегоднящний</t>
-            <t xml:lang="rus" pos="прилаг.опред.">настоящий</t>
-            <t xml:lang="rus" pos="прилаг.опред.">современный</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="сущ.">та̄ррмъенч</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">сегоднящний</t>
-            <t xml:lang="rus" pos="прилаг.опред.">настоящий</t>
-            <t xml:lang="rus" pos="прилаг.опред.">современный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">сегоднящний</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">настоящий</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">современный</t>
          </tg>
       </mg>
    </e>
@@ -339,8 +321,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">туча</t>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">плохое настроение</t>
+            <t xml:lang="rus" pos="сущ.">туча</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">плохое настроение</t>
          </tg>
       </mg>
    </e>
@@ -360,9 +342,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">проливной дождь</t>
-            <t xml:lang="rus" pos="сущ.">дождь</t>
-            <t xml:lang="rus" pos="сущ.">ливень</t>
+            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">проливной дождь</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">ливень</t>
          </tg>
       </mg>
    </e>
@@ -433,8 +414,7 @@
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">гриб</t>
-            <t xml:lang="rus" pos="сущ.">грибы</t>
-         </tg>
+            </tg>
       </mg>
    </e>
    <e meta="01">
@@ -443,7 +423,6 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">гриб</t>
             <t xml:lang="rus" pos="сущ.">грибы</t>
          </tg>
       </mg>
@@ -460,13 +439,13 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">тэ̄ӈас</l>
+         <l pos="сущ." src="kur">тэ̄ӈс</l>
+         <graph_var src="aaa">тэ̄ӈас</graph_var>
       </lg>
       <mg>
          <tg>
             <t xml:lang="rus" pos="mwe._NP: сущ. сущ.">куст ягоды</t>
-            <t xml:lang="rus" pos="mwe._NP: сущ. сущ.">кусты ягоды</t>
-         </tg>
+                     </tg>
       </mg>
    </e>
    <e meta="01">
@@ -475,7 +454,7 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._NP: сущ. сущ.">куст ягоды</t>
+            
             <t xml:lang="rus" pos="mwe._NP: сущ. сущ.">кусты ягоды</t>
          </tg>
       </mg>
@@ -516,18 +495,18 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">морошка (ед. число)</t>
+            
             <t xml:lang="rus" pos="сущ.">морошка (мн. число)</t>
          </tg>
       </mg>
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">лӯэмман</l>
+         <l pos="сущ.">луэмман</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">морошка (ед. число)</t>
+            
             <t xml:lang="rus" pos="сущ.">морошка (мн. число)</t>
          </tg>
       </mg>
@@ -548,7 +527,6 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">ягель (ед. число)</t>
             <t xml:lang="rus" pos="сущ.">ягель (мн. число)</t>
          </tg>
       </mg>
@@ -752,9 +730,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">лежать (человек)</t>
-            <t xml:lang="rus" pos="глаг.">лежать (животные)</t>
-         </tg>
+            <t xml:lang="rus" pos="глаг.">лежать (человек, животные)</t>
+                     </tg>
       </mg>
    </e>
    <e meta="01">
@@ -763,8 +740,7 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">лежать (человек)</t>
-            <t xml:lang="rus" pos="глаг.">лежать (животные)</t>
+            <t xml:lang="rus" pos="глаг.">лежать (человек, животные)</t>
          </tg>
       </mg>
    </e>
@@ -807,7 +783,6 @@
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">перо (о птице)</t>
-            <t xml:lang="rus" pos="сущ.">перья</t>
          </tg>
       </mg>
    </e>
@@ -817,8 +792,7 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">перо (о птице)</t>
-            <t xml:lang="rus" pos="сущ.">перья</t>
+                        <t xml:lang="rus" pos="сущ.">перья (о птице)</t>
          </tg>
       </mg>
    </e>
@@ -908,8 +882,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">слышать</t>
-            <t xml:lang="rus" pos="глаг.">чувствовать</t>
+            <t xml:lang="rus" pos="глаг.">слышать</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="глаг.">чувствовать</t>
          </tg>
       </mg>
    </e>
@@ -929,8 +903,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">луна</t>
-            <t xml:lang="rus" pos="сущ.">месяц</t>
+            <t xml:lang="rus" pos="сущ.">луна</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="сущ.">месяц</t>
          </tg>
       </mg>
    </e>
@@ -993,8 +967,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">жёлтый</t>
-            <t xml:lang="rus" pos="прилаг.опред.">коричневый</t>
+            <t xml:lang="rus" pos="прилаг.опред.">жёлтый</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="прилаг.опред.">коричневый</t>
          </tg>
       </mg>
    </e>
@@ -1064,8 +1038,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">масло</t>
-            <t xml:lang="rus" pos="сущ.">жир</t>
+            <t xml:lang="rus" pos="сущ.">масло</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="сущ.">жир</t>
          </tg>
       </mg>
    </e>
@@ -1135,8 +1109,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">ноготь</t>
-            <t xml:lang="rus" pos="сущ.">копыто</t>
+            <t xml:lang="rus" pos="сущ.">ноготь</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">копыто</t>
          </tg>
       </mg>
    </e>
@@ -1176,8 +1150,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">полный</t>
-            <t xml:lang="rus" pos="прилаг.сказ.">достаточно</t>
+            <t xml:lang="rus" pos="прилаг.опред.">полный</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.сказ.">достаточно</t>
          </tg>
       </mg>
    </e>
@@ -1197,7 +1171,7 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">волос</t>
+            
             <t xml:lang="rus" pos="сущ.">волосы</t>
          </tg>
       </mg>
@@ -1209,8 +1183,7 @@
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">волос</t>
-            <t xml:lang="rus" pos="сущ.">волосы</t>
-         </tg>
+                     </tg>
       </mg>
    </e>
    <e meta="01">
@@ -1219,8 +1192,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">рука</t>
-            <t xml:lang="rus" pos="сущ.">кисть</t>
+            <t xml:lang="rus" pos="сущ.">рука</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">кисть</t>
          </tg>
       </mg>
    </e>
@@ -1380,7 +1353,6 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">корень</t>
             <t xml:lang="rus" pos="сущ.">корни</t>
          </tg>
       </mg>
@@ -1489,11 +1461,7 @@
       <lg>
          <l pos="глаг.">пӯлле</l>
       </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">горячий</t>
-         </tg>
-      </mg>
+      
       <mg>
          <tg>
             <t xml:lang="rus" pos="глаг.">гореть</t>
@@ -1528,8 +1496,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">есть</t>
-            <t xml:lang="rus" pos="глаг.">кушать</t>
+            <t xml:lang="rus" pos="глаг.">есть</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">кушать</t>
          </tg>
       </mg>
    </e>
@@ -1630,8 +1598,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">разный</t>
-            <t xml:lang="rus" pos="прилаг.опред.">всякий</t>
+            <t xml:lang="rus" pos="прилаг.опред.">разный</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">всякий</t>
          </tg>
       </mg>
    </e>
@@ -1682,9 +1650,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">пойти</t>
-            <t xml:lang="rus" pos="глаг.">отправиться</t>
-            <t xml:lang="rus" pos="глаг.">направиться</t>
+            <t xml:lang="rus" pos="глаг.">пойти</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">отправиться</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">направиться</t>
          </tg>
       </mg>
    </e>
@@ -1694,8 +1662,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._VP: глаг. нареч.">ехать быстро</t>
-            <t xml:lang="rus" pos="глаг.">мчаться</t>
+            <t xml:lang="rus" pos="mwe._VP: глаг. нареч.">ехать быстро</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">мчаться</t>
          </tg>
       </mg>
    </e>
@@ -1705,9 +1673,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._VP: глаг. предл. мест.">ехать на чем</t>
-            <t xml:lang="rus" pos="глаг.">идти</t>
-            <t xml:lang="rus" pos="глаг.">двигаться</t>
+            <t xml:lang="rus" pos="mwe._VP: глаг. предл. мест.">ехать на чем</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">идти</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">двигаться</t>
          </tg>
       </mg>
    </e>
@@ -1717,9 +1685,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._NP: сущ. предл. сущ. ">сок от ягод</t>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">желчный пузырь</t>
-            <t xml:lang="rus" pos="сущ.">жёлчь</t>
+            <t xml:lang="rus" pos="mwe._NP: сущ. предл. сущ. ">сок от ягод</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">желчный пузырь</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">жёлчь</t>
          </tg>
       </mg>
    </e>
@@ -1739,8 +1707,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">жир</t>
-            <t xml:lang="rus" pos="сущ.">сало</t>
+            <t xml:lang="rus" pos="сущ.">жир</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">сало</t>
          </tg>
       </mg>
    </e>
@@ -1770,8 +1738,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">вино (ед. число)</t>
-            <t xml:lang="rus" pos="сущ.">вино (мн. число)</t>
+            <t xml:lang="rus" pos="сущ.">вино</t>
+            
          </tg>
       </mg>
    </e>
@@ -1781,7 +1749,7 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">вино (ед. число)</t>
+            
             <t xml:lang="rus" pos="сущ.">вино (мн. число)</t>
          </tg>
       </mg>
@@ -1842,8 +1810,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">масло</t>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">топленый жир</t>
+            <t xml:lang="rus" pos="сущ.">масло</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">топленый жир</t>
          </tg>
       </mg>
    </e>
@@ -1873,8 +1841,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">ватрушка</t>
-            <t xml:lang="rus" pos="сущ.">шаньга</t>
+            <t xml:lang="rus" pos="сущ.">ватрушка</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">шаньга</t>
          </tg>
       </mg>
    </e>
@@ -1884,9 +1852,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">резать</t>
-            <t xml:lang="rus" pos="глаг.">обрезать</t>
-            <t xml:lang="rus" pos="глаг.">нарезать</t>
+            <t xml:lang="rus" pos="глаг.">резать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">обрезать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">нарезать</t>
          </tg>
       </mg>
    </e>
@@ -1896,10 +1864,10 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">печь</t>
-            <t xml:lang="rus" pos="глаг.">испечь</t>
-            <t xml:lang="rus" pos="глаг.">жарить</t>
-            <t xml:lang="rus" pos="глаг.">изжарить</t>
+            <t xml:lang="rus" pos="глаг.">печь</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">испечь</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">жарить</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">изжарить</t>
          </tg>
       </mg>
    </e>
@@ -1939,9 +1907,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">мешать</t>
-            <t xml:lang="rus" pos="глаг.">размешивать</t>
-            <t xml:lang="rus" pos="глаг.">перемешивать</t>
+            <t xml:lang="rus" pos="глаг.">мешать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">размешивать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">перемешивать</t>
          </tg>
       </mg>
    </e>
@@ -1951,8 +1919,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._VP: глаг. мест.">мешать чего</t>
-            <t xml:lang="rus" pos="mwe._VP: глаг. мест.">мешать кому</t>
+            <t xml:lang="rus" pos="mwe._VP: глаг. мест.">мешать чего</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._VP: глаг. мест.">мешать кому</t>
          </tg>
       </mg>
    </e>
@@ -1972,9 +1940,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">село (на берегу моря)</t>
-            <t xml:lang="rus" pos="сущ.">селение (на берегу моря)</t>
-            <t xml:lang="rus" pos="сущ.">деревня (на берегу моря)</t>
+            <t xml:lang="rus" pos="сущ.">село (на берегу моря)</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">селение (на берегу моря)</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">деревня (на берегу моря)</t>
          </tg>
       </mg>
    </e>
@@ -1984,9 +1952,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">гора</t>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">тундровая гора</t>
-            <t xml:lang="rus" pos="сущ.">тундра</t>
+            <t xml:lang="rus" pos="сущ.">гора</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">тундровая гора</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">тундра</t>
          </tg>
       </mg>
    </e>
@@ -2036,10 +2004,10 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">парень</t>
-            <t xml:lang="rus" pos="сущ.">юноша</t>
-            <t xml:lang="rus" pos="сущ.">мальчик</t>
-            <t xml:lang="rus" pos="сущ.">ребёнок</t>
+            <t xml:lang="rus" pos="сущ.">парень</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">юноша</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">мальчик</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">ребёнок</t>
          </tg>
       </mg>
    </e>
@@ -2089,8 +2057,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">друг</t>
-            <t xml:lang="rus" pos="сущ.">подруга</t>
+            <t xml:lang="rus" pos="сущ.">друг</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">подруга</t>
          </tg>
       </mg>
    </e>
@@ -2100,9 +2068,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">мальчик</t>
-            <t xml:lang="rus" pos="сущ.">малыш</t>
-            <t xml:lang="rus" pos="сущ.">ребёнок</t>
+            <t xml:lang="rus" pos="сущ.">мальчик</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">малыш</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">ребёнок</t>
          </tg>
       </mg>
    </e>
@@ -2122,8 +2090,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">дорогой</t>
-            <t xml:lang="rus" pos="прилаг.опред.">ценный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">дорогой</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">ценный</t>
          </tg>
       </mg>
    </e>
@@ -2133,8 +2101,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">ласковый</t>
-            <t xml:lang="rus" pos="прилаг.опред.">дружный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">ласковый</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">дружный</t>
          </tg>
       </mg>
    </e>
@@ -2144,9 +2112,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">умный</t>
-            <t xml:lang="rus" pos="прилаг.опред.">толковый</t>
-            <t xml:lang="rus" pos="прилаг.опред.">мудрый</t>
+            <t xml:lang="rus" pos="прилаг.опред.">умный</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">толковый</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">мудрый</t>
          </tg>
       </mg>
    </e>
@@ -2166,9 +2134,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">милый</t>
-            <t xml:lang="rus" pos="прилаг.опред.">милая</t>
-            <t xml:lang="rus" pos="сущ.">любовь</t>
+            <t xml:lang="rus" pos="прилаг.опред.">милый</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">милая</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="сущ.">любовь</t>
          </tg>
       </mg>
    </e>
@@ -2228,53 +2196,35 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">смешной</t>
-            <t xml:lang="rus" pos="прилаг.опред.">шутливый</t>
-            <t xml:lang="rus" pos="прилаг.опред.">забавный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">смешной</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">шутливый</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">забавный</t>
          </tg>
       </mg>
    </e>
+   
    <e meta="01">
       <lg>
-         <l pos="прил.">а̄рькэсь</l>
+         <l pos="прил.опред." src="kur">а̄ррькьесь</l>
+         <graph_var src="aaa">а̄рькэсь</graph_var>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">скромный</t>
-            <t xml:lang="rus" pos="прилаг.опред.">стеснительный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">скромный</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">стеснительный</t>
          </tg>
       </mg>
    </e>
+   
    <e meta="01">
       <lg>
-         <l pos="прил.">а̄ррькьесь</l>
+         <l pos="прил." src="kur">ка̄ййнъесь</l>
+                 <graph_var src="aaa">ка̄йнесь</graph_var>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">скромный</t>
-            <t xml:lang="rus" pos="прилаг.опред.">стеснительный</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="прил.">ка̄йнэсь</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">скромный</t>
-            <t xml:lang="rus" pos="прилаг.опред.">стеснительный</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="прил.">ка̄ййнҍесь</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">скромный</t>
-            <t xml:lang="rus" pos="прилаг.опред.">стеснительный</t>
+            <t xml:lang="rus" pos="прилаг.опред.">скромный</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">стеснительный</t>
          </tg>
       </mg>
    </e>
@@ -2330,22 +2280,21 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">оалм олма</l>
+         <l pos="сущ.">оалм-олма</l>
       </lg>
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">мужчина</t>
-            <t xml:lang="rus" pos="сущ.">мужчины</t>
-         </tg>
+                     </tg>
       </mg>
    </e>
    <e meta="01">
       <lg>
-         <l pos="сущ.">оалм о̄ллмэ</l>
+         <l pos="сущ.">оалм-о̄ллмэ</l>
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">мужчина</t>
+            
             <t xml:lang="rus" pos="сущ.">мужчины</t>
          </tg>
       </mg>
@@ -2376,9 +2325,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">сильный</t>
-            <t xml:lang="rus" pos="прилаг.опред.">мошьный</t>
-            <t xml:lang="rus" pos="прилаг.опред.">крепкий</t>
+            <t xml:lang="rus" pos="прилаг.опред.">сильный</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">мошьный</t></tg>
+            <tg><t xml:lang="rus" pos="прилаг.опред.">крепкий</t>
          </tg>
       </mg>
    </e>
@@ -2388,8 +2337,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">фантазия</t>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">приключенческие случаи</t>
+            <t xml:lang="rus" pos="сущ.">фантазия</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">приключенческие случаи</t>
          </tg>
       </mg>
    </e>
@@ -2399,10 +2348,10 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">пучок</t>
-            <t xml:lang="rus" pos="сущ.">букет (цветов)</t>
-            <t xml:lang="rus" pos="сущ.">толпа</t>
-            <t xml:lang="rus" pos="сущ.">набор</t>
+            <t xml:lang="rus" pos="сущ.">пучок</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">букет (цветов)</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">толпа</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">набор</t>
          </tg>
       </mg>
    </e>
@@ -2432,8 +2381,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._VP: глаг. сущ. ">есть ложкой</t>
-            <t xml:lang="rus" pos="mwe._VP: глаг. прилаг. сущ.">есть житкую пищу</t>
+            <t xml:lang="rus" pos="mwe._VP: глаг. сущ. ">есть ложкой</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._VP: глаг. прилаг. сущ.">есть житкую пищу</t>
          </tg>
       </mg>
    </e>
@@ -2443,14 +2392,14 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._VP: глаг. сущ. ">есть ложкой</t>
-            <t xml:lang="rus" pos="mwe._VP: глаг. прилаг. сущ.">есть житкую пищу</t>
+            <t xml:lang="rus" pos="mwe._VP: глаг. сущ. ">есть ложкой</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._VP: глаг. прилаг. сущ.">есть житкую пищу</t>
          </tg>
       </mg>
    </e>
    <e meta="01">
       <lg>
-         <l pos="глаг.">луннҍтҍе</l>
+         <l pos="глаг.">луннҍтъе</l>
       </lg>
       <mg>
          <tg>
@@ -2465,8 +2414,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">лопнуть</t>
-            <t xml:lang="rus" pos="глаг.">треснить</t>
+            <t xml:lang="rus" pos="глаг.">лопнуть</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="глаг.">треснить</t>
          </tg>
       </mg>
    </e>
@@ -2526,8 +2475,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">контакт</t>
-            <t xml:lang="rus" pos="сущ.">связывание</t>
+            <t xml:lang="rus" pos="сущ.">контакт</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">связывание</t>
             <t xml:lang="rus" pos="сущ.">завязывание</t>
          </tg>
       </mg>
@@ -2538,8 +2487,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">контакт</t>
-            <t xml:lang="rus" pos="сущ.">связывание</t>
+            <t xml:lang="rus" pos="сущ.">контакт</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">связывание</t>
             <t xml:lang="rus" pos="сущ.">завязывание</t>
          </tg>
       </mg>
@@ -2550,8 +2499,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">связаться</t>
-            <t xml:lang="rus" pos="mwe._VP: глаг. предл. сущ.">пойти на контакт</t>
+            <t xml:lang="rus" pos="глаг.">связаться</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._VP: глаг. предл. сущ.">пойти на контакт</t>
          </tg>
       </mg>
    </e>
@@ -2805,12 +2754,7 @@
             <t xml:lang="rus" pos="глаг.">бежать (человек)</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">бежать</t>
-         </tg>
-      </mg>
-   </e>
+         </e>
    <e meta="02">
       <lg>
          <l src="kur" pos="глаг.">вуагкэ</l>
@@ -2830,11 +2774,7 @@
             <t xml:lang="rus" pos="глаг.">бежать (животное)</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">бежать</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02">
       <lg>
@@ -2945,11 +2885,7 @@
       <lg>
          <l src="kur" pos="сущ.">пе̄ссь</l>
       </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">береста</t>
-         </tg>
-      </mg>
+      
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">берёста</t>
@@ -3562,10 +3498,7 @@
       <mg>
          <tg>
             <t xml:lang="rus" pos="прилаг.сказ.">весело</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
+         
             <t xml:lang="rus" pos="прилаг.опред.">веселый</t>
          </tg>
       </mg>
@@ -3924,11 +3857,7 @@
       <lg>
          <l src="kur" pos="мест.">пугк</l>
       </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="мест.">всё</t>
-         </tg>
-      </mg>
+      
       <mg>
          <tg>
             <t xml:lang="rus" pos="мест.">все</t>
@@ -4271,14 +4200,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">холм</t>
-            <t xml:lang="rus" pos="сущ.">гора</t>
-            <t xml:lang="rus" pos="сущ.">возвышенность</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">гора</t>
+            <t xml:lang="rus" pos="сущ.">холм</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">гора</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">возвышенность</t>
          </tg>
       </mg>
    </e>
@@ -4318,9 +4242,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">скалистая гора</t>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">высокая гора</t>
-            <t xml:lang="rus" pos="mwe._NP: сущ. сущ.">цепь гор</t>
+            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">скалистая гора</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">высокая гора</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: сущ. сущ.">цепь гор</t>
          </tg>
       </mg>
       <mg>
@@ -4562,11 +4486,7 @@
             <t xml:lang="rus" pos="глаг.">давать</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">давать</t>
-         </tg>
-      </mg>
+
    </e>
    <e meta="02">
       <lg>
@@ -4878,17 +4798,13 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">дом</t>
-            <t xml:lang="rus" pos="сущ.">жилище</t>
-            <t xml:lang="rus" pos="сущ.">квартира</t>
-            <t xml:lang="rus" pos="сущ.">комната</t>
+            <t xml:lang="rus" pos="сущ.">дом</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">жилище</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">квартира</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">комната</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">дом</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02">
       <lg>
@@ -5640,11 +5556,7 @@
             <t xml:lang="rus" pos="прилаг.опред.">зелёный</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="прилаг.опред.">зеленый</t>
-         </tg>
-      </mg>
+
    </e>
    <e meta="02">
       <lg>
@@ -6213,14 +6125,10 @@
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">корень</t>
-            <t xml:lang="rus" pos="сущ.">корни</t>
+            
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">корень</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02">
       <lg>
@@ -6723,9 +6631,9 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">лес</t>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">густой лес</t>
-            <t xml:lang="rus" pos="сущ.">тайга</t>
+            <t xml:lang="rus" pos="сущ.">лес</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">густой лес</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">тайга</t>
          </tg>
       </mg>
       <mg>
@@ -6744,11 +6652,7 @@
             <t xml:lang="rus" pos="глаг.">летать</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">лететь</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02">
       <lg>
@@ -6898,8 +6802,7 @@
          <tg>
             <t xml:lang="rus" pos="сущ.">конь</t>
          </tg>
-      </mg>
-      <mg>
+      
          <tg>
             <t xml:lang="rus" pos="сущ.">лошадь</t>
          </tg>
@@ -7356,16 +7259,12 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="нареч.">навсегда</t>
-            <t xml:lang="rus" pos="mwe._AdP: предл. сущ.">на века</t>
+            <t xml:lang="rus" pos="нареч.">навсегда</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._AdP: предл. сущ.">на века</t>
             <t xml:lang="rus" pos="mwe._AdP: предл. сущ.">на веки</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="нареч.">навсегда</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02" merged="2">
       <lg>
@@ -7375,8 +7274,7 @@
          <tg>
             <t xml:lang="rus" pos="mwe._AdP: предл. мест.">на ком-чём</t>
          </tg>
-      </mg>
-      <mg>
+      
          <tg>
             <t xml:lang="rus" pos="mwe._AdP: предл. мест.">над чем</t>
          </tg>
@@ -7458,16 +7356,12 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">небо</t>
-            <t xml:lang="rus" pos="сущ.">снег</t>
-            <t xml:lang="rus" pos="сущ.">пурга</t>
+            <t xml:lang="rus" pos="сущ.">небо</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">снег</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">пурга</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">небо</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02">
       <lg>
@@ -7635,15 +7529,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">нос</t>
-            <t xml:lang="rus" pos="сущ.">клюв</t>
+            <t xml:lang="rus" pos="сущ.">нос</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">клюв</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">нос</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02" merged="2">
       <lg>
@@ -7908,9 +7798,7 @@
          <tg>
             <t xml:lang="rus" pos="мест.">он</t>
          </tg>
-      </mg>
-      <mg>
-         <tg>
+               <tg>
             <t xml:lang="rus" pos="мест.">она</t>
          </tg>
       </mg>
@@ -8263,20 +8151,11 @@
       <mg>
          <tg>
             <t xml:lang="rus" pos="глаг.">писать</t>
-            <t xml:lang="rus" pos="глаг.">написать</t>
-            <t xml:lang="rus" pos="глаг.">составить</t>
+            <t xml:lang="rus" pos="глаг.">написать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">составить</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">написать</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">писать</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02" merged="2">
       <lg>
@@ -8634,12 +8513,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">село</t>
-            <t xml:lang="rus" pos="сущ.">селение</t>
-            <t xml:lang="rus" pos="сущ.">деревня</t>
+            <t xml:lang="rus" pos="сущ.">село</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">селение</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">деревня</t>
          </tg>
-      </mg>
-      <mg>
+      
          <tg>
             <t xml:lang="rus" pos="сущ.">поселок</t>
          </tg>
@@ -8931,13 +8809,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">растение</t>
-            <t xml:lang="rus" pos="сущ.">зелень</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">растение</t>
+            <t xml:lang="rus" pos="сущ.">растение</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="сущ.">зелень</t>
          </tg>
       </mg>
    </e>
@@ -9037,17 +8910,13 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="глаг.">резать</t>
-            <t xml:lang="rus" pos="глаг.">отрезать</t>
-            <t xml:lang="rus" pos="глаг.">разрезать</t>
-            <t xml:lang="rus" pos="глаг.">нарезать</t>
+            <t xml:lang="rus" pos="глаг.">резать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">отрезать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">разрезать</t></tg>
+            <tg><t xml:lang="rus" pos="глаг.">нарезать</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">резать</t>
-         </tg>
-      </mg>
+      
    </e>
    <e meta="02">
       <lg>
@@ -9708,16 +9577,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">солнце</t>
-            <t xml:lang="rus" pos="сущ.">день</t>
+            <t xml:lang="rus" pos="сущ.">солнце</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="сущ.">день</t>
          </tg>
       </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">солнце</t>
-         </tg>
-      </mg>
-   </e>
+         </e>
    <e meta="02">
       <lg>
          <l src="kur" pos="сущ.">нагерь</l>
@@ -9919,11 +9783,11 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">бабушка</t>
-            <t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">старая женщина</t>
-            <t xml:lang="rus" pos="сущ.">старуха</t>
-            <t xml:lang="rus" pos="сущ.">старушка</t>
-            <t xml:lang="rus" pos="сущ.">жёнушка</t>
+            <t xml:lang="rus" pos="сущ.">бабушка</t></tg>
+            <tg><t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">старая женщина</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">старуха</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">старушка</t></tg>
+            <tg><t xml:lang="rus" pos="сущ.">жёнушка</t>
          </tg>
       </mg>
       <mg>
@@ -10191,13 +10055,8 @@
       </lg>
       <mg>
          <tg>
-            <t xml:lang="rus" pos="сущ.">мука</t>
-            <t xml:lang="rus" pos="mwe._NP: сущ. предл. с. сущ. прилаг. сущ. ">суп из мяса или рыбы заправленный мукой</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">мука</t>
+            <t xml:lang="rus" pos="сущ.">мука</t></tg></mg>
+            <mg><tg><t xml:lang="rus" pos="mwe._NP: сущ. предл. с. сущ. прилаг. сущ. ">суп из мяса или рыбы заправленный мукой</t>
          </tg>
       </mg>
       <mg>
@@ -10928,13 +10787,6 @@
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">хвост</t>
-            <t xml:lang="rus" pos="глаг.">волочиться</t>
-            <t xml:lang="rus" pos="mwe._VP: глаг. сущ. предл. мест.">ходить следом за кем-нибудь</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">хвост</t>
          </tg>
       </mg>
    </e>
@@ -10971,11 +10823,6 @@
          <tg>
             <t xml:lang="rus" pos="глаг.">ходить</t>
             <t xml:lang="rus" pos="глаг.">идти</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">ходить</t>
          </tg>
       </mg>
    </e>
@@ -11563,12 +11410,6 @@
       <lg>
          <l src="kur" pos="сущ.">е̄гель</l>
       </lg>
-      <mg>
-         <tg>
-            <t xml:lang="rus" pos="сущ.">ягель (ед. число)</t>
-            <t xml:lang="rus" pos="сущ.">ягель (мн. число)</t>
-         </tg>
-      </mg>
       <mg>
          <tg>
             <t xml:lang="rus" pos="сущ.">ягель</t>
