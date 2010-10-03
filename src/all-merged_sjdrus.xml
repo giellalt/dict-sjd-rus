@@ -2375,11 +2375,15 @@
          <l pos="глаг.">луннҍтъе</l>
       </lg>
       <mg>
-         <tg>
-            <t xml:lang="rus" pos="глаг.">колоть</t></mg><mg>
-            <t xml:lang="rus" pos="глаг.">расколоть</t>
-         </tg>
-         <comment type="restriction">дрова</comment>
+	<tg>
+	  <t xml:lang="rus" pos="глаг.">колоть</t>
+	</tg>
+      </mg>
+      <mg>
+	<tg>
+	  <t xml:lang="rus" pos="глаг.">расколоть</t>
+	</tg>
+	<comment type="restriction">дрова</comment>
       </mg>
    </e>
    <e meta="01">
