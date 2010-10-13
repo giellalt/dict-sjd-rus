@@ -101,7 +101,7 @@
    <e meta="01">
       <lg>
          <l pos="глаг." src="kur">кӣһче</l>
-         <grapһ_var src="aaa">кӣххче</grapһ_var>
+         <graph_var src="aaa">кӣххче</graph_var>
       </lg>
       <mg>
          <tg>
@@ -297,7 +297,7 @@
    <e meta="01">
       <lg>
          <l pos="сущ." src="kur">поа̄һк-пе̄ййв</l>
-         <grapһ_var src="aaa">поа̄ххкпе̄ййв</grapһ_var>
+         <graph_var src="aaa">поа̄ххкпе̄ййв</graph_var>
       </lg>
       <mg>
          <tg>
@@ -440,7 +440,7 @@
    <e meta="01">
       <lg>
          <l pos="сущ." src="kur">тэ̄ӈс</l>
-         <grapһ_var src="aaa">тэ̄ӈас</grapһ_var>
+         <graph_var src="aaa">тэ̄ӈас</graph_var>
       </lg>
       <mg>
          <tg>
@@ -2157,7 +2157,7 @@
    <e meta="01">
       <lg>
          <l pos="прилаг.опред." src="kur">а̄ррькьесь</l>
-         <grapһ_var src="aaa">а̄рькэсь</grapһ_var>
+         <graph_var src="aaa">а̄рькэсь</graph_var>
       </lg>
       <mg>
          <tg>
@@ -2170,7 +2170,7 @@
    <e meta="01">
       <lg>
          <l pos="прилаг." src="kur">ка̄ййнъесь</l>
-                 <grapһ_var src="aaa">ка̄йнесь</grapһ_var>
+                 <graph_var src="aaa">ка̄йнесь</graph_var>
       </lg>
       <mg>
          <tg>
