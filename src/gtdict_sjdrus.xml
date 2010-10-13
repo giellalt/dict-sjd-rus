@@ -101,7 +101,7 @@
    <e meta="01">
       <lg>
          <l pos="глаг." src="kur">кӣһче</l>
-         <graph_var src="aaa">кӣххче</graph_var>
+         <grapһ_var src="aaa">кӣххче</grapһ_var>
       </lg>
       <mg>
          <tg>
@@ -297,7 +297,7 @@
    <e meta="01">
       <lg>
          <l pos="сущ." src="kur">поа̄һк-пе̄ййв</l>
-         <graph_var src="aaa">поа̄ххкпе̄ййв</graph_var>
+         <grapһ_var src="aaa">поа̄ххкпе̄ййв</grapһ_var>
       </lg>
       <mg>
          <tg>
@@ -440,7 +440,7 @@
    <e meta="01">
       <lg>
          <l pos="сущ." src="kur">тэ̄ӈс</l>
-         <graph_var src="aaa">тэ̄ӈас</graph_var>
+         <grapһ_var src="aaa">тэ̄ӈас</grapһ_var>
       </lg>
       <mg>
          <tg>
@@ -2157,7 +2157,7 @@
    <e meta="01">
       <lg>
          <l pos="прилаг.опред." src="kur">а̄ррькьесь</l>
-         <graph_var src="aaa">а̄рькэсь</graph_var>
+         <grapһ_var src="aaa">а̄рькэсь</grapһ_var>
       </lg>
       <mg>
          <tg>
@@ -2170,7 +2170,7 @@
    <e meta="01">
       <lg>
          <l pos="прилаг." src="kur">ка̄ййнъесь</l>
-                 <graph_var src="aaa">ка̄йнесь</graph_var>
+                 <grapһ_var src="aaa">ка̄йнесь</grapһ_var>
       </lg>
       <mg>
          <tg>
@@ -2535,7 +2535,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="прилаг.опред.">шӣhтлэсь</l>
+         <l src="kur" pos="прилаг.опред.">шӣһтлэсь</l>
       </lg>
       <mg>
          <tg>
@@ -2545,7 +2545,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">алфавӣhт</l>
+         <l src="kur" pos="сущ.">алфавӣһт</l>
       </lg>
       <mg>
          <tg>
@@ -2625,7 +2625,7 @@
    </e>
    <e meta="02" merged="2">
       <lg>
-         <l src="kur" pos="сущ.">оаhка</l>
+         <l src="kur" pos="сущ.">оаһка</l>
       </lg>
       <mg>
          <tg>
@@ -2864,7 +2864,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">билеhт</l>
+         <l src="kur" pos="сущ.">билеһт</l>
       </lg>
       <mg>
          <tg>
@@ -3080,7 +3080,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ." nonceform="*">больнэhц</l>
+         <l src="kur" pos="сущ." nonceform="*">больнэһц</l>
       </lg>
       <mg>
          <tg>
@@ -3090,7 +3090,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">лыhцэм-пэ̄ҏҏт</l>
+         <l src="kur" pos="сущ.">лыһцэм-пэ̄ҏҏт</l>
       </lg>
       <mg>
          <tg>
@@ -3170,7 +3170,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">сӯhпъе</l>
+         <l src="kur" pos="глаг.">сӯһпъе</l>
       </lg>
       <mg>
          <tg>
@@ -3565,7 +3565,7 @@
    </e>
    <e meta="02" merged="2">
       <lg>
-         <l src="kur" pos="сущ.">а̄hкэв</l>
+         <l src="kur" pos="сущ.">а̄һкэв</l>
       </lg>
       <mg>
          <tg>
@@ -3785,7 +3785,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">рēhкь</l>
+         <l src="kur" pos="сущ.">рēһкь</l>
       </lg>
       <mg>
          <tg>
@@ -3795,7 +3795,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="прич.">лыhцэй</l>
+         <l src="kur" pos="прич.">лыһцэй</l>
       </lg>
       <mg>
          <tg>
@@ -3805,7 +3805,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">ря̄hкхэмушш</l>
+         <l src="kur" pos="сущ.">ря̄һкхэмушш</l>
       </lg>
       <mg>
          <tg>
@@ -3906,7 +3906,7 @@
    </e>
    <e meta="02" merged="2">
       <lg>
-         <l src="kur" pos="глаг.">лыhцэ</l>
+         <l src="kur" pos="глаг.">лыһцэ</l>
       </lg>
       <mg>
          <tg>
@@ -4168,7 +4168,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">луэhк</l>
+         <l src="kur" pos="сущ.">луэһк</l>
       </lg>
       <mg>
          <tg>
@@ -4178,7 +4178,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">па̄hкь</l>
+         <l src="kur" pos="сущ.">па̄һкь</l>
       </lg>
       <mg>
          <tg>
@@ -4378,7 +4378,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">пэ̄hч</l>
+         <l src="kur" pos="сущ.">пэ̄һч</l>
       </lg>
       <mg>
          <tg>
@@ -4460,7 +4460,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="нареч.">куhкенҍ</l>
+         <l src="kur" pos="нареч.">куһкенҍ</l>
       </lg>
       <mg>
          <tg>
@@ -4480,7 +4480,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="числ.">кӯhт</l>
+         <l src="kur" pos="числ.">кӯһт</l>
       </lg>
       <mg>
          <tg>
@@ -4490,7 +4490,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="числ.">кӯhтлоагкь</l>
+         <l src="kur" pos="числ.">кӯһтлоагкь</l>
       </lg>
       <mg>
          <tg>
@@ -4500,7 +4500,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="числ.">кӯhтэмплоагкь</l>
+         <l src="kur" pos="числ.">кӯһтэмплоагкь</l>
       </lg>
       <mg>
          <tg>
@@ -5068,7 +5068,7 @@
    </e>
    <e meta="02" merged="2">
       <lg>
-         <l src="kur" pos="сущ.">а̄hкь</l>
+         <l src="kur" pos="сущ.">а̄һкь</l>
       </lg>
       <mg>
          <tg>
@@ -5309,7 +5309,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">лōhк</l>
+         <l src="kur" pos="сущ.">лōһк</l>
       </lg>
       <mg>
          <tg>
@@ -5329,7 +5329,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">руэhк</l>
+         <l src="kur" pos="сущ.">руэһк</l>
       </lg>
       <mg>
          <tg>
@@ -5389,7 +5389,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">коаhче</l>
+         <l src="kur" pos="глаг.">коаһче</l>
       </lg>
       <mg>
          <tg>
@@ -5965,7 +5965,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">суэhпэ</l>
+         <l src="kur" pos="глаг.">суэһпэ</l>
       </lg>
       <mg>
          <tg>
@@ -6427,7 +6427,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">рыhп</l>
+         <l src="kur" pos="сущ.">рыһп</l>
       </lg>
       <mg>
          <tg>
@@ -6487,7 +6487,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">роhцмушш</l>
+         <l src="kur" pos="сущ.">роһцмушш</l>
       </lg>
       <mg>
          <tg>
@@ -6676,7 +6676,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">вуэhць</l>
+         <l src="kur" pos="сущ.">вуэһць</l>
       </lg>
       <mg>
          <tg>
@@ -7577,7 +7577,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">роаммлаhтӭ</l>
+         <l src="kur" pos="глаг.">роаммлаһтӭ</l>
       </lg>
       <mg>
          <tg>
@@ -7702,7 +7702,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">эhкан</l>
+         <l src="kur" pos="сущ.">эһкан</l>
       </lg>
       <mg>
          <tg>
@@ -7841,7 +7841,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">мēhцьтэ</l>
+         <l src="kur" pos="глаг.">мēһцьтэ</l>
       </lg>
       <mg>
          <tg>
@@ -7921,7 +7921,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">цēhп</l>
+         <l src="kur" pos="сущ.">цēһп</l>
       </lg>
       <mg>
          <tg>
@@ -8006,7 +8006,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">цēhп-воаhц</l>
+         <l src="kur" pos="сущ.">цēһп-воаһц</l>
       </lg>
       <mg>
          <tg>
@@ -8399,7 +8399,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">вēhкь</l>
+         <l src="kur" pos="сущ.">вēһкь</l>
       </lg>
       <mg>
          <tg>
@@ -8409,7 +8409,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">вēhкьвудт</l>
+         <l src="kur" pos="сущ.">вēһкьвудт</l>
       </lg>
       <mg>
          <tg>
@@ -8505,7 +8505,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">пыhтӭ</l>
+         <l src="kur" pos="глаг.">пыһтӭ</l>
       </lg>
       <mg>
          <tg>
@@ -8575,7 +8575,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">кēввлаhтӭ</l>
+         <l src="kur" pos="глаг.">кēввлаһтӭ</l>
       </lg>
       <mg>
          <tg>
@@ -8645,7 +8645,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">пēтнэhц</l>
+         <l src="kur" pos="сущ.">пēтнэһц</l>
       </lg>
       <mg>
          <tg>
@@ -8675,7 +8675,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">лыhк</l>
+         <l src="kur" pos="сущ.">лыһк</l>
       </lg>
       <mg>
          <tg>
@@ -8685,7 +8685,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">ро̄бэhт</l>
+         <l src="kur" pos="сущ.">ро̄бэһт</l>
       </lg>
       <mg>
          <tg>
@@ -8796,7 +8796,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">каhцэ</l>
+         <l src="kur" pos="глаг.">каһцэ</l>
       </lg>
       <mg>
          <tg>
@@ -8826,7 +8826,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">ча̄һкраhтӭ</l>
+         <l src="kur" pos="глаг.">ча̄һкраһтӭ</l>
       </lg>
       <mg>
          <tg>
@@ -8870,7 +8870,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">чӯhпэ</l>
+         <l src="kur" pos="глаг.">чӯһпэ</l>
       </lg>
       <mg>
          <tg>
@@ -8990,7 +8990,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">воаhц</l>
+         <l src="kur" pos="сущ.">воаһц</l>
       </lg>
       <mg>
          <tg>
@@ -9170,7 +9170,7 @@
    </e>
    <e meta="02" merged="2">
       <lg>
-         <l src="kur" pos="глаг.">лыhкэ</l>
+         <l src="kur" pos="глаг.">лыһкэ</l>
       </lg>
       <mg>
          <tg>
@@ -9215,7 +9215,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ." nonceform="*">секреhт</l>
+         <l src="kur" pos="сущ." nonceform="*">секреһт</l>
       </lg>
       <mg>
          <tg>
@@ -9458,7 +9458,7 @@
    </e>
    <e meta="02" merged="2">
       <lg>
-         <l src="kur" pos="глаг.">кӣhче</l>
+         <l src="kur" pos="глаг.">кӣһче</l>
       </lg>
       <mg>
          <tg>
@@ -10272,7 +10272,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">туhк</l>
+         <l src="kur" pos="сущ.">туһк</l>
       </lg>
       <mg>
          <tg>
@@ -10572,7 +10572,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">кэ̄hче</l>
+         <l src="kur" pos="глаг.">кэ̄һче</l>
       </lg>
       <mg>
          <tg>
@@ -10632,7 +10632,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="прич.">о̄hпнуввэй</l>
+         <l src="kur" pos="прич.">о̄һпнуввэй</l>
       </lg>
       <mg>
          <tg>
@@ -10642,7 +10642,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">о̄hпнуввмушш</l>
+         <l src="kur" pos="сущ.">о̄һпнуввмушш</l>
       </lg>
       <mg>
          <tg>
@@ -10752,7 +10752,7 @@
    </e>
    <e meta="02" merged="2">
       <lg>
-         <l src="kur" pos="сущ.">куэhцев</l>
+         <l src="kur" pos="сущ.">куэһцев</l>
       </lg>
       <mg>
          <tg>
@@ -10873,7 +10873,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="глаг.">лыhклэ</l>
+         <l src="kur" pos="глаг.">лыһклэ</l>
       </lg>
       <mg>
          <tg>
@@ -10988,7 +10988,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">на̄hпь</l>
+         <l src="kur" pos="сущ.">на̄һпь</l>
       </lg>
       <mg>
          <tg>
@@ -11018,7 +11018,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="прилаг.опред.">чоаhпесь</l>
+         <l src="kur" pos="прилаг.опред.">чоаһпесь</l>
       </lg>
       <mg>
          <tg>
@@ -11278,7 +11278,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">куhць</l>
+         <l src="kur" pos="сущ.">куһць</l>
       </lg>
       <mg>
          <tg>
@@ -11469,7 +11469,7 @@
    </e>
    <e meta="02">
       <lg>
-         <l src="kur" pos="сущ.">чуhкь</l>
+         <l src="kur" pos="сущ.">чуһкь</l>
       </lg>
       <mg>
          <tg>
