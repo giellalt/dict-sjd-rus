@@ -7,6 +7,13 @@ http://saamruss.narod.ru/
 
 http://en.wikipedia.org/wiki/Windows-1251
 
+==================================
+Kildin Saami alphabet (sort order)
+==================================
+all possible (small) letters of all known alphabets are included
+а а̄ ӓ б в г д е е̄ ё ё̄ ж з һ ' и ӣ й ј ҋ к л ӆ м ӎ н ӊ ӈ о о̄ ӧ п р ҏ с т у ӯ ӱ ф x ц ч ш ъ ы ы̄ ӹ ь ҍ э ӭ ю ю̄ я я̄   
+
+
 ====================
 Building the dictionary:
 ====================
