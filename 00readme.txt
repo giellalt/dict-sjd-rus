@@ -26,7 +26,12 @@ on the e-element in the xml files:
 
 The list from MPI is the basis of dict extention: the infos from the
 list in pseudo-rtf format should be incorporated gradually.
- 
+
+03 - short word list from Lazer kallsa moajjnas, about somewhat more than 100 words
+please keep the info in <stem>, even though it is not well-structured and we don't need it now
+I haven't checked the Unicode od Latin vs. Cyrillic and composed vs. precomposed yet
+I haven't checked dublicates with 02 and 01 yet
+
 
 =====================
 Unicode issues
