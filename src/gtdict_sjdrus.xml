@@ -11487,4 +11487,1746 @@
          </tg>
       </mg>
    </e>
+   	<e meta="03">
+		<lg>
+			<l pos="сущ.">сыййт</l>
+			<stem>|-ыйт-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">село</t>
+				<t xml:lang="rus" pos="сущ.">селение</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">деревня</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">я̄мме</l>
+			<stem>|я̄м-, я̄мм-, ёам-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">умирать</t>
+				<t xml:lang="rus" pos="глаг.">умереть</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">неметь</t>
+				<t xml:lang="rus" pos="глаг.">онеметь</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">е̄лле</l>
+			<stem>|я̄л-, я̄лл-, йӣл-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">доживать</t>
+				<t xml:lang="rus" pos="глаг.">дожить</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">жить</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">вӯллькэ</l>
+			<stem>|-уэлк-, -уэллк-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">идти</t>
+				<t xml:lang="rus" pos="глаг.">пойти</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">направиться</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">вуэпьсэ</l>
+			<stem>|вуэпьса, вуэпяст|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">воспитывать</t>
+				<t xml:lang="rus" pos="глаг.">воспитать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">се̄йе</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">сеать</t>
+				<t xml:lang="rus" pos="глаг.">засеять</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">ма̄тҍхэ</l>
+			<stem>|ма̄тҍха, ма̄тӓһт|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">учить</t>
+				<t xml:lang="rus" pos="глаг.">обучать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">мэ̄ннэ</l>
+			<stem>|-э̄н-, -э̄нҍ-, -э̄ннҍ-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">идти</t>
+				<t xml:lang="rus" pos="глаг.">пойти</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">ве̄кьхэ</l>
+			<stem>|ве̄кьха, ве̄кяһт|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">помогать</t>
+				<t xml:lang="rus" pos="глаг.">помочь</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="мест.">тэдта</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="мест.">этот</t>
+				<t xml:lang="rus" pos="мест.">эта</t>
+				<t xml:lang="rus" pos="мест.">это</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">шэннтэ</l>
+			<stem>|-а̄нт-, -аннт-, -эннҍт-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">расти</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">рождаться</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">становиться</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">выращивать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">пынне</l>
+			<stem>|-ын-, -ынн-, -ынь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">охранять</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">беречь</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">спасать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">пасти</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">пуэдтҍлэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">прибыть</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">прийти</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">приехать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">поступить</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="послел.">альн</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">на</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">над</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">из</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">с</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">лыһкэ</l>
+			<stem>|-ыгк-, -ыһкь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">работать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">делать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">трудиться</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">э̄ввтэль</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">прежде</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">раньше</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">сначала</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">пай</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">всегда</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">всё</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">всё время</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="послел.">гуэйкэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">для</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">за</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">из-за</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="послел.">мӣлльтэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">с</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">за</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">по</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">пэ̄ҏҏт</l>
+			<stem>|-эҏт-, -э̄ҏҏь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">дом</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">здание</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">жилище</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="послел.">баяс</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">о</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">об</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="предл.">про</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">вӯлкхэ</l>
+			<stem>|вӯлкха, вӯлкаһт|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">отправить</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">послать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">направить</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">маӈӈа</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">после</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">потом</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">затем</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">воаррьдэ</l>
+			<stem>|воаррьда, воарряд|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">беречь</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">стеречь</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">охранать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">куэһцьев</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">хвоя</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: сущ. сущ. сущ.">ветка хвойного дерева</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">ниййт</l>
+			<stem>|-ӣйт-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">дочь</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">девушка</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">нымьп</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">второй</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">другой</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">вуэппьсуввэ</l>
+			<stem>|-ув-, -увв-, -уввь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">воспитываться</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">заниматься</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">касьт</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">где</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">откуда</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">са̄ррнэ</l>
+			<stem>|-а̄рн-, -оаррн-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">говорить</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">разговаривать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">ло̄гкэ</l>
+			<stem>|-о̄г-, -оагк-, о̄гкь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">читать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">считать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">ныдтҍ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">да</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">так</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Вуафнэсс</l>
+			<stem>|-эз-, -сс-|</stem>
+</lg>
+		
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Афанасий</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">пя̄дцлушшэ</l>
+			<stem>|-уж-, -ушшь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">заботиться</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">бескокоиться</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">адтҍ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">теперь</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._AdP: предл. прилаг.опред. сущ.">в настоящее время</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">кӯсс</l>
+			<stem>|-ӯз-, -ӯссь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">ель</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">ёлка</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">ыжэм</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">ижемец</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">ижемский</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Ылльй</l>
+			<stem>|-ыльй-|</stem>
+</lg>
+		
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Ильич</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">во̄дтэдтӭ</l>
+			<stem>|-эд-, -эдт-, -эдҍ-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">бывать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._VP: глаг. сущ.">иметь доступ</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="мест.">мудта</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">другой</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">иной</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">пӯдтэ</l>
+			<stem>|-ӯд-, -ӯдтҍ-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">кончиться</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">иссякнуть</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="мест.">кӯ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="мест.">который</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="мест.">какой</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Кӣллт</l>
+			<stem>|-ӣлт-, ӣлльт-|</stem>
+</lg>
+		
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">кильдинский</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">юррьтэ</l>
+			<stem>|-юрт-, -юррт-, -юрьт-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">думать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">мыслить</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">моазэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">обратно</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">назад</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">моаст</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">обратно</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">назад</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">о̄һпнуввэ</l>
+			<stem>|-ув-, -уввь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">учиться</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">обычаться</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">е̄ммьнэ</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">земля</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">почва</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">пайнэмушш</l>
+			<stem>|-уж-, -шшь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">повышение</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">прогресс</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">тӯййшуввэ</l>
+			<stem>|-ув-, -уввь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">делаться</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">работаться</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">пыдтӭ</l>
+			<stem>|-ыд-, -ыдт-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">топить</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">растапливать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">куаййвэ</l>
+			<stem>|-уайв-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">копать</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">рыть</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">са̄мь</l>
+			<stem>|-а̄ммь-, -оамь-, -а̄мм-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">саами</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">саамский</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">коадхэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">потерять</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">утерять</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">кӣлл</l>
+			<stem>|-ӣл-, -ӣлль-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">речь</t>
+</tg>
+</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">язык</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">букваррь</l>
+			<stem>|-арь-, -арр-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">букварь</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">ва̄ррь</l>
+			<stem>|-а̄рь-, -а̄рр-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">лес</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">делегаһт</l>
+			<stem>|-ат-, -һтҍ-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">делегат</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">интернаһт</l>
+			<stem>|-ат-, -һтҍ-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">интернат</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">ке̄ддҍк</l>
+			<stem>|-е̄дҍк-, -е̄ддк-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">камень</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">не̄лльй</l>
+			<stem>|-е̄льй-, -я̄льй-, -ӣльй-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="числ.">четыре</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">пионерр</l>
+			<stem>|-ер-, -еррь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">пионер</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">поаһкэ</l>
+			<stem>|-оагк-, -оаһкь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">белеть</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">народтҍ</l>
+			<stem>|-одҍ-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">народ</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">колхосс</l>
+			<stem>|-оз-, -ссь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">колхоз</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">ко̄ллм</l>
+			<stem>|-о̄лм-, -о̄льм-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="числ.">три</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">ро̄бхушшэ</l>
+			<stem>|-уж-, -ушшь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">работать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">коппчнэдтмушш</l>
+			<stem>|-уж-,-шшь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">сбор</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">лӯппьтэ</l>
+			<stem>|-ӯпт-, -ӯппт-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">окончиться</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">рӯшш</l>
+			<stem>|-ӯш-, -ӯшшь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">русский</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">мушшьтэ</l>
+			<stem>|-ушт-, -ушшт-, -ушьт-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">помнить</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Куэллнэгк</l>
+			<stem>|-эг-, -эгкь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Кола</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Коардэгк</l>
+			<stem>|-эг-, гкь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Воронье</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Луя̄ввьр</l>
+			<stem>|-я̄вьр-, -я̄ввр-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Ловозеро</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">аджь</l>
+			<stem>|ажь-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">отец</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">аллькэ</l>
+			<stem>|алк-, аллк-, -элльк-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">начинать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">алльк</l>
+			<stem>|альк-, эльк-, аллк-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">сын</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">ёадтӭ</l>
+			<stem>|ёад-, ёадт-, ё̄д-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">ехать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">е̄ннҍ</l>
+			<stem>|е̄нҍ-, я̄ннҍ-, я̄нн-, е̄ннҍ-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">мать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="глаг.">лӣйе</l>
+			<stem>|ля̄, лӣ, ля̄йй, ля̄й|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">быть</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Вуэннҍтре</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Андрей</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">кла̄сс</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">кла̄сс</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">кнӣга</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">книга</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Ладэмыр</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Владимир</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">отделение</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">отделение</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">па̄ртия</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">партия</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">пе̄рвэ</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">первый</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">пра̄ктикум</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">практикум</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">се̄мя</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">семя</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">учтель</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">учитель</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Ша̄шка</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Александр</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">шко̄ла</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">школа</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Эвван</l>
+			<stem>|о.\,ч.|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Иван</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">о̄ллма</l>
+			<stem>|о̄ллмэ|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">человек</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">ыгкь</l>
+			<stem>|ыгь-, ыгк-|</stem>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">год</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">шӯрр</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">большой</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">вуэппьсэй</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">воспитатель </t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">эвтас</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">вперёд</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">кӯһт</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="числ.">два</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">кӯһтэмплоагкь</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="числ.">двенадцать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">вя̄л</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">ещё</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="част.">шэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="част.">же</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">тыста</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">здесь</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="с.">я</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="с.">и</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="с.">гӯ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="с.">как</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">ко̄ххт</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">как</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">куэссь</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">когда</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">коммунистическэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">коммунистический</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">пэрямп</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">лучше</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">удць</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">маленький</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">мастерскэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">мастерской</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">ванҍса</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">меньше</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">рай</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">мимо</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="собст.">Мӯрман</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="собст.">Мурманск</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">Мӯрманскэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">Мурманский</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">педагогическэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">педагогический</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">кырьйхэй</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">писатель</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">нюэзе</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.сказ.">плохо</t>
+</tg>
+</mg>
+</e>
+	
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">подготовительнэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">подготовительный</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="с.">темэтҍ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="с.">поэтому</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">производственнэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">производственный</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">выдтэмплоагкь</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="числ.">пятнадцать</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">выдант</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="числ.">пятый</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">кыджянт</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="числ.">седмой</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">советскэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">советский</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="сущ.">сруэһк</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">срок</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">тамьпэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">там</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="нареч.">танна</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="нареч.">тогда</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">пуэраст</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.сказ.">хорошо</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="с.">штэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="с.">что</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="с.">штобэ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="с.">чтобы</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="числ.">кудант</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="числ.">шестой</t>
+</tg>
+</mg>
+</e>
+	<e meta="03">
+		<lg>
+			<l pos="прилаг.">этажэнҍ</l>
+</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">этажный</t>
+</tg>
+</mg>
+</e>
 </r>
