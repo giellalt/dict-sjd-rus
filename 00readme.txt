@@ -75,6 +75,7 @@ Where should it live finally?
 предл.	preposition
 послел. postposition
 с.	connector
+собст.	proper noun
 
 ----------------
 phrases, e.g.:
