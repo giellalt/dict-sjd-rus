@@ -33,6 +33,12 @@ on the e-element in the xml files:
 -dublicates with 02 and 01 are not yet checked
 -orthography is Kuruč's
 
+04 - short list of animal names and words related to animals collected by Andrey Dubovcev and Micha, somewhat more than 120 words
+-please keep the class-attribute and the semantic info, even though it is incomplete and might not be well-structured
+-the Unicode of Latin vs. Cyrillic and composed vs. precomposed letters is not yet checked completely
+-dublicates with 01-03 are not yet checked
+-both orthographies (where already included in the imported Excel-chart)
+
 
 =====================
 Unicode issues
