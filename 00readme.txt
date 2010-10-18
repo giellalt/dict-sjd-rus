@@ -20,17 +20,18 @@ Building the dictionary:
 Here is the list of the attribute values for the attribute 'meta'
 on the e-element in the xml files:
 
-01 - this is the list of sjdoahpa lemmata that kindly have been corrected
- by native speaker A.A.Antonova via Elli
+01 - this is the list of sjdoahpa lemmata that kindly have been corrected by native speaker A.A.Antonova via Elli
+-orthography is A.A.Antonova's
+
 02 - Michas Liste downloaded from MPI server
+-The list from MPI is the basis of dict extention: the infos from the list in pseudo-rtf format should be incorporated gradually.
+-orthography is Kuruč's
 
-The list from MPI is the basis of dict extention: the infos from the
-list in pseudo-rtf format should be incorporated gradually.
-
-03 - short word list from Lazer kallsa moajjnas, about somewhat more than 100 words
-please keep the info in <stem>, even though it is not well-structured and we don't need it now
-I haven't checked the Unicode od Latin vs. Cyrillic and composed vs. precomposed yet
-I haven't checked dublicates with 02 and 01 yet
+03 - short word list from Lazer kallsa moajjnas created by Micha, about somewhat more than 100 words
+-please keep the info in <stem>, even though it is not well-structured and we don't need it now
+-the Unicode of Latin vs. Cyrillic and composed vs. precomposed letters is not yet checked
+-dublicates with 02 and 01 are not yet checked
+-orthography is Kuruč's
 
 
 =====================
