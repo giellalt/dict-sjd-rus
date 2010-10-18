@@ -2427,7 +2427,7 @@
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="сущ."src="kur">туһк</l>
+			<l pos="сущ." src="kur">туһк</l>
 			<graph_var src="aaa">туххк</graph_var>
 		</lg>
 		<mg>
@@ -11731,7 +11731,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="глаг.">е̄лле</l>
-			<stem>|я̄л-, я̄лл-, йӣл-|</stem>
+			<stem>|я̄л-, я̄лл-, йӣл-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -11747,7 +11747,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">вӯллькэ</l>
+			<l src="kur" pos="глаг.">вӯллькэ</l>
 			<stem>|-уэлк-, -уэллк-|</stem>
 		</lg>
 		<mg>
@@ -11789,7 +11789,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="глаг.">ма̄тҍхэ</l>
-			<stem>|ма̄тҍха, ма̄тӓһт|</stem>
+			<stem>|ма̄тҍха, ма̄тӓһт|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12019,7 +12019,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="послел.">мӣлльтэ</l>
+			<l src="kur" pos="послел.">мӣлльтэ</l>
 		</lg>
 		<mg>
 			<tg>
@@ -12080,8 +12080,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">вӯлкхэ</l>
-			<stem>|вӯлкха, вӯлкаһт|</stem>
+			<l src="kur" pos="глаг.">вӯлкхэ</l>
+			<stem>|вӯлкха, вӯлкаһт|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12159,7 +12159,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">ниййт</l>
-			<stem>|-ӣйт-|</stem>
+			<stem>|-ӣйт-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12309,8 +12309,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="сущ.">кӯсс</l>
-			<stem>|-ӯз-, -ӯссь-|</stem>
+			<l src="kur" pos="сущ.">кӯсс</l>
+			<stem>|-ӯз-, -ӯссь-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12351,7 +12351,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">во̄дтэдтӭ</l>
+			<l src="kur" pos="глаг.">во̄дтэдтӭ</l>
 			<stem>|-эд-, -эдт-, -эдҍ-|</stem>
 		</lg>
 		<mg>
@@ -12382,8 +12382,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">пӯдтэ</l>
-			<stem>|-ӯд-, -ӯдтҍ-|</stem>
+			<l src="kur" pos="глаг.">пӯдтэ</l>
+			<stem>|-ӯд-, -ӯдтҍ-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12398,7 +12398,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="мест.">кӯ</l>
+			<l src="kur" pos="мест.">кӯ</l>
 		</lg>
 		<mg>
 			<tg>
@@ -12413,8 +12413,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="собст.">Кӣллт</l>
-			<stem>|-ӣлт-, ӣлльт-|</stem>
+			<l src="kur" pos="собст.">Кӣллт</l>
+			<stem>|-ӣлт-, ӣлльт-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12518,7 +12518,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">тӯййшуввэ</l>
+			<l src="kur" pos="глаг.">тӯййшуввэ</l>
 			<stem>|-ув-, -уввь-|</stem>
 		</lg>
 		<mg>
@@ -12534,7 +12534,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">пыдтӭ</l>
+			<l src="kur" pos="глаг.">пыдтӭ</l>
 			<stem>|-ыд-, -ыдт-|</stem>
 		</lg>
 		<mg>
@@ -12597,8 +12597,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="сущ.">кӣлл</l>
-			<stem>|-ӣл-, -ӣлль-|</stem>
+			<l src="kur" pos="сущ.">кӣлл</l>
+			<stem>|-ӣл-, -ӣлль-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12669,7 +12669,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="числ.">не̄лльй</l>
-			<stem>|-е̄льй-, -я̄льй-, -ӣльй-|</stem>
+			<stem>|-е̄льй-, -я̄льй-, -ӣльй-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12756,8 +12756,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">лӯппьтэ</l>
-			<stem>|-ӯпт-, -ӯппт-|</stem>
+			<l src="kur" pos="глаг.">лӯппьтэ</l>
+			<stem>|-ӯпт-, -ӯппт-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12767,8 +12767,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="сущ.">рӯшш</l>
-			<stem>|-ӯш-, -ӯшшь-|</stem>
+			<l src="kur" pos="сущ.">рӯшш</l>
+			<stem>|-ӯш-, -ӯшшь-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12855,8 +12855,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">ёадтӭ</l>
-			<stem>|ёад-, ёадт-, ё̄д-|</stem>
+			<l src="kur" pos="глаг.">ёадтӭ</l>
+			<stem>|ёад-, ёадт-, ё̄д-|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12877,8 +12877,8 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="глаг.">лӣйе</l>
-			<stem>|ля̄, лӣ, ля̄йй, ля̄й|</stem>
+			<l src="kur" pos="глаг.">лӣйе</l>
+			<stem>|ля̄, лӣ, ля̄йй, ля̄й|</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12910,7 +12910,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="сущ.">кнӣга</l>
+			<l src="kur" pos="сущ.">кнӣга</l>
 			<stem>|о.\,ч.|</stem>
 		</lg>
 		<mg>
@@ -13053,7 +13053,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="прилаг.">шӯрр</l>
+			<l src="kur" pos="прилаг.">шӯрр</l>
 		</lg>
 		<mg>
 			<tg>
@@ -13083,7 +13083,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="числ.">кӯһт</l>
+			<l src="kur" pos="числ.">кӯһт</l>
 		</lg>
 		<mg>
 			<tg>
@@ -13093,7 +13093,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="числ.">кӯһтэмплоагкь</l>
+			<l src="kur" pos="числ.">кӯһтэмплоагкь</l>
 		</lg>
 		<mg>
 			<tg>
@@ -13143,7 +13143,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="с.">гӯ</l>
+			<l src="kur" pos="с.">гӯ</l>
 		</lg>
 		<mg>
 			<tg>
@@ -13233,7 +13233,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="собст.">Мӯрман</l>
+			<l src="kur" pos="собст.">Мӯрман</l>
 		</lg>
 		<mg>
 			<tg>
@@ -13243,7 +13243,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l src="kur" pos="прилаг.">Мӯрманскэ</l>
+			<l src="kur" pos="прилаг.">Мӯрманскэ</l>
 		</lg>
 		<mg>
 			<tg>
@@ -13429,6 +13429,2677 @@
 			<tg>
 				<t xml:lang="rus" pos="прилаг.опред.">этажный</t>
 			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="глаг." class="II" src="kur">чарьчсе</l>
+			<graph_var src="aaa">чарьчсе</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">щебетать</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">chirp</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">цызга</l>
+			<graph_var src="aaa">цызга</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">воробей</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">sparrow</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Sparrow</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">цыза</l>
+			<graph_var src="aaa">цыза</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">воробей</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">sparrow</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Sparrow</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">ча̄шенҍ</l>
+			<graph_var src="aaa">ча̄шэнҍ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">дятел</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">woodpecker</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Woodpecker</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">чуэраш</l>
+			<graph_var src="aaa">чуэраш</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">муха</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">fly</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Fly</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">че̄вьресь</l>
+			<graph_var src="aaa">че̄вьресь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">выдра</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">otter</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en/wikipedia.org/wiki/Otter</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">троасськэ</l>
+			<graph_var src="aaa">троасськэ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">треска</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">cod</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Cod</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">тынта</l>
+			<graph_var src="aaa">тынта</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">горбуша</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">humpback salmon</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Humpback salmon</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">тюдӓ</l>
+			<graph_var src="aaa">тюдӓ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">кулик</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">wood-cock</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Wood-cock</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">собха</l>
+			<graph_var src="aaa">собха</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">сорока</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">magpie</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Magpie</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">сэфс</l>
+			<graph_var src="aaa">сэфс</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">шерсть</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">coat</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Coat</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">пӣжь</l>
+			<graph_var src="aaa">пӣжь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">хвост</t>
+				<comment type="explanation">у оленя</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">tail</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mammal</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">пикша</l>
+			<graph_var src="aaa">пикша</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">пикша</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">eglefin</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Eglefin</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">пуййтэ</l>
+			<graph_var src="aaa">пуййтэ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">горностай</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">ermine</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Ermine</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">пэдтш</l>
+			<graph_var src="aaa">пэдтш</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">хвост</t>
+				<comment type="explanation">у птицы</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">tail</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">о̄а̄бпан</l>
+			<graph_var src="aaa">о̄а̄бпан</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">усы</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">whisker</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mammal</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">ныкке</l>
+			<graph_var src="aaa">ныкке</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">птица</t>
+				<comment type="restriction">черная</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">not included</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">нюррка</l>
+			<graph_var src="aaa">нюррка</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">утка</t>
+				<comment type="restriction">черная</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">not included</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">киррэ</l>
+			<graph_var src="aaa">киррэ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">рябчик</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">hazel grouse</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Hazel grouse</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">кыммч</l>
+			<graph_var src="aaa">кыммч</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">медведь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">bear</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bear</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">аннлэӊк</l>
+			<graph_var src="aaa">аннлэӊк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">утка-олейка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">not included</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">воалда</l>
+			<graph_var src="aaa">воалда</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">челюсти</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">jaw</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mammal</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">вӯшшьн</l>
+			<graph_var src="aaa">вӯшенҍ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">налим</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">freshwater cod</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Freshwater cod</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">ве̄зьвеш</l>
+			<graph_var src="aaa">вязвэшш</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">оса</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">wasp</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Wasp</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">е̄бешъ</l>
+			<graph_var src="aaa">е̄бешь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">конь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">horse</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Horse</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="???" src="kur">идэч</l>
+			<graph_var src="aaa">идэч</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">голец</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">barren area</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Barren area</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">уййв</l>
+			<graph_var src="aaa">уййв</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">пух</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">down</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">цеххп</l>
+			<graph_var src="aaa">цеhп</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">палец</t>
+				<comment type="explanation">у птицы</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">toe</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Toe</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">цуэмпме̄ййн</l>
+			<graph_var src="aaa">цуэмп-ме̄ййн</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: прилаг.опрел. сущ.">лягушачья икра</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">frog spawn</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="amphibian"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Frog spawn</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чадзьлоаннҍт</l>
+			<graph_var src="aaa">чадзь-лоаннҍт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">утка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">duck</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чадзьчуххч</l>
+			<graph_var src="aaa">чадзь-чуххч</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">коршун</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">kite</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Kite</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чоагкэ</l>
+			<graph_var src="aaa">чо̄а̄гкэ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: сущ. сущ.">гребень петуха</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">cock crest</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Cock crest</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чӯмм</l>
+			<graph_var src="aaa">чӯмм</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">чешуя</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">scales</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Scales</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чуҏҏьш</l>
+			<graph_var src="aaa">чуҏҏьш</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">кряква</t>
+				<comment type="explanation">дикая утка</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">mallard</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mallard</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чуххч</l>
+			<graph_var src="aaa">чуххч</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">тетерев</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">глухарь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">heath cock</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Heath cock</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чӯшшк</l>
+			<graph_var src="aaa">чӯшшк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">комар</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">mosquito</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mosquito</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чуэддҍк</l>
+			<graph_var src="aaa">чуэддҍк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">звонуха</t>
+				<comment type="explanation">дикая утка</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">wild dick</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">чуэррьв</l>
+			<graph_var src="aaa">чуэррьв</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">рог</t>
+				<comment type="restriction">олений</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">antlers</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Antlers</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ша̄бп</l>
+			<graph_var src="aaa">ша̄бп</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">сиг</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">cisco</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Cisco</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">тейнчлинк</l>
+			<graph_var src="aaa">тейнчлиӈӈк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">ящерица</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">salamander</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="amphibian"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Salamander</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">тӯлльй</l>
+			<graph_var src="aaa">тӯлльй</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">шкура</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">skin</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mammal</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">туррьп</l>
+			<graph_var src="aaa">туррьп</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">морда</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">рыло</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">muzzle</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Muzzle</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">саххьк</l>
+			<graph_var src="aaa">саһкь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">креветка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">prawn</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="crustacean"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Prawn</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">сӣллт</l>
+			<graph_var src="aaa">crustacean</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">сельдь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">herring</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Herring</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">суввьт</l>
+			<graph_var src="aaa">суввьт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">жабры</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">gill</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Gill</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">суэйй</l>
+			<graph_var src="aaa">суэйй</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">крыло</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">wing</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Wing</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">сэ̄ррв</l>
+			<graph_var src="aaa">сэ̄ррв</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">лось</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">elk</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Elk</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ся̄вв</l>
+			<graph_var src="aaa">ся̄вв</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">грива</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">crest</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">рӣммьн</l>
+			<graph_var src="aaa">рӣммьн</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">лиса</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">fox</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en/wikipedia.org/wiki/Fox</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ро̄ссь</l>
+			<graph_var src="aaa">ро̄ссь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">конь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">horse</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Horse</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">руввьтпуарр</l>
+			<graph_var src="aaa">руввьт-пуарр</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">слепень</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">horsefly</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Horsefly</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">пуарр</l>
+			<graph_var src="aaa">пуарр</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">овод</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">gadfly</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">htpp://en.wikipedia.org/wiki/Gadfly</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">рыххп</l>
+			<graph_var src="aaa">рыhп</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">куропатка</t>
+				<comment type="restriction">белая</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">partridge</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Partridge</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">сахьплинк</l>
+			<graph_var src="aaa">саhплиӈӈк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">мышь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">mouse</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mouse</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">та̄лл</l>
+			<graph_var src="aaa">та̄лл</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">медведь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">bear</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bear</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">пе̄ссь</l>
+			<graph_var src="aaa">пе̄ссь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">гнездо</t>
+				<comment type="restriction">птичье</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">nest</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Nest</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">по̄ннц</l>
+			<graph_var src="aaa">по̄ннц</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">перо</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">feather</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Feather</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">пуррк</l>
+			<graph_var src="aaa">пуррк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: сущ. сущ. сущ.">отросток оленьего рога</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">antlers</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Antlers</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ра̄ввт</l>
+			<graph_var src="aaa">ра̄ввт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">палия</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">lake char</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Lake char</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">пальвошш</l>
+			<graph_var src="aaa">пальвошш</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">соловей</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">nightingale</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Nightingale</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">муррманнҍ</l>
+			<graph_var src="aaa">мурр-маннҍ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: прилаг.опрел. сущ.">древесный червяк</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">not included</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Insect</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">муэдтҍ</l>
+			<graph_var src="aaa">муэдтҍ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">стая</t>
+				<comment type="restriction">птиц</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">flight</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">на̄ввьт</l>
+			<graph_var src="aaa">на̄ввьт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">мех</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">fur</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Fur</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">на̄ввьт</l>
+			<graph_var src="aaa">на̄ввьт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">волк</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">wolf</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en/wikipedia.org/wiki/Wolf</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">нё̄а̄лл</l>
+			<graph_var src="aaa">нёалл</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">песец</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">polar fox</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en/wikipedia.org/wiki/Polar fox</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">не̄дтҍ</l>
+			<graph_var src="aaa">не̄дтҍ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">куница</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">marten</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en/wikipedia.org/wiki/Marten</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">нюннҍ</l>
+			<graph_var src="aaa">нюннҍ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">клюв</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">beak</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Beak</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">нюххч</l>
+			<graph_var src="aaa">нюххч</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">лебедь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">swan</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Swan</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ня̄ввь</l>
+			<graph_var src="aaa">ня̄ввь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">грива</t>
+				<comment type="explanation">у оленя</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">mane</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mane</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ня̄ввь</l>
+			<graph_var src="aaa">ня̄ввь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">слепень</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">horsefly</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Horsefly</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ня̄лльм</l>
+			<graph_var src="aaa">ня̄лльм</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">рот</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">mouth</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Fish</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">кэ̄ннц</l>
+			<graph_var src="aaa">кэ̄ннц</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">копыто</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">hooves</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Hooves</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">лӯсс</l>
+			<graph_var src="aaa">лӯсс</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">семга</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">salmon</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Salmon</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ма̄дт</l>
+			<graph_var src="aaa">ма̄дт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">гусеница</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">caterpillar</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Caterpillar</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ма̄дт</l>
+			<graph_var src="aaa">ма̄дт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">червяк</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">worm</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Worm</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">сӯккс</l>
+			<graph_var src="aaa">сӯккс</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">червяк</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">worm</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Worm</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">маййв</l>
+			<graph_var src="aaa">маййв</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">мойва</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">capelin</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Capelin</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">маннҍ</l>
+			<graph_var src="aaa">маннҍ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">яйцо</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">egg</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ме̄ййн</l>
+			<graph_var src="aaa">ме̄ййн</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">икра</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">fish roe</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Fish roe</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ме̄ррвуэсск</l>
+			<graph_var src="aaa">ме̄рр-вуэсск</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: прилаг.опрел. сущ.">морской окунь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">perch</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Perch</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ка̄ннҍ</l>
+			<graph_var src="aaa">ка̄ннҍ</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">курица</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">chicken</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Chicken</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ке̄ттҍк</l>
+			<graph_var src="aaa">ке̄ттҍк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">росомаха</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">glutton</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en/wikipedia.org/wiki/Glutton</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">кӣгк</l>
+			<graph_var src="aaa">кӣгк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">кукушка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">cuckoo</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Cuckoo</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">коанньтсахьплинк</l>
+			<graph_var src="aaa">коанньт-саhплиӈӈк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">лемминг</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">lemming</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Lemming</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">кӯррк</l>
+			<graph_var src="aaa">кӯррк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">журавль</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">crane</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Crane</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">койххь</l>
+			<graph_var src="aaa">ко̄jj</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">моль</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">moth</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Moth</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ко̄ттк</l>
+			<graph_var src="aaa">ко̄ттк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">муравей</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">ant</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Ant</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">куввч</l>
+			<graph_var src="aaa">куввч</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">кумжа</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">bulltrout</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bulltrout</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">кӯввьт</l>
+			<graph_var src="aaa">кӯввьт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">змея</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">snake</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="reptile"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Snake</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">кунньлоанньт</l>
+			<graph_var src="aaa">куннь-лоаннҍт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">сова</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">owl</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Owl</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ва̄лль</l>
+			<graph_var src="aaa">ва̄лль</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">ястреб</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">сокол</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">ве̄ппьс</l>
+			<graph_var src="aaa">ве̄ппьс</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">плавник</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">fin</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Fin</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="I" src="kur">руввьтпуарр</l>
+			<graph_var src="aaa">руввьт-пуарр</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">оса</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">wasp</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Wasp</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">ча̄бар</l>
+			<graph_var src="aaa">ча̄бар</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">чайка</t>
+				<comment type="restriction">морская</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">gull</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Gull</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">чушшкпе̄ррэй</l>
+			<graph_var src="aaa">чушшк-пе̄ррэй</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">стрекоза</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">dragonfly</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Dragonfly</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">чушшкёадтэй</l>
+			<graph_var src="aaa">чушшк-ёадтэй</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">стрекоза</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">dragonfly</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Dragonfly</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">суэввель</l>
+			<graph_var src="aaa">суэввель</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">хариус</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">grayling</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Grayling</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">та̄лыш</l>
+			<graph_var src="aaa">та̄лыш</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">медведь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">bear</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bear</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">пальтэсь</l>
+			<graph_var src="aaa">пальтэсь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">палтус</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">halibut</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Halibut</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">пе̄гкей</l>
+			<graph_var src="aaa">пе̄гкей</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">пресмыкающееся</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">reptile</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="reptiles"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng"/>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">пе̄цехь</l>
+			<graph_var src="aaa">пе̄цехь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">хвост</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">tail</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Fish</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">ныгкешь</l>
+			<graph_var src="aaa">ныгкешь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">щука</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">ged</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Ged</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">нюэммель</l>
+			<graph_var src="aaa">нюэммель</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">заяц</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">hare; rabbit</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Hare</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">ля̄ксэгк</l>
+			<graph_var src="aaa">ля̄ксэгк</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">куропатка</t>
+				<comment type="explanation">самец</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">partridge</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Partridge</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">ме̄даш</l>
+			<graph_var src="aaa">ме̄даш</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">пчела</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">bumblebee</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bumblebee</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">ме̄герь</l>
+			<graph_var src="aaa">ме̄герь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">мошка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">midge</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Midge</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">ка̄рнӭсь</l>
+			<graph_var src="aaa">ка̄рьнэсь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">ворон</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">crow</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Crow</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">ке̄бпель</l>
+			<graph_var src="aaa">ке̄бпель</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">лапа</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">paw</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="animal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Paw</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">коамэн</l>
+			<graph_var src="aaa">коаман</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: прилаг.опрел. сущ.">лесная куропатка-самка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">not included</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">куэххьпель</l>
+			<graph_var src="aaa">куэххьпель</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">глухарка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">heath cock</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Heath cock</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">куэцькем</l>
+			<graph_var src="aaa">куэццькэмь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">орел</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">eagle</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Eagle</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">кыррьйтэй</l>
+			<graph_var src="aaa">кыррьйтэй</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">насекомое</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">insect</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng"/>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">вӯрэч</l>
+			<graph_var src="aaa">вӯрэч</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">ворона</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">crow</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Crow</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">вуэррев</l>
+			<graph_var src="aaa">вуэррев</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">белка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">squirrel</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Squirrel</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="II" src="kur">ка̄мьпель</l>
+			<graph_var src="aaa">ка̄мьпель</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">камбала</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">plaice</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Plaice</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">цуэмп</l>
+			<graph_var src="aaa">цуэмп</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">лягушка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">frog</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="amphibian"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Frog</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">чуэнь</l>
+			<graph_var src="aaa">чуэнь</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">гусь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">goose</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Goose</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">тофт</l>
+			<graph_var src="aaa">тофт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">гагара</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">not included</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">тохт</l>
+			<graph_var src="aaa">тохт</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">гагара</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">not included</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Bird</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">пуаз</l>
+			<graph_var src="aaa">пуаз</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">олень</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">deer</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Deer</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">оаб</l>
+			<graph_var src="aaa">оаб</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">усы</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">whisker</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mammal</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">о̄а̄з</l>
+			<graph_var src="aaa">оаз</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">паук</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">spider</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="arachnid"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Spider</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">оалв</l>
+			<graph_var src="aaa">оалв</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">выть</t>
+				<comment type="explanation">о звере</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">howl</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="mammal"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Mammal</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">а̄лльп</l>
+			<graph_var src="aaa">а̄льп</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">бабочка</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">butterfly</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Butterfly</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">вуэсск</l>
+			<graph_var src="aaa">вуэсск</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">окунь</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">river perch</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="fish"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/River perch</wikipedia>
+			</media_group>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="сущ." class="III" src="kur">ка̄йе</l>
+			<graph_var src="aaa">ка̄й</graph_var>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">чайка</t>
+				<comment type="restriction">озерная</comment>
+			</tg>
+			<tg>
+				<t xml:lang="eng">gull</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Gull</wikipedia>
+			</media_group>
 		</mg>
 	</e>
 </r>
