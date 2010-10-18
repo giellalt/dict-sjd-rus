@@ -98,15 +98,22 @@ nonceforms (Russian words for which a !recommended alternative Saami form exists
 But perhaps we should find another convention here?
 
 
-========================
-Coping with different graphic variant
-========================
+
+===========================================================
+Orthography issues / Coping with different graphic variants
+===========================================================
 Value list of the attribute :
 kur = Kuruč et al. 1985
 aaa = A.A.Antonova
 
 NB: Sjd Oahpa should be changed accordingly wrt. the different
 spelling variation, too!
+
+-src="kur" means "according to the orthographic principles of the 1985 dictionary" and concerns mainly the spelling of j and һ (obs! not all words with src="kur" in sjdrus are really listed in the 1985 dictionary)
+-<graph_var src="aaa"> means "according to A.A.Antonova's own orthographic principles" and concerns mainly the spelling of йхх and хх (instead of j and һ) but often also other spellings different from both 1985 and (Kert's) 1986 dictionary
+-<graph_var src="aaa"> can (hopefully) be derived automatically from src="kur" (see the rules below)
+-all derivations aaa --> kur (which cannot be done automatically [because of underspecification]) have therefore by checked manually by Micha
+-all entries missing an src="..." attribute have similar spellings in kur and aaa
 
 -----------------
 kur -> aaa mapping:
