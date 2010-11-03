@@ -39,6 +39,14 @@ on the e-element in the xml files:
 -dublicates with 01-03 are not yet checked
 -both orthographies (where already included in the imported Excel-chart)
 
+05 - first try of restructering the Kurutch-file in GT-xml
+- so far only lemmata (all words starting with д and ф)
+- das Element <kur_ID> ist eine ID für jedes Lemma, dass in der Originaldatei enthalten war. Ich möchte es behalten, damit man das Wörterbuch eventuell später zu der Originaldatei zuordnen kann.
+-das Element <stem>  zeigt den Stufenwechsel, so wie Kurutch ihn analysiert hat. Das ist in den meisten Fällen richtig. Ich will es erstmal behalten und später sehen, was ich damit machen kann.
+-das Element <kur_class> zeigt Kurutchs Analyse der Flexionsklassen. Die ist in vielen Fällen nicht richtig. Aber ich will es erstmal behalten. Ich bin gerade dabei, einen eigene Analyse aller Flexionsklassen aufzuschreiben.
+-das Element <LINK> zeigt die Grundform bei abgeleiteten Lemmata
+-das Attribute nonceform="*" zeigt, dass dieses Wort einfach nur aus dem Russischen genommen ist. Diese Info ist nicht von Kurutch! Ich habe die Idee dafür aus einem anderen Wörterbuch.
+-Es gibt zusätzlich zur alten sjdrus-Struktur eine Example-Gruppe und manchmal auch zusätzliche Kommentare zu den Übersetzungen. Es war mir dabei wichtig, dass ich keine Informationen aus der Originaldatei wegwerfe. Vieles muss aber noch besser strukturiert werden.
 
 =====================
 Unicode issues
@@ -48,7 +56,6 @@ combined vs. precomposed CYRILLIC LETTERS E, I, U WITH DIAERESIS
 CYRILLIC SMALL LETTER SHHA (not Latin h)
 Cyrillic vowels (not Lation ones)
 CYRILLIC SMALL LETTER IO plus MACRON (not e plus diaresis plus macron)
-
 
 =====================
 Notes (MR)
@@ -73,21 +80,22 @@ POS mapping
 Preliminary list of PoS used in gtdict_sjdrus in Russian and English
 This List will be extended during continuing work
 Where should it live finally?
-сущ.	noun
 глаг.	verb
 мест.	pronoun
-прилаг.сказ.	predicative adjective
 нареч.	adverb
+послел. postposition
+предл.	preposition
+прилаг.	adjective
+прилаг.опред.	attributive adjective
+прилаг.сказ.	predicative adjective
+прич.	participle
+част.	particle
 числ.	numeral
 числ.неопрeд. indefinite pronoun
-прилаг.опред.	attributive adjective
-част.	particle
-прилаг.	adjective
-прич.	participle
-предл.	preposition
-послел. postposition
 с.	connector
+сказ. predicate
 собст.	proper noun
+сущ.	noun
 
 ----------------
 phrases, e.g.:
