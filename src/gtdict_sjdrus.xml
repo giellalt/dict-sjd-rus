@@ -10,7 +10,7 @@
 			</tg>
 		</mg>
 	</e>
-		<e meta="01">
+	<e meta="01">
 		<lg>
 			<l pos="сущ.">нӯрмусс</l>
 		</lg>
@@ -536,7 +536,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l pos="сущ.">пе̄ссьмурр</l>
@@ -557,7 +556,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l pos="сущ.">выррьп</l>
@@ -970,7 +968,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l pos="прилаг.">чоаһпэ</l>
@@ -1018,7 +1015,6 @@
 			</tg>
 		</mg>
 		<mg>
-			
 			<tg>
 				<t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">топленый жир</t>
 			</tg>
@@ -1425,7 +1421,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l pos="глаг.">пуэдтӭ</l>
@@ -1608,7 +1603,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l pos="глаг.">кархэ</l>
@@ -1622,7 +1616,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l pos="сущ." src="kur">са̄һпь</l>
@@ -1744,7 +1737,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l pos="сущ.">сӯлль</l>
@@ -2299,7 +2291,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l pos="прилаг.">тоавас</l>
@@ -3039,7 +3030,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">пыӆӆькэ</l>
@@ -3150,7 +3140,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">вӣлльй</l>
@@ -3809,7 +3798,7 @@
 			</tg>
 		</mg>
 	</e>
-		<e meta="02">
+	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">вуэлькэсь-пя̄лла</l>
 		</lg>
@@ -3859,7 +3848,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">коадзъе</l>
@@ -3982,7 +3970,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">ча̄лльм</l>
@@ -4094,7 +4081,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">вуэййв</l>
@@ -4191,7 +4177,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">тēррьм</l>
@@ -4502,7 +4487,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="числ.">аххцлоагкь</l>
@@ -4767,14 +4751,14 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">квартира</t>
 			</tg>
-			</mg>
-			<mg>
+		</mg>
+		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">комната</t>
 			</tg>
 		</mg>
 	</e>
-		<e meta="02">
+	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">кя̄ййн</l>
 		</lg>
@@ -4884,8 +4868,6 @@
 			</tg>
 		</mg>
 	</e>
-	
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">сӯвв</l>
@@ -4986,7 +4968,7 @@
 			</tg>
 		</mg>
 	</e>
-		<e meta="02" merged="2">
+	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="глаг.">выйе</l>
 		</lg>
@@ -5006,7 +4988,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">шоаллшэ</l>
@@ -5713,8 +5694,6 @@
 			</tg>
 		</mg>
 	</e>
-	
-	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="глаг.">ёадтсэллэ</l>
@@ -5730,7 +5709,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">чӯййкэ</l>
@@ -5941,7 +5919,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">пӯввл</l>
@@ -5952,7 +5929,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">ра̄бпэ</l>
@@ -6058,7 +6034,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="мест.">коампэ</l>
@@ -6474,7 +6449,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">ля̄ммт</l>
@@ -6780,8 +6754,7 @@
 			</tg>
 		</mg>
 	</e>
-	
-		<e meta="02" merged="2">
+	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">я̄нна</l>
 		</lg>
@@ -6821,7 +6794,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">куз-вӯйй</l>
@@ -6887,7 +6859,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">нӯрмусс</l>
@@ -6958,7 +6929,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">оалм-олма</l>
@@ -7058,7 +7028,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">ко̄а̄ввнэ</l>
@@ -7619,7 +7588,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">а̄ввьдэ</l>
@@ -7776,7 +7744,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">пастэх</l>
@@ -8256,7 +8223,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">уммель</l>
@@ -8417,7 +8383,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">пēтнэһц</l>
@@ -8478,7 +8443,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">тӣрьмэсь-ю̄ккс</l>
@@ -8648,7 +8612,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">ре̄менҍ</l>
@@ -8939,7 +8902,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">тӯййшэ</l>
@@ -9143,7 +9105,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="прилаг.">скандинавскэ</l>
@@ -9204,7 +9165,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">вэ̄дз</l>
@@ -9667,7 +9627,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">пыйюввэ</l>
@@ -9773,7 +9732,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">плясснэгк</l>
@@ -9989,7 +9947,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="прилаг.">кэ̄сс</l>
@@ -10030,7 +9987,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="числ.">ко̄ллмэмплоагкь</l>
@@ -10487,7 +10443,7 @@
 			</tg>
 		</mg>
 	</e>
-		<e meta="02">
+	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">хо̄зенҍ</l>
 		</lg>
@@ -10497,7 +10453,7 @@
 			</tg>
 		</mg>
 	</e>
-		<e meta="02">
+	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">ша̄ррьй</l>
 		</lg>
@@ -10897,7 +10853,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">тӯлльй</l>
@@ -10918,7 +10873,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">нӣрр</l>
@@ -10979,7 +10933,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">коаввк</l>
@@ -11041,7 +10994,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">маннҍ</l>
@@ -11120,14 +11072,13 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">село</t>
-				</tg>
+			</tg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">селение</t>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">поселок</t>
 			</tg>
-		
 			<tg>
 				<t xml:lang="rus" pos="сущ.">деревня</t>
 			</tg>
@@ -11186,7 +11137,7 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг.">отправиться</t>
 			</tg>
-					</mg>
+		</mg>
 	</e>
 	<e meta="03">
 		<lg>
@@ -11469,7 +11420,7 @@
 			</tg>
 		</mg>
 	</e>
-		<e meta="03">
+	<e meta="03">
 		<lg>
 			<l src="kur" pos="послел.">баяс</l>
 		</lg>
@@ -12278,23 +12229,21 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг.">ехать</t>
 			</tg>
-		
 			<tg>
 				<t xml:lang="rus" pos="mwe._VP: глаг. предл. мест.">ехать на чем</t>
 			</tg>
-			</mg>
-			<mg>
+		</mg>
+		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг.">идти</t>
 				<t xml:lang="rus" pos="глаг.">ходить</t>
 			</tg>
-			</mg>
-			<mg>
+		</mg>
+		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг.">двигаться</t>
 			</tg>
 		</mg>
-		
 	</e>
 	<e meta="03">
 		<lg>
@@ -12521,7 +12470,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="числ.">кӯһтэмплоагкь</l>
@@ -13926,7 +13874,6 @@
 			</media_group>
 		</mg>
 	</e>
-	
 	<e meta="04">
 		<lg>
 			<l pos="сущ." class="I" src="kur">пуарр</l>
@@ -14181,7 +14128,7 @@
 				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Fur</wikipedia>
 			</media_group>
 		</mg>
-				<mg>
+		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">волк</t>
 			</tg>
@@ -14202,7 +14149,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="04">
 		<lg>
 			<l pos="сущ." class="I" src="kur">нё̄а̄лл</l>
@@ -14309,7 +14255,7 @@
 			</media_group>
 		</mg>
 	</e>
-		<e meta="04">
+	<e meta="04">
 		<lg>
 			<l pos="сущ." class="I" src="kur">ня̄лльм</l>
 			<graph_var src="aaa">ня̄лльм</graph_var>
@@ -14407,9 +14353,8 @@
 				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Worm</wikipedia>
 			</media_group>
 		</mg>
-
 	</e>
-		<e meta="04">
+	<e meta="04">
 		<lg>
 			<l pos="сущ." class="I" src="kur">сӯккс</l>
 			<graph_var src="aaa">сӯккс</graph_var>
@@ -15500,6 +15445,708 @@
 			<media_group>
 				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Gull</wikipedia>
 			</media_group>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="част." kur_ID="1091">дак</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="част.">так</t>
+			</tg>
+			<example>
+				<ex type="sentence">со̄нн дак пуадт, а то̄нн дак эгк вуэй пуэдтӭ</ex>
+				<ext xml:lang="rus">он так придёт, а ты так не можешь</ext>
+			</example>
+			<example>
+				<ex type="phrase">выйе, дак выйе</ex>
+				<ext xml:lang="rus">ехать, так ехать</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="I" kur_ID="1092">декаббрь</l>
+			<stem>декабрь</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">декабрь м</t>
+			</tg>
+			<example>
+				<ex type="phrase">шэ̄ннтэ декабресьт</ex>
+				<ext xml:lang="rus">родиться в декабре</ext>
+			</example>
+			<example>
+				<ex type="compound">декаббрь-пе̄йв</ex>
+				<ext xml:lang="rus">декабрьские дни</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="I" kur_ID="1093">делегаһт</l>
+			<stem>делегат</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">делегат</t>
+			</tg>
+			<example>
+				<ex type="phrase">воалшэ делегаһтэнҍ</ex>
+				<ext xml:lang="rus">избрать кого делегатом</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." nonceform="*" kur_ID="1094">делегация</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">делегация</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="прилаг." kur_ID="1095">демократическэ</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">демократический</t>
+			</tg>
+			<example>
+				<ex type="phrase">демократическэ республика</ex>
+				<ext xml:lang="rus">демократическая республика</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="сущ." nonceform="*" kur_ID="1096">демократия</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">демократия</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="сущ." nonceform="*" kur_ID="1097">демонстрация</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">демонстрация</t>
+			</tg>
+			<example>
+				<ex type="phrase">лыһкъетҍ демонстрация</ex>
+				<ext xml:lang="rus">демонстрация трудящихся</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="I" kur_ID="1098">депутаһт</l>
+			<stem>депутат</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">депутат</t>
+			</tg>
+			<example>
+				<ex type="phrase">пайймусс совеһт депутаһт</ex>
+				<ext xml:lang="rus">депутат верховного совета</ext>
+			</example>
+			<example>
+				<ex type="phrase">сыййт совеһт депутаһт</ex>
+				<ext xml:lang="rus">депутат сельского совета</ext>
+			</example>
+			<example>
+				<ex type="compound">депутаһт-пе̄ййв</ex>
+				<ext xml:lang="rus">депутатский день</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="част." kur_ID="1099">дӣ</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="част.">ну и</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="част.">да</t>
+			</tg>
+			<example>
+				<ex type="sentence">дӣ шӯр со̄нн лӣ!</ex>
+				<ext xml:lang="rus">какой же он большой!</ext>
+				<ext xml:lang="rus">ну и большой же он!</ext>
+			</example>
+			<example>
+				<ex type="sentence">дӣ лӣ ко̄ммтвудт!</ex>
+				<ext xml:lang="rus">ну и ширина!</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="I" kur_ID="1100">диванн</l>
+			<stem>диван</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">диван</t>
+			</tg>
+			<example>
+				<ex type="phrase">диван альн вуэӈӈэ</ex>
+				<ext xml:lang="rus">отдыхать на диване</ext>
+			</example>
+			<example>
+				<ex type="phrase">диванн по̄дэшк</ex>
+				<ext xml:lang="rus">диванная подушка</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="I" kur_ID="1101">диктаннт</l>
+			<stem>диктант</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">диктант</t>
+			</tg>
+			<example>
+				<ex type="phrase">кырьйхэ диктант</ex>
+				<ext xml:lang="rus">написать диктант</ext>
+			</example>
+			<example>
+				<ex type="phrase">диктантэсьт ся̄гкнэгэтҍ вӯййкъе</ex>
+				<ext xml:lang="rus">исправить ошибки в диктанте</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="1102">директэр</l>
+			<stem>=</stem>
+			<kur_class>V</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">директор</t>
+			</tg>
+			<example>
+				<ex type="phrase">шко̄ла директрэнҍ ро̄бхушшэ</ex>
+				<ext xml:lang="rus">работать директором школы</ext>
+			</example>
+			<example>
+				<ex type="phrase">директэр туэлль</ex>
+				<ext xml:lang="rus">директорский стол</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="I" kur_ID="1103">днивнэһкь</l>
+			<stem>днивнэгкь</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">дневник</t>
+			</tg>
+			<example>
+				<ex type="phrase">о̄һпнуввэй днивнэһкь</ex>
+				<ext xml:lang="rus">ученический дневник</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="I" kur_ID="1104">докладт</l>
+			<stem>доклад</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">доклад</t>
+			</tg>
+			<example>
+				<ex type="phrase">са̄ррнмуж доклад мӣлльтэ</ex>
+				<ext xml:lang="rus">прения по докладу</ext>
+			</example>
+			<example>
+				<ex type="phrase">доклад выгкэй</ex>
+				<ext xml:lang="rus">докладчик</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="1105">духа</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">духи</t>
+				<comment type="grammar">мн.ч.</comment>
+			</tg>
+			<example>
+				<ex type="phrase">духа лэ̄гк</ex>
+				<ext xml:lang="rus">запах духов</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." class="II" kur_ID="1106">дэбэнҌ</l>
+			<stem>=</stem>
+			<kur_class>V</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">топь</t>
+				<comment type="grammar">ж</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">трясина</t>
+			</tg>
+			<example>
+				<ex type="phrase">ва̄ннҍцэ пырр ва̄ррь дэбэнҍ</ex>
+				<ext xml:lang="rus">обойти лесную трясину</ext>
+			</example>
+			<example>
+				<ex type="phrase">выррэ дэбнӭ</ex>
+				<ext xml:lang="rus">завязнуть в трясине</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="мест." kur_ID="1107">-дэдт</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="мест.">-то</t>
+			</tg>
+			<example>
+				<ex type="sentence">мунн-дэдт тон те̄да</ex>
+				<ext xml:lang="rus">я-то тебя знаю</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="мест." kur_ID="1108">-дэдтӭ</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="мест.">-то</t>
+				<comment type="compare">-дэдт</comment>
+			</tg>
+			<example>
+				<ex type="sentence">касьт-дэдтӭ со̄нн адтҍ лӣ?!</ex>
+				<ext xml:lang="rus">где-то он сейчас?!</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="мест." kur_ID="1109">дэн</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="мест.">-то</t>
+			</tg>
+			<example>
+				<ex type="sentence">кнӣга-дэн ло̄гкекь?</ex>
+				<ext xml:lang="rus">ты книгу-то прочёл?</ext>
+			</example>
+			<example>
+				<ex type="sentence">нӣййтант-дэн ва̄лтак мӣлльтэ?</ex>
+				<ext xml:lang="rus">а дочку-то возьмёшь с собой?</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6675">фа̄брика</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">фабрика</t>
+			</tg>
+			<example>
+				<ex type="phrase">пымме фа̄брика</ex>
+				<ext xml:lang="rus">бумажная фабрика</ext>
+				<ex type="phrase">лыһкэ фа̄брикасьт</ex>
+				<ext xml:lang="rus">работать на фабрике</ext>
+				<ex type="phrase">фа̄брикасьт лыһкэй</ex>
+				<ext xml:lang="rus">фабричный рабочий</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6676">факультеһт</l>
+			<stem>факультет</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">факультет</t>
+			</tg>
+			<example>
+				<ex type="phrase">историческэ факультеһт</ex>
+				<ext xml:lang="rus">исторический факультет</ext>
+				<ex type="compound">факультеһт-со̄бэр</ex>
+				<ext xml:lang="rus">факультетское собрание</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6677">фа̄ртэк</l>
+			<stem>=</stem>
+			<kur_class>V</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">фартук</t>
+			</tg>
+			<example>
+				<ex type="phrase">куаррэ о̄дт вӣллькесь фа̄ртэк</ex>
+				<ext xml:lang="rus">сшить новый белый фартук</ext>
+				<ex type="phrase">куаррэм фа̄ртэк</ex>
+				<ext xml:lang="rus">фартук для шитья меховых изделий</ext>
+				<ex type="phrase">пе̄рк чиннэм фа̄ртэк</ex>
+				<ext xml:lang="rus">кухонный фартук</ext>
+				<ex type="phrase">фа̄ртэк та̄вяр</ex>
+				<ext xml:lang="rus">ткань на фартук</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6678">февралль</l>
+			<stem>февраль</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">февраль</t>
+				<comment type="grammar">м</comment>
+			</tg>
+			<example>
+				<ex type="sentence">февралль лӣ ныммьп ма̄нн ыгесьт</ex>
+				<ext xml:lang="rus">февраль - второй месяц года</ext>
+				<ex type="compound">февралль-мӯнне</ex>
+				<ext xml:lang="rus">февральские морозы</ext>
+				<ex type="idiom">альм я мӯнне февраленҍ пӯдтӭнҍ</ex>
+				<ext xml:lang="rus">вьюги и метели (букв. морозы) под февраль налетели</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." nonceform="*" kur_ID="6679">физкультура</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">физкультура</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="прилаг." kur_ID="6680">физкультурнэ</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг.опред.">физкультурный</t>
+			</tg>
+			<example>
+				<ex type="phrase">физкультурнэ парадт</ex>
+				<ext xml:lang="rus">физкультурный парад</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6681">фла̄гк</l>
+			<stem>фла̄г</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">флаг</t>
+			</tg>
+			<example>
+				<ex type="phrase">паййнэ флаг</ex>
+				<ext xml:lang="rus">поднять флаг</ext>
+				<ex type="phrase">лӯшшьтэ фла̄г</ex>
+				<ext xml:lang="rus">спустить флаг</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6682">фло̄һт</l>
+			<stem>фло̄т</stem>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">флот</t>
+			</tg>
+			<example>
+				<ex type="phrase">фло̄тэсьт лӯшшэ</ex>
+				<ext xml:lang="rus">служить во флоте</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6683">фо̄рма</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">форма</t>
+				<comment type="explanation">одежда</comment>
+			</tg>
+			<example>
+				<ex type="phrase">оһпнуввэй фо̄рма</ex>
+				<ext xml:lang="rus">ученическая форма</ext>
+				<ex type="phrase">ва̄ннҍцэ фо̄рмасьт</ex>
+				<ext xml:lang="rus">ходить в форме 
+</ext>
+			</example>
+		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">форма</t>
+				<comment type="explanation">приспособление для чего-л.</comment>
+			</tg>
+			<example>
+				<ex type="phrase">ле̄йп па̄шшьтэм фо̄рма</ex>
+				<ext xml:lang="rus">форма для выпечки хлеба</ext>
+				<ex type="phrase">лӣйпэтҍ па̄шшьтэм гуэйкэ фо̄рма</ex>
+				<ext xml:lang="rus">форма для выпечки хлеба</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6684">фроннт</l>
+			<stem>фронт</stem>
+			<kur_class>II</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">фронт</t>
+			</tg>
+			<example>
+				<ex type="phrase">фронт чӯһкас</ex>
+				<ext xml:lang="rus">фронтовые дороги</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6685">фуражка</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">фуражка</t>
+			</tg>
+			<example>
+				<ex type="phrase">соалтэх фуражка</ex>
+				<ext xml:lang="rus">солдатская фуражка</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6686">фӯрьялаш</l>
+			<LINK>фӯря</LINK>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сказ.">всегда неряшливый</t>
+				<comment type="explanation">неаккуратный</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="сказ.">всегда неряшлив</t>
+				<comment type="explanation">неаккуратен</comment>
+			</tg>
+			<example>
+				<ex type="sentence">со̄нн агкь пайля̄йй фӯрьялаш</ex>
+				<ext xml:lang="rus">он всю жизнь был неряхой</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6687">фӯря</l>
+			<kur_class>IV</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">неряха</t>
+				<comment type="grammar">м</comment>
+				<comment type="grammar">ж</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="phrase">неряшливый человек</t>
+			</tg>
+			<example>
+				<ex type="sentence">со̄нн фӯря лӣ</ex>
+				<ext xml:lang="rus">он - неряха</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." kur_ID="6688">фӯрялаһтӭ</l>
+			<LINK>фӯря</LINK>
+			<kur_class>II,4*</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._VP: глаг. мест.">запустить что</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._VP: глаг. мест. сущ.">сделать что-л. неряшливым</t>
+			</tg>
+			<example>
+				<ex type="sentence">со̄нн пэҏт фӯрялэдтӭ</ex>
+				<ext xml:lang="rus">она запустила дом</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." kur_ID="6689">фӯрялуввэ</l>
+			<LINK>фӯря</LINK>
+			<kur_class>I</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._VP: глаг. сущ.">стать неряхой</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." kur_ID="6690">фӯрялувнэ</l>
+			<LINK>фӯря</LINK>
+			<kur_class>III</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="phrase">становиться неряхой</t>
+				<comment type="explanation">постоянно</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="phrase">становиться неряхой</t>
+				<comment type="explanation">бывало</comment>
+				<comment type="explanation">иногда</comment>
+			</tg>
+			<example>
+				<ex type="sentence">со̄нн тоаййв фӯрялувант</ex>
+				<ext xml:lang="rus">она часто бывает неряшливо одета</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." kur_ID="6691">фыҏҏче</l>
+			<kur_class>II</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">плакать</t>
+				<comment type="explanation">долго</comment>
+				<comment type="explanation">нудно</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">хлюпать</t>
+				<comment type="register">разг.</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." kur_ID="6692">фыҏчеч</l>
+			<LINK>фыҏҏче</LINK>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сказ.">плакса</t>
+				<comment type="grammar">м</comment>
+				<comment type="grammar">ж</comment>
+			</tg>
+			<example>
+				<ex type="sentence">со̄нн пэре ли фыҏчеч</ex>
+				<ext xml:lang="rus">он - большой плакса</ext>
+			</example>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." kur_ID="6693">фыҏчнэ</l>
+			<LINK>фыҏҏче</LINK>
+			<kur_class>III</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">плакать</t>
+				<comment type="explanation">долго</comment>
+				<comment type="explanation">нудно - постоянно</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">плакать</t>
+				<comment type="explanation">иногда</comment>
+				<comment type="explanation">бывало</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." kur_ID="6694">фыҏчсэ</l>
+			<LINK>фыҏҏче</LINK>
+			<kur_class>III</kur_class>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">плакать</t>
+				<comment type="explanation">долго</comment>
+				<comment type="explanation">нудно - постоянно</comment>
+				<comment type="compare">фыҏҏче</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">плакать</t>
+				<comment type="explanation">иногда</comment>
+				<comment type="explanation">бывало</comment>
+				<comment type="compare">фыҏҏче</comment>
+			</tg>
 		</mg>
 	</e>
 </r>
