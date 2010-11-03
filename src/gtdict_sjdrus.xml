@@ -10,22 +10,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="сущ.">на̄ввьт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">зверь</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">волк</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="01">
+		<e meta="01">
 		<lg>
 			<l pos="сущ.">нӯрмусс</l>
 		</lg>
@@ -551,16 +536,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="сущ.">мӯрр</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">дерево</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="01">
 		<lg>
 			<l pos="сущ.">пе̄ссьмурр</l>
@@ -581,16 +557,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="сущ.">кӯсс</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">ель</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="01">
 		<lg>
 			<l pos="сущ.">выррьп</l>
@@ -1003,16 +970,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="сущ.">шӯрр</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">большой</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="01">
 		<lg>
 			<l pos="прилаг.">чоаһпэ</l>
@@ -1057,6 +1015,12 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">жир</t>
+			</tg>
+		</mg>
+		<mg>
+			
+			<tg>
+				<t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">топленый жир</t>
 			</tg>
 		</mg>
 	</e>
@@ -1461,16 +1425,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01" merged="2">
-		<lg>
-			<l pos="глаг.">пӯлле</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">гореть</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="01">
 		<lg>
 			<l pos="глаг.">пуэдтӭ</l>
@@ -1653,22 +1608,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="глаг.">вӯллькэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">пойти</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">отправиться</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">направиться</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="01">
 		<lg>
 			<l pos="глаг.">кархэ</l>
@@ -1682,22 +1622,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="глаг.">ёадтӭ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="mwe._VP: глаг. предл. мест.">ехать на чем</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">идти</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">двигаться</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="01">
 		<lg>
 			<l pos="сущ." src="kur">са̄һпь</l>
@@ -1819,19 +1744,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="сущ.">вӯйй</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">масло</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="mwe._NP: прилаг. сущ.">топленый жир</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="01">
 		<lg>
 			<l pos="сущ.">сӯлль</l>
@@ -2386,16 +2299,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="прилаг.">нӯрр</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="прилаг.опред.">молодой</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="01">
 		<lg>
 			<l pos="прилаг.">тоавас</l>
@@ -3135,16 +3039,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">пӯлле</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">блестеть</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">пыӆӆькэ</l>
@@ -3255,16 +3150,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="прилаг.">шӯрр</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="прилаг.опред.">большой</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">вӣлльй</l>
@@ -3923,17 +3809,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">тыһкь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">вошь</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
+		<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">вуэлькэсь-пя̄лла</l>
 		</lg>
@@ -3983,16 +3859,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="нареч.">пай</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="нареч.">всегда</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">коадзъе</l>
@@ -4115,16 +3982,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="нареч.">касьт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="нареч.">где</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">ча̄лльм</l>
@@ -4236,16 +4094,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">ыгкь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">год</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">вуэййв</l>
@@ -4342,16 +4191,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">па̄һкь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">гора</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">тēррьм</l>
@@ -4463,6 +4303,11 @@
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="глаг.">сгореть</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">блестеть</t>
 			</tg>
 		</mg>
 	</e>
@@ -4649,16 +4494,6 @@
 	</e>
 	<e meta="02">
 		<lg>
-			<l src="kur" pos="числ.">кӯһт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="числ.">два</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
-		<lg>
 			<l src="kur" pos="числ.">кӯһтлоагкь</l>
 		</lg>
 		<mg>
@@ -4667,16 +4502,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="числ.">кӯһтэмплоагкь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="числ.">двенадцать</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="числ.">аххцлоагкь</l>
@@ -4924,23 +4750,31 @@
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">пэ̄ҏҏт</l>
+			<stem>|-эҏт-, -э̄ҏҏьт-|</stem>
 		</lg>
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">дом</t>
 			</tg>
 			<tg>
+				<t xml:lang="rus" pos="сущ.">здание</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
 				<t xml:lang="rus" pos="сущ.">жилище</t>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">квартира</t>
 			</tg>
+			</mg>
+			<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">комната</t>
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
+		<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">кя̄ййн</l>
 		</lg>
@@ -5050,26 +4884,8 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">пя̄дцлушшэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">думать</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">юррьтэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">думать</t>
-			</tg>
-		</mg>
-	</e>
+	
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">сӯвв</l>
@@ -5170,17 +4986,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">кӯсс</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">елка</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02" merged="2">
+		<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="глаг.">выйе</l>
 		</lg>
@@ -5200,16 +5006,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="нареч.">вя̄л</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="нареч.">еще</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">шоаллшэ</l>
@@ -5916,26 +5713,8 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">вӯллькэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">идти</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="глаг.">ва̄ннҍцэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">идти</t>
-			</tg>
-		</mg>
-	</e>
+	
+	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="глаг.">ёадтсэллэ</l>
@@ -5951,31 +5730,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="глаг.">ёадтӭ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">ехать</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">идти</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02" merged="3">
-		<lg>
-			<l src="kur" pos="глаг.">мэ̄ннэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">идти</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">чӯййкэ</l>
@@ -6186,16 +5941,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="нареч.">куэссь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="нареч.">когда</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">пӯввл</l>
@@ -6206,16 +5952,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">куаййвэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">копать</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">ра̄бпэ</l>
@@ -6321,16 +6058,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="мест.">кӯ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="мест.">который</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="мест.">коампэ</l>
@@ -6746,16 +6474,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="сущ.">ва̄ррь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">лес</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">ля̄ммт</l>
@@ -7061,27 +6780,8 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="прилаг.">удць</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="прилаг.опред.">маленький</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">па̄ррьша</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">мальчик</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02" merged="2">
+	
+		<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">я̄нна</l>
 		</lg>
@@ -7121,16 +6821,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">вӯйй</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">масло</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">куз-вӯйй</l>
@@ -7196,21 +6887,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="сущ.">на̄ввьт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">зверь</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">мех</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">нӯрмусс</l>
@@ -7281,21 +6958,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="сущ.">ка̄ллесь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">муж</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">мужчина</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">оалм-олма</l>
@@ -7375,6 +7038,11 @@
 				<t xml:lang="rus" pos="сущ.">мяч</t>
 			</tg>
 		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">шушка</t>
+			</tg>
+		</mg>
 	</e>
 	<e meta="02" merged="2">
 		<lg>
@@ -7390,39 +7058,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="послел.">альн</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="mwe._AdP: предл. мест.">на ком-чём</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="mwe._AdP: предл. мест.">над чем</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="нареч.">моазэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="нареч.">назад</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="нареч.">моаст</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="нареч.">назад</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">ко̄а̄ввнэ</l>
@@ -7770,6 +7406,9 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">обрыв</t>
 			</tg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">скала</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -7980,16 +7619,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="сущ.">аджь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">отец</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">а̄ввьдэ</l>
@@ -8146,16 +7776,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">пынне</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">пасти</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">пастэх</l>
@@ -8635,25 +8256,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="сущ.">сыййт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">село</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">селение</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">деревня</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">поселок</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">уммель</l>
@@ -8814,16 +8417,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="числ.">выдтэмплоагкь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="числ.">пятнадцать</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">пēтнэһц</l>
@@ -8884,16 +8478,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">ро̄бхушшэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">работать</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">тӣрьмэсь-ю̄ккс</l>
@@ -9028,6 +8613,11 @@
 				<t xml:lang="rus" pos="сущ.">ребенок</t>
 			</tg>
 		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">мальчик</t>
+			</tg>
+		</mg>
 	</e>
 	<e meta="02">
 		<lg>
@@ -9058,16 +8648,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">чӯһпэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">резать</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">ре̄менҍ</l>
@@ -9358,21 +8939,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="глаг.">лыһкэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">работать</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">сделать</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">тӯййшэ</l>
@@ -9576,16 +9143,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">па̄ххьт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">скала</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="прилаг.">скандинавскэ</l>
@@ -9646,21 +9204,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="глаг.">кӣһче</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">наблюдать</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">смотреть</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">вэ̄дз</l>
@@ -9917,6 +9461,11 @@
 		</mg>
 		<mg>
 			<tg>
+				<t xml:lang="rus" pos="сущ.">мужчина</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
 				<t xml:lang="rus" pos="сущ.">старик</t>
 			</tg>
 		</mg>
@@ -10118,24 +9667,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="глаг.">лӣйе</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">быть</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">есть</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">стоять</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="глаг.">пыйюввэ</l>
@@ -10241,26 +9773,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">алльк</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">сын</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="нареч.">тамьпэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="нареч.">там</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">плясснэгк</l>
@@ -10476,16 +9989,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">туһк</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">толпа</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="прилаг.">кэ̄сс</l>
@@ -10526,16 +10030,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="числ.">ко̄ллм</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="числ.">три</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="числ.">ко̄ллмэмплоагкь</l>
@@ -10992,17 +10487,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="глаг.">ёадтӭ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг.">ходить</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
+		<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">хо̄зенҍ</l>
 		</lg>
@@ -11012,17 +10497,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">ка̄ннҍт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">холм</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
+		<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">ша̄ррьй</l>
 		</lg>
@@ -11244,16 +10719,6 @@
 	</e>
 	<e meta="02">
 		<lg>
-			<l src="kur" pos="числ.">не̄лльй</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="числ.">четыре</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
-		<lg>
 			<l src="kur" pos="числ.">не̄лльемплоагкь</l>
 		</lg>
 		<mg>
@@ -11432,16 +10897,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">шко̄ла</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">школа</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">тӯлльй</l>
@@ -11462,16 +10918,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">па̄лл</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">шушка</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">нӣрр</l>
@@ -11532,16 +10979,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="мест.">тэдта</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="мест.">это</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ.">коаввк</l>
@@ -11603,26 +11041,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">кӣлл</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">язык</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ.">ню̄ххчемь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">язык</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ.">маннҍ</l>
@@ -11701,10 +11120,14 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">село</t>
+				</tg>
+			<tg>
 				<t xml:lang="rus" pos="сущ.">селение</t>
 			</tg>
-		</mg>
-		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">поселок</t>
+			</tg>
+		
 			<tg>
 				<t xml:lang="rus" pos="сущ.">деревня</t>
 			</tg>
@@ -11760,7 +11183,10 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг.">направиться</t>
 			</tg>
-		</mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">отправиться</t>
+			</tg>
+					</mg>
 	</e>
 	<e meta="03">
 		<lg>
@@ -11919,10 +11345,16 @@
 			<tg>
 				<t xml:lang="rus" pos="предл.">на</t>
 			</tg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._AdP: предл. мест.">на ком-чём</t>
+			</tg>
 		</mg>
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="предл.">над</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="mwe._AdP: предл. мест.">над чем</t>
 			</tg>
 		</mg>
 		<mg>
@@ -12037,28 +11469,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="03">
-		<lg>
-			<l src="kur" pos="сущ.">пэ̄ҏҏт</l>
-			<stem>|-эҏт-, -э̄ҏҏь-|</stem>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">дом</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">здание</t>
-			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">жилище</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
+		<e meta="03">
 		<lg>
 			<l src="kur" pos="послел.">баяс</l>
 		</lg>
@@ -12281,6 +11692,11 @@
 			<l src="kur" pos="глаг.">пя̄дцлушшэ</l>
 			<stem>|-уж-, -ушшь-|</stem>
 		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">думать</t>
+			</tg>
+		</mg>
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг.">заботиться</t>
@@ -12862,7 +12278,23 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг.">ехать</t>
 			</tg>
+		
+			<tg>
+				<t xml:lang="rus" pos="mwe._VP: глаг. предл. мест.">ехать на чем</t>
+			</tg>
+			</mg>
+			<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">идти</t>
+				<t xml:lang="rus" pos="глаг.">ходить</t>
+			</tg>
+			</mg>
+			<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">двигаться</t>
+			</tg>
 		</mg>
+		
 	</e>
 	<e meta="03">
 		<lg>
@@ -12883,6 +12315,14 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг.">быть</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">есть</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг.">стоять</t>
 			</tg>
 		</mg>
 	</e>
@@ -13081,16 +12521,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="03">
-		<lg>
-			<l src="kur" pos="числ.">кӯһт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="числ.">два</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="числ.">кӯһтэмплоагкь</l>
@@ -14495,27 +13926,7 @@
 			</media_group>
 		</mg>
 	</e>
-	<e meta="04">
-		<lg>
-			<l pos="сущ." class="I" src="kur">руввьтпуарр</l>
-			<graph_var src="aaa">руввьт-пуарр</graph_var>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">слепень</t>
-			</tg>
-			<tg>
-				<t xml:lang="eng">horsefly</t>
-			</tg>
-			<semantics_group>
-				<sem class="animal"/>
-				<sem class="insect"/>
-			</semantics_group>
-			<media_group>
-				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Horsefly</wikipedia>
-			</media_group>
-		</mg>
-	</e>
+	
 	<e meta="04">
 		<lg>
 			<l pos="сущ." class="I" src="kur">пуарр</l>
@@ -14770,13 +14181,7 @@
 				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Fur</wikipedia>
 			</media_group>
 		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="сущ." class="I" src="kur">на̄ввьт</l>
-			<graph_var src="aaa">на̄ввьт</graph_var>
-		</lg>
-		<mg>
+				<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">волк</t>
 			</tg>
@@ -14791,7 +14196,13 @@
 				<wikipedia xml:lang="eng">http://en/wikipedia.org/wiki/Wolf</wikipedia>
 			</media_group>
 		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">зверь</t>
+			</tg>
+		</mg>
 	</e>
+	
 	<e meta="04">
 		<lg>
 			<l pos="сущ." class="I" src="kur">нё̄а̄лл</l>
@@ -14898,28 +14309,7 @@
 			</media_group>
 		</mg>
 	</e>
-	<e meta="04">
-		<lg>
-			<l pos="сущ." class="I" src="kur">ня̄ввь</l>
-			<graph_var src="aaa">ня̄ввь</graph_var>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">слепень</t>
-			</tg>
-			<tg>
-				<t xml:lang="eng">horsefly</t>
-			</tg>
-			<semantics_group>
-				<sem class="animal"/>
-				<sem class="insect"/>
-			</semantics_group>
-			<media_group>
-				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Horsefly</wikipedia>
-			</media_group>
-		</mg>
-	</e>
-	<e meta="04">
+		<e meta="04">
 		<lg>
 			<l pos="сущ." class="I" src="kur">ня̄лльм</l>
 			<graph_var src="aaa">ня̄лльм</graph_var>
@@ -15002,12 +14392,6 @@
 				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Caterpillar</wikipedia>
 			</media_group>
 		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="сущ." class="I" src="kur">ма̄дт</l>
-			<graph_var src="aaa">ма̄дт</graph_var>
-		</lg>
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">червяк</t>
@@ -15023,8 +14407,9 @@
 				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Worm</wikipedia>
 			</media_group>
 		</mg>
+
 	</e>
-	<e meta="04">
+		<e meta="04">
 		<lg>
 			<l pos="сущ." class="I" src="kur">сӯккс</l>
 			<graph_var src="aaa">сӯккс</graph_var>
@@ -15402,6 +14787,21 @@
 			</semantics_group>
 			<media_group>
 				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Wasp</wikipedia>
+			</media_group>
+		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">слепень</t>
+			</tg>
+			<tg>
+				<t xml:lang="eng">horsefly</t>
+			</tg>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="insect"/>
+			</semantics_group>
+			<media_group>
+				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Horsefly</wikipedia>
 			</media_group>
 		</mg>
 	</e>
