@@ -28,19 +28,15 @@ on the e-element in the xml files:
 -orthography is Kuruč's
 
 03 - short word list from Lazer kallsa moajjnas created by Micha, about somewhat more than 100 words
--please keep the info in <stem>, even though it is not well-structured and we don't need it now
--the Unicode of Latin vs. Cyrillic and composed vs. precomposed letters is not yet checked
--dublicates with 02 and 01 are not yet checked
+-the Unicode of Latin vs. Cyrillic is not yet checked
 -orthography is Kuruč's
 
 04 - short list of animal names and words related to animals collected by Andrey Dubovcev and Micha, somewhat more than 120 words
--please keep the class-attribute and the semantic info, even though it is incomplete and might not be well-structured
--the Unicode of Latin vs. Cyrillic and composed vs. precomposed letters is not yet checked completely
--dublicates with 01-03 are not yet checked
+-please keep the class-attribute and the semantic info, even though it is incomplete and needs better structuring
 -both orthographies (where already included in the imported Excel-chart)
 
-05 - first try of restructering the Kurutch-file in GT-xml
-- so far only lemmata (all words starting with д and ф)
+05 - first try of restructering the Kurutch-file in GT-xml structure
+- so far only very few lemmata (all words starting with д and ф)
 - das Element <kur_ID> ist eine ID für jedes Lemma, dass in der Originaldatei enthalten war. Ich möchte es behalten, damit man das Wörterbuch eventuell später zu der Originaldatei zuordnen kann.
 -das Element <stem>  zeigt den Stufenwechsel, so wie Kurutch ihn analysiert hat. Das ist in den meisten Fällen richtig. Ich will es erstmal behalten und später sehen, was ich damit machen kann.
 -das Element <kur_class> zeigt Kurutchs Analyse der Flexionsklassen. Die ist in vielen Fällen nicht richtig. Aber ich will es erstmal behalten. Ich bin gerade dabei, einen eigene Analyse aller Flexionsklassen aufzuschreiben.
