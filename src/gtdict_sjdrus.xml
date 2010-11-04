@@ -16006,11 +16006,13 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сказ.">всегда неряшливый</t>
+				<t xml:lang="rus" pos="???">всегда неряшливый</t>
+				<comment type="grammar">сказ.</comment>
 				<comment type="explanation">неаккуратный</comment>
 			</tg>
 			<tg>
-				<t xml:lang="rus" pos="сказ.">всегда неряшлив</t>
+				<t xml:lang="rus" pos="???">всегда неряшлив</t>
+				<comment type="grammar">сказ.</comment>
 				<comment type="explanation">неаккуратен</comment>
 			</tg>
 			<example>
@@ -16116,9 +16118,9 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сказ.">плакса</t>
-				<comment type="grammar">м</comment>
-				<comment type="grammar">ж</comment>
+				<t xml:lang="rus" pos="???">плакса</t>
+				<comment type="grammar">сказ.м</comment>
+				<comment type="grammar">сказ.ж</comment>
 			</tg>
 			<example>
 				<ex type="sentence">со̄нн пэре ли фыҏчеч</ex>
