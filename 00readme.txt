@@ -199,4 +199,26 @@ sorting by some other info (meta01, etc.): see 2.!
 
 
 
-
+XML-Securitatea schägt zu: Please correct!
+===================================
+grep '>=' gtdict_sjdrus.xml 
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<stem>=</stem>
+			<kur_flex class="V">=</kur_flex>
+			<kur_flex class="V">=</kur_flex>
+			<kur_flex class="V">=</kur_flex>
+===================================
