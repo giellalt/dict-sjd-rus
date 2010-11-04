@@ -16031,7 +16031,7 @@
 				<comment type="grammar">ж</comment>
 			</tg>
 			<tg>
-				<t xml:lang="rus" pos="phrase">неряшливый человек</t>
+				<t xml:lang="rus" pos="mwe._NP: прилаг.опред. сущ.">неряшливый человек</t>
 			</tg>
 			<example>
 				<ex type="sentence">со̄нн фӯря лӣ</ex>
@@ -16078,11 +16078,11 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="phrase">становиться неряхой</t>
+				<t xml:lang="rus" pos="mwe._VP: глаг. сущ.">становиться неряхой</t>
 				<comment type="explanation">постоянно</comment>
 			</tg>
 			<tg>
-				<t xml:lang="rus" pos="phrase">становиться неряхой</t>
+				<t xml:lang="rus" pos="mwe._VP: глаг. сущ.">становиться неряхой</t>
 				<comment type="explanation">бывало</comment>
 				<comment type="explanation">иногда</comment>
 			</tg>
