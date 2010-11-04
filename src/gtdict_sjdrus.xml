@@ -8315,12 +8315,28 @@
 	</e>
 	<e meta="02" merged="2">
 		<lg>
-			<l src="kur" pos="сущ.">лоаннҍт</l>
+			<l src="kur" pos="сущ." class="I">лоаннҍт</l>
+			<kur_class>I,3</kur_class>
+			<stem>лоанҍт</stem>
 		</lg>
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">птица</t>
 			</tg>
+			<example>
+				<ex type="phrase">ча̄зесьт вӯйей лоанҍт</ex>
+				<ext xml:lang="rus">водоплавающие птицы</ext>
+			</example>
+			<example>
+				<ex type="phrase">кӣһче лоанҍтэ кырртмуж</ex>
+				<ext xml:lang="rus">наблюдать полёт птиц
+				</ext>
+		
+			</example>
+			<example>
+				<ex type="phrase">лоанҍт вуэннч</ex>
+				<ext xml:lang="rus">дичь</ext>
+			</example>
 		</mg>
 	</e>
 	<e meta="02">
