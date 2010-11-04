@@ -8337,6 +8337,10 @@
 				<ex type="phrase">лоанҍт вуэннч</ex>
 				<ext xml:lang="rus">дичь</ext>
 			</example>
+			<semantics_group>
+				<sem class="animal"/>
+				<sem class="bird"/>
+			</semantics_group>
 		</mg>
 	</e>
 	<e meta="02">
