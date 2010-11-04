@@ -11173,7 +11173,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="глаг.">се̄йе</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -11524,7 +11524,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">куэһцьев</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -11873,7 +11873,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">е̄ммьнэ</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12297,7 +12297,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="собст.">Вуэннҍтре</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12308,7 +12308,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">кла̄сс</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12319,7 +12319,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">кнӣга</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12330,7 +12330,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="собст.">Ладэмыр</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12341,7 +12341,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">отделение</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12352,7 +12352,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">па̄ртия</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12363,7 +12363,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="числ.">пе̄рвэ</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12374,7 +12374,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">пра̄ктикум</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12385,7 +12385,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">се̄мя</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12396,7 +12396,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">учтель</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12407,7 +12407,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="собст.">Ша̄шка</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12418,7 +12418,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="сущ.">шко̄ла</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -12429,7 +12429,7 @@
 	<e meta="03">
 		<lg>
 			<l src="kur" pos="собст.">Эвван</l>
-			<stem>=</stem>
+			<stem>о.ч.</stem>
 		</lg>
 		<mg>
 			<tg>
@@ -15660,7 +15660,7 @@
 		<lg>
 			<l pos="сущ." kur_ID="1102">директэр</l>
 			
-			<kur_flex class="V">=</kur_flex>
+			<kur_flex class="V">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15732,7 +15732,7 @@
 		<lg>
 			<l pos="сущ." class="II" kur_ID="1106">дэбэнҌ</l>
 			
-			<kur_flex class="V">=</kur_flex>
+			<kur_flex class="V">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15840,7 +15840,7 @@
 		<lg>
 			<l pos="сущ." kur_ID="6677">фа̄ртэк</l>
 			
-			<kur_flex class="V">=</kur_flex>
+			<kur_flex class="V">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
