@@ -16002,7 +16002,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6686">фӯрьялаш</l>
-			<LINK>фӯря</LINK>
+			<kur_link>фӯря</kur_link>
 		</lg>
 		<mg>
 			<tg>
@@ -16042,7 +16042,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="глаг." kur_ID="6688">фӯрялаһтӭ</l>
-			<LINK>фӯря</LINK>
+			<kur_link>фӯря</kur_link>
 			<kur_flex class="II" subclass="4*">???</kur_flex>
 		</lg>
 		<mg>
@@ -16061,7 +16061,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="глаг." kur_ID="6689">фӯрялуввэ</l>
-			<LINK>фӯря</LINK>
+			<kur_link>фӯря</kur_link>
 			<kur_flex class="I">???</kur_flex>
 		</lg>
 		<mg>
@@ -16073,7 +16073,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="глаг." kur_ID="6690">фӯрялувнэ</l>
-			<LINK>фӯря</LINK>
+			<kur_link>фӯря</kur_link>
 			<kur_flex class="III">???</kur_flex>
 		</lg>
 		<mg>
@@ -16112,7 +16112,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6692">фыҏчеч</l>
-			<LINK>фыҏҏче</LINK>
+			<kur_link>фыҏҏче</kur_link>
 		</lg>
 		<mg>
 			<tg>
@@ -16129,7 +16129,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="глаг." kur_ID="6693">фыҏчнэ</l>
-			<LINK>фыҏҏче</LINK>
+			<kur_link>фыҏҏче</kur_link>
 			<kur_flex class="III">???</kur_flex>
 		</lg>
 		<mg>
@@ -16148,7 +16148,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="глаг." kur_ID="6694">фыҏчсэ</l>
-			<LINK>фыҏҏче</LINK>
+			<kur_link>фыҏҏче</kur_link>
 			<kur_flex class="III">???</kur_flex>
 		</lg>
 		<mg>
