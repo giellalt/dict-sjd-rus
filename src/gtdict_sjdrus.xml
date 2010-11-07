@@ -12852,7 +12852,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">цызга</l>
+			<l pos="сущ." class="II" src="kur">цызга</l>
 			<graph_var src="aaa">цызга</graph_var>
 		</lg>
 		<mg>
@@ -12873,7 +12873,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">цыза</l>
+			<l pos="сущ." class="II" src="kur">цыза</l>
 			<graph_var src="aaa">цыза</graph_var>
 		</lg>
 		<mg>
@@ -12894,7 +12894,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">ча̄шенҍ</l>
+			<l pos="сущ." class="II" src="kur">ча̄шенҍ</l>
 			<graph_var src="aaa">ча̄шэнҍ</graph_var>
 		</lg>
 		<mg>
@@ -12915,7 +12915,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">чуэраш</l>
+			<l pos="сущ." class="II" src="kur">чуэраш</l>
 			<graph_var src="aaa">чуэраш</graph_var>
 		</lg>
 		<mg>
@@ -12936,7 +12936,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">че̄вьресь</l>
+			<l pos="сущ." class="IV" src="kur">че̄вьресь</l>
 			<graph_var src="aaa">че̄вьресь</graph_var>
 		</lg>
 		<mg>
@@ -12957,7 +12957,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">троасськэ</l>
+			<l pos="сущ." class="II" src="kur">троасськэ</l>
 			<graph_var src="aaa">троасськэ</graph_var>
 		</lg>
 		<mg>
@@ -12978,7 +12978,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">тынта</l>
+			<l pos="сущ." class="II" src="kur">тынта</l>
 			<graph_var src="aaa">тынта</graph_var>
 		</lg>
 		<mg>
@@ -12999,7 +12999,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">тюдӓ</l>
+			<l pos="сущ." class="II" src="kur">тюдӓ</l>
 			<graph_var src="aaa">тюдӓ</graph_var>
 		</lg>
 		<mg>
@@ -13020,7 +13020,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">собха</l>
+			<l pos="сущ." class="II" src="kur">собха</l>
 			<graph_var src="aaa">собха</graph_var>
 		</lg>
 		<mg>
@@ -13041,7 +13041,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">сэфс</l>
+			<l pos="сущ." class="II" src="kur">сэфс</l>
 			<graph_var src="aaa">сэфс</graph_var>
 		</lg>
 		<mg>
@@ -13062,7 +13062,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">пӣжь</l>
+			<l pos="сущ." class="II" src="kur">пӣжь</l>
 			<graph_var src="aaa">пӣжь</graph_var>
 		</lg>
 		<mg>
@@ -13084,7 +13084,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">пикша</l>
+			<l pos="сущ." class="II" src="kur">пикша</l>
 			<graph_var src="aaa">пикша</graph_var>
 		</lg>
 		<mg>
@@ -13105,7 +13105,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">пуййтэ</l>
+			<l pos="сущ." class="II" src="kur">пуййтэ</l>
 			<graph_var src="aaa">пуййтэ</graph_var>
 		</lg>
 		<mg>
@@ -13126,7 +13126,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">пэдтш</l>
+			<l pos="сущ." class="II" src="kur">пэдтш</l>
 			<graph_var src="aaa">пэдтш</graph_var>
 		</lg>
 		<mg>
@@ -13148,7 +13148,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">о̄а̄бпан</l>
+			<l pos="сущ." class="II" src="kur">о̄а̄бпан</l>
 			<graph_var src="aaa">о̄а̄бпан</graph_var>
 		</lg>
 		<mg>
@@ -13169,7 +13169,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">ныкке</l>
+			<l pos="сущ." class="II" src="kur">ныкке</l>
 			<graph_var src="aaa">ныкке</graph_var>
 		</lg>
 		<mg>
@@ -13191,7 +13191,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">нюррка</l>
+			<l pos="сущ." class="II" src="kur">нюррка</l>
 			<graph_var src="aaa">нюррка</graph_var>
 		</lg>
 		<mg>
@@ -13213,7 +13213,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">киррэ</l>
+			<l pos="сущ." class="II" src="kur">киррэ</l>
 			<graph_var src="aaa">киррэ</graph_var>
 		</lg>
 		<mg>
@@ -13234,7 +13234,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">кыммч</l>
+			<l pos="сущ." class="II" src="kur">кыммч</l>
 			<graph_var src="aaa">кыммч</graph_var>
 		</lg>
 		<mg>
@@ -13255,7 +13255,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">аннлэӊк</l>
+			<l pos="сущ." class="II" src="kur">аннлэӊк</l>
 			<graph_var src="aaa">аннлэӊк</graph_var>
 		</lg>
 		<mg>
@@ -13276,7 +13276,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">воалда</l>
+			<l pos="сущ." class="II" src="kur">воалда</l>
 			<graph_var src="aaa">воалда</graph_var>
 		</lg>
 		<mg>
@@ -13297,7 +13297,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">вӯшшьн</l>
+			<l pos="сущ." class="II" src="kur">вӯшшьн</l>
 			<graph_var src="aaa">вӯшенҍ</graph_var>
 		</lg>
 		<mg>
@@ -13318,7 +13318,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">ве̄зьвеш</l>
+			<l pos="сущ." class="II" src="kur">ве̄зьвеш</l>
 			<graph_var src="aaa">вязвэшш</graph_var>
 		</lg>
 		<mg>
@@ -13339,7 +13339,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">е̄бешъ</l>
+			<l pos="сущ." class="II" src="kur">е̄бешъ</l>
 			<graph_var src="aaa">е̄бешь</graph_var>
 		</lg>
 		<mg>
@@ -13360,7 +13360,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="сущ." class="???" src="kur">идэч</l>
+			<l pos="сущ." class="II" src="kur">идэч</l>
 			<graph_var src="aaa">идэч</graph_var>
 		</lg>
 		<mg>
@@ -15522,7 +15522,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." nonceform="*" kur_ID="1094">делегация</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="IV">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15547,7 +15547,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="сущ." nonceform="*" kur_ID="1096">демократия</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="IV">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15558,7 +15558,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="сущ." nonceform="*" kur_ID="1097">демонстрация</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="IV">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15715,7 +15715,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="1105">духа</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="II">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15802,7 +15802,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6675">фа̄брика</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="IV">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15882,7 +15882,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." nonceform="*" kur_ID="6679">физкультура</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="IV">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15941,7 +15941,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6683">фо̄рма</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="IV">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15987,7 +15987,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6685">фуражка</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="IV">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -16006,12 +16006,12 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="???">всегда неряшливый</t>
+				<t xml:lang="rus" pos="mwe_AP: нареч. прилаг.опред.">всегда неряшливый</t>
 				<comment type="grammar">сказ.</comment>
 				<comment type="explanation">неаккуратный</comment>
 			</tg>
 			<tg>
-				<t xml:lang="rus" pos="???">всегда неряшлив</t>
+				<t xml:lang="rus" pos="mwe_AP: нареч. прилаг.сказ.">всегда неряшлив</t>
 				<comment type="grammar">сказ.</comment>
 				<comment type="explanation">неаккуратен</comment>
 			</tg>
@@ -16024,7 +16024,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6687">фӯря</l>
-			<kur_flex class="IV">???</kur_flex>
+			<kur_flex class="IV">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -16045,7 +16045,7 @@
 		<lg>
 			<l pos="глаг." kur_ID="6688">фӯрялаһтӭ</l>
 			<kur_link>фӯря</kur_link>
-			<kur_flex class="II" subclass="4*">???</kur_flex>
+			<kur_flex class="II" subclass="4*">фӯряладта</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -16064,7 +16064,7 @@
 		<lg>
 			<l pos="глаг." kur_ID="6689">фӯрялуввэ</l>
 			<kur_link>фӯря</kur_link>
-			<kur_flex class="I">???</kur_flex>
+			<kur_flex class="I">фӯрялувва</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -16076,7 +16076,7 @@
 		<lg>
 			<l pos="глаг." kur_ID="6690">фӯрялувнэ</l>
 			<kur_link>фӯря</kur_link>
-			<kur_flex class="III">???</kur_flex>
+			<kur_flex class="II">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -16097,7 +16097,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="глаг." kur_ID="6691">фыҏҏче</l>
-			<kur_flex class="II">???</kur_flex>
+			<kur_flex class="II">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -16118,7 +16118,7 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="???">плакса</t>
+				<t xml:lang="rus" pos="xxx">плакса</t>
 				<comment type="grammar">сказ.м</comment>
 				<comment type="grammar">сказ.ж</comment>
 			</tg>
@@ -16132,7 +16132,7 @@
 		<lg>
 			<l pos="глаг." kur_ID="6693">фыҏчнэ</l>
 			<kur_link>фыҏҏче</kur_link>
-			<kur_flex class="III">???</kur_flex>
+			<kur_flex class="II">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -16151,7 +16151,7 @@
 		<lg>
 			<l pos="глаг." kur_ID="6694">фыҏчсэ</l>
 			<kur_link>фыҏҏче</kur_link>
-			<kur_flex class="III">???</kur_flex>
+			<kur_flex class="III">о.ч.</kur_flex>
 		</lg>
 		<mg>
 			<tg>
