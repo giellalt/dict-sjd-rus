@@ -36,13 +36,20 @@ on the e-element in the xml files:
 -both orthographies (where already included in the imported Excel-chart)
 
 05 - first try of restructering the Kurutch-file in GT-xml structure
-- so far only very few lemmata (all words starting with д and ф)
+- so far only very few lemmata (all words starting with д, ф, х)
 - das Element <kur_ID> ist eine ID für jedes Lemma, dass in der Originaldatei enthalten war. Ich möchte es behalten, damit man das Wörterbuch eventuell später zu der Originaldatei zuordnen kann.
--das Element <stem>  zeigt den Stufenwechsel, so wie Kurutch ihn analysiert hat. Das ist in den meisten Fällen richtig. Ich will es erstmal behalten und später sehen, was ich damit machen kann.
--das Element <kur_class> zeigt Kurutchs Analyse der Flexionsklassen. Die ist in vielen Fällen nicht richtig. Aber ich will es erstmal behalten. Ich bin gerade dabei, einen eigene Analyse aller Flexionsklassen aufzuschreiben.
--das Element <LINK> zeigt die Grundform bei abgeleiteten Lemmata
+-das Element <kur_flex>  zeigt den Stufenwechsel, so wie Kurutch ihn analysiert hat. Das ist in den meisten Fällen richtig. Ich will es erstmal behalten und später sehen, was ich damit machen kann. This element also includes Kurutch's inflexion classes as attributes. Die Klassen sind in vielen Fällen nicht richtig. Aber ich will es erstmal behalten. Ich bin gerade dabei, einen eigene Analyse aller Flexionsklassen aufzuschreiben.
+-das Element <kur_link> zeigt die Grundform bei abgeleiteten Lemmata
 -das Attribute nonceform="*" zeigt, dass dieses Wort einfach nur aus dem Russischen genommen ist. Diese Info ist nicht von Kurutch! Ich habe die Idee dafür aus einem anderen Wörterbuch.
 -Es gibt zusätzlich zur alten sjdrus-Struktur eine Example-Gruppe und manchmal auch zusätzliche Kommentare zu den Übersetzungen. Es war mir dabei wichtig, dass ich keine Informationen aus der Originaldatei wegwerfe. Vieles muss aber noch besser strukturiert werden.
+-the element <lexicon> contains longer, lexicon-type explanations of cultural items; in Kurutch's dictionary, such explanations are always given in parentheses after the translation
+-the element <comment> (under <tg>) includes several preliminary kinds of attributes (all included in the original dictionary):
+--<comment type="aktionsart">
+--<comment type="grammar">
+--<comment type="explan">
+--<comment type="понуд."> yet unclear how to scope with that kind of comment
+--<comment type="compare">то же, что = variant of (!aber nicht immer!)
+I don't know yet how to deal with them
 
 =====================
 Unicode issues
