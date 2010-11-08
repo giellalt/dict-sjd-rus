@@ -16050,12 +16050,11 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="mwe._VP: глаг. сущ.">становиться неряхой</t>
-				<comment type="explan">постоянно</comment>
+				<comment type="aktionsart">постоянно</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="mwe._VP: глаг. сущ.">становиться неряхой</t>
-				<comment type="explan">бывало</comment>
-				<comment type="explan">иногда</comment>
+				<comment type="aktionsart">бывало, иногда</comment>
 			</tg>
 			<xg>
 				<x type="sentence">со̄нн тоаййв фӯрялувант</x>
@@ -16071,8 +16070,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explan">долго</comment>
-				<comment type="explan">нудно</comment>
+				<comment type="aktionsart">долго, нудно</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">хлюпать</t>
@@ -16106,13 +16104,11 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explan">долго</comment>
-				<comment type="explan">нудно - постоянно</comment>
+				<comment type="aktionsart">долго, нудно - постоянно</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explan">иногда</comment>
-				<comment type="explan">бывало</comment>
+				<comment type="aktionsart">иногда, бывало</comment>
 			</tg>
 		</mg>
 	</e>
@@ -16125,14 +16121,12 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explan">долго</comment>
-				<comment type="explan">нудно - постоянно</comment>
+				<comment type="aktionsart">долго, нудно - постоянно</comment>
 				<comment type="compare">фыҏҏче</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explan">иногда</comment>
-				<comment type="explan">бывало</comment>
+				<comment type="aktionsart">иногда, бывало</comment>
 				<comment type="compare">фыҏҏче</comment>
 			</tg>
 		</mg>
