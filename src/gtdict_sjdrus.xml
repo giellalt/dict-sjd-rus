@@ -690,8 +690,8 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">лежать</t>
 			</tg>
-			<comment type="explanation">человек</comment>
-			<comment type="explanation">животные</comment>
+			<comment type="explan">человек</comment>
+			<comment type="explan">животные</comment>
 		</mg>
 	</e>
 	<e meta="01">
@@ -702,8 +702,8 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">лежать</t>
 			</tg>
-			<comment type="explanation">человек</comment>
-			<comment type="explanation">животные</comment>
+			<comment type="explan">человек</comment>
+			<comment type="explan">животные</comment>
 		</mg>
 	</e>
 	<e meta="01">
@@ -1871,7 +1871,7 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">деревня</t>
 			</tg>
-			<comment type="explanation">на берегу моря</comment>
+			<comment type="explan">на берегу моря</comment>
 		</mg>
 	</e>
 	<e meta="01">
@@ -2316,7 +2316,7 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">букет</t>
 			</tg>
-			<comment type="explanation">цветов</comment>
+			<comment type="explan">цветов</comment>
 		</mg>
 		<mg>
 			<tg>
@@ -13050,7 +13050,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">хвост</t>
-				<comment type="explanation">у оленя</comment>
+				<comment type="explan">у оленя</comment>
 			</tg>
 			<tg>
 				<t xml:lang="eng">tail</t>
@@ -13114,7 +13114,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">хвост</t>
-				<comment type="explanation">у птицы</comment>
+				<comment type="explan">у птицы</comment>
 			</tg>
 			<tg>
 				<t xml:lang="eng">tail</t>
@@ -13390,7 +13390,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">палец</t>
-				<comment type="explanation">у птицы</comment>
+				<comment type="explan">у птицы</comment>
 			</tg>
 			<tg>
 				<t xml:lang="eng">toe</t>
@@ -13517,7 +13517,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">кряква</t>
-				<comment type="explanation">дикая утка</comment>
+				<comment type="explan">дикая утка</comment>
 			</tg>
 			<tg>
 				<t xml:lang="eng">mallard</t>
@@ -13584,7 +13584,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">звонуха</t>
-				<comment type="explanation">дикая утка</comment>
+				<comment type="explan">дикая утка</comment>
 			</tg>
 			<tg>
 				<t xml:lang="eng">wild dick</t>
@@ -14242,7 +14242,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">грива</t>
-				<comment type="explanation">у оленя</comment>
+				<comment type="explan">у оленя</comment>
 			</tg>
 			<tg>
 				<t xml:lang="eng">mane</t>
@@ -14970,7 +14970,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">куропатка</t>
-				<comment type="explanation">самец</comment>
+				<comment type="explan">самец</comment>
 			</tg>
 			<tg>
 				<t xml:lang="eng">partridge</t>
@@ -15928,7 +15928,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">форма</t>
-				<comment type="explanation">одежда</comment>
+				<comment type="explan">одежда</comment>
 			</tg>
 			<xg>
 				<x type="phrase">оһпнуввэй фо̄рма</x>
@@ -15941,7 +15941,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">форма</t>
-				<comment type="explanation">приспособление для чего-л.</comment>
+				<comment type="explan">приспособление для чего-л.</comment>
 			</tg>
 			<xg>
 				<x type="phrase">ле̄йп па̄шшьтэм фо̄рма</x>
@@ -15990,12 +15990,12 @@
 			<tg>
 				<t xml:lang="rus" pos="mwe_AP: нареч. прилаг.опред.">всегда неряшливый</t>
 				<comment type="grammar">сказ.</comment>
-				<comment type="explanation">неаккуратный</comment>
+				<comment type="explan">неаккуратный</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="mwe_AP: нареч. прилаг.сказ.">всегда неряшлив</t>
 				<comment type="grammar">сказ.</comment>
-				<comment type="explanation">неаккуратен</comment>
+				<comment type="explan">неаккуратен</comment>
 			</tg>
 			<xg>
 				<x type="sentence">со̄нн агкь пайля̄йй фӯрьялаш</x>
@@ -16063,12 +16063,12 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="mwe._VP: глаг. сущ.">становиться неряхой</t>
-				<comment type="explanation">постоянно</comment>
+				<comment type="explan">постоянно</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="mwe._VP: глаг. сущ.">становиться неряхой</t>
-				<comment type="explanation">бывало</comment>
-				<comment type="explanation">иногда</comment>
+				<comment type="explan">бывало</comment>
+				<comment type="explan">иногда</comment>
 			</tg>
 			<xg>
 				<x type="sentence">со̄нн тоаййв фӯрялувант</x>
@@ -16084,8 +16084,8 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explanation">долго</comment>
-				<comment type="explanation">нудно</comment>
+				<comment type="explan">долго</comment>
+				<comment type="explan">нудно</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">хлюпать</t>
@@ -16119,13 +16119,13 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explanation">долго</comment>
-				<comment type="explanation">нудно - постоянно</comment>
+				<comment type="explan">долго</comment>
+				<comment type="explan">нудно - постоянно</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explanation">иногда</comment>
-				<comment type="explanation">бывало</comment>
+				<comment type="explan">иногда</comment>
+				<comment type="explan">бывало</comment>
 			</tg>
 		</mg>
 	</e>
@@ -16138,14 +16138,14 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explanation">долго</comment>
-				<comment type="explanation">нудно - постоянно</comment>
+				<comment type="explan">долго</comment>
+				<comment type="explan">нудно - постоянно</comment>
 				<comment type="compare">фыҏҏче</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">плакать</t>
-				<comment type="explanation">иногда</comment>
-				<comment type="explanation">бывало</comment>
+				<comment type="explan">иногда</comment>
+				<comment type="explan">бывало</comment>
 				<comment type="compare">фыҏҏче</comment>
 			</tg>
 		</mg>
