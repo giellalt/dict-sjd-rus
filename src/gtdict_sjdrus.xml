@@ -1561,7 +1561,7 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">побегать</t>
 			</tg>
-			<comment type="restriction">о животных</comment>
+			<re>о животных</re>
 		</mg>
 	</e>
 	<e meta="01">
@@ -2389,7 +2389,7 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">расколоть</t>
 			</tg>
-			<comment type="restriction">дрова</comment>
+			<re>дрова</re>
 		</mg>
 	</e>
 	<e meta="01">
@@ -2747,7 +2747,7 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">бежать</t>
 			</tg>
-			<comment type="restriction">человек</comment>
+			<re>человек</re>
 		</mg>
 	</e>
 	<e meta="02">
@@ -2768,7 +2768,7 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">бежать</t>
 			</tg>
-			<comment type="restriction">животное</comment>
+			<re>животное</re>
 		</mg>
 	</e>
 	<e meta="02">
@@ -13157,7 +13157,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">птица</t>
-				<comment type="restriction">черная</comment>
+				<re>черная</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">not included</t>
@@ -13179,7 +13179,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">утка</t>
-				<comment type="restriction">черная</comment>
+				<re>черная</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">not included</t>
@@ -13606,7 +13606,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">рог</t>
-				<comment type="restriction">олений</comment>
+				<re>олений</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">antlers</t>
@@ -13904,7 +13904,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">куропатка</t>
-				<comment type="restriction">белая</comment>
+				<re>белая</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">partridge</t>
@@ -13968,7 +13968,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">гнездо</t>
-				<comment type="restriction">птичье</comment>
+				<re>птичье</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">nest</t>
@@ -14095,7 +14095,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">стая</t>
-				<comment type="restriction">птиц</comment>
+				<re>птиц</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">flight</t>
@@ -14759,7 +14759,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">чайка</t>
-				<comment type="restriction">морская</comment>
+				<re>морская</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">gull</t>
@@ -15434,7 +15434,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">чайка</t>
-				<comment type="restriction">озерная</comment>
+				<re>озерная</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">gull</t>
