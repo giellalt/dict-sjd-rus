@@ -690,8 +690,8 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">лежать</t>
 			</tg>
-			<comment type="explan">человек</comment>
-			<comment type="explan">животные</comment>
+			<re>человек</re>
+			<re>животные</re>
 		</mg>
 	</e>
 	<e meta="01">
@@ -702,8 +702,8 @@
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">лежать</t>
 			</tg>
-			<comment type="explan">человек</comment>
-			<comment type="explan">животные</comment>
+			<re>человек</re>
+			<re>животные</re>
 		</mg>
 	</e>
 	<e meta="01">
@@ -1864,14 +1864,17 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">село</t>
+				<re>на берегу моря</re>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">селение</t>
+				<re>на берегу моря</re>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">деревня</t>
+				<re>на берегу моря</re>
 			</tg>
-			<comment type="explan">на берегу моря</comment>
+			
 		</mg>
 	</e>
 	<e meta="01">
@@ -2316,7 +2319,7 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">букет</t>
 			</tg>
-			<comment type="explan">цветов</comment>
+			<re>цветов</re>
 		</mg>
 		<mg>
 			<tg>
@@ -13050,7 +13053,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">хвост</t>
-				<comment type="explan">у оленя</comment>
+				<re>у оленя</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">tail</t>
@@ -13114,7 +13117,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">хвост</t>
-				<comment type="explan">у птицы</comment>
+				<re>у птицы</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">tail</t>
@@ -13390,7 +13393,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">палец</t>
-				<comment type="explan">у птицы</comment>
+				<re>у птицы</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">toe</t>
@@ -14242,7 +14245,7 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">грива</t>
-				<comment type="explan">у оленя</comment>
+				<re>у оленя</re>
 			</tg>
 			<tg>
 				<t xml:lang="eng">mane</t>
