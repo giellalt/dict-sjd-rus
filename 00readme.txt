@@ -45,7 +45,6 @@ on the e-element in the xml files:
 -the element <lexicon> contains longer, lexicon-type explanations of cultural items; in Kurutch's dictionary, such explanations are always given in parentheses after the translation
 -the element <comment> (under <tg>) includes several preliminary kinds of attributes (all included in the original dictionary):
 --<comment type="aktionsart">
---<comment type="grammar">
 --<comment type="explan">
 --<comment type="понуд."> yet unclear how to scope with that kind of comment
 --<comment type="compare">то же, что = variant of (!aber nicht immer!)
