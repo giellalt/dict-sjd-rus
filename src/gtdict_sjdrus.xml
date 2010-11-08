@@ -16131,4 +16131,753 @@
 			</tg>
 		</mg>
 	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6695">хабпхэ</l>
+			<kur_link>хаhпе</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">вспыхнуть</t>
+				<comment type="explan">прям., перен.</comment>
+			</tg>
+			<xg>
+				<x type="sentence">коашшьк мӯр хабпхэнҍ</x>
+				<xt xml:lang="rus">сухие дрова вспыхнули</xt>
+			</xg>
+			<xg>
+				<x type="sentence">хабпэһтҍ туарр</x>
+				<xt xml:lang="rus">вспыхнула война</xt>
+			</xg>
+			<xg>
+				<x type="sentence">со̄нн хабпэһтҍ мугка соанӭнҍ</x>
+				<xt xml:lang="rus">он вспыхнул от этих слов</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6696">хабпхэннтэ</l>
+			<kur_link>хаһпе</kur_link>
+			<kur_flex class="II" subclass="1*">хабпхэнта</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">вспыхивать</t>
+				<comment type="aktionsart">иногда, бывало</comment>
+				<comment type="explan">прям., перен.</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">вспыхивать</t>
+				<comment type="aktionsart">постоянно</comment>
+				<comment type="explan">прям., перен.</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="1" kur_ID="6697">хабпхэсс</l>
+			<kur_link>хаһпе</kur_link>
+			<kur_flex class="I">хабпхэз</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">вспышка</t>
+				<comment type="explan">прям., перен.</comment>
+			</tg>
+			<xg>
+				<x type="phrase">то̄лл хабпхэсс</x>
+				<xt xml:lang="rus">вспышка огня</xt>
+			</xg>
+			<xg>
+				<x type="phrase">грӣбп хабпхэсс</x>
+				<xt xml:lang="rus">вспышка гриппа</xt>
+			</xg>
+		</mg>
+		<mg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_NP: прилаг.опред. сущ.">дождевой гриб</tf>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6698">хаһпе</l>
+			<kur_flex class="I" subclass="4">хабпе</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">вспыхивать</t>
+				<comment type="explan">прям., перен.</comment>
+			</tg>
+			<xg>
+				<x type="sentence">кӯз альн хаhпев толя</x>
+				<xt xml:lang="rus">на ёлке вспыхивают огоньки</xt>
+			</xg>
+			<xg>
+				<x type="sentence">со̄нн хаhп, гӯ спичка</x>
+				<xt xml:lang="rus">он вспыхивает, как спичка</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="1" kur_ID="6699">ха̄ррьв</l>
+			<kur_flex class="II" subclass="3">ха̄рьв</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">гарва</t>
+			</tg>
+			<lexicon xml:lang="rus">морской невод для ловли сёмги</lexicon>
+			<xg>
+				<x type="sentence">лӯсс манн ха̄ррва</x>
+				<xt xml:lang="rus">сёмга идёт в гарву</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="xxx" kur_ID="6700">харя</l>
+			<kur_flex class="IV">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">хорей</t>
+			</tg>
+			<lexicon xml:lang="rus">шест длиной около трёх метров, диаметром 3–4 см для управления оленьей упряжкой; на более тонкий передний конец шеста надевается деревянный или костяной шарик, предохраняющий оленей от уколов</lexicon>
+			<xg>
+				<x type="phrase">харянҍ пӯдзэтҍ чо̄һкэ</x>
+				<xt xml:lang="rus">погонять оленей хореем</xt>
+			</xg>
+			<xg>
+				<x type="phrase">харя па̄лл</x>
+				<xt xml:lang="rus">шарик на конце хорея</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6701">хаҏҏьпаһтӭ</l>
+			<kur_link>хаҏҏьпэ</kur_link>
+			<kur_flex class="I" subclass="4*">хаҏҏьпадтa</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">xxx</t>
+				<comment type="понуд.">понуд. к хаҏҏьпэ</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6702">хаҏҏьпэ</l>
+			<kur_flex class="II" subclass="4">хаҏьпа</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хрустеть</t>
+				<re>чаще о пересохшей шкуре</re>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">скрипеть</t>
+				<re>чаще о пересохшей шкуре</re>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">шуршать</t>
+				<re>чаще о пересохшей шкуре</re>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. сущ. прилаг.опред. сущ.">создавать видимость быстрой работы</tf>
+				<comment type="explan">перен.</comment>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. прилаг.опред.">становиться беспокойным</tf>
+				<comment type="explan">перен.</comment>
+			</tg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. прилаг.опред. сущ.">терять душевное равновесие</tf>
+				<comment type="explan">перен.</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="2" kur_ID="6703">хаҏҏьпэй</l>
+			<kur_link>хаҏҏьпэ</kur_link>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг." state="сказ.">вспыльчив</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг." state="опред.">вспыльчивый</t>
+			</tg>
+			<xg>
+				<x type="sentence">тэдт олма лӣ хаҏҏьпэй</x>
+				<xt xml:lang="rus">этот человек вспыльчив</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="2" kur_ID="6704">хозенҍ</l>
+			<kur_flex class="V">о.ч.=</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">хозяин</t>
+			</tg>
+			<xg>
+				<x type="phrase">пӯдзэ хозенҍ</x>
+				<xt xml:lang="rus">хозяин оленей</xt>
+			</xg>
+			<xg>
+				<x type="посл.">олма лӣ вуээесь хозень</x>
+				<xt xml:lang="rus">человек - хозяин своего счастья</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6705">хозьнужсэ</l>
+			<kur_link>хозенҍ</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">похозяйничать</t>
+				<comment type="aktionsart">немного</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6706">хозьнушшэ</l>
+			<kur_link>хозенҍ</kur_link>
+			<kur_flex class="I">хозьнужа</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хозяйничать</t>
+			</tg>
+			<xg>
+				<x type="sentence">то̄нн о̄ххтэ пэҏтэсьт хозьнужак?</x>
+				<xt xml:lang="rus">ты один в доме хозяйничаешь?</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6707">хоӈкрэ</l>
+			<kur_link>хоӈкэр</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">каркать</t>
+				<re>о вороне</re>
+			</tg>
+			<xg>
+				<x type="phrase">ка̄рьнэсь хоӈкэрь</x>
+				<xt xml:lang="rus">ворона каркнула</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6708">хоӈкрэннтэ</l>
+			<kur_link>хоӈкэр</kur_link>
+			<kur_flex class="II" subclass="1*">хоӈкрэнта</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">каркать</t>
+				<comment type="aktionsart">постоянно</comment>
+				<re>о вороне</re>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">каркать</t>
+				<comment type="aktionsart">иногда, бывало</comment>
+				<re>о вороне</re>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="2" kur_ID="6709">хоӈкэр</l>
+			<kur_flex class="V">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">карканье</t>
+				<re>вороны</re>
+			</tg>
+			<xg>
+				<x type="sentence">куллай ка̄ррнас хоӈкэр</x>
+				<xt xml:lang="rus">слышно карканье вороны</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6710">хоӈкэрлуввэ</l>
+			<kur_link>хоӈкэр</kur_link>
+			<kur_flex class="I">хоӈкэрлува</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">раскаркаться</t>
+				<re>о вороне</re>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6711">хо̄ҏкнэ</l>
+			<kur_link>хо̄ҏҏкэ</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. нареч.">кричать негромко</tf>
+				<comment type="explan">об олене во время гона или об оленёнке, зовущем мать</comment>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. нареч.">кричать негромко</tf>
+				<comment type="explan">об олене во время гона или об оленёнке, зовущем мать</comment>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6712">хо̄ҏҏкэ</l>
+			<kur_flex class="II" subclass="1">хо̄ҏка</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. нареч.">кричать негромко</tf>
+				<comment type="explan">об олене во время гона или об оленёнке, зовущем мать</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="xxx" kur_ID="6713">хыҏэдэ</l>
+			<kur_flex class="III" subclass="1*">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">смеяться</t>
+				<re>громко</re>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хохотать</t>
+				<re>громко</re>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="1" kur_ID="6714">хэздэмушш</l>
+			<kur_link>хэзэдэ</kur_link>
+			<kur_flex class="I">хэздэмуж</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">шуршание</t>
+				<comment type="compare">хэзэдэмушш</comment>
+				<re>о шёлке</re>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6715">хэзэднэ</l>
+			<kur_link>хэзэдэ</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">шуршать</t>
+				<comment type="aktionsart">постоянно</comment>
+				<re>о шёлке</re>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">шуршать</t>
+				<comment type="aktionsart">иногда, бывало</comment>
+				<re>о шёлке</re>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6716">хэзэдсэ</l>
+			<kur_link>хэзэдэ</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">пошуршать</t>
+				<comment type="aktionsart">немного</comment>
+				<re>о шёлке</re>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="xxx" kur_ID="6717">хэзэдэ</l>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">шуршать</t>
+				<re>о шёлке</re>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="1" kur_ID="6718">хэзэдэмушш</l>
+			<kur_link>хэзэдэ</kur_link>
+			<kur_flex class="I">хэзэдэмуж</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">шуршание</t>
+				<comment type="compare">хэздэмушш</comment>
+				<re>о шёлке</re>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6719">хэ̄ӆӆплэ</l>
+			<kur_link>хэ̄ӆӆпэ 2</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хлопнуть</t>
+				<re>дверью</re>
+				<comment type="aktionsart">однокр.</comment>
+			</tg>
+			<xg>
+				<x type="sentence">ке̄ уксэнҍ хэ̄ӆӆпэль?</x>
+				<xt xml:lang="rus">кто хлопнул дверью?</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="1" kur_ID="6720">хэ̄ӆӆпмушш</l>
+			<kur_link>хэ̄ӆӆпэ 1</kur_link>
+			<kur_flex class="I">хэ̄ӆӆпмуж</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">сплетня</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">молва</t>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">болтовня</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6721">хэ̄ӆӆпэ 1</l>
+			<kur_flex class="1II" subclass="1">хэ̄ӆпа</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">пустословить</t>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">болтать</t>
+			</tg>
+			<xg>
+				<x type="sentence">ля̄ннч хэ̄ӆӆпэ!</x>
+				<xt xml:lang="rus">хватит болтать!</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6722">хэ̄ӆӆпэ 2</l>
+			<kur_flex class="2II" subclass="1">хэ̄ӆпа</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хлопать</t>
+				<re>о двери</re>
+			</tg>
+			<xg>
+				<x type="sentence">уккс хаӆӆп</x>
+				<xt xml:lang="rus">дверь хлопает</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6723">хэ̄ӆӆьпхэ</l>
+			<kur_link>хэ̄ӆӆпэ 1</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">xxx</t>
+				<comment type="понуд.">понуд. к хэ̄ӆӆпэ</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6724">хэ̄ӆпсэллэ</l>
+			<kur_link>хэ̄ӆӆпэ 2</kur_link>
+			<kur_flex class="I" subclass="1*">хэ̄ӆпсэла</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хлопать</t>
+				<comment type="aktionsart">постоянно</comment>
+				<re>дверью</re>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хлопать</t>
+				<comment type="aktionsart">иногда, бывало</comment>
+				<re>дверью</re>
+			</tg>
+			<xg>
+				<x type="sentence">елле хэ̄ӆпсалле уксэнҍ!</x>
+				<xt xml:lang="rus">не хлопайте дверью!</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6725">хэӆпхэ</l>
+			<kur_link>хэ̄ӆӆпэ 1</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хлопать</t>
+				<re>о двери</re>
+				<comment type="compare">то же, что хэ̄ӆӆпэ</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="2" kur_ID="6726">хэӆпхэй</l>
+			<kur_link>хэ̄ӆӆпэ 1</kur_link>
+			<kur_flex class="V">о.ч.=</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">болтун</t>
+				<comment type="grammar">ж</comment>
+				<comment type="explan">болтунья, болтушка</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6727">хэӆпхэннтэ</l>
+			<kur_link>хэ̄ӆӆпэ 1</kur_link>
+			<kur_flex class="II" subclass="1*">хэӆпхэнта</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">болтать</t>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">пустословить</t>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">болтать</t>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">пустословить</t>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6728">хэҏпнэ</l>
+			<kur_link>хаҏҏьпэ</kur_link>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хрустеть</t>
+				<re>чаще о пересохшей шкуре</re>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">шуршать</t>
+				<re>чаще о пересохшей шкуре</re>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">скрипеть</t>
+				<re>чаще о пересохшей шкуре</re>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">хрустеть</t>
+				<re>чаще о пересохшей шкуре</re>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">шуршать</t>
+				<re>чаще о пересохшей шкуре</re>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">скрипеть</t>
+				<re>чаще о пересохшей шкуре</re>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. сущ. прилаг.опред. сущ.">создавать видимость быстрой работы</tf>
+				<comment type="explan">перен.</comment>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. сущ. прилаг.опред. сущ.">создавать видимость быстрой работы</tf>
+				<comment type="explan">перен.</comment>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+		</mg>
+		<mg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. прилаг.опред. сущ.">терять душевное равновесие</tf>
+				<comment type="explan">перен.</comment>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. прилаг.опред.">становиться беспокойным</tf>
+				<comment type="explan">перен.</comment>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. прилаг.опред. сущ.">терять душевное равновесие</tf>
+				<comment type="explan">перен.</comment>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+			<tg>
+				<tf xml:lang="rus" pos="mwe_VP: глаг. прилаг.опред.">становиться беспокойным</tf>
+				<comment type="explan">перен.</comment>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="прилаг.опред." kur_ID="6729">хэҏҏьпъесь</l>
+			<kur_link>хаҏҏьпэ</kur_link>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="прилаг." state="опред.">вспыльчивый</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="1" kur_ID="6730">хэҏчхассьтэ</l>
+			<kur_link>хэҏчхэ</kur_link>
+			<kur_flex class="II" subclass="4*">хэҏчхасьтэ</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">поворчать</t>
+				<comment type="aktionsart">немного</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="глаг." conj="2" kur_ID="6731">хэҏчхэ</l>
+			<kur_flex class="III">о.ч.</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">ворчать</t>
+				<comment type="aktionsart">постоянно</comment>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="глаг." aspect="xxx">ворчать</t>
+				<comment type="aktionsart">иногда, бывало</comment>
+			</tg>
+			<xg>
+				<x type="sentence">а̄ка пе̄ййв пай хэҏчаһт</x>
+				<xt xml:lang="rus">бабка ворчит целый день</xt>
+			</xg>
+			<xg>
+				<x type="sentence">ля̄ннч тоннӭ хэҏчхэ мун э̄л!</x>
+				<xt xml:lang="rus">хватит на меня ворчать!</xt>
+			</xg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="сущ." decl="1" kur_ID="6732">хэҏчхэсс</l>
+			<kur_link>хэҏчхэ</kur_link>
+			<kur_flex class="I">хэҏчхэз</kur_flex>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">ворчун</t>
+				<comment type="explan">ворчунья</comment>
+				<comment type="grammar">ж</comment>
+			</tg>
+		</mg>
+	</e>
+	<e meta="05">
+		<lg>
+			<l pos="част." kur_ID="6733">хэс</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="част.">зато</t>
+			</tg>
+			<xg>
+				<x type="sentence">то̄нн хэс пугк те̄дак</x>
+				<xt xml:lang="rus">зато ты все знаешь</xt>
+			</xg>
+			<xg>
+				<x type="sentence">мунн уйта - со̄нн хэс пуадт</x>
+				<xt xml:lang="rus">я уйду, зато он придёт</xt>
+			</xg>
+		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="част.">же</t>
+			</tg>
+			<xg>
+				<x type="sentence">ко̄з хэс то̄нн вӯллкэкь?</x>
+				<xt xml:lang="rus">куда же ты пошёл?</xt>
+			</xg>
+		</mg>
+	</e>
 </r>
