@@ -2876,16 +2876,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">пе̄ссь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">берёста</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ." decl="1">рыннт</l>
@@ -3963,17 +3954,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">чуххч</l>
-			<graph_var src="aaa">чуххч</graph_var>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">глухарь</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="прилаг." nonceform="*">глуххэ</l>
@@ -6212,16 +6193,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">суэйй</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">крыло</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l nonceform="*" src="kur" pos="сущ.">кры̄ша</l>
@@ -6362,16 +6334,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">нюххч</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">лебедь</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="прилаг.">чинч</l>
@@ -6474,17 +6437,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">рӣммьн</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">лиса</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02">
+		<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ." decl="1">лысст</l>
 		</lg>
@@ -6594,16 +6547,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">сэ̄ррв</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">лось</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ." decl="xxx">ēбешь</l>
@@ -6797,16 +6741,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">та̄лл</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">медведь</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ." decl="xxx">па̄ҋк</l>
@@ -7237,20 +7172,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">нюннҍ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">нос</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">клюв</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="02" merged="2">
+		<e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ." decl="1">ыйй</l>
 		</lg>
@@ -8364,16 +8286,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">уййв</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">пух</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ." decl="1">ка̄ннт</l>
@@ -8663,16 +8576,7 @@
 			</tg>
 		</mg>
 	</e>
-	<e meta="02" merged="2">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">ня̄лльм</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">рот</t>
-			</tg>
-		</mg>
-	</e>
+	
 	<e meta="02">
 		<lg>
 			<l nonceform="*" src="kur" pos="сущ.">рубэшк</l>
@@ -13536,7 +13440,7 @@
 			<l src="kur" pos="сущ." decl="1">чуххч</l>
 			<graph_var src="aaa">чуххч</graph_var>
 		</lg>
-		<mg>
+				<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">тетерев</t>
 			</tg>
@@ -13965,6 +13869,13 @@
 			<l src="kur" pos="сущ." decl="1">пе̄ссь</l>
 			<graph_var src="aaa">пе̄ссь</graph_var>
 		</lg>
+		
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">берёста</t>
+			</tg>
+		</mg>
+	
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">гнездо</t>
@@ -14197,7 +14108,11 @@
 			<l src="kur" pos="сущ." decl="1">нюннҍ</l>
 			<graph_var src="aaa">нюннҍ</graph_var>
 		</lg>
+		
 		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">нос</t>
+			</tg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">клюв</t>
 			</tg>
