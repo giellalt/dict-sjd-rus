@@ -424,7 +424,6 @@
 			</tg>
 		</mg>
 	</e>
-	
 	<e meta="01">
 		<lg>
 			<l src="kur" pos="сущ." decl="1">рыһпмуррьй</l>
@@ -1874,7 +1873,6 @@
 				<t xml:lang="rus" pos="сущ.">деревня</t>
 				<re>на берегу моря</re>
 			</tg>
-			
 		</mg>
 	</e>
 	<e meta="01">
@@ -2513,7 +2511,7 @@
 	</e>
 	<e meta="02">
 		<lg>
-			<l nonceform="*" src="kur" pos="сущ."*">авгусст</l>
+			<l nonceform="*" src="kur" pos="сущ.">авгусст</l>
 		</lg>
 		<mg>
 			<tg>
@@ -8315,7 +8313,6 @@
 				<x type="phrase">кӣһче лоанҍтэ кырртмуж</x>
 				<xt xml:lang="rus">наблюдать полёт птиц
 				</xt>
-		
 			</xg>
 			<xg>
 				<x type="phrase">лоанҍт вуэннч</x>
@@ -12816,7 +12813,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l src="kur" pos="глаг."  conj="2">чарьчсе</l>
+			<l src="kur" pos="глаг." conj="2">чарьчсе</l>
 			<graph_var src="aaa">чарьчсе</graph_var>
 		</lg>
 		<mg>
@@ -15491,7 +15488,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="I" kur_ID="1093">делегаһт</l>
-			
 			<kur_flex class="I">делегат</kur_flex>
 		</lg>
 		<mg>
@@ -15558,7 +15554,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="I" kur_ID="1098">депутаһт</l>
-			
 			<kur_flex class="I">депутат</kur_flex>
 		</lg>
 		<mg>
@@ -15604,7 +15599,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="I" kur_ID="1100">диванн</l>
-			
 			<kur_flex class="I">диван</kur_flex>
 		</lg>
 		<mg>
@@ -15624,7 +15618,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="I" kur_ID="1101">диктаннт</l>
-			
 			<kur_flex class="I">диктант</kur_flex>
 		</lg>
 		<mg>
@@ -15644,7 +15637,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="1102">директэр</l>
-			
 			<kur_flex class="V">о.ч.</kur_flex>
 		</lg>
 		<mg>
@@ -15664,7 +15656,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="I" kur_ID="1103">днивнэһкь</l>
-			
 			<kur_flex class="I">днивнэгкь</kur_flex>
 		</lg>
 		<mg>
@@ -15680,8 +15671,7 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="I" kur_ID="1104">докладт</l>
-						<kur_flex class="I">доклад</kur_flex>
-
+			<kur_flex class="I">доклад</kur_flex>
 		</lg>
 		<mg>
 			<tg>
@@ -15716,7 +15706,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." class="II" kur_ID="1106">дэбэнҌ</l>
-			
 			<kur_flex class="V">о.ч.</kur_flex>
 		</lg>
 		<mg>
@@ -15806,7 +15795,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6676">факультеһт</l>
-			
 			<kur_flex class="I">факультет</kur_flex>
 		</lg>
 		<mg>
@@ -15824,7 +15812,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6677">фа̄ртэк</l>
-			
 			<kur_flex class="V">о.ч.</kur_flex>
 		</lg>
 		<mg>
@@ -15846,7 +15833,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6678">февралль</l>
-			
 			<kur_flex class="I">февраль</kur_flex>
 		</lg>
 		<mg>
@@ -15892,7 +15878,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6681">фла̄гк</l>
-			
 			<kur_flex class="I">фла̄г</kur_flex>
 		</lg>
 		<mg>
@@ -15910,7 +15895,6 @@
 	<e meta="05">
 		<lg>
 			<l pos="сущ." kur_ID="6682">фло̄һт</l>
-			
 			<kur_flex class="I">фло̄т</kur_flex>
 		</lg>
 		<mg>
