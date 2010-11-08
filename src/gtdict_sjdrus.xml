@@ -8304,20 +8304,20 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">птица</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">ча̄зесьт вӯйей лоанҍт</x>
 				<xt xml:lang="rus">водоплавающие птицы</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">кӣһче лоанҍтэ кырртмуж</x>
 				<xt xml:lang="rus">наблюдать полёт птиц
 				</xt>
 		
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">лоанҍт вуэннч</x>
 				<xt xml:lang="rus">дичь</xt>
-			</eg>
+			</xg>
 			<semantics_group>
 				<sem class="animal"/>
 				<sem class="bird"/>
@@ -15456,14 +15456,14 @@
 			<tg>
 				<t xml:lang="rus" pos="част.">так</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">со̄нн дак пуадт, а то̄нн дак эгк вуэй пуэдтӭ</x>
 				<xt xml:lang="rus">он так придёт, а ты так не можешь</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">выйе, дак выйе</x>
 				<xt xml:lang="rus">ехать, так ехать</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15475,14 +15475,14 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">декабрь м</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">шэ̄ннтэ декабресьт</x>
 				<xt xml:lang="rus">родиться в декабре</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="compound">декаббрь-пе̄йв</x>
 				<xt xml:lang="rus">декабрьские дни</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15495,10 +15495,10 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">делегат</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">воалшэ делегаһтэнҍ</x>
 				<xt xml:lang="rus">избрать кого делегатом</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15520,10 +15520,10 @@
 			<tg>
 				<t xml:lang="rus" pos="прилаг." state="опред.">демократический</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">демократическэ республика</x>
 				<xt xml:lang="rus">демократическая республика</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15546,10 +15546,10 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">демонстрация</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">лыһкъетҍ демонстрация</x>
 				<xt xml:lang="rus">демонстрация трудящихся</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15562,18 +15562,18 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">депутат</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">пайймусс совеһт депутаһт</x>
 				<xt xml:lang="rus">депутат верховного совета</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">сыййт совеһт депутаһт</x>
 				<xt xml:lang="rus">депутат сельского совета</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="compound">депутаһт-пе̄ййв</x>
 				<xt xml:lang="rus">депутатский день</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15587,15 +15587,15 @@
 			<tg>
 				<t xml:lang="rus" pos="част.">да</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">дӣ шӯр со̄нн лӣ!</x>
 				<xt xml:lang="rus">какой же он большой!</xt>
 				<xt xml:lang="rus">ну и большой же он!</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="sentence">дӣ лӣ ко̄ммтвудт!</x>
 				<xt xml:lang="rus">ну и ширина!</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15608,14 +15608,14 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">диван</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">диван альн вуэӈӈэ</x>
 				<xt xml:lang="rus">отдыхать на диване</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">диванн по̄дэшк</x>
 				<xt xml:lang="rus">диванная подушка</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15628,14 +15628,14 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">диктант</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">кырьйхэ диктант</x>
 				<xt xml:lang="rus">написать диктант</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">диктантэсьт ся̄гкнэгэтҍ вӯййкъе</x>
 				<xt xml:lang="rus">исправить ошибки в диктанте</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15648,14 +15648,14 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">директор</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">шко̄ла директрэнҍ ро̄бхушшэ</x>
 				<xt xml:lang="rus">работать директором школы</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">директэр туэлль</x>
 				<xt xml:lang="rus">директорский стол</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15668,10 +15668,10 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">дневник</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">о̄һпнуввэй днивнэһкь</x>
 				<xt xml:lang="rus">ученический дневник</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15684,14 +15684,14 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">доклад</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">са̄ррнмуж доклад мӣлльтэ</x>
 				<xt xml:lang="rus">прения по докладу</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">доклад выгкэй</x>
 				<xt xml:lang="rus">докладчик</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15704,10 +15704,10 @@
 				<t xml:lang="rus" pos="сущ.">духи</t>
 				<comment type="grammar">мн.ч.</comment>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">духа лэ̄гк</x>
 				<xt xml:lang="rus">запах духов</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15724,14 +15724,14 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">трясина</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">ва̄ннҍцэ пырр ва̄ррь дэбэнҍ</x>
 				<xt xml:lang="rus">обойти лесную трясину</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="phrase">выррэ дэбнӭ</x>
 				<xt xml:lang="rus">завязнуть в трясине</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15742,10 +15742,10 @@
 			<tg>
 				<t xml:lang="rus" pos="мест.">-то</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">мунн-дэдт тон те̄да</x>
 				<xt xml:lang="rus">я-то тебя знаю</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15757,10 +15757,10 @@
 				<t xml:lang="rus" pos="мест.">-то</t>
 				<comment type="compare">-дэдт</comment>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">касьт-дэдтӭ со̄нн адтҍ лӣ?!</x>
 				<xt xml:lang="rus">где-то он сейчас?!</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15771,14 +15771,14 @@
 			<tg>
 				<t xml:lang="rus" pos="мест.">-то</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">кнӣга-дэн ло̄гкекь?</x>
 				<xt xml:lang="rus">ты книгу-то прочёл?</xt>
-			</eg>
-			<eg>
+			</xg>
+			<xg>
 				<x type="sentence">нӣййтант-дэн ва̄лтак мӣлльтэ?</x>
 				<xt xml:lang="rus">а дочку-то возьмёшь с собой?</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15790,14 +15790,14 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">фабрика</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">пымме фа̄брика</x>
 				<xt xml:lang="rus">бумажная фабрика</xt>
 				<x type="phrase">лыһкэ фа̄брикасьт</x>
 				<xt xml:lang="rus">работать на фабрике</xt>
 				<x type="phrase">фа̄брикасьт лыһкэй</x>
 				<xt xml:lang="rus">фабричный рабочий</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15810,12 +15810,12 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">факультет</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">историческэ факультеһт</x>
 				<xt xml:lang="rus">исторический факультет</xt>
 				<x type="compound">факультеһт-со̄бэр</x>
 				<xt xml:lang="rus">факультетское собрание</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15828,7 +15828,7 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">фартук</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">куаррэ о̄дт вӣллькесь фа̄ртэк</x>
 				<xt xml:lang="rus">сшить новый белый фартук</xt>
 				<x type="phrase">куаррэм фа̄ртэк</x>
@@ -15837,7 +15837,7 @@
 				<xt xml:lang="rus">кухонный фартук</xt>
 				<x type="phrase">фа̄ртэк та̄вяр</x>
 				<xt xml:lang="rus">ткань на фартук</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15851,14 +15851,14 @@
 				<t xml:lang="rus" pos="сущ.">февраль</t>
 				<comment type="grammar">м</comment>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">февралль лӣ ныммьп ма̄нн ыгесьт</x>
 				<xt xml:lang="rus">февраль - второй месяц года</xt>
 				<x type="compound">февралль-мӯнне</x>
 				<xt xml:lang="rus">февральские морозы</xt>
 				<x type="idiom">альм я мӯнне февраленҍ пӯдтӭнҍ</x>
 				<xt xml:lang="rus">вьюги и метели (букв. морозы) под февраль налетели</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15880,10 +15880,10 @@
 			<tg>
 				<t xml:lang="rus" pos="прилаг." state="опред.">физкультурный</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">физкультурнэ парадт</x>
 				<xt xml:lang="rus">физкультурный парад</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15896,12 +15896,12 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">флаг</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">паййнэ флаг</x>
 				<xt xml:lang="rus">поднять флаг</xt>
 				<x type="phrase">лӯшшьтэ фла̄г</x>
 				<xt xml:lang="rus">спустить флаг</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15914,10 +15914,10 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">флот</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">фло̄тэсьт лӯшшэ</x>
 				<xt xml:lang="rus">служить во флоте</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15930,25 +15930,25 @@
 				<t xml:lang="rus" pos="сущ.">форма</t>
 				<comment type="explanation">одежда</comment>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">оһпнуввэй фо̄рма</x>
 				<xt xml:lang="rus">ученическая форма</xt>
 				<x type="phrase">ва̄ннҍцэ фо̄рмасьт</x>
 				<xt xml:lang="rus">ходить в форме 
 </xt>
-			</eg>
+			</xg>
 		</mg>
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">форма</t>
 				<comment type="explanation">приспособление для чего-л.</comment>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">ле̄йп па̄шшьтэм фо̄рма</x>
 				<xt xml:lang="rus">форма для выпечки хлеба</xt>
 				<x type="phrase">лӣйпэтҍ па̄шшьтэм гуэйкэ фо̄рма</x>
 				<xt xml:lang="rus">форма для выпечки хлеба</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15960,10 +15960,10 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">фронт</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">фронт чӯһкас</x>
 				<xt xml:lang="rus">фронтовые дороги</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15975,10 +15975,10 @@
 			<tg>
 				<t xml:lang="rus" pos="сущ.">фуражка</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="phrase">соалтэх фуражка</x>
 				<xt xml:lang="rus">солдатская фуражка</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -15997,10 +15997,10 @@
 				<comment type="grammar">сказ.</comment>
 				<comment type="explanation">неаккуратен</comment>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">со̄нн агкь пайля̄йй фӯрьялаш</x>
 				<xt xml:lang="rus">он всю жизнь был неряхой</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -16017,10 +16017,10 @@
 			<tg>
 				<t xml:lang="rus" pos="mwe._NP: прилаг.опред. сущ.">неряшливый человек</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">со̄нн фӯря лӣ</x>
 				<xt xml:lang="rus">он - неряха</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -16036,10 +16036,10 @@
 			<tg>
 				<t xml:lang="rus" pos="mwe._VP: глаг. мест. сущ.">сделать что-л. неряшливым</t>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">со̄нн пэҏт фӯрялэдтӭ</x>
 				<xt xml:lang="rus">она запустила дом</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -16070,10 +16070,10 @@
 				<comment type="explanation">бывало</comment>
 				<comment type="explanation">иногда</comment>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">со̄нн тоаййв фӯрялувант</x>
 				<xt xml:lang="rus">она часто бывает неряшливо одета</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -16104,10 +16104,10 @@
 				<comment type="grammar">сказ.м</comment>
 				<comment type="grammar">сказ.ж</comment>
 			</tg>
-			<eg>
+			<xg>
 				<x type="sentence">со̄нн пэре ли фыҏчеч</x>
 				<xt xml:lang="rus">он - большой плакса</xt>
-			</eg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="05">
