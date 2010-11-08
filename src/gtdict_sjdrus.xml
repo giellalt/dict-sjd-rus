@@ -4784,11 +4784,11 @@
 	</e>
 	<e meta="02">
 		<lg>
-			<l src="kur" pos="сущ." decl="xxx">мӯр</l>
+			<l src="kur" pos="сущ." decl="xxx" num="мн.">мӯр</l>
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">дрова</t>
+				<t xml:lang="rus" pos="сущ." num="мн.">дрова</t>
 			</tg>
 		</mg>
 	</e>
@@ -15609,8 +15609,7 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">духи</t>
-				<comment type="grammar">мн.ч.</comment>
+				<t xml:lang="rus" pos="сущ." num="мн.">духи</t>
 			</tg>
 			<xg>
 				<x type="phrase">духа лэ̄гк</x>
@@ -15625,8 +15624,7 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">топь</t>
-				<comment type="grammar">ж</comment>
+				<t xml:lang="rus" pos="сущ." gen="ж">топь</t>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="сущ.">трясина</t>
@@ -15752,8 +15750,7 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">февраль</t>
-				<comment type="grammar">м</comment>
+				<t xml:lang="rus" pos="сущ." gen="м">февраль</t>
 			</tg>
 			<xg>
 				<x type="sentence">февралль лӣ ныммьп ма̄нн ыгесьт</x>
@@ -15891,12 +15888,12 @@
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="mwe_AP: нареч. прилаг.опред.">всегда неряшливый</t>
-				<comment type="grammar">сказ.</comment>
+				<comment type="explan">сказ.</comment>
 				<comment type="explan">неаккуратный</comment>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="mwe_AP: нареч. прилаг.сказ.">всегда неряшлив</t>
-				<comment type="grammar">сказ.</comment>
+				<comment type="explan">сказ.</comment>
 				<comment type="explan">неаккуратен</comment>
 			</tg>
 			<xg>
@@ -15912,9 +15909,7 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">неряха</t>
-				<comment type="grammar">м</comment>
-				<comment type="grammar">ж</comment>
+				<t xml:lang="rus" pos="сущ." gen="м, ж">неряха</t>
 			</tg>
 			<tg>
 				<t xml:lang="rus" pos="mwe._NP: прилаг.опред. сущ.">неряшливый человек</t>
@@ -16000,9 +15995,8 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="xxx">плакса</t>
-				<comment type="grammar">сказ.м</comment>
-				<comment type="grammar">сказ.ж</comment>
+				<t xml:lang="rus" pos="xxx"> gen="м, ж"плакса</t>
+				<comment type="explan">сказ.</comment>
 			</tg>
 			<xg>
 				<x type="sentence">со̄нн пэре ли фыҏчеч</x>
@@ -16602,8 +16596,7 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">болтун</t>
-				<comment type="grammar">ж</comment>
+				<t xml:lang="rus" pos="сущ." gen="ж">болтун</t>
 				<comment type="explan">болтунья, болтушка</comment>
 			</tg>
 		</mg>
@@ -16762,9 +16755,8 @@
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">ворчун</t>
+				<t xml:lang="rus" pos="сущ." gen="ж">ворчун</t>
 				<comment type="explan">ворчунья</comment>
-				<comment type="grammar">ж</comment>
 			</tg>
 		</mg>
 	</e>
