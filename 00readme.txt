@@ -35,9 +35,9 @@ on the e-element in the xml files:
 -please keep the class-attribute and the semantic info, even though it is incomplete and needs better structuring
 -both orthographies (where already included in the imported Excel-chart)
 
-05 - first try of restructering the Kurutch-file in GT-xml structure
-- so far only very few lemmata (all words starting with д, ф, х)
-- das Element <kur_ID> ist eine ID für jedes Lemma, dass in der Originaldatei enthalten war. Ich möchte es behalten, damit man das Wörterbuch eventuell später zu der Originaldatei zuordnen kann.
+05 - data from the (preliminary) restructered Chaos-Kurutch-file in GT-xml structure
+-Placeholders: <SAEX> = Saami example, <SAEXRUTRANSL> =Russian translation of Saami example, <RUTRANSL> =Russian translation of headword, <STEM> =weak stem form (needs to be merged into the element <kur_flex>xxx</kur_flex>)
+-das Element <kur_ID> ist eine ID für jedes Lemma, dass in der Originaldatei enthalten war. Ich möchte es behalten, damit man das Wörterbuch eventuell später zu der Originaldatei zuordnen kann.
 -das Element <kur_flex>  zeigt den Stufenwechsel, so wie Kurutch ihn analysiert hat. Das ist in den meisten Fällen richtig. Ich will es erstmal behalten und später sehen, was ich damit machen kann. This element also includes Kurutch's inflexion classes as attributes. Die Klassen sind in vielen Fällen nicht richtig. Aber ich will es erstmal behalten. Ich bin gerade dabei, einen eigene Analyse aller Flexionsklassen aufzuschreiben.
 -das Element <kur_link> zeigt die Grundform bei abgeleiteten Lemmata
 -das Attribute nonceform="*" zeigt, dass dieses Wort einfach nur aus dem Russischen genommen ist. Diese Info ist nicht von Kurutch! Ich habe die Idee dafür aus einem anderen Wörterbuch.
@@ -203,28 +203,3 @@ sorting by pos (@cip hast to write a small script)
 3.
 sorting by some other info (meta01, etc.): see 2.!
 
-
-
-XML-Securitatea schägt zu: Please correct!
-===================================
-grep '>=' gtdict_sjdrus.xml 
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<stem>=</stem>
-			<kur_flex class="V">=</kur_flex>
-			<kur_flex class="V">=</kur_flex>
-			<kur_flex class="V">=</kur_flex>
-===================================
