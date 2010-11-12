@@ -19661,7 +19661,7 @@ For the full license text, see the link above.</lic>
 	</e>
 	<e meta="05">
 		<lg>
-			<l>(кӯдтҍ мн.)</l>
+			<l> num="мн.">кӯдтҍ</l>
 			<kur_flex class="1">xxx</kur_flex>
 		</lg>
 		<mg>
@@ -24185,19 +24185,19 @@ For the full license text, see the link above.</lic>
 				<SAEXRUTRANSL>города возродились после войны</SAEXRUTRANSL>
 			</xg>
 			<xg>
-				<SAEX>нӯрр пbрас zллэй вэххтэнне</SAEX>
+				<SAEX>нӯрр пbрас я̄ллэй вэххтэнне</SAEX>
 				<SAEXRUTRANSL>молодая семья быстро встала на ноги</SAEXRUTRANSL>
 			</xg>
 		</mg>
 	</e>
 	<e meta="05">
 		<lg>
-			<l>zллълаhтp</l>
+			<l>я̄ллълаhтp</l>
 			<kur_flex class="1" subclass="4*">xxx</kur_flex>
 		</lg>
 		<mg>
 			<tg>
-				<RUTRANSL>то же, что  zллхэ</RUTRANSL>
+				<RUTRANSL>то же, что  яллхэ</RUTRANSL>
 			</tg>
 		</mg>
 	</e>
@@ -24421,7 +24421,7 @@ For the full license text, see the link above.</lic>
 	<e meta="05">
 		<lg>
 			<l pos="xxx" class="xxx" kur_ID="7829">я̄ллълаһтӭ</l>
-			<kur_link>zл</kur_link>
+			<kur_link>я̄л</kur_link>
 		</lg>
 	</e>
 	<e meta="05">
