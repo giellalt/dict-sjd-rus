@@ -386,7 +386,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="22">а̄в</l>
+			<l pos="прилаг." kur_ID="22">а̄в</l>
 		</lg>
 		<mg>
 			<tg>
@@ -1007,7 +1007,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="88">а̄ййвэсь</l>
+			<l pos="прилаг.опред." kur_ID="88">а̄ййвэсь</l>
 			<kur_link>аййв</kur_link>
 		</lg>
 	</e>
@@ -1161,7 +1161,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="98">а̄йкалт</l>
+			<l pos="нареч." kur_ID="98">а̄йкалт</l>
 			<kur_link>а̄ййк</kur_link>
 		</lg>
 	</e>
@@ -1197,7 +1197,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="100">а̄йкмушша</l>
+			<l pos="нареч." kur_ID="100">а̄йкмушша</l>
 			<kur_link>а̄ййк</kur_link>
 		</lg>
 	</e>
@@ -1217,7 +1217,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="101">а̄йкэсь</l>
+			<l pos="прилаг.опред." kur_ID="101">а̄йкэсь</l>
 			<kur_link>а̄ййк</kur_link>
 		</lg>
 	</e>
@@ -1247,7 +1247,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="102">а̄йнханна</l>
+			<l pos="нареч." kur_ID="102">а̄йнханна</l>
 			<kur_link>а̄ййнэ</kur_link>
 		</lg>
 	</e>
@@ -1789,7 +1789,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="10">аббьръесь</l>
+			<l pos="прилаг.опред." kur_ID="10">аббьръесь</l>
 			<kur_link>аббьр</kur_link>
 		</lg>
 	</e>
@@ -1914,7 +1914,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="25">аввта</l>
+			<l pos="нареч." kur_ID="25">аввта</l>
 		</lg>
 		<mg>
 			<tg>
@@ -2071,7 +2071,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="52">агкьесь</l>
+			<l pos="прилаг.опред." kur_ID="52">агкьесь</l>
 			<kur_link>агкь</kur_link>
 		</lg>
 		<mg>
@@ -2106,7 +2106,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="54">агрессивнэ</l>
+			<l pos="прилаг." kur_ID="54">агрессивнэ</l>
 			<kur_link>агрессивный</kur_link>
 		</lg>
 	</e>
@@ -2305,7 +2305,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="65">адтҍ</l>
+			<l pos="нареч." kur_ID="65">адтҍ</l>
 		</lg>
 		<mg>
 			<tg>
@@ -2631,7 +2631,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="115">алехь</l>
+			<l pos="прилаг." kur_ID="115">алехь</l>
 		</lg>
 		<mg>
 			<tg>
@@ -6896,7 +6896,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="1997">кудант</l>
+			<l pos="нареч." kur_ID="1997">кудант</l>
 			<kur_link>кудт</kur_link>
 		</lg>
 	</e>
@@ -6916,7 +6916,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="1998">кудас</l>
+			<l pos="нареч." kur_ID="1998">кудас</l>
 			<kur_link>кудт</kur_link>
 		</lg>
 	</e>
@@ -6934,29 +6934,20 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="числ.">кудт</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="числ.">шесть</t>
-			</tg>
-		</mg>
-	</e>
+
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="1999">кудт</l>
+			<l pos="сущ." decl="1" kur_ID="1999">кудт</l>
 			<kur_link>куһт</kur_link>
 		</lg>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2000">кудт</l>
+			<l pos="числ." kur_ID="2000">кудт</l>
 		</lg>
 		<mg>
 			<tg>
-				<RUTRANSL>шесть</RUTRANSL>
+				<t xml:lang="rus" pos="числ.">шесть</t>
 			</tg>
 			<xg>
 				<SAEX>кудт чӯдҍ</SAEX>
@@ -6984,7 +6975,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2001">кудтлоагкь</l>
+			<l pos="числ." kur_ID="2001">кудтлоагкь</l>
 			<kur_link>кудт</kur_link>
 		</lg>
 	</e>
@@ -7000,7 +6991,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2003">кудтс</l>
+			<l pos="нареч." kur_ID="2003">кудтс</l>
 			<kur_link>кудт</kur_link>
 		</lg>
 	</e>
@@ -7026,7 +7017,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2007">кудтэмплоагкь</l>
+			<l pos="числ." kur_ID="2007">кудтэмплоагкь</l>
 			<kur_link>кудт</kur_link>
 		</lg>
 	</e>
@@ -7042,7 +7033,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2008">кудтэшьт</l>
+			<l pos="нареч." kur_ID="2008">кудтэшьт</l>
 			<kur_link>кудт</kur_link>
 		</lg>
 	</e>
@@ -7058,7 +7049,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2010">кудтӭсьт</l>
+			<l pos="нареч." kur_ID="2010">кудтӭсьт</l>
 			<kur_link>кудт</kur_link>
 		</lg>
 	</e>
@@ -7074,7 +7065,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2016">кудць</l>
+			<l pos="сущ." class="xxx" kur_ID="2016">кудць</l>
 			<kur_link>куһць</kur_link>
 		</lg>
 	</e>
@@ -7173,7 +7164,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2023">кудэ-кудэ</l>
+			<l pos="нареч." kur_ID="2023">кудэ-кудэ</l>
 			<kur_link>кудт</kur_link>
 		</lg>
 	</e>
@@ -7574,7 +7565,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2026">куһкь</l>
+			<l pos="прилаг." kur_ID="2026">куһкь</l>
 			<kur_link>кугкесь</kur_link>
 		</lg>
 	</e>
@@ -8485,7 +8476,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2014">кӯдц</l>
+			<l pos="прилаг." kur_ID="2014">кӯдц</l>
 			<STEM>кӯц</STEM>
 			<GRAMPOS>тж. сказ.</GRAMPOS>
 		</lg>
@@ -8727,7 +8718,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2042">кӯййкэсь</l>
+			<l pos="прилаг.опред." kur_ID="2042">кӯййкэсь</l>
 		</lg>
 		<mg>
 			<tg>
@@ -9095,7 +9086,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2028">кӯһт</l>
+			<l pos="числ." kur_ID="2028">кӯһт</l>
 		</lg>
 		<mg>
 			<tg>
@@ -9141,7 +9132,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2029">кӯһтлоагкь</l>
+			<l pos="числ." kur_ID="2029">кӯһтлоагкь</l>
 			<kur_link>кӯhт</kur_link>
 		</lg>
 	</e>
@@ -9187,7 +9178,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2031">кӯһтэмплоагкь</l>
+			<l pos="числ." kur_ID="2031">кӯһтэмплоагкь</l>
 			<kur_link>кӯhт</kur_link>
 		</lg>
 	</e>
@@ -9203,7 +9194,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="2032">кӯһтэшьт</l>
+			<l pos="нареч." kur_ID="2032">кӯһтэшьт</l>
 			<kur_link>кӯhт</kur_link>
 		</lg>
 	</e>
@@ -12347,7 +12338,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4072">о̄ллт</l>
+			<l pos="прилаг." kur_ID="4072">о̄ллт</l>
 		</lg>
 		<mg>
 			<tg>
@@ -12426,7 +12417,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4074">о̄ллтлэсьт</l>
+			<l pos="нареч." kur_ID="4074">о̄ллтлэсьт</l>
 			<kur_link>о̄ллт</kur_link>
 		</lg>
 	</e>
@@ -12446,7 +12437,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4075">о̄ллтэсьт</l>
+			<l pos="нареч." kur_ID="4075">о̄ллтэсьт</l>
 			<kur_link>о̄ллт</kur_link>
 		</lg>
 	</e>
@@ -12486,7 +12477,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4087">о̄ммп</l>
+			<l pos="прилаг." kur_ID="4087">о̄ммп</l>
 		</lg>
 		<mg>
 			<tg>
@@ -12546,7 +12537,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4088">о̄ммпан</l>
+			<l pos="нареч." kur_ID="4088">о̄ммпан</l>
 			<kur_link>о̄ммп</kur_link>
 		</lg>
 	</e>
@@ -13326,7 +13317,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4109">па̄гкъесь</l>
+			<l pos="прилаг.опред." kur_ID="4109">па̄гкъесь</l>
 			<kur_link>па̄гк</kur_link>
 		</lg>
 	</e>
@@ -13868,7 +13859,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4123">па̄һкьесь</l>
+			<l pos="прилаг.опред." kur_ID="4123">па̄һкьесь</l>
 			<kur_link>па̄һкь</kur_link>
 		</lg>
 	</e>
@@ -14105,7 +14096,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4125">пай</l>
+			<l pos="нареч." kur_ID="4125">пай</l>
 		</lg>
 		<mg>
 			<tg>
@@ -14172,7 +14163,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="4126">пайенҍ</l>
+			<l pos="нареч." kur_ID="4126">пайенҍ</l>
 			<kur_link>пайй</kur_link>
 		</lg>
 	</e>
@@ -17886,7 +17877,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6018">та̄лвас</l>
+			<l pos="нареч." kur_ID="6018">та̄лвас</l>
 			<kur_link>та̄лльв</kur_link>
 		</lg>
 	</e>
@@ -18079,7 +18070,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6025">та̄лльва</l>
+			<l pos="нареч." kur_ID="6025">та̄лльва</l>
 			<kur_link>та̄лльв</kur_link>
 		</lg>
 	</e>
@@ -18241,7 +18232,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6033">та̄мчас</l>
+			<l pos="нареч." kur_ID="6033">та̄мчас</l>
 			<kur_link>та̄ммче</kur_link>
 		</lg>
 	</e>
@@ -18332,7 +18323,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6039">та̄ннӓ</l>
+			<l pos="нареч." kur_ID="6039">та̄ннӓ</l>
 			<kur_link>та̄ннm</kur_link>
 		</lg>
 	</e>
@@ -18580,7 +18571,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6058">та̄рьм</l>
+			<l pos="нареч." kur_ID="6058">та̄рьм</l>
 		</lg>
 		<mg>
 			<tg>
@@ -18705,7 +18696,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6016">тала</l>
+			<l pos="нареч." kur_ID="6016">тала</l>
 		</lg>
 		<mg>
 			<tg>
@@ -18749,7 +18740,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6017">тала-тала</l>
+			<l pos="нареч." kur_ID="6017">тала-тала</l>
 			<kur_link>тала</kur_link>
 		</lg>
 	</e>
@@ -18777,7 +18768,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6037">тамьпханна</l>
+			<l pos="нареч." kur_ID="6037">тамьпханна</l>
 		</lg>
 		<mg>
 			<tg>
@@ -18811,7 +18802,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="6038">танна</l>
+			<l pos="нареч." kur_ID="6038">танна</l>
 		</lg>
 		<mg>
 			<tg>
@@ -23563,7 +23554,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="7782">юэвхэмэсь</l>
+			<l pos="прилаг.опред." kur_ID="7782">юэвхэмэсь</l>
 			<kur_link>юэв</kur_link>
 		</lg>
 	</e>
@@ -23993,7 +23984,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="7811">я̄лант</l>
+			<l pos="нареч." kur_ID="7811">я̄лант</l>
 			<kur_link>я̄л</kur_link>
 		</lg>
 	</e>
@@ -24282,7 +24273,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="7837">я̄рас</l>
+			<l pos="прилаг." kur_ID="7837">я̄рас</l>
 			<STEM>я̄ррас</STEM>
 			<GRAMPOS>тж. сказ.</GRAMPOS>
 		</lg>
@@ -24350,7 +24341,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="7841">я̄рр</l>
+			<l pos="прилаг." kur_ID="7841">я̄рр</l>
 			<STEM>я̄р</STEM>
 			<GRAMPOS>тж. сказ.</GRAMPOS>
 		</lg>
@@ -24371,13 +24362,13 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="7842">я̄ррас 1</l>
+			<l pos="прилаг." kur_ID="7842">я̄ррас 1</l>
 			<kur_link>я̄рас</kur_link>
 		</lg>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="xxx" class="xxx" kur_ID="7843">я̄ррас 2</l>
+			<l pos="прилаг." kur_ID="7843">я̄ррас 2</l>
 			<kur_link>е̄ресь</kur_link>
 		</lg>
 	</e>
