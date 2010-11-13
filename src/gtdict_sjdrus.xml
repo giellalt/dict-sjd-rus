@@ -5015,49 +5015,18 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="01">
-		<lg>
-			<l pos="глаг." conj="1">е̄лле</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг." aspect="xxx">жить</t>
-			</tg>
-		</mg>
-	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="глаг." conj="1">е̄лле</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг." aspect="xxx">жить</t>
-			</tg>
-		</mg>
-	</e>
-  <e meta="03">
+  
+    <e meta="03">
 		<lg>
 			<l src="kur" pos="глаг." conj="1">е̄лле</l>
 			<lc>я̄л-, я̄лл-, йӣл-</lc>
+			<kur_flex class="1" subclass="5">xxx</kur_flex>
 		</lg>
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">доживать</t>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">дожить</t>
 			</tg>
-		</mg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="глаг." aspect="xxx">жить</t>
-			</tg>
-		</mg>
-	</e>
-  <e meta="05">
-		<lg>
-			<l>е̄лле</l>
-			<kur_flex class="1" subclass="5">xxx</kur_flex>
-		</lg>
-		<mg>
 			<tg>
 				<RUTRANSL>жить</RUTRANSL>
 			</tg>
@@ -5182,39 +5151,9 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
-  <e meta="01">
-		<lg>
-			<l pos="сущ." decl="xxx">е̄ммьне</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">земля</t>
-			</tg>
-		</mg>
-	</e>
-  <e meta="01">
-		<lg>
-			<l pos="сущ." decl="xxx">е̄ммьнэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">земля</t>
-			</tg>
-		</mg>
-	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="xxx">е̄ммьнэ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">земля</t>
-			</tg>
-		</mg>
-	</e>
   <e meta="03">
 		<lg>
-			<l src="kur" pos="сущ." decl="xxx">е̄ммьнэ</l>
+			<l src="kur" pos="сущ." decl="2">е̄ммьнэ</l>
 			<lc>о.ч.</lc>
 		</lg>
 		<mg>
@@ -5324,7 +5263,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="02">
 		<lg>
-			<l src="kur" pos="сущ." decl="xxx">е̄рркъенч</l>
+			<l src="kur" pos="сущ." decl="4">е̄рркъенч</l>
 		</lg>
 		<mg>
 			<tg>
@@ -5334,24 +5273,19 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="02">
 		<lg>
-			<l src="kur" pos="сущ." decl="xxx">е̄рркъя</l>
+			<l src="kur" pos="сущ." decl="4">е̄рркъя</l>
 		</lg>
 		<mg>
 			<tg>
 				<t xml:lang="rus" pos="прилаг." state="опред.">древний</t>
 			</tg>
-		</mg>
-	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="xxx">е̄рркъя</l>
-		</lg>
-		<mg>
 			<tg>
 				<t xml:lang="rus" pos="прилаг." state="опред.">старый</t>
 			</tg>
 		</mg>
 	</e>
+  
+  
   <e meta="02">
 		<lg>
 			<l src="kur" pos="нареч.">ента</l>
@@ -10334,16 +10268,6 @@ For the full license text, see the link above.</lic>
 			</media_group>
 		</mg>
 	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">ме̄ййн</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">икра</t>
-			</tg>
-		</mg>
-	</e>
   <e meta="04">
 		<lg>
 			<l src="kur" pos="сущ." decl="1">ме̄ййн</l>
@@ -14411,16 +14335,7 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">пе̄ййв</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">день</t>
-			</tg>
-		</mg>
-	</e>
+  
   <e meta="02" merged="2">
 		<lg>
 			<l src="kur" pos="сущ." decl="1">пе̄ййв</l>
@@ -14547,17 +14462,7 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">пе̄ссь</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">гнездо</t>
-			</tg>
-		</mg>
-	</e>
-  <e meta="04">
+    <e meta="04">
 		<lg>
 			<l src="kur" pos="сущ." decl="1">пе̄ссь</l>
 			<graph_var src="aaa">пе̄ссь</graph_var>
@@ -16182,11 +16087,7 @@ For the full license text, see the link above.</lic>
 		<lg>
 			<l src="kur" pos="сущ." decl="1">ро̄ссь</l>
 		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">лошадь</t>
-			</tg>
-		</mg>
+		
 	</e>
   <e meta="04">
 		<lg>
@@ -16195,7 +16096,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">конь</t>
+				<t xml:lang="rus" pos="сущ.">лошадь</t>
 			</tg>
 			<tg>
 				<t xml:lang="eng">horse</t>
@@ -16207,6 +16108,12 @@ For the full license text, see the link above.</lic>
 			<media_group>
 				<wikipedia xml:lang="eng">http://en.wikipedia.org/wiki/Horse</wikipedia>
 			</media_group>
+		</mg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">конь</t>
+			</tg>
+			
 		</mg>
 	</e>
   <e meta="02">
