@@ -767,17 +767,24 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="01">
+  <e meta="05">
 		<lg>
-			<l pos="сущ." decl="1">а̄джь</l>
+			<l pos="сущ." decl="1" kur_ID="58">аджь</l>
+			<graph_var src="aaa">а̄джь</graph_var>
+			<STEM>ажь</STEM>
+			<kur_flex class="1" subclass="3">xxx</kur_flex>
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">отец</t>
+				<RUTRANSL>отец</RUTRANSL>
 			</tg>
+			<xg>
+				<SAEX>ажьнӣййт</SAEX>
+				<SAEXRUTRANSL>оленёнок (самка) или важенка, подаренная отцом (напр. дочери на свадьбу)</SAEXRUTRANSL>
+			</xg>
 		</mg>
 	</e>
-  
+
 	<e meta="02">
 		<lg>
 			<l src="kur" pos="сущ." decl="xxx">аджя</l>
@@ -849,19 +856,7 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">а̄йй</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">дедушка</t>
-			</tg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">дед</t>
-			</tg>
-		</mg>
-	</e>
+  
   <e meta="05">
 		<lg>
 			<l pos="сущ." decl="1" kur_ID="81">а̄йй</l>
@@ -871,6 +866,9 @@ For the full license text, see the link above.</lic>
 		<mg>
 			<tg>
 				<RUTRANSL>дед</RUTRANSL>
+			</tg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">дедушка</t>
 			</tg>
 			<xg>
 				<SAEX>мӣн а̄й я ажь тоавсэнне ӣжесь шаннт е̄ммьне пынненҍ</SAEX>
@@ -886,10 +884,12 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg>
-				<RUTRANSL>покой, спокойствие, согласие (у кого-л.)</RUTRANSL>
+				<RUTRANSL>покой</RUTRANSL>
+				<RUTRANSL>спокойствие</RUTRANSL>
+				<RUTRANSL>согласие (у кого-л.)</RUTRANSL>
 			</tg>
 			<xg>
-				<SAEX>пугк нарэд та̄һтэва̄йвэсьт е̄лле</SAEX>
+				<SAEX>пугк нарэд та̄һтэв а̄йвэсьт е̄лле</SAEX>
 				<SAEXRUTRANSL>все народы хотят жить в мире</SAEXRUTRANSL>
 			</xg>
 		</mg>
@@ -908,7 +908,7 @@ For the full license text, see the link above.</lic>
   <e meta="05">
 		<lg>
 			<l pos="глаг." conj="1" kur_ID="83">а̄ййвсаһтӭ</l>
-			<kur_link>а̄ййв\super \nosupersub</kur_link>
+			<kur_link>а̄ййв</kur_link>
 		</lg>
 	</e>
   <e meta="05">
@@ -1290,7 +1290,8 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l>а̄йтнэдтэ</l>
+			<l pos="глаг." conj="1" kur_ID="106">а̄йтнэдтэ</l>
+			<kur_link>а̄йтнэ</kur_link>
 			<kur_flex class="1" subclass="1*">xxx</kur_flex>
 		</lg>
 		<mg>
@@ -1308,12 +1309,7 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
-  <e meta="05">
-		<lg>
-			<l pos="глаг." conj="1" kur_ID="106">а̄йтнэдтэ</l>
-			<kur_link>а̄йтнэ</kur_link>
-		</lg>
-	</e>
+
   <e meta="05">
 		<lg>
 			<l>а̄йтнэннтэ</l>
@@ -1337,12 +1333,14 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l>а̄йя</l>
+			<l pos="сущ." decl="4" kur_ID="109">а̄йя</l>
+			<kur_link>а̄йй</kur_link>
 			<kur_flex class="4">xxx</kur_flex>
 		</lg>
 		<mg>
 			<tg>
-				<RUTRANSL>дедушка (отец отца или матери)</RUTRANSL>
+				<RUTRANSL>дедушка</RUTRANSL>
+				<te>отец отца или матери</te>
 			</tg>
 			<xg>
 				<SAEX>а̄ййсан ка̄ххцлоагкь ыгке лӣ</SAEX>
@@ -1354,12 +1352,7 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
-  <e meta="05">
-		<lg>
-			<l pos="сущ." decl="4" kur_ID="109">а̄йя</l>
-			<kur_link>а̄йй</kur_link>
-		</lg>
-	</e>
+
   <e meta="05">
 		<lg>
 			<l pos="сущ." decl="3" kur_ID="111">а̄к</l>
@@ -1452,16 +1445,7 @@ For the full license text, see the link above.</lic>
 			</media_group>
 		</mg>
 	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="xxx">а̄льп</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">бабочка</t>
-			</tg>
-		</mg>
-	</e>
+
   <e meta="02">
 		<lg>
 			<l src="kur" pos="глаг." conj="1">а̄ннэ</l>
@@ -1592,7 +1576,8 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l>а̄һкэв</l>
+			<l pos="сущ." decl="2" kur_ID="77">а̄һкэв</l>
+			<kur_link>а̄һкь</kur_link>
 			<STEM>о.ч.</STEM>
 			<kur_flex class="5">xxx</kur_flex>
 		</lg>
@@ -1605,12 +1590,6 @@ For the full license text, see the link above.</lic>
 				<SAEXRUTRANSL>у бабушки две внучки и три внука</SAEXRUTRANSL>
 			</xg>
 		</mg>
-	</e>
-  <e meta="05">
-		<lg>
-			<l pos="сущ." decl="2" kur_ID="77">а̄һкэв</l>
-			<kur_link>а̄һкь</kur_link>
-		</lg>
 	</e>
   <e meta="05">
 		<lg>
@@ -1724,15 +1703,11 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
+  
   <e meta="05">
 		<lg>
 			<l pos="прилаг.опред." kur_ID="10">аббьръесь</l>
 			<kur_link>аббьр</kur_link>
-		</lg>
-	</e>
-  <e meta="05">
-		<lg>
-			<l>аббьръесь</l>
 		</lg>
 		<mg>
 			<tg>
@@ -1744,15 +1719,10 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
-  <e meta="05">
+   <e meta="05">
 		<lg>
 			<l pos="глаг." conj="2" kur_ID="15">абрнэ</l>
 			<kur_link>аббьр</kur_link>
-		</lg>
-	</e>
-  <e meta="05">
-		<lg>
-			<l>абрнэ</l>
 			<kur_flex class="3">xxx</kur_flex>
 		</lg>
 		<mg>
@@ -1765,15 +1735,11 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
+  
   <e meta="05">
 		<lg>
 			<l pos="глаг." conj="2" kur_ID="16">абрсэ</l>
 			<kur_link>аббьр</kur_link>
-		</lg>
-	</e>
-  <e meta="05">
-		<lg>
-			<l>абрсэ</l>
 			<kur_flex class="3">xxx</kur_flex>
 		</lg>
 		<mg>
@@ -1787,15 +1753,11 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
+ 
   <e meta="05">
 		<lg>
 			<l pos="глаг." conj="1" kur_ID="17">абрсэллэ</l>
 			<kur_link>аббьр</kur_link>
-		</lg>
-	</e>
-  <e meta="05">
-		<lg>
-			<l>абрсэллэ</l>
 			<kur_flex class="1" subclass="1*">xxx</kur_flex>
 		</lg>
 		<mg>
@@ -1817,15 +1779,10 @@ For the full license text, see the link above.</lic>
 			</xg>
 		</mg>
 	</e>
-  <e meta="05">
+    <e meta="05">
 		<lg>
 			<l pos="глаг." conj="2" kur_ID="18">абрсэлнэ</l>
 			<kur_link>аббьр</kur_link>
-		</lg>
-	</e>
-  <e meta="05">
-		<lg>
-			<l>абрсэлнэ</l>
 			<kur_flex class="3">xxx</kur_flex>
 		</lg>
 		<mg>
@@ -1839,16 +1796,7 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="нареч.">аввта</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="нареч.">опять</t>
-			</tg>
-		</mg>
-	</e>
+  
   <e meta="05">
 		<lg>
 			<l pos="нареч." kur_ID="25">аввта</l>
@@ -1897,9 +1845,19 @@ For the full license text, see the link above.</lic>
 			<kur_link>э̄ввт</kur_link>
 		</lg>
 	</e>
+	<e meta="02">
+		<lg>
+			<l src="xxx" pos="сущ." decl="1">афтобусс</l>
+		</lg>
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">автобус</t>
+			</tg>
+		</mg>
+	</e>
   <e meta="05">
 		<lg>
-			<l pos="сущ." decl="6" kur_ID="41">автобус</l>
+			<l nonceform="*" pos="сущ." decl="6" kur_ID="41">автобус</l>
 			<STEM>о.ч.</STEM>
 			<kur_flex class="5">xxx</kur_flex>
 		</lg>
@@ -2066,23 +2024,7 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="05">
-		<lg>
-			<l pos="сущ." decl="1" kur_ID="58">аджь</l>
-			<STEM>ажь</STEM>
-			<kur_flex class="1" subclass="3">xxx</kur_flex>
-		</lg>
-		<mg>
-			<tg>
-				<RUTRANSL>отец</RUTRANSL>
-			</tg>
-			<xg>
-				<SAEX>ажьнӣййт</SAEX>
-				<SAEXRUTRANSL>оленёнок (самка) или важенка, подаренная отцом (напр. дочери на свадьбу)</SAEXRUTRANSL>
-			</xg>
-		</mg>
-	</e>
- 
+   
   <e meta="05">
 		<lg>
 			<l pos="сущ." decl="1" kur_ID="59">аджь-пе̄лль</l>
@@ -2786,16 +2728,7 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="1">афтобусс</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">автобус</t>
-			</tg>
-		</mg>
-	</e>
+  
   <e meta="02">
 		<lg>
 			<l src="kur" pos="числ.">аххц</l>
