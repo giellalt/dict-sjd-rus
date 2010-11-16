@@ -5081,16 +5081,6 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="01">
-		<lg>
-			<l pos="сущ." decl="1">е̄ннҍ</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">мать</t>
-			</tg>
-		</mg>
-	</e>
   <e meta="03">
 		<lg>
 			<l src="kur" pos="сущ." decl="xxx">е̄ннҍ</l>
@@ -9058,7 +9048,7 @@ For the full license text, see the link above.</lic>
 				<SAEXRUTRANSL>рыбак</SAEXRUTRANSL>
 			</xg>
 			<xg>
-				<SAEX>кӯлль лӣ пай ча̄зесьт, нэ са̄ййм лӣ тоаййвсте̄нэсьт</SAEX>
+				<SAEX>кӯлль лӣ пай ча̄зесьт, нэ са̄ййм лӣ тоаййв сте̄нэсьт</SAEX>
 				<SAEXRUTRANSL>посл. рыба всегда в воде, а сеть чаще на стене</SAEXRUTRANSL>
 			</xg>
 			<xg>
@@ -25858,7 +25848,8 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg>
-				<t xml:lang="rus" pos="сущ.">дядя м (брат матери)</t>
+				<t xml:lang="rus" pos="сущ." gen="м">дядя</t>
+				<te xml:lang="rus" pos="сущ.">брат матери</te>
 			</tg>
 			<xg>
 				<x type="phrase">ӣнан кабперь</x>
