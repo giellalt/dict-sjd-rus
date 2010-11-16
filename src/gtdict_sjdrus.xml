@@ -777,9 +777,11 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
-  <e meta="01">
+  
+	<e meta="02">
 		<lg>
-			<l pos="сущ." decl="xxx">а̄джя</l>
+			<l src="kur" pos="сущ." decl="xxx">аджя</l>
+			<graph_var src="aaa">а̄джя</graph_var>
 		</lg>
 		<mg>
 			<tg>
@@ -2095,16 +2097,7 @@ For the full license text, see the link above.</lic>
 		</mg>
 	</e>
 
-  <e meta="02">
-		<lg>
-			<l src="kur" pos="сущ." decl="xxx">аджя</l>
-		</lg>
-		<mg>
-			<tg>
-				<t xml:lang="rus" pos="сущ.">папа</t>
-			</tg>
-		</mg>
-	</e>
+  
   <e meta="05">
 		<lg>
 			<l pos="сущ." decl="4" kur_ID="60">аджя</l>
