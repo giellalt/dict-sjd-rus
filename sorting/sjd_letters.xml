@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <abc xml:lang="sjd">
    <l>-</l>
+ <!-- Michael, please take a closer look at those characters that are from the Latin alphabet -->
    <l>1</l>
    <l>2</l>
    <l>3</l>
@@ -15,6 +16,7 @@
    <l>p</l>
    <l>u</l>
    <l>y</l>
+ <!-- end of the Latin alphabet in sjdrus -->
    <l>̄</l>
    <l>В</l>
    <l>К</l>
