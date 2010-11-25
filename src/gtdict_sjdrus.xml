@@ -181,7 +181,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="05">
 		<lg>
-			<l pos="сущ." decl="1" kur_ID="110">а̄jjт</l>
+			<l pos="сущ." decl="1" kur_ID="110">а̄јјт</l>
 			<STEM>а̄jт</STEM>
 			<kur_flex class="2" subclass="3">xxx</kur_flex>
 		</lg>
@@ -190,7 +190,7 @@ For the full license text, see the link above.</lic>
 				<RUTRANSL>амбар</RUTRANSL>
 			</tg>
 			<xg>
-				<SAEX>а̄jjт чуэннч пэҏт луннҍ</SAEX>
+				<SAEX>а̄јјт чуэннч пэҏт луннҍ</SAEX>
 				<SAEXRUTRANSL>амбар стоит около дома</SAEXRUTRANSL>
 			</xg>
 			<xg>
@@ -198,7 +198,7 @@ For the full license text, see the link above.</lic>
 				<SAEXRUTRANSL>хранить шкуры в амбаре</SAEXRUTRANSL>
 			</xg>
 			<xg>
-				<SAEX>а̄jjт туййшувв стӯльпэ альн</SAEX>
+				<SAEX>а̄јјт туййшувв стӯльпэ альн</SAEX>
 				<SAEXRUTRANSL>амбар строится на столбах (с целью уберечь содержимое от грызунов)</SAEXRUTRANSL>
 			</xg>
 		</mg>
@@ -17282,7 +17282,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="02">
 		<lg>
-			<l src="kur" pos="сущ." decl="xxx">сaвехь</l>
+			<l src="kur" pos="сущ." decl="xxx">савехь</l>
 		</lg>
 		<mg>
 			<tg>
@@ -20979,7 +20979,8 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="01">
 		<lg>
-			<l src="kur" pos="сущ." decl="xxx">уjjкмушш</l>
+			<l src="kur" pos="сущ." decl="xxx">ујјкмушш
+</l>
 			<graph_var src="aaa">уйххькмушш</graph_var>
 		</lg>
 		<mg>
@@ -20990,7 +20991,7 @@ For the full license text, see the link above.</lic>
 	</e>
   <e meta="02">
 		<lg>
-			<l nonceform="*" src="kur" pos="сущ.">угeл</l>
+			<l nonceform="*" src="kur" pos="сущ.">угел</l>
 		</lg>
 		<mg>
 			<tg>
