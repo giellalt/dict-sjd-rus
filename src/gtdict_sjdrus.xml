@@ -25954,4 +25954,19 @@ For the full license text, see the link above.</lic>
 			</tg>
 		</mg>
 	</e>
+<e meta="06">
+<lg>
+			<l src="kur" pos="сущ." class="1">ве̄ннҍц</l>
+			</lg>
+			
+		<mg>
+			<tg>
+				<t xml:lang="rus" pos="сущ.">венец</t>
+			</tg>
+			<semantics_group>
+				<sem class="religion"/>
+			</semantics_group>
+			<etymology_group>
+			<etymon xml:lang="rus" pos="сущ." rel="cognate">венец</etymon>
+			</etymology_group>
 </r>
