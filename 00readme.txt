@@ -50,6 +50,8 @@ on the e-element in the xml files:
 --<comment type="compare">то же, что = variant of (!aber nicht immer!)
 I don't know yet how to deal with them
 
+06 - words added by Micha
+
 =====================
 Unicode issues
 =====================
