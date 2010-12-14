@@ -1,14 +1,12 @@
-Kurutsch sjd-rus
+Kurutch sjd-rus
 
 Todo:
 
-automatisch:
+automatically:
 1. merge of original reference entries (i.e. having kur_ID) with content entries (i.e. without ID) 
    trigger: string (watch out for ambiguities)
 
-2. gt_dict structure: which mapping? 
-   Hier ein Vorschlag für die vorläufige Struktur der Kurutch-Datei:
-   
+2. gt_dict structure: mapping like in the following example:
    
 <e kur_ID="xxx">
 	<lg>
@@ -17,11 +15,11 @@ automatisch:
 		<CLASS>xxx</CLASS> (1-100: z. 56)
 	</lg>
 	<mg>
-		<semantics>
+     <tg>
+     	<semantics>
 			<sem class="xxx"/>
 		</semantics>
 
-		<tg>
 		 (1-100: z. 72, komma mapped on different t-elements)
 		 
          (1-100: z. 1348, semicollon mapped on different tg-elements)
@@ -40,24 +38,22 @@ TAM-element = grammar info (aspect, etc.); scopus is tg-element!!!
 				<x type="xxx">xxx</x>
 				<xt xml:lang="xxx">xxx</xt>
 			</xg>
+
+examples of <x> with several translations:
+(101-500: z. 3258)
+		<X>ва̄лльтэ ва̄лт</X>
+		<XT xtnumber="1">завоевать свободу</XT>
+		<XT xtnumber="2">стать своевольным</XT>
 			
             <xg type=idiom subtype=blabla>
 				<x>xxx</x>
 				<xt xml:lang="xxx">xxx</xt>
 			</xg>
 
-example for subtype:			
-#
+example for idiom subtype (idiom groups are preliminary marked by # preceeding the whole group; idioms are always at the end of an <e> or <mg> (no other <x> following them):			
+
 <X>парна бальяк, шӯрран — лӯјкак</X>
 		<XT>POSLOVICA [ребёнка] маленького балуешь - с большим плачешь</XT>
-
-
-
-examples with several translations:
-(101-500: z. 3258)
-		<X>ва̄лльтэ ва̄лт</X>
-		<XT xtnumber="1">завоевать свободу</XT>
-		<XT xtnumber="2">стать своевольным</XT>
 
 		</tg>
 	</mg>
@@ -78,31 +74,18 @@ a) adverbs end on:
 -эльт
 -енне
 -энне
+b) nouns end on:
+-ант
+-мушш
+-егк
+-эгк
 
 
 ===============
 
-Man müsste jetzt als Nächstes ein paar Elemente
--gruppieren (z.B. <lg> <mg> <tg> <xg> …)
--überlegen, was mit dieser "idiom group" zu tun ist (vorläufig nur markiert mit #)
--innerhalb mehrerer Elemente noch weiter aufräumen
--überlegen, was mit meinen Platzhaltern (z.B. <TAM> <RE> …) zu tun ist.
-
-Wie kann ich nur innerhalb eines bestimmten Elements suchen/ersetzen?
-
--Ich muss im Element <T> weiter aufräumen:
-+wenn es mehrere Bedeutungen gibt (im Sinne von unseren <mg>), habe ich die Nummerierung der Übersetzungen aus dem Original behalten (tnumber=.…). Die Autoren des Originalwörterbuches haben sich wahrscheinlich bei der Reihenfolge der verschiedenen Bedeutungen etwas gedacht. Deshalb wollte ich gern diese Angabe behalten.
+-wenn es mehrere Bedeutungen gibt (im Sinne von unseren <mg>), habe ich die Nummerierung der Übersetzungen aus dem Original behalten (tnumber=.…). Die Autoren des Originalwörterbuches haben sich wahrscheinlich bei der Reihenfolge der verschiedenen Bedeutungen etwas gedacht. Deshalb wollte ich gern diese Angabe behalten.
 +wenn es mehrere "nahe Übersezungen" gibt, sind diese innerhalb des Elements <T> mit Komma getrennt…
 +wenn es mehrere "entferntere Übersetzungen gibt, sind diese innerhalb des Elements <T> mit Semikolon getrennt…
 +wenn es russische Aspektpaare innerhalb des Elements <T> gibt, sind diese mit Slash getrennt, z.B. <T tnumber="1">кусать, укусить кого-что ; откусывать / откусить что, чего</T>
 
-Noch ein paar Minifragen. Ich sehe mir gerade sma- und smenob etwas näher an. 
--Ist <lsub>  eine graphische oder eine "echte" (z.B. dialektale) Variante?
--was ist tcomm=?
--ist <lc> sowas wie "nyckelform/Schlüsselform" (eine bestimmte Flexionsform, die anzeigt in welche Flexionsklasse des Wort gehört)?
--manchmal gibt es in <lc> zwei mit Komma getrennte Werte (z.B. Adjektive) oder ein Wort in Klammern (z. Verb), ist das XML-technisch sauber, oder sollte man nicht lieber genau spezifizieren:
-<lc stemform="pl">-laččat</lc><lc stemform="ill">-lažžii</lc> (anstatt <lc>-laččat, -lažžii</lc>)
-<lc stemform="1sg">almmáštattan</lc> (anstatt <lc>(mon) almmáštattan</lc>)
--warum ist das Element <stem> unter <mg> (und nicht unter <lg>)?
--warum ist <semantics> unter <tg> und nicht direkt unter <mg>? Mehrere Übersetzungen unter einer Bedeutung sollten logischerweise immer zum gleichen semantischen Feld gehören, oder nicht?
 -warum haben <re>, <te>, <tf>, <xt> kein Sprachattribut, aber <t> schon (z.B. xml:lang="nob")? Wenn wir schon wissen, dass es sma<-->nob ist brauchen wir eigentlich gar keins. Aber wenn wir zeigen wollen, dass der folgende Text zu einer bestimmten Sprache gehört, ist das für <xt> usw. doch auch relevant.
