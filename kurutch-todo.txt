@@ -69,7 +69,16 @@ examples with several translations:
 		</T>
 
 
-- Man muss im Element <L> alles kleinschreiben.
+3. non-capitals in the element <L>
+
+4. some rules for PoS tagging:
+a) adverbs end on:
+-ас
+-ельт
+-эльт
+-енне
+-энне
+
 
 ===============
 
