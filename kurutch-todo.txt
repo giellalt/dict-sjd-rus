@@ -67,19 +67,26 @@ example for idiom subtype (idiom groups are preliminary marked by # preceeding t
 
 3. non-capitals in the element <L>
 
-4. some rules for PoS tagging:
-a) adverbs end on:
--ас
+4. some rules for automatic PoS tagging:
+a) adverb endings:
 -ельт
 -эльт
 -енне
 -энне
-b) nouns end on:
+b) noun endings:
 -ант
 -мушш
 -егк
 -эгк
-
+c) adjective endings:
+-хэмь
+-есь
+-ай
+d) verbs have these tags somewhere in the entry:
+<LINK type="PONUD_K"></LINK>
+<LINK type="STRAD_K"></LINK>
+<RE>BESL</RE>
+<TAM>
 
 ===============
 
