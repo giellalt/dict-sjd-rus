@@ -67,7 +67,7 @@ example for idiom subtype (idiom groups are preliminary marked by # preceeding t
 
 3. non-capitals in the element <L>
 
-4. some rules for automatic PoS tagging:
+4. rules for automatic PoS tagging:
 a) adverb endings:
 -ельт
 -эльт
@@ -94,6 +94,8 @@ d) verbs have these tags somewhere in the entry:
 <LINK type="STRAD_K"></LINK>
 <RE>BESL</RE>
 <TAM>
+
+5. the tag <GENDER> should be transfered into an attribute of <t>; PoS will of course be "n" in this case (<t pos="n" gender="f">)
 
 ===============
 
