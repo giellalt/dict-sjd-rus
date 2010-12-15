@@ -71,13 +71,20 @@ example for idiom subtype (idiom groups are preliminary marked by # preceeding t
 a) adverb endings:
 -ельт
 -эльт
+-ӭльт
 -енне
--энне
+-тэнне
 b) noun endings:
 -ант
 -мушш
 -егк
 -эгк
+-ӭгк
+-енч
+-энч
+-ӭнч
+-вудт
+-хэсс
 c) adjective endings:
 -хэмь
 -есь
