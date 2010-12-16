@@ -95,7 +95,7 @@ d) verbs have these tags somewhere in the entry:
 <RE>BESL</RE>
 <TAM>
 
-5. the tag <GENDER> should be transfered into an attribute of <t>; PoS will of course be "n" in this case (<t pos="n" gender="f">)
+5. the tags <GENDER> <NUMBER> should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
 
 ===============
 
