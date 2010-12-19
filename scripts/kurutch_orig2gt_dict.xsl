@@ -86,8 +86,17 @@
 		</xsl:if>
 		<lg>
 		  <l>
+		    <xsl:variable name="current_pos">
+		      <xsl:if test="./POS and not(./POS = '')">
+			<xsl:value-of select="./POS"/>
+		      </xsl:if>
+		      <xsl:if test="not(./POS) or (./POS = '')">
+			<xsl:value-of select="'yyy'"/>
+		      </xsl:if>
+		    </xsl:variable>
+
 		    <xsl:attribute name="pos">
-		      <xsl:value-of select="if (./POS and not(./POS = '')) then ./POS else 'xxx'"/>
+		      <xsl:value-of select="$current_pos"/>
 		    </xsl:attribute>
 		    <xsl:value-of select="./L/text()"/>
 		  </l>
