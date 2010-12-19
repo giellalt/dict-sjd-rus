@@ -86,11 +86,14 @@
 		</xsl:if>
 		<lg>
 		  <l>
+		    <xsl:attribute name="pos">
+		      <xsl:value-of select="if (./POS and not(./POS = '')) then ./POS else 'xxx'"/>
+		    </xsl:attribute>
 		    <xsl:value-of select="./L/text()"/>
 		  </l>
-		  <xsl:if test="not(normalize-space(./STEMM/text()) = '')">
+		  <xsl:if test="not(normalize-space(./STEM/text()) = '')">
 		    <stem>
-		      <xsl:value-of select="normalize-space(./STEMM/text())"/>
+		      <xsl:value-of select="normalize-space(./STEM/text())"/>
 		    </stem>
 		  </xsl:if>
 		  <xsl:if test="not(normalize-space(./CLASS/text()) = '')">
@@ -200,30 +203,6 @@
 			</xsl:if>
 		      </tg>
 		    </xsl:if>
-		    
-		    <!-- 		    <xsl:for-each select="./node()"> -->
-		    <!-- 		      <xsl:variable name="grchild" select="count(./node())"/> -->
-		    <!--  		     ___ <xsl:for-each select="tokenize(./text(), ';')"> ___ -->
-		    <!-- 		      <xsl:if test=""> -->
-		    <!-- 			<tg> -->
-		    <!-- 			  <type> -->
-		    <!-- 			  </type> -->
-		    <!-- 			</tg> -->
-		    <!-- 		      </xsl:if> -->
-		    
-		    <!-- 			<tg> -->
-		    <!-- 			  <semantics> -->
-		    <!-- 			     some default as wished  -->
-		    <!-- 			    <sem class="xxx"/> -->
-		    <!-- 			  </semantics> -->
-		    <!-- 			  <xsl:for-each select="tokenize(normalize-space(.), ',')"> -->
-		    <!-- 			    <t> -->
-		    <!-- 			      <xsl:value-of select="."/> -->
-		    <!-- 			    </t> -->
-		    <!-- 			  </xsl:for-each> -->
-		    <!-- 			</tg> -->
-		    <!-- 		    </xsl:for-each> -->
-
 		  </mg>
 		</xsl:for-each>
 	      </e>
