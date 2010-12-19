@@ -120,6 +120,7 @@
 		      </xsl:attribute>
 		    </xsl:if>
 		    
+		    <!-- T is empty -->
 		    <xsl:if test="count(./node()) = 0">
 		      <tg>
 			<semantics>
@@ -137,24 +138,52 @@
 			</xsl:if>
 		      </tg>
 		    </xsl:if>
-
+		    
+		    <!-- T has only one child -->
 		    <xsl:if test="count(./node()) = 1">
-		      <tg>
-			<semantics>
-			  <!-- some default as wished -->
-			  <sem class="xxx"/>
-			</semantics>
-			<t>
-			  <xsl:value-of select="'xxx'"/>
-			</t>
-			<!-- 			<xsl:if test="../X"> -->
-			<!-- 			  <xsl:call-template name="processExGroup"> -->
-			<!-- 			    <xsl:with-param name="theXStar" select=".."/> -->
-			<!-- 			  </xsl:call-template> -->
-			<!-- 			</xsl:if> -->
-		      </tg>
+		      <!-- child of type text: normal case -->
+		      <xsl:if test="child::text()">
+			<xsl:for-each select="tokenize(normalize-space(child::text()), ';')">
+			  <tg>
+			    <semantics>
+			      <!-- some default as wished -->
+			      <sem class="xxx"/>
+			    </semantics>
+			    <xsl:for-each select="tokenize(., ',')">
+			      <t>
+				<xsl:value-of select="normalize-space(.)"/>
+			      </t>
+			    </xsl:for-each>
+			  </tg>
+			</xsl:for-each>
+			<!-- at the moment, the location for xg is uncertain: to be solved later -->
+			<xsl:if test="../X">
+			  <xsl:call-template name="processExGroup">
+			    <xsl:with-param name="theXStar" select=".."/>
+			  </xsl:call-template>
+			</xsl:if>
+		      </xsl:if>
+		      
+		      <!-- child of type element -->
+		      <xsl:if test="child::*">
+			<tg>
+			  <semantics>
+			    <!-- some default as wished -->
+			    <sem class="xxx"/>
+			  </semantics>
+			  <t>
+			    <xsl:attribute name="link_type">
+			      <xsl:value-of select="if (./LINK/@type) then ./LINK/@type
+						    else if (./LINK/@TYPE) then ./LINK/@TYPE
+						    else 'xxx'"/>
+			    </xsl:attribute>
+			    <xsl:value-of select="normalize-space(./LINK)"/>
+			  </t>
+			</tg>
+		      </xsl:if>
 		    </xsl:if>
-
+		    
+		    <!-- T has more than one child: mixed content -->
 		    <xsl:if test="count(./node()) &gt; 1">
 		      <tg>
 			<semantics>
@@ -162,13 +191,13 @@
 			  <sem class="xxx"/>
 			</semantics>
 			<t>
-			  <xsl:value-of select="'xxx'"/>
+			  <xsl:value-of select="'xxx__processing_mixed_content__xxx'"/>
 			</t>
-			<!-- 			<xsl:if test="../X"> -->
-			<!-- 			  <xsl:call-template name="processExGroup"> -->
-			<!-- 			    <xsl:with-param name="theXStar" select=".."/> -->
-			<!-- 			  </xsl:call-template> -->
-			<!-- 			</xsl:if> -->
+			<xsl:if test="../X">
+			  <xsl:call-template name="processExGroup">
+			    <xsl:with-param name="theXStar" select=".."/>
+			  </xsl:call-template>
+			</xsl:if>
 		      </tg>
 		    </xsl:if>
 		    
