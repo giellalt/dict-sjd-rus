@@ -14313,6 +14313,8 @@
 			<LINK TYPE="SM">выйе</LINK>
 		</T>
 	</E>
+	<!-- crapy entry: please check and correct -->
+	<!--
 	<E kur_ID="969">
 		<L>ВЭ̄ДЗ</L>
 		<STEM>вэ̄з</STEM>
@@ -14335,6 +14337,7 @@
 		<X>сӣррэ вэ̄дз чагагуэйм</X>
 		<XT>играть в снежки</XT>
 	</E>
+	-->
 	<E>
 		<L>вэ̄дзлуввэ</L>
 		<STEM/>
