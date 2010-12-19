@@ -45,7 +45,6 @@
   
   <xsl:variable name="e" select="'xml'"/>
   <xsl:variable name="outputDir" select="'output_kt2gt'"/>
-  <xsl:variable name="outFile" select="'sjd_spelling'"/>
   <xsl:variable name="debug" select="'true_gogo'"/>
 
   <xsl:variable name="tab" select="'&#x9;'"/>
@@ -58,6 +57,9 @@
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
   <xsl:param name="file" select="'../inc/kurutch/kurutch1985_1-1000.xml'"/>
+  <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
+
+
   
   <xsl:template match="/" name="main">
     
@@ -237,7 +239,7 @@
 	  </r>
 	</xsl:variable>
 	
-	<xsl:result-document href="{$outputDir}/{$outFile}.{$e}">
+	<xsl:result-document href="{$outputDir}/{$file_name}.{$e}">
 	  <xsl:copy-of select="$file_out"/>
 	</xsl:result-document>
 	
