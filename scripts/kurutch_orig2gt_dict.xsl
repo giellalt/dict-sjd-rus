@@ -119,19 +119,82 @@
 			<xsl:value-of select="concat('g', ./@tnumber)"/>
 		      </xsl:attribute>
 		    </xsl:if>
-		    <xsl:for-each select="tokenize(./text(), ';')">
+		    
+		    <xsl:if test="count(./node()) = 0">
 		      <tg>
 			<semantics>
-			  <!-- some default as wished  -->
+			  <!-- some default as wished -->
 			  <sem class="xxx"/>
 			</semantics>
-			<xsl:for-each select="tokenize(normalize-space(.), ',')">
-			  <t>
-			    <xsl:value-of select="."/>
-			  </t>
-			</xsl:for-each>
+			<t>
+			  <!-- this should be checked -->
+			  <xsl:value-of select="'xxx'"/>
+			</t>
+			<xsl:if test="../X">
+			  <xsl:call-template name="processExGroup">
+			    <xsl:with-param name="theXStar" select=".."/>
+			  </xsl:call-template>
+			</xsl:if>
 		      </tg>
-		    </xsl:for-each>
+		    </xsl:if>
+
+		    <xsl:if test="count(./node()) = 1">
+		      <tg>
+			<semantics>
+			  <!-- some default as wished -->
+			  <sem class="xxx"/>
+			</semantics>
+			<t>
+			  <xsl:value-of select="'xxx'"/>
+			</t>
+			<!-- 			<xsl:if test="../X"> -->
+			<!-- 			  <xsl:call-template name="processExGroup"> -->
+			<!-- 			    <xsl:with-param name="theXStar" select=".."/> -->
+			<!-- 			  </xsl:call-template> -->
+			<!-- 			</xsl:if> -->
+		      </tg>
+		    </xsl:if>
+
+		    <xsl:if test="count(./node()) &gt; 1">
+		      <tg>
+			<semantics>
+			  <!-- some default as wished -->
+			  <sem class="xxx"/>
+			</semantics>
+			<t>
+			  <xsl:value-of select="'xxx'"/>
+			</t>
+			<!-- 			<xsl:if test="../X"> -->
+			<!-- 			  <xsl:call-template name="processExGroup"> -->
+			<!-- 			    <xsl:with-param name="theXStar" select=".."/> -->
+			<!-- 			  </xsl:call-template> -->
+			<!-- 			</xsl:if> -->
+		      </tg>
+		    </xsl:if>
+		    
+		    <!-- 		    <xsl:for-each select="./node()"> -->
+		    <!-- 		      <xsl:variable name="grchild" select="count(./node())"/> -->
+		    <!--  		     ___ <xsl:for-each select="tokenize(./text(), ';')"> ___ -->
+		    <!-- 		      <xsl:if test=""> -->
+		    <!-- 			<tg> -->
+		    <!-- 			  <type> -->
+		    <!-- 			  </type> -->
+		    <!-- 			</tg> -->
+		    <!-- 		      </xsl:if> -->
+		    
+		    <!-- 			<tg> -->
+		    <!-- 			  <semantics> -->
+		    <!-- 			     some default as wished  -->
+		    <!-- 			    <sem class="xxx"/> -->
+		    <!-- 			  </semantics> -->
+		    <!-- 			  <xsl:for-each select="tokenize(normalize-space(.), ',')"> -->
+		    <!-- 			    <t> -->
+		    <!-- 			      <xsl:value-of select="."/> -->
+		    <!-- 			    </t> -->
+		    <!-- 			  </xsl:for-each> -->
+		    <!-- 			</tg> -->
+		    <!-- 		    </xsl:for-each> -->
+
 		  </mg>
 		</xsl:for-each>
 	      </e>
@@ -150,4 +213,28 @@
     </xsl:choose>
   </xsl:template>
 
+  <xsl:template name="processExGroup">
+    <xsl:param name="theXStar"/>
+    <xsl:variable name="x_a" select="count($theXStar/*[starts-with(local-name(), 'X')])"/>
+    <xsl:variable name="x_o" select="count($theXStar/*[local-name() = 'X'])"/>
+    <xsl:variable name="x_t" select="count($theXStar/*[local-name() = 'XT'])"/>
+    <xg_counter>
+      <xsl:attribute name="xstar">
+	<xsl:value-of select="$x_a"/>
+      </xsl:attribute>
+      <xsl:attribute name="x">
+	<xsl:value-of select="$x_o"/>
+      </xsl:attribute>
+      <xsl:attribute name="xt">
+	<xsl:value-of select="$x_t"/>
+      </xsl:attribute>
+    </xg_counter>
+    
+    <!-- 			  <xsl:for-each select="../X*"> -->
+    <!-- 			    <xg> -->
+    
+    <!-- 			    </xg> -->
+    <!-- 			  </xsl:for-each> -->
+  </xsl:template>
+  
 </xsl:stylesheet>
