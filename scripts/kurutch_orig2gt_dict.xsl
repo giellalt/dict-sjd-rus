@@ -84,6 +84,7 @@
 		    <xsl:value-of select="'xxx'"/>
 		  </xsl:attribute>
 		</xsl:if>
+		<xsl:variable name="current_l" select="lower-case(./L)"/>
 		<lg>
 		  <l>
 		    <xsl:variable name="current_pos">
@@ -91,14 +92,31 @@
 			<xsl:value-of select="./POS"/>
 		      </xsl:if>
 		      <xsl:if test="not(./POS) or (./POS = '')">
-			<xsl:value-of select="'yyy'"/>
+			<xsl:value-of select="if (ends-with($current_l, 'ельт') 
+					      or ends-with($current_l, 'эльт')
+					      or ends-with($current_l, 'ӭльт')
+					      or ends-with($current_l, 'енне')
+					      or ends-with($current_l, 'тэнне')) then 'adv' else
+					      if (ends-with($current_l, 'ант')
+					      or ends-with($current_l, 'мушш')
+					      or ends-with($current_l, 'егк')
+					      or ends-with($current_l, 'эгк')
+					      or ends-with($current_l, 'ӭгк')
+					      or ends-with($current_l, 'енч')
+					      or ends-with($current_l, 'энч')
+					      or ends-with($current_l, 'ӭнч')
+					      or ends-with($current_l, 'вудт')
+					      or ends-with($current_l, 'хэсс')) then 'n' else
+					      if (ends-with($current_l, 'хэмь')
+					      or ends-with($current_l, 'есь')
+					      or ends-with($current_l, 'ай')) then 'a' else 'xxx'"/>
 		      </xsl:if>
 		    </xsl:variable>
 
 		    <xsl:attribute name="pos">
 		      <xsl:value-of select="$current_pos"/>
 		    </xsl:attribute>
-		    <xsl:value-of select="./L/text()"/>
+		    <xsl:value-of select="$current_l"/>
 		  </l>
 		  <xsl:if test="not(normalize-space(./STEM/text()) = '')">
 		    <stem>
