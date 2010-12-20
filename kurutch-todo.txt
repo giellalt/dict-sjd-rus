@@ -114,6 +114,43 @@ bzw.
 <t>распуститься</t>
 aber diese <re> will ich lieber erst später ansehen, weil manche Klammern auch <te> sind
 
+7. conversion of parentheses inside <t>
+if the text in parentheses start with the word "о" it is most likely a <re>, e.g.
+<t>выделаться (о шкуре)</t>
+is to be converted into -->
+<re>о шкуре</re>
+<t>выделаться</t>
+if the text in parentheses start with the word "напр." it is most likely a <te>, e.g.
+<t>надраивание</t>
+<t>натирка (напр. полов)</t>
+is to be converted into -->
+<t>надраивание</t>
+<t>натирка</t>
+<te>напр. полов</t> 
+
+8. grammatical indicators inside <t>
+ж F(emininum)
+м M(asculinum)
+с N(eutrum)
+мн. Pl(uralis)
+e.g.
+<t>боль ж (душевная)</t>
+<t>дождь м</t>
+<t>будни мн.</t>
+
+9. aspect pairs in <t>
+are always marked by / , perfective aspect seems always to be first, e.g.
+<t>покрывать / покрыть</t>
+is to be converted into -->
+<t aspect="perf">покрывать</t>
+<t aspect="imperf">покрыть</t>
+a following parenthesis (<re> or <te>) has scope on the whole <tg>, e.g.
+<t>убегать / убежать (о супе, молоке при кипении)</t>
+is to be converted into -->
+<re>о супе, молоке при кипении</re>
+<t aspect="perf">убегать</t>
+<t aspect="imperf">убежать</t>
+
 
 ===============
 
