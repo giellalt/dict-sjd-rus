@@ -13075,6 +13075,7 @@
 
 	<!-- another crapy entry dectected (trigger:
 	     SAAMSTART... etc.): please check and correct -->
+	<!--
 	<E kur_ID="885">
 		<L>ВЫДТ</L>
 		<T tnumber="1">пять</T>
@@ -13100,6 +13101,7 @@
 		<X>а̄ррвдэ вуэсстлэмуж выдэнҍ</X>
 		<XT>оценить ответ пятёркой</XT>
 	</E>
+	-->
 	<E>
 		<L>выдант</L>
 		<T>пятый</T>
