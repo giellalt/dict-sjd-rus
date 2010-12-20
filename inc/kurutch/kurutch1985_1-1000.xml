@@ -3830,6 +3830,8 @@
 		<L>БОЛЬШЕВИСТСКЭ</L>
 		<T>большевистский</T>
 	</E>
+	<!-- aha, could it be that in the previous entry with LINK and
+	     text the semicolon separating them is missing? -->
 	<E kur_ID="276">
 		<L>БОТИНКА</L>
 		<STEM>о.ч.</STEM>
