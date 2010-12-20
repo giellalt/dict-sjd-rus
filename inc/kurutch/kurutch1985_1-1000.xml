@@ -13072,6 +13072,9 @@
 			<LINK TYPE="SM">выдзэ</LINK>
 		</T>
 	</E>
+
+	<!-- another crapy entry dectected (trigger:
+	     SAAMSTART... etc.): please check and correct -->
 	<E kur_ID="885">
 		<L>ВЫДТ</L>
 		<T tnumber="1">пять</T>
