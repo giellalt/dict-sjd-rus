@@ -255,6 +255,7 @@
     <xsl:variable name="x_a" select="count($theXStar/*[starts-with(local-name(), 'X')])"/>
     <xsl:variable name="x_o" select="count($theXStar/*[local-name() = 'X'])"/>
     <xsl:variable name="x_t" select="count($theXStar/*[local-name() = 'XT'])"/>
+    <xsl:variable name="idiom" select="count($theXStar/child::text()[normalize-space(.) = '#'])"/>
     <xg_counter>
       <xsl:attribute name="xstar">
 	<xsl:value-of select="$x_a"/>
@@ -265,6 +266,10 @@
       <xsl:attribute name="xt">
 	<xsl:value-of select="$x_t"/>
       </xsl:attribute>
+      <xsl:attribute name="idiom">
+	<xsl:value-of select="$idiom"/>
+      </xsl:attribute>
+
     </xg_counter>
     
     <!-- 			  <xsl:for-each select="../X*"> -->
