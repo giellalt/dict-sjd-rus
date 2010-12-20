@@ -226,15 +226,24 @@
 		    
 		    <!-- T has more than one child: mixed content -->
 		    <xsl:if test="count(./node()) &gt; 1">
-		      <tg>
-			<semantics>
-			  <!-- some default as wished -->
-			  <sem class="xxx"/>
-			</semantics>
-			<t>
-			  <xsl:value-of select="'xxx__processing_mixed_content__xxx'"/>
-			</t>
-		      </tg>
+		      <todo>
+			<xsl:for-each select="./node()">
+			  <node>
+			    <xsl:if test="self::text()">
+			      <xsl:attribute name="ntype">
+				<xsl:value-of select="'txt'"/>
+			      </xsl:attribute>
+			      <xsl:copy-of select="normalize-space(.)"/>
+			    </xsl:if>
+			    <xsl:if test="self::*">
+			      <xsl:attribute name="ntype">
+				<xsl:value-of select="lower-case(local-name(.))"/>
+			      </xsl:attribute>
+			      <xsl:copy-of select="normalize-space(lower-case(.))"/>
+			    </xsl:if>
+			  </node>
+			</xsl:for-each>
+		      </todo>
 		    </xsl:if>
 		    
 		    <!-- at the moment, the location for xg is uncertain: to be solved later -->
