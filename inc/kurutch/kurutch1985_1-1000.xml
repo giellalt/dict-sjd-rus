@@ -10621,6 +10621,9 @@
 		<X>па̄кь ле̄в вӯлле</X>
 		<XT>горы невысоки</XT>
 	</E>
+	<!-- the POS element is actually something for the Entry, not
+	     for the translations; what is this POSLELOG? -->
+	<!--
 	<E>
 		<L>вӯлленҍ</L>
 		<T tnumber="1">внизу</T>
@@ -10635,6 +10638,7 @@
 		<X>коасс туэль вӯлленҍ выйтэ</X>
 		<XT>кошка вышла из-под стола</XT>
 	</E>
+	-->
 	<E>
 		<L>вӯльнэ</L>
 		<STEM/>
@@ -10649,6 +10653,7 @@
 		<X>вӯльнэ ла̄мпа</X>
 		<XT>убавить огонь в лампе</XT>
 	</E>
+	<!-- the position of POS is here ok, but what is this POSLELOG?-->
 	<E>
 		<L>вуэлла</L>
 		<POS>POSLELOG</POS>
