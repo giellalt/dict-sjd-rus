@@ -14286,6 +14286,8 @@
 			<LINK TYPE="SM">вышшэ</LINK>
 		</T>
 	</E>
+	<!-- aha, could it be that in the previous entry with LINK and
+	     text the semicolon separating them is missing? -->
 	<E kur_ID="965">
 		<L>ВЫШЭВАЙЕ</L>
 		<STEM/>
