@@ -111,7 +111,27 @@
 					      or ends-with($current_l, 'хэсс')) then 'n' else
 					      if (ends-with($current_l, 'хэмь')
 					      or ends-with($current_l, 'есь')
-					      or ends-with($current_l, 'ай')) then 'a' else 'xxx'"/>
+					      or ends-with($current_l, 'ай')) then 'a' else
+					      if (ends-with($current_l, 'ювве')
+					      or ends-with($current_l, 'увве')
+					      or ends-with($current_l, 'увне')
+					      or ends-with($current_l, 'енне')
+					      or ends-with($current_l, 'эллэ')
+					      or ends-with($current_l, 'элнэ')
+					      or ends-with($current_l, 'южнэ')
+					      or ends-with($current_l, 'южсэ')
+					      or ends-with($current_l, 'ужнэ')
+					      or ends-with($current_l, 'ужсэ')
+					      or ends-with($current_l, 'яһтӭ')
+					      or ends-with($current_l, 'юшшэ')
+					      or ends-with($current_l, 'аһтӭ')
+					      or ends-with($current_l, 'ушшэ')
+					      or ends-with($current_l, 'эннтэ')
+					      or ends-with($current_l, 'еннтэ')
+					      or ends-with($current_l, 'эдтэ')
+					      or ends-with($current_l, 'eдтэ')
+					      or ends-with($current_l, 'ювне')) then 'v' else 'xxx'"/>
+					      			
 		      </xsl:if>
 		    </xsl:variable>
 
