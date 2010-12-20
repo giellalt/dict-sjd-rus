@@ -3399,6 +3399,11 @@
 <X>парна бальяк, шӯрран — лӯјкак</X>
 		<XT>POSLOVICA [ребёнка] маленького балуешь - с большим плачешь</XT>
 	</E>
+
+	<!-- this entry is also somehow faulty: if the element T
+	     contents an element LINK then it has NO other text
+	     content apart from the LINK content: please check and correct -->
+	<!--
 	<E>
 		<L>балъедтлуввэ</L>
 		<STEM/>
@@ -3409,6 +3414,7 @@
 		<X>парна вофьсе балъедтлувэ</X>
 		<XT>ребёнок совсем избаловался</XT>
 	</E>
+	-->
 	<E>
 		<L>балъедтмушш</L>
 		<STEM>балъедтмуж</STEM>
