@@ -67,28 +67,7 @@ example for idiom subtype (idiom groups are preliminary marked by # preceeding t
 
 3. non-capitals in the element <L>
 
-4. rules for automatic PoS tagging:
-a) adverb endings:
--ельт
--эльт
--ӭльт
--енне
--тэнне
-b) noun endings:
--ант
--мушш
--егк
--эгк
--ӭгк
--енч
--энч
--ӭнч
--вудт
--хэсс
-c) adjective endings:
--хэмь
--есь
--ай
+4. rules for automatic PoS tagging (most of them are already included in the script)
 d) verbs have these tags somewhere in the entry:
 <LINK type="PONUD_K"></LINK>
 <LINK type="STRAD_K"></LINK>
@@ -97,10 +76,49 @@ d) verbs have these tags somewhere in the entry:
 
 5. the tags <GENDER> <NUMBER> should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
 
+6. Problem: Kommas innerhalb von Klammern trennen keine <t>-Elemente, siehe Bsp.
+<e kur_ID="xxx">
+      <lg>
+         <l pos="xxx">оаввнэ</l>
+         <class>III</class>
+      </lg>
+      <mg kmg="g1">
+         <tg>
+            <semantics>
+               <sem class="xxx"/>
+            </semantics>
+            <t>xxx__processing_mixed_content__xxx</t>
+            <xg_counter xstar="10" x="5" xt="5"/>
+         </tg>
+      </mg>
+      <mg kmg="g2">
+         <tg>
+            <semantics>
+               <sem class="xxx"/>
+            </semantics>
+            <t>раскрыться</t>
+            <t>распуститься (о цветах</t>
+            <t>почках)</t>
+         </tg>
+         <xg_counter xstar="10" x="5" xt="5"/>
+      </mg>
+   </e>
+   
+so muss es sein:
+<t>раскрыться</t>
+<t>распуститься (о цветах, почках)</t>
+
+bzw.
+<re>о цветах, почках</re>
+<t>раскрыться</t>
+<t>распуститься</t>
+aber diese <re> will ich lieber erst später ansehen, weil manche Klammern auch <te> sind
+
+
 ===============
 
 -wenn es mehrere Bedeutungen gibt (im Sinne von unseren <mg>), habe ich die Nummerierung der Übersetzungen aus dem Original behalten (tnumber=.…). Die Autoren des Originalwörterbuches haben sich wahrscheinlich bei der Reihenfolge der verschiedenen Bedeutungen etwas gedacht. Deshalb wollte ich gern diese Angabe behalten.
-+wenn es mehrere "nahe Übersezungen" gibt, sind diese innerhalb des Elements <T> mit Komma getrennt…
++wenn es mehrere "nahe Übersetzungen" gibt, sind diese innerhalb des Elements <T> mit Komma getrennt…
 +wenn es mehrere "entferntere Übersetzungen gibt, sind diese innerhalb des Elements <T> mit Semikolon getrennt…
 +wenn es russische Aspektpaare innerhalb des Elements <T> gibt, sind diese mit Slash getrennt, z.B. <T tnumber="1">кусать, укусить кого-что ; откусывать / откусить что, чего</T>
 
