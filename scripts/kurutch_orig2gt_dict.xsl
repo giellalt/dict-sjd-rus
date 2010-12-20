@@ -160,7 +160,7 @@
 		         means "Kurutch entry has only one meaning";
 		         km="g1" means "Kurutch entry has more than
 		         one meaning and this is the first one"; etc.
-		         -->
+		    -->
 		    <xsl:if test="not(./@tnumber)">
 		      <xsl:attribute name="km">
 			<xsl:value-of select="'g'"/>
@@ -183,11 +183,6 @@
 			  <!-- this should be checked -->
 			  <xsl:value-of select="'xxx'"/>
 			</t>
-			<xsl:if test="../X">
-			  <xsl:call-template name="processExGroup">
-			    <xsl:with-param name="theXStar" select=".."/>
-			  </xsl:call-template>
-			</xsl:if>
 		      </tg>
 		    </xsl:if>
 		    
@@ -208,12 +203,6 @@
 			    </xsl:for-each>
 			  </tg>
 			</xsl:for-each>
-			<!-- at the moment, the location for xg is uncertain: to be solved later -->
-			<xsl:if test="../X">
-			  <xsl:call-template name="processExGroup">
-			    <xsl:with-param name="theXStar" select=".."/>
-			  </xsl:call-template>
-			</xsl:if>
 		      </xsl:if>
 		      
 		      <!-- child of type element -->
@@ -245,13 +234,16 @@
 			<t>
 			  <xsl:value-of select="'xxx__processing_mixed_content__xxx'"/>
 			</t>
-			<xsl:if test="../X">
-			  <xsl:call-template name="processExGroup">
-			    <xsl:with-param name="theXStar" select=".."/>
-			  </xsl:call-template>
-			</xsl:if>
 		      </tg>
 		    </xsl:if>
+		    
+		    <!-- at the moment, the location for xg is uncertain: to be solved later -->
+		    <xsl:if test="../X">
+		      <xsl:call-template name="processExGroup">
+			<xsl:with-param name="theXStar" select=".."/>
+		      </xsl:call-template>
+		    </xsl:if>
+		    
 		  </mg>
 		</xsl:for-each>
 	      </e>
