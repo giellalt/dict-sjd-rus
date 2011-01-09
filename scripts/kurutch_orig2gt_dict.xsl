@@ -154,7 +154,7 @@
 		<xsl:for-each select="./T">
 		  <mg>
 		    <!-- marking Kurutch meaning groups
-		         explicitly. who knows when would be needed?
+		         explicitly. Who knows when this would be needed?
 		         -->
 		    <!-- km means "source of mg is Kurutch"; km="g"
 		         means "Kurutch entry has only one meaning";
