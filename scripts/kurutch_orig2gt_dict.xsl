@@ -212,14 +212,23 @@
 			    <!-- some default as wished -->
 			    <sem class="xxx"/>
 			  </semantics>
-			  <t>
-			    <xsl:attribute name="link_type">
-			      <xsl:value-of select="if (./LINK/@type) then ./LINK/@type
-						    else if (./LINK/@TYPE) then ./LINK/@TYPE
-						    else 'xxx'"/>
-			    </xsl:attribute>
-			    <xsl:value-of select="normalize-space(./LINK)"/>
-			  </t>
+			  <xsl:if test="child::*/local-name() = 'LINK'">
+			    <t>
+			      <xsl:attribute name="link_type">
+				<xsl:value-of select="if (./LINK/@type) then ./LINK/@type
+						      else if (./LINK/@TYPE) then ./LINK/@TYPE
+						      else 'xxx'"/>
+			      </xsl:attribute>
+			      <xsl:value-of select="normalize-space(./LINK)"/>
+			    </t>
+			  </xsl:if>
+			  
+			  <!-- Wer sich mit heissen Suppen einmal
+			       verbrannt hat, pustet auch in
+			       Yoghourt. -->
+			  <xsl:if test="not(child::*/local-name() = 'LINK')">
+			    <t unknown_elem="xxx"/> 
+			  </xsl:if>
 			</tg>
 		      </xsl:if>
 		    </xsl:if>
