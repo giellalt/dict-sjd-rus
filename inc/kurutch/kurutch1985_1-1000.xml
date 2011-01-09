@@ -10645,7 +10645,6 @@
 	<!-- the POS element is actually something for the Entry, not
 	     for the translations; what is this POSLELOG? -->
 	     <!--MR: this lemma has two meanings: one as an adverb, the second as postposion (послелог); I have only reproduced the structure of the printed dict so far; in the dict the indication of the PoS comes with the second translation; in GT we would probably have two lemma in such cases, right? -->
-	<!--
 	<E>
 		<L>вӯлленҍ</L>
 		<T tnumber="1">внизу</T>
@@ -10660,7 +10659,6 @@
 		<X>коасс туэль вӯлленҍ выйтэ</X>
 		<XT>кошка вышла из-под стола</XT>
 	</E>
-	-->
 	<E>
 		<L>вӯльнэ</L>
 		<STEM/>
@@ -13103,7 +13101,12 @@
 
 	<!-- another crapy entry dectected (trigger:
 	     SAAMSTART... etc.): please check and correct -->
-	<!--
+	<!--MR: SAAMSTART etc are former placeholders which I obviously oversaw in a few cases; 
+	there seems to be a lexicographically strange idea behind this structure, it says:
+	the lemma "five" has two translations: 
+	1) "fünf", 2) "Fünfer (which is PL of "fünf" and belongs to inflection class I)" 
+	since only the special grammatical form five:PL (given in parantheses in the written dict) means "Fünfer"; I would have made an own entry (rather than an <x>) for it
+	there are only few more such entries; can't we process the whole content in <t> as pure text here, but mark it for future manual editing? -->
 	<E kur_ID="885">
 		<L>ВЫДТ</L>
 		<T tnumber="1">пять</T>
@@ -13123,20 +13126,13 @@
 		<XT>пятьсот</XT>
 		<X>выдт тоафант</X>
 		<XT>пять тысяч</XT>
-		<T tnumber="2">(SAAMSTARTвыдSAAMEND<NUMBER>PL</NUMBER>)<CLASS>I</CLASS>пятёрка</T>
+		<T tnumber="2">(<SAAM_LINK>выд</SAAM_LINK><NUMBER>PL</NUMBER>)<CLASS>I</CLASS>пятёрка</T>
 		<X>соагкэ (пыйе) выд</X>
 		<XT>получить (поставить) пятёрку</XT>
 		<X>а̄ррвдэ вуэсстлэмуж выдэнҍ</X>
 		<XT>оценить ответ пятёркой</XT>
 	</E>
-	-->
-	<!--MR: SAAMSTART etc are former placeholders which I obviously oversaw in a few cases; 
-	there seems to be a lexicographically strange idea behind this structure, it says:
-	the lemma "five" has two translations: 
-	1) "fünf", 2) "Fünfer (which is PL of "fünf" and belongs to inflection class I)" 
-	since only the special grammatical form five:PL (given in parantheses in the written dict) means "Fünfer"; I would have made an own entry (rather than an <x>) for it
-	there are only few more such entries; can't we process the whole content in <t> as pure text here, but mark it for future manual editing? -->
-<E>
+	<E>
 		<L>выдант</L>
 		<T>пятый</T>
 		<X>ёадт выдант урэк</X>
