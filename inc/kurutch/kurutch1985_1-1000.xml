@@ -589,7 +589,7 @@
 		<STEM>а̄вьл</STEM>
 		<CLASS>II,1</CLASS>
 		<POS/>
-		<T>аввель (перекладина с крючьями для подвешивания чайников, котлов над огнём ; иногда использовалась палка с сучком, которая подвижно присоединялась к перекладине при помощи верёвочной петли ; сейчас используются металлические крючки на цепях - над костром подвешивается до трёх крючков)</T>
+		<T>аввель ___LEXICONперекладина с крючьями для подвешивания чайников, котлов над огнёмLEXICON___ ___LEXICONиногда использовалась палка с сучком, которая подвижно присоединялась к перекладине при помощи верёвочной петлиLEXICON___ ___LEXICONсейчас используются металлические крючки на цепях - над костром подвешивается до трёх крючковLEXICON___</T>
 		<X>а̄вьл ко̄ввсэсьт ко̄ррэ</X>
 		<XT>привязать в куваксе (в чуме) аввель</XT>
 		<X>а̄вьл чиннэ (лыһкэ)</X>
@@ -1738,7 +1738,7 @@
 		<STEM>а̄лт</STEM>
 		<CLASS>II</CLASS>
 		<POS/>
-		<T>важенка (оленья самка с 4 до 8-10 лет ; самая сильная и мудрая становится вожаком стада)</T>
+		<T>важенка ___LEXICONоленья самка с 4 до 8-10 летLEXICON___ ___LEXICONсамая сильная и мудрая становится вожаком стадаLEXICON___</T>
 	</E>
 	<E kur_ID="128">
 		<L>а̄ллъюввэ</L>
@@ -3399,25 +3399,6 @@
 <X>парна бальяк, шӯрран — лӯјкак</X>
 		<XT>POSLOVICA [ребёнка] маленького балуешь - с большим плачешь</XT>
 	</E>
-
-	<!-- this entry is also somehow faulty: if the element T
-	     contents an element LINK then it has NO other text
-	     content apart from the LINK content: please check and correct -->
-	<!--
-	<E>
-		<L>балъедтлуввэ</L>
-		<STEM/>
-		<CLASS>I</CLASS>
-		<POS/>
-		<T>баловаться <LINK type="STRAD_K">балъе</LINK>
-		</T>
-		<X>парна вофьсе балъедтлувэ</X>
-		<XT>ребёнок совсем избаловался</XT>
-	</E>
-	-->
-	<!-- MR: corrected entry below, there are in fact some mixed <t> with a translation and an additional explanation of the translation in form of <LINK> here it actually means that the lemma in question is a "STRAD-derivation"; in the printed dict it writes 
-	баловаться _страд. к_ балъе 
-	-->
 	<E>
 		<L>балъедтлуввэ</L>
 		<CLASS>I</CLASS>
@@ -3842,15 +3823,12 @@
 		<L>БОЛЬШЕВИСТСКЭ</L>
 		<T>большевистский</T>
 	</E>
-	<!-- aha, could it be that in the previous entry with LINK and
-	     text the semicolon separating them is missing? -->
-	     <!-- MR: no, if there is a semicolon, these are two <tg> (like with other semicolon, one translation is lexical, the second translation is similar to the other entries with a "LINK-translation"; if there is no semicolon the link means some additional explanation to the translation (see my note above) -->
 	<E kur_ID="276">
 		<L>БОТИНКА</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>IV</CLASS>
 		<POS/>
-		<T>ботинки мн. (ед. ботинок м) ;<LINK type="SR">камаша</LINK>
+		<T>ботинки мн. (ед. ботинок м) ; <LINK type="SR">камаша</LINK>
 		</T>
 		<X>вуэссьтэ о̄дт ботинкатҍ </X>
 		<XT>купить новые ботинки</XT>
@@ -3934,7 +3912,7 @@
 		<STEM>о.ч.</STEM>
 		<CLASS>IV</CLASS>
 		<POS/>
-		<T>бурки (до колен, женские или детские, шьются из койб LOOKUP___коаммас___LOOKUP ; украшаются по швам цветным сукном, передняя часть украшается койбами контрастного цвета с орнаментом, напр. головы оленя с рогами)</T>
+		<T>бурки ___LEXICONдо колен, женские или детские, шьются из койб LOOKUP___коаммас___LOOKUPLEXICON___ ___LEXICONукрашаются по швам цветным сукном, передняя часть украшается койбами контрастного цвета с орнаментом, напр. головы оленя с рогамиLEXICON___</T>
 		<X>куаррэ о̄дт бӯркатҍ</X>
 		<XT>сшить новые бурки</XT>
 	</E>
@@ -4139,7 +4117,7 @@
 		<STEM>вагкхэз</STEM>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>дугообразный скребок для выделки мелких шкур (на двух перпендикулярных досках ; горизонтальная доска используется для сиденья)</T>
+		<T>___LEXICONдугообразный скребок для выделки мелких шкур (на двух перпендикулярных досках)LEXICON___ ___LEXICONгоризонтальная доска используется для сиденьяLEXICON___</T>
 		<X>э̄ввтэль тӯлльй азь бэдт а̄лхэ, маӈӈа ме̄ййтэ вагкхэзэнҍ</X>
 		<XT>сначала мездру шкуры нужно увлажнить, а затем выделывать дугообразным скребком</XT>
 	</E>
@@ -5225,7 +5203,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>сожрать что<TAM>BYSTRO</TAM>; пожрать чего<TAM>NEMNOGO</TAM>
+		<T>сожрать что<TAM>BYSTRO</TAM> ; пожрать чего<TAM>NEMNOGO</TAM>
 		</T>
 	</E>
 	<E>
@@ -6813,7 +6791,7 @@
 		<STEM>вӣг</STEM>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T tnumber="1">сила, мощь<GENDER>F</GENDER>; мощность</T>
+		<T tnumber="1">сила, мощь<GENDER>F</GENDER> ; мощность</T>
 		<X>туарр вӣгк</X>
 		<XT>военная мощь</XT>
 		<T tnumber="2">сила, усилие, напряжение</T>
@@ -8506,7 +8484,7 @@
 		<STEM>воаӆк</STEM>
 		<CLASS>II</CLASS>
 		<POS/>
-		<T>нырило (приспособление для подлёдного лова рыбы: длинная узкая доска с заострённым концом и отверстием на другом конце для продевания верёвки сети ; доску проталкивают от проруби к проруби и протягивают сеть)</T>
+		<T>нырило ___LEXICONприспособление для подлёдного лова рыбы: длинная узкая доска с заострённым концом и отверстием на другом конце для продевания верёвки сетиLEXICON___ ___LEXICONдоску проталкивают от проруби к проруби и протягивают сетьLEXICON___</T>
 		<X>ца̄гке воаӆк коалльтэсьт коалльтъе</X>
 		<XT>толкать нырило от проруби к проруби</XT>
 	</E>
@@ -9596,7 +9574,7 @@
 		<STEM>вӯбрас</STEM>
 		<CLASS>V</CLASS>
 		<POS/>
-		<T>уварсь, трехгодовалый олень-самец (в этом возрасте его начинают обучать для езды ; в упряжке занимает место в середине)</T>
+		<T>уварсь ___LEXICONтрехгодовалый олень-самец (в этом возрасте его начинают обучать для езды, в упряжке занимает место в середине)LEXICON___</T>
 	</E>
 	<E>
 		<L>вӯбресьлуввэ</L>
@@ -10644,9 +10622,6 @@
 		<X>па̄кь ле̄в вӯлле</X>
 		<XT>горы невысоки</XT>
 	</E>
-	<!-- the POS element is actually something for the Entry, not
-	     for the translations; what is this POSLELOG? -->
-	     <!--MR: this lemma has two meanings: one as an adverb, the second as postposion (послелог); I have only reproduced the structure of the printed dict so far; in the dict the indication of the PoS comes with the second translation; in GT we would probably have two lemma in such cases, right? -->
 	<E>
 		<L>вӯлленҍ</L>
 		<T tnumber="1">внизу</T>
@@ -11236,7 +11211,7 @@
 		<STEM>о.ч.</STEM>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>киса (национальная сумка для продуктов, одежды, обуви с круглым дном из тюленьей шкуры ; боковины сумки обычно из оленьей дублёной кожи. Сумка украшается разноцветными суконными треугольниками или орнаментом из белой кожи. Верх затягивается продёрнутым через отверстия шнурком из кожи)</T>
+		<T>киса ___LEXICONнациональная сумка для продуктов, одежды, обуви с круглым дном из тюленьей шкурыLEXICON___ ___LEXICONбоковины сумки обычно из оленьей дублёной кожи, сумка украшается разноцветными суконными треугольниками или орнаментом из белой кожи, верх затягивается продёрнутым через отверстия шнурком из кожиLEXICON___</T>
 		<X>вӯсс лӣ кӯррма руэсск тӣпегуэйм</X>
 		<XT>киса расшита суконными треугольниками</XT>
 	</E>
@@ -13100,15 +13075,6 @@
 			<LINK TYPE="SM">выдзэ</LINK>
 		</T>
 	</E>
-
-	<!-- another crapy entry dectected (trigger:
-	     SAAMSTART... etc.): please check and correct -->
-	<!--MR: SAAMSTART etc are former placeholders which I obviously oversaw in a few cases; 
-	there seems to be a lexicographically strange idea behind this structure, it says:
-	the lemma "five" has two translations: 
-	1) "fünf", 2) "Fünfer (which is PL of "fünf" and belongs to inflection class I)" 
-	since only the special grammatical form five:PL (given in parantheses in the written dict) means "Fünfer"; I would have made an own entry (rather than an <x>) for it
-	there are only few more such entries; can't we process the whole content in <t> as pure text here, but mark it for future manual editing? -->
 	<E kur_ID="885">
 		<L>ВЫДТ</L>
 		<T tnumber="1">пять</T>
@@ -14242,9 +14208,6 @@
 			<LINK TYPE="SM">вышшэ</LINK>
 		</T>
 	</E>
-	<!-- aha, could it be that in the previous entry with LINK and
-	     text the semicolon separating them is missing? -->
-	     <!-- MR: see my note above -->
 	<E kur_ID="962">
 		<L>ВЫШШЪЕ</L>
 		<STEM/>
@@ -14306,9 +14269,6 @@
 			<LINK TYPE="SM">вышшэ</LINK>
 		</T>
 	</E>
-	<!-- aha, could it be that in the previous entry with LINK and
-	     text the semicolon separating them is missing? -->
-	     <!-- MR see my note above -->
 	<E kur_ID="965">
 		<L>ВЫШЭВАЙЕ</L>
 		<STEM/>
