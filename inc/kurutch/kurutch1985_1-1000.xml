@@ -55,7 +55,9 @@
 		<STEM>абьр</STEM>
 		<CLASS>II,1</CLASS>
 		<T>дождь м</T>
-		<X>аббьр аббр (манн, ёадт)</X>
+		<X>аббьр аббр</X>
+		<X>аббьр манн</X>
+		<X>аббьр ёадт</X>
 		<XT>дождь идёт</XT>
 		<X>аббьр оалкхувэ</X>
 		<XT>дождь начался</XT>
@@ -154,9 +156,9 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">накрапывать - о дожде<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">накрапывать - о дожде<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">моросить - о дожде<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">моросить - о дожде<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="10">
@@ -186,14 +188,14 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">сожалеть, жалеть о чём, раскаиваться в чём<TAM>NEMNOGO-POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>а̄бьюжэнҍт тэнн баяс эйй э̄ххьтэшьт</X>
 		<XT>он сожалел об этом не раз</XT>
 		<X>мунн а̄бьюжна тэнн баяс</X>
 		<XT>я немного жалею об этом</XT>
 		<T tnumber="2">горевать, переживать о ком-чём и без доп.<TAM>NEMNOGO-POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн а̄бьюжнэ, адтҍ ё ёанхувве</X>
 		<XT>я горевала, бывало, а теперь уже успокоилась</XT>
@@ -209,7 +211,7 @@
 		</T>
 		<X>а̄бьюжсэкь тэнн баяс я ля̄ннч</X>
 		<XT>[ты] пожалел немного об этом и хватит</XT>
-		<T tnumber="2">погоревать, попереживать о ком-чём и без доп.<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T tnumber="2">погоревать, попереживать о ком-чём и без доп.<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E>
@@ -321,7 +323,7 @@
 		<CLASS>I,1*</CLASS>
 		<POS/>
 		<T>
-			<RE>PRJAM,PEREN</RE>открывать, раскрывать, вскрывать что<TAM>POSTOJANNO</TAM>
+			<RE>PRJAM_PEREN</RE>открывать, раскрывать, вскрывать что<TAM>POSTOJANNO</TAM>
 		</T>
 		<X>а̄ввдалле эһкан-чальм тоайва</X>
 		<XT>чаще открывайте форточку</XT>
@@ -332,7 +334,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>
-			<RE>PRJAM,PEREN</RE>открывать, раскрывать, вскрывать что<TAM>INOGDA,BYVALO</TAM>
+			<RE>PRJAM_PEREN</RE>открывать, раскрывать, вскрывать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -341,7 +343,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>
-			<RE>PRJAM,PEREN</RE>открыть, раскрыть, вскрыть что</T>
+			<RE>PRJAM_PEREN</RE>открыть, раскрыть, вскрыть что</T>
 		<X>а̄введҍ эһкан</X>
 		<XT>открой окно</XT>
 		<X>а̄введҍ кырьй</X>
@@ -357,7 +359,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">
-			<RE>PRJAM,PEREN</RE>открыться, раскрыться ; вскрыться</T>
+			<RE>PRJAM_PEREN</RE>открыться, раскрыться ; вскрыться</T>
 		<X>эһкан оаввэнҍ</X>
 		<XT>окно раскрылось</XT>
 		<X>чальм оаввнэнҍ</X>
@@ -366,7 +368,7 @@
 		<XT>река вскрылась</XT>
 		<X>со̄нэсьт чальм оаввнэнҍ</X>
 		<XT>он прозрел</XT>
-		<T tnumber="2">раскрыться, распуститься (о цветах, почках)</T>
+		<T tnumber="2">раскрыться, распуститься (о цветах COMMA почках)</T>
 		<X>мӯрэнҍ ӯммель оаввнэнҍ</X>
 		<XT>на деревьях раскрылись почки</XT>
 	</E>
@@ -376,15 +378,15 @@
 		<CLASS>II,1*</CLASS>
 		<POS/>
 		<T tnumber="1">
-			<RE>PRJAM,PEREN</RE>открываться, раскрываться ; вскрываться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<RE>PRJAM_PEREN</RE>открываться, раскрываться ; вскрываться<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>уккс элэлэ оаввнаннт</X>
 		<XT>дверь открывается с трудом</XT>
 		<X>ёгк оаввнаннт</X>
 		<XT>река вскрывается</XT>
-		<T tnumber="2">раскрываться, распускаться (о цветах, почках)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">раскрываться, распускаться (о цветах COMMA почках)<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="23">
@@ -441,7 +443,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">погреть, согреть кого-что, разогреть что<TAM>BYSTRO,NEMNOGO</TAM>
+		<T tnumber="1">погреть, согреть кого-что, разогреть что<TAM>BYSTRO_NEMNOGO</TAM>
 		</T>
 		<X>а̄ввтэль пе̄рк</X>
 		<XT>разогрей быстренько обед</XT>
@@ -456,7 +458,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">
-			<RE>PRJAM,PEREN</RE>погреть, согреть кого-что</T>
+			<RE>PRJAM_PEREN</RE>погреть, согреть кого-что</T>
 		<X>а̄втсэгке кӣдэтҍ то̄л луннҍ</X>
 		<XT>погрейте руки у огня</XT>
 		<T tnumber="2">протопить, истопить что<TAM>BYSTRO</TAM>
@@ -497,15 +499,15 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">
-			<RE>PRJAM,PEREN</RE>греть, согревать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<RE>PRJAM_PEREN</RE>греть, согревать кого-что<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">нагревать, разогревать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">топить, отапливать, обогревать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -567,7 +569,7 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>стать свежим (чаще о белье, одежде)</T>
+		<T>стать свежим (чаще о белье COMMA одежде)</T>
 	</E>
 	<E>
 		<L>а̄ввьлувнэ</L>
@@ -575,7 +577,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться свежим<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="30">
@@ -589,7 +591,7 @@
 		<STEM>а̄вьл</STEM>
 		<CLASS>II,1</CLASS>
 		<POS/>
-		<T>аввель ___LEXICONперекладина с крючьями для подвешивания чайников, котлов над огнёмLEXICON___ ___LEXICONиногда использовалась палка с сучком, которая подвижно присоединялась к перекладине при помощи верёвочной петлиLEXICON___ ___LEXICONсейчас используются металлические крючки на цепях - над костром подвешивается до трёх крючковLEXICON___</T>
+		<T>аввель ___LEXICONперекладина с крючьями для подвешивания чайников COMMA котлов над огнём_SEMICOLON_иногда использовалась палка с сучком COMMA которая подвижно присоединялась к перекладине при помощи верёвочной петли_SEMICOLON_сейчас используются металлические крючки на цепях - над костром подвешивается до трёх крючковLEXICON___</T>
 		<X>а̄вьл ко̄ввсэсьт ко̄ррэ</X>
 		<XT>привязать в куваксе (в чуме) аввель</XT>
 		<X>а̄вьл чиннэ (лыһкэ)</X>
@@ -633,7 +635,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>подвешивать что (над огнём)<TAM>INOGDA,BYVALO</TAM>
+		<T>подвешивать что (над огнём)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="32">
@@ -924,7 +926,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>прибывать (о воде во время прилива)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>ча̄дзь э̄зенҍт кугкас, са пэҏтэ вуэлла</X>
 		<XT>вода, бывало, подходила к самым домам</XT>
@@ -1097,7 +1099,7 @@
 		<STEM/>
 		<CLASS>I,1</CLASS>
 		<POS/>
-		<T>быть занесённым (снегом, песком)</T>
+		<T>быть занесённым (снегом COMMA песком)</T>
 		<X>со̄нн э̄е вэ̄дзе</X>
 		<XT>его занесло снегом</XT>
 	</E>
@@ -1106,7 +1108,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>покрывать / покрыть, заносить / занести, засыпать / засыпать что (снегом, песком)</T>
+		<T>покрывать / покрыть, заносить / занести, засыпать / засыпать что (снегом COMMA песком)</T>
 		<X>вэ̄дз айяд е̄ммьне</X>
 		<XT>снег покрывает землю</XT>
 		<X>вӯнтас вэххтэнне айедҍ ра̄зь</X>
@@ -1117,7 +1119,7 @@
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T>покрывать, заносить, засыпать что (снегом, песком)<TAM>POSTOJANNO</TAM>
+		<T>покрывать, заносить, засыпать что (снегом COMMA песком)<TAM>POSTOJANNO</TAM>
 		</T>
 	</E>
 	<E>
@@ -1125,7 +1127,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>покрывать, заносить, засыпать что (снегом, песком)<TAM>INOGDA,BYVALO</TAM>
+		<T>покрывать, заносить, засыпать что (снегом COMMA песком)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -1133,7 +1135,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>покрыть, занести, засыпать что (снегом, песком)<TAM>BYSTRO</TAM>
+		<T>покрыть, занести, засыпать что (снегом COMMA песком)<TAM>BYSTRO</TAM>
 		</T>
 		<X>вэ̄дз вэххтэнне аййдэлэсьт е̄ммьне</X>
 		<XT>снег быстро покрыл землю</XT>
@@ -1204,7 +1206,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>успокаивать кого<TAM>INOGDA,BYVALO</TAM>
+		<T>успокаивать кого<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -1222,7 +1224,7 @@
 	</E>
 	<E>
 		<L>а̄ййвэсь</L>
-		<T>спокойный, тихий, смирный (о человеке, о животных)</T>
+		<T>спокойный, тихий, смирный (о человеке COMMA о животных)</T>
 		<X>а̄ййвэсь па̄ррьшя</X>
 		<XT>спокойный мальчик</XT>
 		<X>а̄ййвэсь пуаз</X>
@@ -1369,7 +1371,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>предвидеть, предчувствовать, предугадывать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн югке вуэр оайнче сӣн пуадтмуж</X>
 		<XT>я каждый раз предугадывала их приезд</XT>
@@ -1482,7 +1484,7 @@
 		<POS/>
 		<T tnumber="1">нянчить кого (в настоящий момент)</T>
 		<T tnumber="2">утихомиривать, унимать, заниматься успокаиванием, успокаивать кого<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мыйй пусьтэльт а̄йтнэдтэпь</X>
 		<XT>мы напрасно занимаемся успокаиванием</XT>
@@ -1547,7 +1549,7 @@
 		<STEM>оаһкэ</STEM>
 		<CLASS>IV</CLASS>
 		<POS/>
-		<T>самка (дикого оленя, лося)</T>
+		<T>самка (дикого оленя COMMA лося)</T>
 		<X>сэрв а̄к</X>
 		<XT>лосиха</XT>
 		<X>коанҍт а̄к</X>
@@ -1570,7 +1572,7 @@
 		<STEM>аллаш</STEM>
 		<CLASS>V</CLASS>
 		<POS/>
-		<T>алаш (металлический лист или плоский камень, на которых разводится огонь в зимней куваксе)</T>
+		<T>алаш ___LEXICONметаллический лист или плоский камень COMMA на которых разводится огонь в зимней куваксеLEXICON___</T>
 		<X>пырр аллаш бэдт пыйе кӣдҍкэтҍ</X>
 		<XT>алаш нужно обложить камнями</XT>
 	</E>
@@ -1710,9 +1712,9 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">сбрасывать, подбрасывать, опрокидывать кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">сбрасывать, подбрасывать, опрокидывать кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">перевёртывать что (вверх дном)<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">перевёртывать что (вверх дном)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="124">
@@ -1738,7 +1740,7 @@
 		<STEM>а̄лт</STEM>
 		<CLASS>II</CLASS>
 		<POS/>
-		<T>важенка ___LEXICONоленья самка с 4 до 8-10 летLEXICON___ ___LEXICONсамая сильная и мудрая становится вожаком стадаLEXICON___</T>
+		<T>важенка ___LEXICONоленья самка с 4 до 8-10 лет_SEMICOLON_самая сильная и мудрая становится вожаком стадаLEXICON___</T>
 	</E>
 	<E kur_ID="128">
 		<L>а̄ллъюввэ</L>
@@ -1788,7 +1790,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>делать что влажным, увлажнять что<TAM>INOGDA,BYVALO</TAM>
+		<T>делать что влажным, увлажнять что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -1841,7 +1843,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться сырым, влажным<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>ча̄дзь ке̄ссенҍ оассэ тоаййв оалнэв</X>
 		<XT>во время дождливого лета бельё становится влажным</XT>
@@ -1962,9 +1964,9 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">подавать что кому<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">подавать что кому<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">приближать, ускорять что (напр. встречу, срок)<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">приближать, ускорять что (напр. встречу COMMA срок)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -1988,7 +1990,7 @@
 	<E>
 		<L>альтэсь</L>
 		<T>
-			<RE>PRJAM,PEREN</RE>близкий</T>
+			<RE>PRJAM_PEREN</RE>близкий</T>
 		<X>альтэсь ва̄рр</X>
 		<XT>близкая поездка</XT>
 		<X>альтэсь ро̄дт</X>
@@ -2024,7 +2026,7 @@
 		<CLASS>II,1*</CLASS>
 		<POS/>
 		<T>приближаться к кому-чему<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>ме̄һцьла я на̄ввьт мя̄лк э̄ллтнэннтэв ка̄нҍц ка̄ннцась</X>
 		<XT>охотник и зверь медленно приближались друг к другу</XT>
@@ -2214,7 +2216,7 @@
 		<STEM/>
 		<CLASS>II,1</CLASS>
 		<POS/>
-		<T tnumber="1">убегать / убежать (о супе, молоке при кипении)</T>
+		<T tnumber="1">убегать / убежать (о супе COMMA молоке при кипении)</T>
 		<X>вя̄рр а̄ммп</X>
 		<XT>суп убегает</XT>
 		<T tnumber="2">заливать / залить что (через край)</T>
@@ -2257,12 +2259,12 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">убегать (при кипении)<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">убегать (при кипении)<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">заливать что (через край)<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">заливать что (через край)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">
-			<RE>PEREN</RE>выходить из себя<TAM>INOGDA,BYVALO</TAM>
+			<RE>PEREN</RE>выходить из себя<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2333,7 +2335,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>зевать<TAM>INOGDA,BYVALO</TAM>
+		<T>зевать<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2393,7 +2395,7 @@
 		<CLASS>I</CLASS>
 		<POS/>
 		<T>
-			<RE>PRJAM,PEREN</RE>опомниться, очнуться, прийти в себя</T>
+			<RE>PRJAM_PEREN</RE>опомниться, очнуться, прийти в себя</T>
 		<X>а̄мшуввэ маӈӈа кэллмэшка</X>
 		<XT>опомниться после обморока</XT>
 	</E>
@@ -2403,7 +2405,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>
-			<RE>PRJAM,PEREN</RE>опомниться, очнуться, прийти в себя<TAM>BYSTRO</TAM>
+			<RE>PRJAM_PEREN</RE>опомниться, очнуться, прийти в себя<TAM>BYSTRO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2412,8 +2414,8 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>
-			<RE>PRJAM,PEREN</RE>приходить в себя<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<RE>PRJAM_PEREN</RE>приходить в себя<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2477,7 +2479,7 @@
 		<XT>дай мне синий карандаш</XT>
 		<X>лӯшшьтэ аннҍтэ тыйе роазетҍ!</X>
 		<XT>разрешите преподнести вам цветы!</XT>
-		<T tnumber="2">уступить кому (дорогу, место)</T>
+		<T tnumber="2">уступить кому (дорогу COMMA место)</T>
 		<X>анҍт агкне сай</X>
 		<XT>уступи старушке место</XT>
 		<T tnumber="3">разрешить, позволить, предложить кому (что-л. сделать)</T>
@@ -2543,15 +2545,15 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">давать, отдавать, раздавать что кому<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>э̄ннтлэгке ве̄шшэтҍ кла̄дтҍ пыннем сайя</X>
 		<XT>сдавайте вещи в камеру хранения</XT>
-		<T tnumber="2">уступать (дорогу, место)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">уступать (дорогу COMMA место)<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">разрешать, позволять, предлагать кому (что-л. делать)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>э̄ннтлэ па̄ррнэтҍ лыһкэ соанэтҍ, пынне пӯдзэтҍ</X>
 		<XT>разрешить детям делать сани, пасти оленей</XT>
@@ -2584,12 +2586,12 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">давать, отдавать, раздавать что, кому<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>бэдт энтче па̄ррнэтҍ тӯетҍ</X>
 		<XT>надо давать ребятам работу</XT>
 		<T tnumber="2">разрешать, позволять, предлагать кому (что-л. делать)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>энтче па̄ррнэтҍ куаррэ поадэскэтҍ</X>
 		<XT>[я] разрешал, бывало, ребятам шить упряжь</XT>
@@ -2619,7 +2621,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>попросить кого-что и с неопр.,</T>
+		<T>попросить кого-что и с неопр.</T>
 		<X>со̄нн а̄нэсьт кнӣга эфт е̄кесь пайя</X>
 		<XT>он попросил книгу на один вечер</XT>
 	</E>
@@ -2639,7 +2641,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>просить разрешения (что-л. делать)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>нийта тоаййв оанндэдант моаст</X>
 		<XT>девочка часто отпрашивается домой</XT>
@@ -2753,7 +2755,7 @@
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T>оценивать что<TAM>INOGDA,BYVALO</TAM>
+		<T>оценивать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2841,7 +2843,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>отгадывать, разгадывать, угадывать что<TAM>INOGDA,BYVALO</TAM>
+		<T>отгадывать, разгадывать, угадывать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="200">
@@ -2985,7 +2987,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>обнимать кого<TAM>INOGDA,BYVALO</TAM>
+		<T>обнимать кого<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="212">
@@ -3071,7 +3073,7 @@
 	<E>
 		<L>ассай</L>
 		<POS>PRED</POS>
-		<T>прочный, крепкий, прочен, крепок (о мездре, шкуре)</T>
+		<T>прочный, крепкий, прочен, крепок (о мездре COMMA шкуре)</T>
 		<X>тӯлльй лӣ ассай</X>
 		<XT>шкура крепкая</XT>
 	</E>
@@ -3086,7 +3088,7 @@
 	</E>
 	<E>
 		<L>ассъесь</L>
-		<T>прочный, крепкий (о мездре, шкуре)</T>
+		<T>прочный, крепкий (о мездре COMMA шкуре)</T>
 		<X>ассъесь тӯлльй</X>
 		<XT>крепкая шкура</XT>
 	</E>
@@ -3127,7 +3129,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>заставать, застигать кого<TAM>INOGDA,BYVALO</TAM>
+		<T>заставать, застигать кого<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мыйй со̄н а̄тҍсэлнэмь лыһкмэнҍ</X>
 		<XT>мы, бывало, заставали его за работой</XT>
@@ -3250,7 +3252,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>свежевать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>югке ыгь оаххтлэтҍ че̄пэркэтҍ ма̄льценҍ</X>
 		<XT>каждый год забивают телят на малицы</XT>
@@ -3552,11 +3554,11 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">добиваться чего<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
 			<RE>PEREN</RE>биться над чем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -3644,7 +3646,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>обзаводиться билетом, приобретать билет<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="261">
@@ -3717,7 +3719,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>бинтовать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -3805,7 +3807,7 @@
 		<T>баран</T>
 		<X>боаран чуэз</X>
 		<XT>
-			<RE>PRJAM,PEREN</RE>стадо баранов</XT>
+			<RE>PRJAM_PEREN</RE>стадо баранов</XT>
 		<X>ёадтёв гӯ боаран чуэз</X>
 		<XT>идут как стадо баранов</XT>
 #
@@ -3878,7 +3880,7 @@
 		<X>кырьйхэ шӯрр бӯкванҍ</X>
 		<XT>писать с большой буквы</XT>
 		<X>шӯрр бӯква</X>
-		<XT>прописная (заглавная, большая) буква</XT>
+		<XT>прописная (заглавная COMMA большая) буква</XT>
 		<X>удць бӯква</X>
 		<XT>строчная (маленькая) буква</XT>
 		<X>бӯкватҍ уһцэм кэ̄сск</X>
@@ -3912,7 +3914,7 @@
 		<STEM>о.ч.</STEM>
 		<CLASS>IV</CLASS>
 		<POS/>
-		<T>бурки ___LEXICONдо колен, женские или детские, шьются из койб LOOKUP___коаммас___LOOKUPLEXICON___ ___LEXICONукрашаются по швам цветным сукном, передняя часть украшается койбами контрастного цвета с орнаментом, напр. головы оленя с рогамиLEXICON___</T>
+		<T>бурки ___LEXICONдо колен COMMA женские или детские COMMA шьются из койб LOOKUP___коаммас___LOOKUP_SEMICOLON_украшаются по швам цветным сукном COMMA передняя часть украшается койбами контрастного цвета с орнаментом COMMA напр. головы оленя с рогамиLEXICON___</T>
 		<X>куаррэ о̄дт бӯркатҍ</X>
 		<XT>сшить новые бурки</XT>
 	</E>
@@ -4096,7 +4098,7 @@
 		<STEM>ва̄г</STEM>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>вьючное седло, ташка (крестообразная перекладина, нижние концы которой стягиваются ремнями под животом оленя, на верхние её концы подвешивают кладь)</T>
+		<T>вьючное седло, ташка ___LEXICONкрестообразная перекладина COMMA нижние концы которой стягиваются ремнями под животом оленя COMMA на верхние её концы подвешивают кладьLEXICON___</T>
 		<X>бэдт лыһкэ ва̄г ка̄ннтас пэ̄шштьтэм гуэйкэ</X>
 		<XT>нужно сделать вьючное седло</XT>
 	</E>
@@ -4117,7 +4119,7 @@
 		<STEM>вагкхэз</STEM>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>___LEXICONдугообразный скребок для выделки мелких шкур (на двух перпендикулярных досках)LEXICON___ ___LEXICONгоризонтальная доска используется для сиденьяLEXICON___</T>
+		<T>___LEXICONдугообразный скребок для выделки мелких шкур COMMA на двух перпендикулярных досках_SEMICOLON_горизонтальная доска используется для сиденьяLEXICON___</T>
 		<X>э̄ввтэль тӯлльй азь бэдт а̄лхэ, маӈӈа ме̄ййтэ вагкхэзэнҍ</X>
 		<XT>сначала мездру шкуры нужно увлажнить, а затем выделывать дугообразным скребком</XT>
 	</E>
@@ -4218,7 +4220,7 @@
 		</T>
 		<X>мунн шальт вадтла я пуада</X>
 		<XT>я быстро надраю пол (песком) и приду</XT>
-		<T tnumber="2">драить что (песком)<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T tnumber="2">драить что (песком)<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 		<T tnumber="3">
 			<RE>PEREN</RE>отстегать кого<TAM>BYSTRO</TAM>
@@ -4230,11 +4232,11 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">драить что (песком)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
 			<RE>PEREN</RE>бить кого<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4339,7 +4341,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>беднеть, разоряться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4420,7 +4422,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>кроить, выкраивать, раскраивать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн оасскэтҍ вэ̄йна, а пуаррса нӣййт куарр</X>
 		<XT>я крою одежду, а старшая дочь шьёт</XT>
@@ -4478,7 +4480,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>испытывать неудобство (неловкость), неловко себя чувствовать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="323">
@@ -4520,7 +4522,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>прокладывать просеку<TAM>INOGDA,BYVALO</TAM>
+		<T>прокладывать просеку<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4702,7 +4704,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться свободным, приобретать [полную] свободу, освобождаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4720,7 +4722,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться свободным, освобождаться (с чьей-л. помощью)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4743,7 +4745,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>лишаться свободы<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="340">
@@ -4869,7 +4871,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>брать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн воаллтлэ алкан мя̄һца</X>
 		<XT>я иногда брал сына па охоту</XT>
@@ -4902,7 +4904,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>браться, приниматься за что, приступать к чему<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4934,7 +4936,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>брать кого-то<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5012,7 +5014,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>выделывать (шкуру крюком)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн вэ̄лча ля̄ тӯльетҍ</X>
 		<XT>мне приходилось выделывать шкуры</XT>
@@ -5081,12 +5083,12 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">поливать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>югке пе̄йв роазетҍ бэдт воалнэ</X>
 		<XT>цветы нужно поливать каждый день</XT>
 		<T tnumber="2">лить, наливать, вливать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5095,7 +5097,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>обливаться, окатываться (водой)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5129,7 +5131,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>поливать что ; обливать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>роазетҍ бэдт тоаййв воалхэлнэ</X>
 		<XT>цветы нужно часто поливать</XT>
@@ -5390,7 +5392,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>хаживать, похаживать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="373">
@@ -5433,7 +5435,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>надевать обруч, обод<TAM>INOGDA,BYVALO</TAM>
+		<T>надевать обруч, обод<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="374">
@@ -5511,7 +5513,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться богатым, зажиточным, состоятельным, богатеть<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5565,7 +5567,7 @@
 		<XT>[он] одет по-дорожному</XT>
 #
 <X>ва̄рр ёадт ныдтҍ мӣлкнесьт, ко̄ххт тыһкь тарьвэсьт</X>
-		<XT>через час по чайной ложке (букв. поездка идёт так медленно, как вошь по смоле)</XT>
+		<XT>через час по чайной ложке (букв. поездка идёт так медленно COMMA как вошь по смоле)</XT>
 	</E>
 	<E>
 		<L>ва̄рэнь</L>
@@ -5602,7 +5604,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>бывать (где-л.)<TAM>INOGDA,BYVALO</TAM>
+		<T>бывать (где-л.)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5649,7 +5651,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>вырастать - о лесе<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5722,7 +5724,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>начинаться - о моросящем дожде<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="391">
@@ -5867,12 +5869,12 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">бить, избивать кого<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн вэстэч пе̄ннэ</X>
 		<XT>он, бывало, бил собаку</XT>
 		<T tnumber="2">выбивать, выколачивать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн вэстач тӯльетҍ</X>
 		<XT>он иногда выбивает шкуры</XT>
@@ -5931,7 +5933,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>проходить, кончаться ; утихать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>лэфкхэсс мудта вуэр воазэнҍт</X>
 		<XT>кашель иногда прекращался</XT>
@@ -6092,7 +6094,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>находить помощника, обзаводиться помощником<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -6131,7 +6133,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>помогать кому<TAM>INOGDA,BYVALO</TAM>
+		<T>помогать кому<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="412">
@@ -6181,7 +6183,7 @@
 		<CLASS>II,1*</CLASS>
 		<POS/>
 		<T>наступать - о сумерках, темнеть<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>та̄лльва айкалт вя̄ййкнаннт</X>
 		<XT>зимой рано наступают сумерки</XT>
@@ -6269,7 +6271,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>входить в долги, брать в долг<TAM>INOGDA,BYVALO</TAM>
+		<T>входить в долги, брать в долг<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн мудта вуэр вя̄ллктэлант</X>
 		<XT>он иногда берёт в долг</XT>
@@ -6307,8 +6309,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>перегонять (стадо, ездовых оленей) ; перемещать, перевозить кого (напр. на новое место)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T>перегонять (стадо COMMA ездовых оленей) ; перемещать, перевозить кого (напр. на новое место)<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -6417,7 +6419,7 @@
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T>позволять кому крутиться (вертеться, мелькать) перед кем-чем</T>
+		<T>позволять кому крутиться (вертеться COMMA мелькать) перед кем-чем</T>
 		<X>ель ве̄рьксадтҍ па̄ррнэтҍ кӯссе эвтэсьт</X>
 		<XT>не разрешай детям вертеться перед гостями</XT>
 	</E>
@@ -6503,7 +6505,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>тесать, обтёсывать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн ве̄рэч лӯвьтэтҍ</X>
 		<XT>он, бывало, обтёсывал доски</XT>
@@ -6600,15 +6602,15 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">вертеться, ворочаться (с боку на бок)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
 			<RE>PEREN</RE>вертеться, крутиться (где-л.), находиться на виду у кого<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">
 			<RE>PEREN</RE>вертеться, увиливать, увёртываться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="441">
@@ -6677,7 +6679,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>повеселиться, поразвлекаться<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T>повеселиться, поразвлекаться<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 		<X>со̄нн шоабашт ве̄ссьлужсэ</X>
 		<XT>он любит повеселиться</XT>
@@ -6728,7 +6730,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>обзаводиться вещами, имуществом, товаром и т. п.<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="449">
@@ -6777,7 +6779,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>покрывать что медью<TAM>INOGDA,BYVALO</TAM>
+		<T>покрывать что медью<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="452">
@@ -6811,7 +6813,7 @@
 		<X>Советскэ Эхтнэг Пынней Вӣг</X>
 		<XT>Вооруженные Силы Советского Союза</XT>
 		<X>ля̄йй куэссь-не вӣгк, да кӯдтэй э̄ххт лӣгк</X>
-		<XT>была сила, да вся вышла (букв. была когда-то сила, да осталась одна видимость)</XT>
+		<XT>была сила, да вся вышла (букв. была когда-то сила COMMA да осталась одна видимость)</XT>
 	</E>
 	<E>
 		<L>вӣгквудт</L>
@@ -6850,7 +6852,7 @@
 		<POS/>
 		<T>набираться сил, усиливаться<TAM>POSTEPENNO</TAM>
 			<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -6948,7 +6950,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться бессильным<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="454">
@@ -7046,7 +7048,7 @@
 		<STEM/>
 		<CLASS>I,1</CLASS>
 		<POS/>
-		<T>бежать (о человеке, птице)</T>
+		<T>бежать (о человеке COMMA птице)</T>
 		<X>мӣлкнесьт, вэххтэнне вӣдже</X>
 		<XT>бежать медленно, быстро</XT>
 		<X>рыһп ве̄джь па̄ӆьтэв мӣлльтэ</X>
@@ -7091,7 +7093,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>бегать (в разных направлениях)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>па̄ррьшя вӣжянт пэҏт луннҍ</X>
 		<XT>мальчик бегает около дома</XT>
@@ -7135,7 +7137,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>бегать друг за другом, гоняться за кем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="470">
@@ -7327,10 +7329,10 @@
 		<CLASS>II,1*</CLASS>
 		<POS/>
 		<T tnumber="1">становиться бледным, белеть<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">становиться бледным, бледнеть, покрываться бледностью<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄н ка̄ссв вӣлкнаннт</X>
 		<XT>его лицо бледнеет</XT>
@@ -7371,9 +7373,9 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">белить что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">белить что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">отбеливать, выбеливать что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">отбеливать, выбеливать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -7564,12 +7566,12 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">доверять кого-что кому<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн со̄ннӭ я э̄ввтэль вӣрнэ</X>
 		<XT>я ему и раньше доверял</XT>
 		<T tnumber="2">верить кому<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -7587,7 +7589,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>доверяться кому<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -7710,7 +7712,7 @@
 		<STEM/>
 		<CLASS>II,1*</CLASS>
 		<POS/>
-		<T>помешивать что (время от времени)<TAM>INOGDA,BYVALO</TAM>
+		<T>помешивать что (время от времени)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>чуэннч, вӣршаннт ма̄йт</X>
 		<XT>[она] стоит и помешивает молоко</XT>
@@ -7776,7 +7778,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>бывать взвешенным ; взвешиваться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -7812,7 +7814,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>взвешивать кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T>взвешивать кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="521">
@@ -7965,7 +7967,7 @@
 		<STEM/>
 		<CLASS>I,1</CLASS>
 		<POS/>
-		<T>сесть (о материи, шерсти и т. п.)</T>
+		<T>сесть (о материи COMMA шерсти и т. п.)</T>
 		<X>лоая воакэ</X>
 		<XT>пряжа села</XT>
 		<X>улл сугк воаһкенҍ</X>
@@ -7976,7 +7978,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>сесть (о материи, шерсти и т. п.)<TAM>BYSTRO</TAM>
+		<T>сесть (о материи COMMA шерсти и т. п.)<TAM>BYSTRO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8002,8 +8004,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>садиться (о материи, шерсти и т. п.)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T>садиться (о материи COMMA шерсти и т. п.)<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8113,7 +8115,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>меняться, обмениваться чем с кем<TAM>INOGDA,BYVALO</TAM>
+		<T>меняться, обмениваться чем с кем<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8135,9 +8137,9 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">обменивать, менять, заменять что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">обменивать, менять, заменять что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">сменять, заменять кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">сменять, заменять кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8279,7 +8281,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>готовить что, делать что годным, готовым для использования<TAM>INOGDA,BYVALO</TAM>
+		<T>готовить что, делать что годным, готовым для использования<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8441,9 +8443,9 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">отбирать, выбирать что из чего ; перебирать что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">отбирать, выбирать что из чего ; перебирать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">выбирать, избирать кого<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">выбирать, избирать кого<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8484,7 +8486,7 @@
 		<STEM>воаӆк</STEM>
 		<CLASS>II</CLASS>
 		<POS/>
-		<T>нырило ___LEXICONприспособление для подлёдного лова рыбы: длинная узкая доска с заострённым концом и отверстием на другом конце для продевания верёвки сетиLEXICON___ ___LEXICONдоску проталкивают от проруби к проруби и протягивают сетьLEXICON___</T>
+		<T>нырило ___LEXICONприспособление для подлёдного лова рыбы: длинная узкая доска с заострённым концом и отверстием на другом конце для продевания верёвки сети_SEMICOLON_доску проталкивают от проруби к проруби и протягивают сетьLEXICON___</T>
 		<X>ца̄гке воаӆк коалльтэсьт коалльтъе</X>
 		<XT>толкать нырило от проруби к проруби</XT>
 	</E>
@@ -8512,7 +8514,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>ставить при помощи нырила (сети подо льдом)<TAM>INOGDA,BYVALO</TAM>
+		<T>ставить при помощи нырила (сети подо льдом)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн воаӆӆктэлэнҍт соаймэтҍ</X>
 		<XT>он, бывало, ставил сети (подо льдом) с помощью нырила</XT>
@@ -8558,12 +8560,12 @@
 		<STEM>воар</STEM>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>петля (на аркане, верёвке)</T>
+		<T>петля (на аркане COMMA верёвке)</T>
 		<X>ко̄ррэ воар</X>
 		<XT>завязать петлю</XT>
 		<X>воарре чоаӈӈэ</X>
 		<XT>
-			<RE>PRJAM,PEREN</RE>лезть в петлю</XT>
+			<RE>PRJAM_PEREN</RE>лезть в петлю</XT>
 	</E>
 	<E kur_ID="586">
 		<L>воаррдэ</L>
@@ -8631,7 +8633,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>беречься, оберегаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8655,7 +8657,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>беречь, оберегать, охранять кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T>беречь, оберегать, охранять кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="594">
@@ -8723,10 +8725,10 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">водить кого, помогать кому идти<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">водить (машину и т. п.)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8795,7 +8797,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>бывать (где-л.)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн во̄дтэдна тамьпе</X>
 		<XT>я всегда там бываю</XT>
@@ -8998,7 +9000,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>бежать рысью, рысцой<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>пуаз вуагант, вуагант я я̄сск</X>
 		<XT>олень побежит, побежит рысью и остановится</XT>
@@ -9120,7 +9122,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>стонать, издавать стоны<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>кэ̄бла вӯкэнҍт</X>
 		<XT>больной стонал иногда</XT>
@@ -9150,7 +9152,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>тонуть, погружаться в воду (о чём-л.)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>кӣһче, вэнс вуаянт ча̄дза!</X>
 		<XT>смотрите, лодка погружается в воду!</XT>
@@ -9237,7 +9239,7 @@
 		<CLASS>II,1</CLASS>
 		<POS/>
 		<T>
-			<RE>PRJAM,PEREN</RE>бороться с кем-чем</T>
+			<RE>PRJAM_PEREN</RE>бороться с кем-чем</T>
 		<X>вуаййпэ ка̄нҍц коанҍцэнҍ</X>
 		<XT>бороться друг с другом</XT>
 		<X>вуаййпэ пӣӈкэнҍ</X>
@@ -9463,20 +9465,20 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">доставать, извлекать, вынимать что (откуда-л.)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">доставать, приобретать, добывать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>вуанчнэ билетэтҍ театра</X>
 		<XT>доставать билеты в театр</XT>
 		<T tnumber="3">доставать что, дотягиваться до чего<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>вуанчнэ кнӣгатҍ ылльтэсьт</X>
 		<XT>доставать книги с полки</XT>
 		<T tnumber="4">добиваться чего<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -9574,7 +9576,7 @@
 		<STEM>вӯбрас</STEM>
 		<CLASS>V</CLASS>
 		<POS/>
-		<T>уварсь ___LEXICONтрехгодовалый олень-самец (в этом возрасте его начинают обучать для езды, в упряжке занимает место в середине)LEXICON___</T>
+		<T>уварсь ___LEXICONтрехгодовалый олень-самец - в этом возрасте его начинают обучать для езды COMMA в упряжке занимает место в серединеLEXICON___</T>
 	</E>
 	<E>
 		<L>вӯбресьлуввэ</L>
@@ -9628,7 +9630,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>дешеветь<TAM>INOGDA,BYVALO</TAM>
+		<T>дешеветь<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -9700,7 +9702,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться густым (о шерсти)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>та̄лвас сэфс ноавҍтэнҍ вӯгклувант</X>
 		<XT>к зиме шерсть зверей становится густой</XT>
@@ -9721,7 +9723,7 @@
 		<POS/>
 		<T>считать густошёрстным (напр. оленя)</T>
 		<X>мунн тӯльй вуэгкша, ма̄лецьгуэйкэ эмм лӯшьт</X>
-		<XT>на мой взгляд, шкура густошёрстна, на малицу не пущу (густошёрстные шкуры бывают у оленей, забитых зимой, и идут на совики LOOKUP___со̄вехь___LOOKUP , обувь, одеяла и т. п. ; на малицу берутся лёгкие шкуры от оленей, забитых осенью)</XT>
+		<XT>на мой взгляд, шкура густошёрстна, на малицу не пущу (густошёрстные шкуры бывают у оленей COMMA забитых зимой COMMA и идут на совики LOOKUP___со̄вехь___LOOKUP COMMA обувь COMMA одеяла и т. п. SEMICOLON на малицу берутся лёгкие шкуры от оленей COMMA забитых осенью)</XT>
 	</E>
 	<E>
 		<L>вуэгкэ</L>
@@ -9844,7 +9846,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>показываться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>пе̄ййв вӯзьхувант я коадант</X>
 		<XT>солнце то покажется, то скроется</XT>
@@ -9874,11 +9876,11 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">показывать кого-что, демонстрировать что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">показывать кого-что, демонстрировать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">указывать кому на что, обращать чьё-л. внимание на кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">указывать кому на что, обращать чьё-л. внимание на кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="3">показывать себя кем<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="3">показывать себя кем<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="691">
@@ -9949,7 +9951,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>управлять лодкой при помощи руля (о рулевом), грести и править лодкой (о заднем гребце)<TAM>INOGDA,BYVALO</TAM>
+		<T>управлять лодкой при помощи руля (о рулевом), грести и править лодкой (о заднем гребце)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="693">
@@ -10056,7 +10058,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>плавать (в разных направлениях)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>лоанҍт вӯйнэв я̄вьр альн</X>
 		<XT>по озеру плавают птицы</XT>
@@ -10090,7 +10092,7 @@
 		<XT>сливочное масло</XT>
 		<X>пыдтма вӯйй</X>
 		<XT>топлёное масло</XT>
-		<T tnumber="2">топлёный жир (олений, рыбий)</T>
+		<T tnumber="2">топлёный жир (олений COMMA рыбий)</T>
 		<X>пӯдзэ вӯйй</X>
 		<XT>топлёный олений жир</XT>
 		<X>кӯлль вӯйй</X>
@@ -10101,7 +10103,7 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>пропитаться (покрыться, испачкаться) маслом</T>
+		<T>пропитаться (покрыться COMMA испачкаться) маслом</T>
 		<X>туэлль вӯййлувэ</X>
 		<XT>стол пропитался маслом</XT>
 	</E>
@@ -10175,10 +10177,10 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">делать что прямым, выпрямлять, расправлять, распрямлять, разгибать кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">делать что прямым, выпрямлять, расправлять, распрямлять, разгибать кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
-			<RE>PEREN</RE>поправлять кого<TAM>INOGDA,BYVALO</TAM>
+			<RE>PEREN</RE>поправлять кого<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -10192,7 +10194,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>оправдываться, доказывать свою невиновность<TAM>INOGDA,BYVALO</TAM>
+		<T>оправдываться, доказывать свою невиновность<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -10650,8 +10652,6 @@
 		<X>вӯльнэ ла̄мпа</X>
 		<XT>убавить огонь в лампе</XT>
 	</E>
-	<!-- the position of POS is here ok, but what is this POSLELOG?-->
-	<!-- послелог=postposition-->
 	<E>
 		<L>вуэлла</L>
 		<POS>POSLELOG</POS>
@@ -10687,7 +10687,7 @@
 		<CLASS>II,1*</CLASS>
 		<POS/>
 		<T>снижаться, понижаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>самлёһт вуэллнаннт</X>
 		<XT>самолет снижается</XT>
@@ -10789,7 +10789,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>посылать, отсылать, отправлять, направлять, командировать кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T>посылать, отсылать, отправлять, направлять, командировать кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -10979,7 +10979,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>удить кого<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -10987,7 +10987,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>поудить кого<TAM>NEDOLGO,NEMNOGO</TAM>
+		<T>поудить кого<TAM>NEDOLGO_NEMNOGO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11000,7 +11000,7 @@
 		<X>со̄нн вуаӈӈкэль - куввч тэсьт я ля̄йй</X>
 		<XT>он закинул удочку - кумжа тут и была</XT>
 		<T tnumber="2">
-			<RE>PRJAM,PEREN</RE>достать, добыть что<TAM>BYSTRO</TAM>
+			<RE>PRJAM_PEREN</RE>достать, добыть что<TAM>BYSTRO</TAM>
 		</T>
 		<X>вуаӈӈклэ я̄ммпар ко̄ӆцэсьт</X>
 		<XT>достать ведро из колодца</XT>
@@ -11024,7 +11024,7 @@
 		<CLASS>I</CLASS>
 		<POS/>
 		<T>
-			<RE>PRJAM,PEREN</RE>попасться на крючок, быть пойманным на крючок</T>
+			<RE>PRJAM_PEREN</RE>попасться на крючок, быть пойманным на крючок</T>
 		<X>лӯсс вӯӈӈкъювэ</X>
 		<XT>сёмга попалась на крючок</XT>
 	</E>
@@ -11127,7 +11127,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>ждать, ожидать кого-что, чего, подождать кого-что, дожидаться кого-чего<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн ке̄нн-ля̄ннч вӯрьтант</X>
 		<XT>он кого-то поджидает</XT>
@@ -11211,7 +11211,7 @@
 		<STEM>о.ч.</STEM>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>киса ___LEXICONнациональная сумка для продуктов, одежды, обуви с круглым дном из тюленьей шкурыLEXICON___ ___LEXICONбоковины сумки обычно из оленьей дублёной кожи, сумка украшается разноцветными суконными треугольниками или орнаментом из белой кожи, верх затягивается продёрнутым через отверстия шнурком из кожиLEXICON___</T>
+		<T>киса ___LEXICONнациональная сумка для продуктов COMMA одежды COMMA обуви с круглым дном из тюленьей шкуры_SEMICOLON_боковины сумки обычно из оленьей дублёной кожи COMMA сумка украшается разноцветными суконными треугольниками или орнаментом из белой кожи COMMA верх затягивается продёрнутым через отверстия шнурком из кожиLEXICON___</T>
 		<X>вӯсс лӣ кӯррма руэсск тӣпегуэйм</X>
 		<XT>киса расшита суконными треугольниками</XT>
 	</E>
@@ -11245,7 +11245,7 @@
 	</E>
 	<E kur_ID="778">
 		<L>ВӮСЬТ</L>
-		<T tnumber="1">встречный (о ветре, течении и т. п.)</T>
+		<T tnumber="1">встречный (о ветре COMMA течении и т. п.)</T>
 		<X>вӯсьт пӣӈӈк</X>
 		<XT>встречный ветер</XT>
 		<X>та̄рьм пӣӈӈк ля̄йй вӯсьт</X>
@@ -11292,12 +11292,12 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">встречаться с кем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>э̄ввтэль мыйй вуэсстлувнэмь югке пе̄йв</X>
 		<XT>раньше мы встречались каждый день</XT>
 		<T tnumber="2">начинать возражать (противоречить) кому-чему<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11345,17 +11345,17 @@
 		<CLASS>II,1*</CLASS>
 		<POS/>
 		<T tnumber="1">встречаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мыйй вуэсстлэнтэмь</X>
 		<XT>мы иногда встречались</XT>
 		<T tnumber="2">отвечать кому что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн уркэсьт тоаййва пукэ вуэсстланнт</X>
 		<XT>он на уроке отвечает чаще всех</XT>
 		<T tnumber="3">возражать, противоречить кому-чему<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн югке са̄ррнъе вуэсстланнт</X>
 		<XT>он возражает каждому выступающему</XT>
@@ -11412,7 +11412,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>гудеть, шуметь<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>пӣӈӈк вӯгант ре̄һпьнӭсьт</X>
 		<XT>ветер гудит в трубе</XT>
@@ -11536,7 +11536,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>спать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11575,7 +11575,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>хотеть спать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11728,7 +11728,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>превращаться в ручьи (напр. о снеге весной)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="804">
@@ -11833,7 +11833,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>побеждать, одолевать, пересиливать кого, одерживать победу<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -12018,9 +12018,9 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">бросать, кидать, метать что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">бросать, кидать, метать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">разбрасывать, раскидывать что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">разбрасывать, раскидывать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -12059,7 +12059,7 @@
 		<X>вуэлльктэ ке̄дҍк вуэлькесь кӣдэнҍ</X>
 		<XT>бросить камень правой рукой</XT>
 		<X>вуэлькесь пе̄льт</X>
-		<XT>справа, в правой стороне, с правой стороны (идти, сидеть)</XT>
+		<XT>справа, в правой стороне, с правой стороны (идти COMMA сидеть)</XT>
 	</E>
 	<E kur_ID="823">
 		<L>вуэлльктуввэ</L>
@@ -12129,7 +12129,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>блестеть, сверкать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>бро̄шка вӯӆкэч, адтҍ ма̄лье</X>
 		<XT>брошка раньше блестела, а теперь потускнела</XT>
@@ -12172,7 +12172,7 @@
 		<X>вуэммь пе̄ннэ карр эвтэсь, нӯрр пе̄ннэ карр со̄н мӣлльтэ</X>
 		<XT>POSLOVICA старая собака бежит впереди, молодая - за ней</XT>
 		<X>вуэммь пе̄ннэ ка̄ццк я кэ̄сс нӯрь</X>
-		<XT>POSLOVICA старая собака перегрызёт и толстую верёвку (о силе, жизненном опыте)</XT>
+		<XT>POSLOVICA старая собака перегрызёт и толстую верёвку (о силе COMMA жизненном опыте)</XT>
 	</E>
 	<E>
 		<L>вуаммас</L>
@@ -12524,7 +12524,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>начинать дуть с запада (о ветре)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="851">
@@ -12681,7 +12681,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>покупать, приобретать, закупать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>тэйт ве̄шшэтҍ во̄сстлэтҍ ла̄фькэсьт</X>
 		<XT>эти вещи покупают в магазине</XT>
@@ -12759,7 +12759,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>покрываться тучами<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="866">
@@ -12890,7 +12890,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">относить, отводить, отвозить кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мэ̄нн-не ӣжесь сайя выгнэ</X>
 		<XT>относить что-либо на своё место</XT>
@@ -12899,7 +12899,7 @@
 		<X>кӣзе мӣлльтэ выгнэ па̄ррнэтҍ ме̄рр рыннта</X>
 		<XT>каждое лето отвозить детей к морю</XT>
 		<T tnumber="2">переносить кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>выгнэ ве̄шшэтҍ</X>
 		<XT>переносить вещи</XT>
@@ -12973,7 +12973,7 @@
 		<CLASS>I</CLASS>
 		<POS/>
 		<T tnumber="1">начать хныкать</T>
-		<T tnumber="2">начать надоедать (ворчать, брюзжать)</T>
+		<T tnumber="2">начать надоедать (ворчать COMMA брюзжать)</T>
 		<X>выдзлувэ ке̄жьханна</X>
 		<XT>[он] начал ворчать и конца нет</XT>
 	</E>
@@ -13020,10 +13020,10 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">хныкать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">надоедать, ворчать ; брюзжать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -13040,11 +13040,11 @@
 		<STEM/>
 		<CLASS>II,1*</CLASS>
 		<POS/>
-		<T tnumber="1">похныкать<TAM>NEMNOGO,NEKOTOROE_VREMJA</TAM>
+		<T tnumber="1">похныкать<TAM>NEMNOGO_NEKOTOROE_VREMJA</TAM>
 		</T>
 		<X>вызсэссьтэкь я ля̄ннч</X>
 		<XT>[ты] похныкал немного и хватит</XT>
-		<T tnumber="2">понадоедать, поворчать, побрюзжать<TAM>NEMNOGO,NEKOTOROE_VREMJA</TAM>
+		<T tnumber="2">понадоедать, поворчать, побрюзжать<TAM>NEMNOGO_NEKOTOROE_VREMJA</TAM>
 		</T>
 		<X>ка̄ллса вызсэсьтэ, вызсэсьтэ я ӣнхувэ</X>
 		<XT>старик поворчал, поворчал и умолк</XT>
@@ -13279,7 +13279,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>ездить (в разных направлениях)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>э̄лл ноаҏтэ альн ӣййв выйем пӯдзэгуэйм коалхэсс выянт сыйт мӣлльтэ</X>
 		<XT>на высоких нартах с белой упряжкой ездит жених по селу</XT>
@@ -13380,7 +13380,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">выйти, уйти<TAM>BYSTRO,NENADOLGO</TAM>
+		<T tnumber="1">выйти, уйти<TAM>BYSTRO_NENADOLGO</TAM>
 		</T>
 		<X>со̄нн выййтэль комнатасьт</X>
 		<XT>он [быстро] вышел из комнаты</XT>
@@ -13399,19 +13399,19 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">выходить, уходить<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>ӣнца ро̄бхэ выйтна ка̄хцант ча̄ссэсьт</X>
-		<XT>утром я выхожу на работу в восемь часов,</XT>
+		<XT>утром я выхожу на работу в восемь часов</XT>
 		<X>кӯлль шыллей ка̄репь выйтнэв ме̄рре югке пе̄йв</X>
 		<XT>рыболовецкие суда выходят в море каждый день</XT>
 		<T tnumber="2">выходить, получаться из кого-чего<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>институтэнҍ ыгесьт ыгка выйтнэв нӯрр лыһкэй</X>
 		<XT>институты ежегодно выпускают молодых специалистов</XT>
 		<T tnumber="3">кончаться, расходоваться, иссякать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>е̄весь выйтант вэххтэнне</X>
 		<XT>продукты расходуются быстро</XT>
@@ -13535,7 +13535,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>выгонять кого (откуда-л.), загонять кого (куда-л.)<TAM>INOGDA,BYVALO</TAM>
+		<T>выгонять кого (откуда-л.), загонять кого (куда-л.)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="914">
@@ -13615,7 +13615,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>посмотривать, поглядывать на кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T>посмотривать, поглядывать на кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>оарр со̄н э̄л выльшхэлант</X>
 		<XT>он сидит и иногда на неё посмотривает</XT>
@@ -13705,7 +13705,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>отступаться от кого-чего, переставать отстаивать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="927">
@@ -13725,7 +13725,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T tnumber="1">скулить (о собаке, лисе)</T>
+		<T tnumber="1">скулить (о собаке COMMA лисе)</T>
 		<X>пе̄ннэ кудца вынняшт</X>
 		<XT>щенок скулит</XT>
 		<T tnumber="2">
@@ -13738,7 +13738,7 @@
 		<STEM/>
 		<CLASS>II,1*</CLASS>
 		<POS/>
-		<T tnumber="1">поскулить (о собаке, лисе)<TAM>NEKOTOROE_VREMJA</TAM>
+		<T tnumber="1">поскулить (о собаке COMMA лисе)<TAM>NEKOTOROE_VREMJA</TAM>
 		</T>
 		<X>пе̄ннэ кудца вынньшэсьтэ - вынньшэсьтэ я ескэ</X>
 		<XT>щенок поскулил, поскулил и замолчал</XT>
@@ -13850,7 +13850,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>мотать, наматывать, смотывать что<TAM>INOGDA,BYVALO</TAM>
+		<T>мотать, наматывать, смотывать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -14008,7 +14008,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>проваливаться (куда-л.)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>савьхе альн вэ̄дзе эгк вырэнҍт</X>
 		<XT>на лыжах в снег не проваливаешься</XT>
@@ -14019,13 +14019,13 @@
 		<CLASS>I</CLASS>
 		<POS/>
 		<T tnumber="1">
-			<RE>PRJAM,PEREN</RE>налететь<TAM>NEOZHIDANNO</TAM>
+			<RE>PRJAM_PEREN</RE>налететь<TAM>NEOZHIDANNO</TAM>
 		</T>
 		<X>вӯдӭсь вырэ а̄йнханна</X>
 		<XT>ураган налетел неожиданно</XT>
 		<X>вырэ мун э̄л пӣӈӈкэнҍ</X>
 		<XT>[он] как ветер налетел на меня</XT>
-		<T tnumber="2">выпасть (об осадках)<TAM>NEOZHIDANNO,OBIL'NO</TAM>
+		<T tnumber="2">выпасть (об осадках)<TAM>NEOZHIDANNO_OBIL'NO</TAM>
 		</T>
 		<X>ке̄сся вэ̄дз вырэ</X>
 		<XT>летом выпал снег</XT>
@@ -14042,14 +14042,14 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">налетать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>вуэдтас вырнэв че̄хче мӣлльтэ</X>
 		<XT>ураганы налетают каждую осень</XT>
 		<X>мудта вуэр роавас пӣӈӈк вырэнҍт</X>
 		<XT>иногда налетал сильный ветер</XT>
 		<T tnumber="2">выпадать (об осадках)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -14058,7 +14058,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">
-			<RE>PRJAM,PEREN</RE>налететь<TAM>BYSTRO</TAM>
+			<RE>PRJAM_PEREN</RE>налететь<TAM>BYSTRO</TAM>
 		</T>
 		<T tnumber="2">выпасть (об осадках)<TAM>BYSTRO</TAM>
 		</T>
@@ -14069,7 +14069,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T tnumber="1">
-			<RE>PRJAM,PEREN</RE>налететь<TAM>BYSTRO,NEOZHIDANNO</TAM>
+			<RE>PRJAM_PEREN</RE>налететь<TAM>BYSTRO_NEOZHIDANNO</TAM>
 		</T>
 		<X>пӣӈӈк вырэсьт, вӯннтас [аллма] паенҍт</X>
 		<XT>ветер вдруг налетел и поднял [кверху] песок</XT>
@@ -14122,7 +14122,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться порывистым (о ветре)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мудта вуэр пӣӈӈк выҏҏьтлувант</X>
 		<XT>иногда ветер становится порывистым</XT>
@@ -14166,7 +14166,7 @@
 		<X>со̄нн выххчад паллтас</X>
 		<XT>он преследует волка</XT>
 		<T tnumber="2">
-			<RE>PEREN</RE>преследовать, мучить кого (о чувствах, мыслях)</T>
+			<RE>PEREN</RE>преследовать, мучить кого (о чувствах COMMA мыслях)</T>
 		<X>со̄н выххчтэв нюэссь мушштлэмуж</X>
 		<XT>его преследуют неприятные воспоминания</XT>
 	</E>
@@ -14187,7 +14187,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>подвергаться преследованию<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="959">
@@ -14295,7 +14295,7 @@
 		<POS/>
 		<T tnumber="1">вышить что<TAM>BYSTRO</TAM>
 		</T>
-		<T tnumber="2">повышивать что<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T tnumber="2">повышивать что<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E kur_ID="966">
@@ -14354,7 +14354,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>покрываться снегом<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -14388,7 +14388,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>становиться бесснежным, лишаться снега<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -14539,7 +14539,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>выскакивать, выпрыгивать (откуда-л.)<TAM>INOGDA,BYVALO</TAM>
+		<T>выскакивать, выпрыгивать (откуда-л.)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="989">
@@ -14654,7 +14654,7 @@
 		<CLASS>III</CLASS>
 		<POS/>
 		<T>растягиваться, вытягиваться, удлиняться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>ме̄ййтмэнҍ, вуэсскэд шӣгктэнне вэ̄нънэв</X>
 		<XT>при выделке пыжик хорошо вытягивается</XT>
@@ -14680,7 +14680,7 @@
 		<X>вэӊтэдтэ маӈӈа вуэдтҍмэсьт</X>
 		<XT>потягиваться после сна</XT>
 		<T tnumber="2">затягиваться, становиться [слишком] длительным<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>лыһк ве̄ӊтэдант ке̄жьханна</X>
 		<XT>работа без конца затягивается</XT>
