@@ -159,4 +159,27 @@ is to be converted into -->
 +wenn es mehrere "entferntere Übersetzungen gibt, sind diese innerhalb des Elements <T> mit Semikolon getrennt…
 +wenn es russische Aspektpaare innerhalb des Elements <T> gibt, sind diese mit Slash getrennt, z.B. <T tnumber="1">кусать, укусить кого-что ; откусывать / откусить что, чего</T>
 
--warum haben <re>, <te>, <tf>, <xt> kein Sprachattribut, aber <t> schon (z.B. xml:lang="nob")? Wenn wir schon wissen, dass es sma<-->nob ist brauchen wir eigentlich gar keins. Aber wenn wir zeigen wollen, dass der folgende Text zu einer bestimmten Sprache gehört, ist das für <xt> usw. doch auch relevant.
+-warum haben <re>, <te>, <tf>, <xt> kein Sprachattribut, aber <t>
+ schon (z.B. xml:lang="nob")? Wenn wir schon wissen, dass es
+ sma<-->nob ist brauchen wir eigentlich gar keins. Aber wenn wir
+ zeigen wollen, dass der folgende Text zu einer bestimmten Sprache
+ gehört, ist das für <xt> usw. doch auch relevant. @cip: ich habe
+ gelernt, flexibel damit zu sein. Wir werden sehen, wie sich das
+ kristalliesiert, wenn wir wirklich in Richtung Cip's dream gehen.
+
+
+Hier sind die Muster von den gemischten Knoten.
+sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr  
+ 171          <todo n_pattern="txt_tam">
+ 108          <todo n_pattern="txt_tam_tam">
+  36          <todo n_pattern="re_txt">
+  14          <todo n_pattern="re_txt_tam">
+   6          <todo n_pattern="re_txt_tam_tam">
+   4          <todo n_pattern="txt_link"> (darueber haben wir jetzt geredet)
+   2          <todo n_pattern="sem_txt"> (??? --> take a look!)
+   2          <todo n_pattern="pos_txt">  (??? --> take a look!)
+   1          <todo n_pattern="txt_tam_txt_tam">  (check scope of tam!)
+   1          <todo n_pattern="txt_tam_txt"> (check scope of tam!)
+   1          <todo n_pattern="txt_tam_tam_tam">
+   1          <todo n_pattern="txt_saam_link_txt_class_txt">   (??? --> take a look!)
+   1          <todo n_pattern="re_txt_tam_tam_tam">
