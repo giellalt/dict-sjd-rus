@@ -227,7 +227,8 @@
 			       verbrannt hat, pustet auch in
 			       Yoghourt. -->
 			  <xsl:if test="not(child::*/local-name() = 'LINK')">
-			    <t unknown_elem="xxx"/> 
+			    <t unknown_elem="xxx"/>
+			    <xsl:copy-of select="child::*"/>
 			  </xsl:if>
 			</tg>
 		      </xsl:if>
@@ -236,6 +237,24 @@
 		    <!-- T has more than one child: mixed content -->
 		    <xsl:if test="count(./node()) &gt; 1">
 		      <todo>
+			<xsl:variable name="pattern">
+			  <xsl:for-each select="./node()">
+			    <xsl:if test="self::text()">
+			      <xsl:value-of select="'txt'"/>
+			    </xsl:if>
+			    <xsl:if test="self::*">
+			      <xsl:value-of select="lower-case(local-name(.))"/>
+			    </xsl:if>
+			    <xsl:if test="not(position() = last())">
+			      <xsl:value-of select="'_'"/>
+			    </xsl:if>
+			  </xsl:for-each>
+			</xsl:variable>
+
+			<xsl:attribute name="n_pattern">
+			  <xsl:value-of select="$pattern"/>
+			</xsl:attribute>
+
 			<xsl:for-each select="./node()">
 			  <node>
 			    <xsl:if test="self::text()">
