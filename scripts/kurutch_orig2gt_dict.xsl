@@ -45,7 +45,7 @@
   
   <xsl:variable name="e" select="'xml'"/>
   <xsl:variable name="outputDir" select="'output_kt2gt'"/>
-  <xsl:variable name="debug" select="'true()'"/>
+  <xsl:variable name="debug" select="true()"/>
 
   <xsl:variable name="tab" select="'&#x9;'"/>
   <xsl:variable name="nl" select="'&#xa;'"/>
