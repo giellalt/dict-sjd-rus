@@ -223,7 +223,7 @@
 			    </t>
 			  </xsl:if>
 			  
-			  <!-- Wer sich mit heissen Suppen einmal
+			  <!-- Wer sich einmal mit heisser Suppe 
 			       verbrannt hat, pustet auch in
 			       Yoghourt. -->
 			  <xsl:if test="not(child::*/local-name() = 'LINK')">
@@ -312,7 +312,14 @@
 	
       </xsl:for-each>
 
-
+      <global_pattern>
+	<xsl:for-each select="$theXStar/child::*|$theXStar/child::text()">
+	  <g_node position="{position()}">
+	    <xsl:copy-of select="."/>
+	  </g_node>
+	</xsl:for-each>
+      </global_pattern>
+      
     </xg_all>
     
     <!-- 			  <xsl:for-each select="../X*"> -->
