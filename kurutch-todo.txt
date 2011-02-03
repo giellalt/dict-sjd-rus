@@ -74,45 +74,13 @@ d) verbs have these tags somewhere in the entry:
 <RE>BESL</RE>
 <TAM>
 
-5. the tags <GENDER> <NUMBER> should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
+5. the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
 
-6. Problem: Kommas innerhalb von Klammern trennen keine <t>-Elemente, siehe Bsp.
-<e kur_ID="xxx">
-      <lg>
-         <l pos="xxx">оаввнэ</l>
-         <class>III</class>
-      </lg>
-      <mg kmg="g1">
-         <tg>
-            <semantics>
-               <sem class="xxx"/>
-            </semantics>
-            <t>xxx__processing_mixed_content__xxx</t>
-            <xg_counter xstar="10" x="5" xt="5"/>
-         </tg>
-      </mg>
-      <mg kmg="g2">
-         <tg>
-            <semantics>
-               <sem class="xxx"/>
-            </semantics>
-            <t>раскрыться</t>
-            <t>распуститься (о цветах</t>
-            <t>почках)</t>
-         </tg>
-         <xg_counter xstar="10" x="5" xt="5"/>
-      </mg>
-   </e>
-   
-so muss es sein:
-<t>раскрыться</t>
-<t>распуститься (о цветах, почках)</t>
-
-bzw.
-<re>о цветах, почках</re>
-<t>раскрыться</t>
-<t>распуститься</t>
-aber diese <re> will ich lieber erst später ansehen, weil manche Klammern auch <te> sind
+6. solved
+-----------------
+Problem: Kommas innerhalb von Klammern trennen keine <t>-Elemente
+these commas are all replaced by COMMA already
+-----------------
 
 7. conversion of parentheses inside <t>
 if the text in parentheses start with the word "о" it is most likely a <re>, e.g.
@@ -137,6 +105,7 @@ e.g.
 <t>боль ж (душевная)</t>
 <t>дождь м</t>
 <t>будни мн.</t>
+most of them are already tagged as F_GENDER, PL_NUMBER, etc.
 
 9. aspect pairs in <t>
 are always marked by / , perfective aspect seems always to be first, e.g.
