@@ -173,3 +173,16 @@ DER of the type "strad_k" of the verb "балъе"
 --------------------------------------
    1          <todo n_pattern="re_txt_tam_tam_tam">
 -->just one more tam as compared to "re_txt_tam_tam" above
+
+===================================
+
+sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr   173          <todo n_pattern="txt_tam">
+ 108          <todo n_pattern="txt_tam_tam">
+  36          <todo n_pattern="re_txt">
+  14          <todo n_pattern="re_txt_tam">
+   6          <todo n_pattern="re_txt_tam_tam">
+   2          <todo n_pattern="sem_txt">
+   1          <todo n_pattern="txt_tam_tam_tam">
+   1          <todo n_pattern="re_txt_tam_tam_tam">
+
+
