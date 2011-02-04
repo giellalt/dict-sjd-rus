@@ -185,4 +185,21 @@ sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort
    1          <todo n_pattern="txt_tam_tam_tam">
    1          <todo n_pattern="re_txt_tam_tam_tam">
 
+===================================
+
+refinements on 
+
+sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | grep -v X1 
+         <todo stamp="re_txtX2">
+         <todo stamp="re_txtX2_tam_tam">
+         <todo stamp="txtX2_tam_tam">
+         <todo stamp="txtX2_tam_tam">
+         <todo stamp="txtX2_tam_tam">
+         <todo stamp="txtX2_tam_tam">
+         <todo stamp="txtX2_tam">
+         <todo stamp="txtX2_tam">
+         <todo stamp="txtX2_tam">
+         <todo stamp="txtX2_tam">
+         <todo stamp="txtX2_tam_tam">
+
 
