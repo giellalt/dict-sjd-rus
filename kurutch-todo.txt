@@ -187,7 +187,7 @@ sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort
 
 ===================================
 
-refinements on 
+refinements on parsing mixed content stuff:
 
 sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | grep -v X1 
          <todo stamp="re_txtX2">
@@ -201,5 +201,9 @@ sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | grep -v X1
          <todo stamp="txtX2_tam">
          <todo stamp="txtX2_tam">
          <todo stamp="txtX2_tam_tam">
+
+This is important: please check whether the scope of tam and re is ok
+in these cases, Michael!
+
 
 
