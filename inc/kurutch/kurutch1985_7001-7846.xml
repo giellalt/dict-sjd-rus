@@ -10077,8 +10077,8 @@
 		<L>ЮРРК</L>
 		<STEM>юрк</STEM>
 		<CLASS>II</CLASS>
-		<T>кораль<GENDER>M</GENDER>(загон в тундре для браковки или пересчёта оленей) ; <LINK type="SR">каралль</LINK>
-		</T>
+		<COMPARE>каралль</COMPARE>
+		<T>кораль M_GENDER> ___LEXICONзагон в тундре для браковки или пересчёта оленейLEXICON___</T>
 	</E>
 	<E kur_ID="7752">
 		<L>юрртлэнне</L>
