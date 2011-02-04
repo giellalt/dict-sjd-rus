@@ -58,18 +58,13 @@
   <!-- These paths have to be adjusted accordingly -->
   <xsl:param name="file" select="'../inc/kurutch/kurutch1985_1-1000.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
-
-
   
   <xsl:template match="/" name="main">
-    
     <xsl:choose>
       <xsl:when test="doc-available($file)">
-
 	<xsl:variable name="file_out" as="element()">
 	  <r xml:lang="sjd">
 	    <xsl:for-each select="doc($file)/r/E">
-
 	      <xsl:if test="$debug">
 		<xsl:message terminate="no">
 		  <xsl:value-of select="concat('-----------------------------------------', $nl)"/>
@@ -77,7 +72,6 @@
 		  <xsl:value-of select="'-----------------------------------------'"/>
 		</xsl:message>
 	      </xsl:if>
-
 	      <e>
 		<xsl:copy-of select="./@*"/>
 		<xsl:if test="not(./@kur_ID)">
@@ -134,7 +128,7 @@
 					      			
 		      </xsl:if>
 		    </xsl:variable>
-
+		    
 		    <xsl:attribute name="pos">
 		      <xsl:value-of select="$current_pos"/>
 		    </xsl:attribute>
@@ -236,25 +230,25 @@
 		    
 		    <!-- T has more than one child: mixed content -->
 		    <xsl:if test="count(./node()) &gt; 1">
-		      <todo>
-			<xsl:variable name="pattern">
-			  <xsl:for-each select="./node()">
-			    <xsl:if test="self::text()">
-			      <xsl:value-of select="'txt'"/>
-			    </xsl:if>
-			    <xsl:if test="self::*">
-			      <xsl:value-of select="lower-case(local-name(.))"/>
-			    </xsl:if>
-			    <xsl:if test="not(position() = last())">
-			      <xsl:value-of select="'_'"/>
-			    </xsl:if>
-			  </xsl:for-each>
-			</xsl:variable>
+		      <xsl:variable name="pattern">
+			<xsl:for-each select="./node()">
+			  <xsl:if test="self::text()">
+			    <xsl:value-of select="concat('txtX', count(tokenize(normalize-space(self::text()), ';')))"/>
+			  </xsl:if>
+			  <xsl:if test="self::*">
+			    <xsl:value-of select="lower-case(local-name(.))"/>
+			  </xsl:if>
+			  <xsl:if test="not(position() = last())">
+			    <xsl:value-of select="'_'"/>
+			  </xsl:if>
+			</xsl:for-each>
+		      </xsl:variable>
 
-			<xsl:attribute name="n_pattern">
+		      <todo>
+			<xsl:attribute name="stamp">
 			  <xsl:value-of select="$pattern"/>
 			</xsl:attribute>
-
+			
 			<xsl:for-each select="./node()">
 			  <node>
 			    <xsl:if test="self::text()">
@@ -272,6 +266,13 @@
 			  </node>
 			</xsl:for-each>
 		      </todo>
+		      
+<!-- 		      <done> -->
+<!-- 			<xsl:attribute name="stamp"> -->
+<!-- 			  <xsl:value-of select="$pattern"/> -->
+<!-- 			</xsl:attribute> -->
+<!-- 		      </done> -->
+
 		    </xsl:if>
 		    
 		    <!-- at the moment, the location for xg is uncertain: to be solved later -->
