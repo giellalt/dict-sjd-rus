@@ -102,9 +102,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">аббръе</LINK>
-		</T>
+		<COMPARE>аббръе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>аббрэ</L>
@@ -489,9 +488,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">оаввтъе</LINK>
-		</T>
+		<COMPARE>оаввтъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оавтнэ</L>
@@ -515,18 +513,16 @@
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">оавтчедтэ</LINK>
-		</T>
+		<COMPARE>оавтчедтэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оавтче</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">оавтнэ</LINK>
-		</T>
+		<COMPARE>оавтнэ</COMPARE>
+		<T>xxx</T>
 		<X>пе̄ййв оавтач е̄ммьне</X>
 		<XT>солнце согревает землю</XT>
 		<X>комнататҍ бэдт оавтче тоаййв</X>
@@ -772,9 +768,8 @@
 	</E>
 	<E>
 		<L>агкъя</L>
-		<T>
-			<LINK type="TOZHE_SHTO">агкьесь</LINK>
-		</T>
+		<COMPARE>агкьесь</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>агкьесь</L>
@@ -979,9 +974,8 @@
 	</E>
 	<E>
 		<L>адтҍя</L>
-		<T>
-			<LINK type="TOZHE_SHTO">адтҍенч</LINK>
-		</T>
+		<COMPARE>адтҍенч</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="66">
 		<L>адтҍенч</L>
@@ -1309,9 +1303,8 @@
 	</E>
 	<E>
 		<L>а̄йклэнне</L>
-		<T>
-			<LINK type="TOZHE_SHTO">а̄йкалт</LINK>
-		</T>
+		<COMPARE>а̄йкалт</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>а̄йкмушша</L>
@@ -1381,9 +1374,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">оайнче</LINK>
-		</T>
+		<COMPARE>оайнче</COMPARE>
+		<T>xxx</T>
 		<X>мунн оайнъна, мӣ лӣ пуэдтҍмэнҍ</X>
 		<XT>случается, я предчувствую, что должно произойти</XT>
 	</E>
@@ -1589,9 +1581,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">альхуввэ</LINK>
-		</T>
+		<COMPARE>альхуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>альхаһтӭ</L>
@@ -1798,18 +1789,16 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">а̄лльлуввэ</LINK>
-		</T>
+		<COMPARE>а̄лльлуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>а̄лльлуввэ</L>
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">а̄ллэ</LINK>
-		</T>
+		<COMPARE>а̄ллэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>а̄ллэ</L>
@@ -1853,9 +1842,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">оалнэ</LINK>
-		</T>
+		<COMPARE>оалнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="130">
 		<L>АЛЛЬК</L>
@@ -2423,9 +2411,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">амшуввлэ</LINK>
-		</T>
+		<COMPARE>амшуввлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="176">
 		<L>а̄мшувнэ</L>
@@ -2886,9 +2873,8 @@
 	</E>
 	<E>
 		<L>а̄ррькъенне</L>
-		<T>
-			<LINK type="TOZHE_SHTO">а̄рькэльт</LINK>
-		</T>
+		<COMPARE>а̄рькэльт</COMPARE>
+		<T>xxx</T>
 		<X>а̄ррькъенне цэвцче</X>
 		<XT>несмело возражать</XT>
 	</E>
@@ -3240,9 +3226,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">а̄ххьтлэ</LINK>
-		</T>
+		<COMPARE>а̄ххьтлэ</COMPARE>
+		<T>xxx</T>
 		<X>пастэх а̄хьтэсьт пӯдзэ</X>
 		<XT>пастух быстро освежевал оленя</XT>
 	</E>
@@ -3577,18 +3562,16 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">бе̄ййдэдсэ</LINK>
-		</T>
+		<COMPARE>бе̄ййдэдсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>бе̄ййдэдче</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">бе̄ййдэднэ</LINK>
-		</T>
+		<COMPARE>бе̄ййдэднэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="258">
 		<L>бе̄ййдэдче</L>
@@ -3700,9 +3683,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">бӣннтъе</LINK>
-		</T>
+		<COMPARE>бӣннтъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>бӣннтэ</L>
@@ -3727,9 +3709,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">бӣннтлэ</LINK>
-		</T>
+		<COMPARE>бӣннтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>бӣнтхэ</L>
@@ -3747,9 +3728,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">бинтнэ</LINK>
-		</T>
+		<COMPARE>бинтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="265">
 		<L>бӣннтлэ</L>
@@ -4207,9 +4187,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вадтлэ</LINK>
-		</T>
+		<COMPARE>вадтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вадтлэ</L>
@@ -4253,9 +4232,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вэднэ</LINK>
-		</T>
+		<COMPARE>вэднэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="310">
 		<L>важь</L>
@@ -4352,9 +4330,8 @@
 	</E>
 	<E>
 		<L>ва̄ййвшэнне</L>
-		<T>
-			<LINK type="TOZHE_SHTO">ва̄йвэльт</LINK>
-		</T>
+		<COMPARE>ва̄йвэльт</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="316">
 		<L>ва̄йвашвудт</L>
@@ -4623,9 +4600,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ва̄йймлассьтэ</LINK>
-		</T>
+		<COMPARE>ва̄йймлассьтэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ва̄йймлэнне</L>
@@ -4635,9 +4611,8 @@
 	</E>
 	<E>
 		<L>ва̄йймэльт</L>
-		<T>
-			<LINK type="TOZHE_SHTO">ва̄йймлэнне</LINK>
-		</T>
+		<COMPARE>ва̄йймлэнне</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ва̄ймэль</L>
@@ -4694,9 +4669,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ва̄ллтьюввэ</LINK>
-		</T>
+		<COMPARE>ва̄ллтьюввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ва̄ллтлувнэ</L>
@@ -4848,9 +4822,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ва̄лльтлэ</LINK>
-		</T>
+		<COMPARE>ва̄лльтлэ</COMPARE>
+		<T>xxx</T>
 		<X>мунн ва̄льтса кнӣга кудтҍ пя̄ййва</X>
 		<XT>я возьму книгу на два дня</XT>
 	</E>
@@ -4881,9 +4854,8 @@
 		<STEM/>
 		<CLASS>II,1*</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">воаллтлэ</LINK>
-		</T>
+		<COMPARE>воаллтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>воаллтъюввэ</L>
@@ -4944,9 +4916,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">воалтнэ</LINK>
-		</T>
+		<COMPARE>воалтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="351">
 		<L>ВАЛЛЭ</L>
@@ -4995,18 +4966,16 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">валлълуввэ</LINK>
-		</T>
+		<COMPARE>валлълуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вэ̄лнэ</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вэ̄лче</LINK>
-		</T>
+		<COMPARE>вэ̄лче</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вэ̄лче</L>
@@ -5038,9 +5007,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ва̄лсэ-2</LINK>
-		</T>
+		<COMPARE>ва̄лсэ-2</COMPARE>
+		<T>xxx</T>
 		<X>ва̄ллълэль мыннӭ ча̄й</X>
 		<XT>налей-ка мне чаю</XT>
 	</E>
@@ -5073,9 +5041,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">воаллъе</LINK>
-		</T>
+		<COMPARE>воаллъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>воалнэ</L>
@@ -5141,9 +5108,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">воалнэ</LINK>
-		</T>
+		<COMPARE>воалнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="353">
 		<L>ва̄лсэ</L>
@@ -5215,9 +5181,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ваӆӆтлэ</LINK>
-		</T>
+		<COMPARE>ваӆӆтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вэӆӆтъе</L>
@@ -5861,9 +5826,8 @@
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вэстчедтэ</LINK>
-		</T>
+		<COMPARE>вэстчедтэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вэстче</L>
@@ -5915,9 +5879,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ва̄сслэ</LINK>
-		</T>
+		<COMPARE>ва̄сслэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ва̄сслэ</L>
@@ -6204,9 +6167,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вя̄ййкнэ</LINK>
-		</T>
+		<COMPARE>вя̄ййкнэ</COMPARE>
+		<T>xxx</T>
 		<X>мунн ва̄ресьт вя̄йкхувве</X>
 		<XT>меня в лесу застигли сумерки</XT>
 	</E>
@@ -6460,9 +6422,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ве̄рче</LINK>
-		</T>
+		<COMPARE>ве̄рче</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ве̄ррлэ</L>
@@ -6486,18 +6447,16 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ве̄рръе</LINK>
-		</T>
+		<COMPARE>ве̄рръе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ве̄рсэ</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">ве̄ррлэ</LINK>
-		</T>
+		<COMPARE>ве̄ррлэ</COMPARE>
+		<T>xxx</T>
 		<X>со̄нн ве̄раст лӯвьт я пуадт</X>
 		<XT>он быстро обтешет доску и придёт</XT>
 	</E>
@@ -6843,9 +6802,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӣгклуввэ</LINK>
-		</T>
+		<COMPARE>вӣгклуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӣгктувнэ</L>
@@ -6880,9 +6838,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӣгклуввэ</LINK>
-		</T>
+		<COMPARE>вӣгклуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӣгкъенне</L>
@@ -6900,9 +6857,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӣгклуввэ</LINK>
-		</T>
+		<COMPARE>вӣгклуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӣгкьенч</L>
@@ -7638,9 +7594,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӣрнэ</LINK>
-		</T>
+		<COMPARE>вӣрнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="508">
 		<L>вӣрряй</L>
@@ -7997,9 +7952,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">воаһкъе</LINK>
-		</T>
+		<COMPARE>воаһкъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>воакнэ</L>
@@ -8015,9 +7969,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">воаһклэ</LINK>
-		</T>
+		<COMPARE>воаһклэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="535">
 		<L>ВОАҺЦ</L>
@@ -8763,9 +8716,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">во̄днэ</LINK>
-		</T>
+		<COMPARE>во̄днэ</COMPARE>
+		<T>xxx</T>
 		<X>со̄нн мудта вуэр во̄дэч машина</X>
 		<XT>он иногда водил машину</XT>
 	</E>
@@ -9499,9 +9451,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯннчье</LINK>
-		</T>
+		<COMPARE>вӯннчье</LINK>
+		<T>xxx</T>
 		<X>билет киная вӯннчьюввенҍ</X>
 		<XT>билеты в кино куплены</XT>
 		<X>кнӣга вӯннчьюввенҍ ылльтэсьт</X>
@@ -9741,9 +9692,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вегклувнэ</LINK>
-		</T>
+		<COMPARE>вегклувнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="679">
 		<L>вӯгклуввэ</L>
@@ -9907,18 +9857,16 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯһпьтэ</LINK>
-		</T>
+		<COMPARE>вӯһпьтэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӯһпьей</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯһпьтэй</LINK>
-		</T>
+		<COMPARE>вӯһпьтэй</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӯһпьтэ</L>
@@ -10187,9 +10135,8 @@
 	</E>
 	<E>
 		<L>вӯййксэнне</L>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯййкэсьт</LINK>
-		</T>
+		<COMPARE>вӯййкэсьт</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӯййктужнэ</L>
@@ -10214,27 +10161,24 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯййкъе</LINK>
-		</T>
+		<COMPARE>вӯййкъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӯййктэднэ</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯййктужнэ</LINK>
-		</T>
+		<COMPARE>вӯййктужнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӯййктэдтэ</L>
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯййктушшэ</LINK>
-		</T>
+		<COMPARE>вӯййктушшэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӯййкъе</L>
@@ -10455,9 +10399,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">веййнлэ</LINK>
-		</T>
+		<COMPARE>веййнлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="724">
 		<L>вӯйнсассьтэ</L>
@@ -11119,9 +11062,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯррьтлассьтэ</LINK>
-		</T>
+		<COMPARE>вӯррьтлассьтэ</COMPARE>
+		<T>xxx</T>
 		<X>вӯррьтлэгке мун сама садга</X>
 		<XT>подождите меня немного</XT>
 		<X>вӯррьтэль ёадтӭ</X>
@@ -11550,9 +11492,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вуэдҍсэ</LINK>
-		</T>
+		<COMPARE>вуэдҍсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вуэдҍсаһтӭ</L>
@@ -11847,9 +11788,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯјтнэ</LINK>
-		</T>
+		<COMPARE>вӯјтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вуэјјтлуввэ</L>
@@ -12125,9 +12065,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вӯӆкче</LINK>
-		</T>
+		<COMPARE>вӯӆкче</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вӯӆкче</L>
@@ -12354,9 +12293,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вуэӊӊлэ</LINK>
-		</T>
+		<COMPARE>вуэӊӊлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="838">
 		<L>вуэӈсэ</L>
@@ -12708,9 +12646,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">во̄сстлэ</LINK>
-		</T>
+		<COMPARE>во̄сстлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вуэссьтлэ</L>
@@ -12875,9 +12812,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">выгкъюввэ</LINK>
-		</T>
+		<COMPARE>выгкъюввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>выгкъюввэ</L>
@@ -12915,9 +12851,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">выгклэ</LINK>
-		</T>
+		<COMPARE>выгклэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="876">
 		<L>выгнэ</L>
@@ -13016,9 +12951,8 @@
 	<E>
 		<L>вызнай</L>
 		<POS>PRED</POS>
-		<T>
-			<LINK type="TOZHE_SHTO">выдзяй</LINK>
-		</T>
+		<COMPARE>выдзяй</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вызнэ</L>
@@ -13432,9 +13366,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">выййтлэ</LINK>
-		</T>
+		<COMPARE>выййтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>выйтхэ</L>
@@ -13688,9 +13621,8 @@
 	</E>
 	<E>
 		<L>выннлэнне</L>
-		<T tnumber="1">
-			<LINK type="TOZHE_SHTO">вынна</LINK>
-		</T>
+		<COMPARE>вынна</COMPARE>
+		<T tnumber="1">косо, криво ; наклонно</T>
 		<T tnumber="2">навстречу друг другу (наискосок)</T>
 		<X>выннлэнне мэ̄нэмь, ка̄нҍц ка̄ннцан ебпь то̄ммтма</X>
 		<XT>[мы] навстречу друг другу шли, а друг друга не узнали</XT>
@@ -13869,9 +13801,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">выппшъюввэ</LINK>
-		</T>
+		<COMPARE>выппшъюввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>выппшъюввэ</L>
@@ -14295,9 +14226,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вышэвайсэ</LINK>
-		</T>
+		<COMPARE>вышэвайсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вышэвайсэ</L>
@@ -14655,9 +14585,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="TOZHE_SHTO">вэ̄нънэ</LINK>
-		</T>
+		<COMPARE>вэ̄нънэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вэ̄нънэ</L>
