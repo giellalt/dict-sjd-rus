@@ -3717,9 +3717,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">бӣннтэ</LINK>
-		</T>
+		<DER type="PONUD_K">бӣннтэ</DER>
+		<T>xxx</T>
 		<X>бэдт кэ̄бласьт кӣд бӣнтхэ</X>
 		<XT>надо забинтовать больному руку</XT>
 	</E>
@@ -4832,9 +4831,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">ва̄лльтэ</LINK>
-		</T>
+		<DER type="PONUD_K">ва̄лльтэ</DER>
+		<T>xxx</T>
 		<X>бэдт соннӭ ва̄льтхэ мун кнӣга</X>
 		<XT>пусть он возьмёт мою книгу</XT>
 	</E>
@@ -4898,9 +4896,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">воаллтэдтэ</LINK>
-		</T>
+		<DER type="PONUD_K">воаллтэдтэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>воалтнэ</L>
@@ -4953,9 +4950,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">валлэ</LINK>
-		</T>
+		<DER type="PONUD_K">валлэ</DER>
+		<T>xxx</T>
 		<X>бэдт соннӭ тӯльетҍ валхэ</X>
 		<XT>надо, чтобы она выделала шкуры (крюком)</XT>
 		<X>мунн соннӭ валха тӯльетҍ</X>
@@ -5800,9 +5796,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">васстэ</LINK>
-		</T>
+		<DER type="PONUD_K">васстэ</DER>
+		<T>xxx</T>
 		<X>со̄н ибе вастхэ</X>
 		<XT>его не надо бить</XT>
 		<X>тӯльетҍ бэдт вастхэ</X>
@@ -8975,9 +8970,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">вуагкэ</LINK>
-		</T>
+		<DER type="PONUD_K">вуагкэ</DER>
+		<T>xxx</T>
 		<X>бэдт соннӭ пӯдзэтҍ вуагхэ</X>
 		<XT>пусть заставит оленей бежать рысью</XT>
 	</E>
@@ -9116,9 +9110,8 @@
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">вуайе</LINK>
-		</T>
+		<DER type="PONUD_K">вуайе</DER>
+		<T>xxx</T>
 		<X>вуайхадтҍ соннӭ пујц</X>
 		<XT>заставь его замочить бочку</XT>
 	</E>
@@ -9127,9 +9120,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">вуайе</LINK>
-		</T>
+		<DER type="PONUD_K">вуайе</DER>
+		<T>xxx</T>
 		<X>бэдт соннӭ вуайхэ пујцэтҍ</X>
 		<XT>пусть он бочки погрузит в воду (напр. в период подготовки тары для засолки рыбы)</XT>
 	</E>
@@ -9244,9 +9236,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">вуаййпэ</LINK>
-		</T>
+		<DER type="PONUD_K">вуаййпэ</DER>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="636">
 		<L>вуайнэ</L>
@@ -11540,9 +11531,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="PONUD_K">вуэдтӭ</LINK>
-		</T>
+		<DER type="PONUD_K">вуэдтӭ</DER>
+		<T>xxx</T>
 		<X>то̄нн сӣнэтҍ вуэдӭһтҍ</X>
 		<XT>дай им возможность поспать</XT>
 	</E>
@@ -13440,9 +13430,8 @@
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T tnumber="1">
-			<LINK type="PONUD_K">выйхэ</LINK>
-		</T>
+		<DER type="PONUD_K">выйхэ</DER>
+		<T tnumber="1">xxx</T>
 		<X>выййладтҍ пӯдзэтҍ</X>
 		<XT>подгони оленей</XT>
 		<T tnumber="2">отогнать кого</T>
