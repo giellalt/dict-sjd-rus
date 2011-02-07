@@ -125,6 +125,11 @@
 					      or ends-with($current_l, 'эдтэ')
 					      or ends-with($current_l, 'eдтэ')
 					      or ends-with($current_l, 'ювне')) then 'v' else 'xxx'"/>
+<!-- further PoS tagging possible thru elements
+<DER type="STRAD_K">
+<DER type="PONUD_K">
+which occur only with verbs
+-->
 					      			
 		      </xsl:if>
 		    </xsl:variable>
