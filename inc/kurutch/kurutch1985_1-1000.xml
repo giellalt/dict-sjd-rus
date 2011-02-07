@@ -610,9 +610,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">а̄ввьлье</LINK>
-		</T>
+		<DER type="STRAD_K">а̄ввьлье</DER>
+		<T>xxx</T>
 		<X>кӣммьн а̄ввьльювэ</X>
 		<XT>котёл подвешен (над огнём)</XT>
 	</E>
@@ -2561,9 +2560,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">аннҍтэ</LINK>
-		</T>
+		<DER type="STRAD_K">аннҍтэ</DER>
+		<T>xxx</T>
 		<X>пугк кнӣга э̄ннтъюввенҍ</X>
 		<XT>все книги розданы</XT>
 	</E>
@@ -3672,9 +3670,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">бӣннтэ</LINK>
-		</T>
+		<DER type="STRAD_K">бӣннтэ</DER>
+		<T>xxx</T>
 		<X>ра̄ӊӊҍ бӣннтэй</X>
 		<XT>рана забинтована</XT>
 	</E>
@@ -4222,9 +4219,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">вадтэ</LINK>
-		</T>
+		<DER type="STRAD_K">вадтэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>вэдче</L>
@@ -4408,9 +4404,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">вэ̄йе</LINK>
-		</T>
+		<DER type="STRAD_K">вэ̄йе</DER>
+		<T>xxx</T>
 		<X>тӯлльй лӣ вэ̄йюввма липтанҍ</X>
 		<XT>шкура раскроена на липты ___LOOKUPлиптаLOOKUP___ 
 		</XT>
@@ -4860,9 +4855,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">ва̄лльтэ</LINK>
-		</T>
+		<DER type="STRAD_K">ва̄лльтэ</DER>
+		<T>xxx</T>
 		<X>мунн воаллтъюввэ чӣгкрэ пастэх ве̄һкенҍ</X>
 		<XT>меня взяли в стадо помощником пастуха</XT>
 		<X>кнӣга воаллтьювэ библиотекасьт</X>
@@ -5185,9 +5179,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">ваӆӆтэ</LINK>
-		</T>
+		<DER type="STRAD_K">ваӆӆтэ</DER>
+		<T>xxx</T>
 		<X>пугк пе̄ррк пе̄ннэсьт вэӆӆтэй</X>
 		<XT>вся еда у собаки съедена</XT>
 	</E>
@@ -5333,9 +5326,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">ва̄ннҍцэ</LINK>
-		</T>
+		<DER type="STRAD_K">ва̄ннҍцэ</DER>
+		<T>xxx</T>
 		<X>тэдт па̄јјк воаннцъя лӣ мунэнҍ</X>
 		<XT>эта местность мною исхожена</XT>
 	</E>
@@ -5759,9 +5751,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">васстэ</LINK>
-		</T>
+		<DER type="STRAD_K">васстэ</DER>
+		<T>xxx</T>
 		<X>со̄нн васстлувэ</X>
 		<XT>его ударили</XT>
 	</E>
@@ -5808,9 +5799,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">васстэ</LINK>
-		</T>
+		<DER type="STRAD_K">васстэ</DER>
+		<T>xxx</T>
 		<X>со̄нн вэ̄сстэй</X>
 		<XT>его избили</XT>
 		<X>роавв вэ̄сстэй</X>
@@ -7653,9 +7643,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">вӣршэ</LINK>
-		</T>
+		<DER type="STRAD_K">вӣршэ</DER>
+		<T>xxx</T>
 		<X>уһт вӣршувэ</X>
 		<XT>кашу размешали</XT>
 	</E>
@@ -7716,9 +7705,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">вӣссьтэ</LINK>
-		</T>
+		<DER type="STRAD_K">вӣссьтэ</DER>
+		<T>xxx</T>
 		<X>ве̄шш ле̄в вӣссьтуввма, ве̄шш вӣссьтуввенҍ</X>
 		<XT>товары взвешены</XT>
 		<X>мыннӭ бэдт вӣссьтуввэ</X>
@@ -7938,9 +7926,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">воаһкэ</LINK>
-		</T>
+		<DER type="STRAD_K">воаһкэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L> воаһкъюввэ</L>
@@ -8354,9 +8341,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">воалшэ</LINK>
-		</T>
+		<DER type="STRAD_K">воалшэ</DER>
+		<T>xxx</T>
 		<X>вӣллькесь кӯммпар воалшуввенҍ</X>
 		<XT>белые грибы отобраны</XT>
 		<X>луэн воалшуввенҍ мӯрьенҍ</X>
@@ -8700,9 +8686,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">во̄дтэ</LINK>
-		</T>
+		<DER type="STRAD_K">во̄дтэ</DER>
+		<T>xxx</T>
 		<X>мунн во̄дтъювве лыһцъе</X>
 		<XT>меня сводили к врачу</XT>
 	</E>
@@ -8810,9 +8795,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">во̄ссэ</LINK>
-		</T>
+		<DER type="STRAD_K">во̄ссэ</DER>
+		<T>xxx</T>
 		<X>мӯрэтҍ во̄зхэ</X>
 		<XT>надо, чтобы дрова вывезли</XT>
 	</E>
@@ -8832,9 +8816,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">во̄ссэ</LINK>
-		</T>
+		<DER type="STRAD_K">во̄ссэ</DER>
+		<T>xxx</T>
 		<X>мӯр во̄ссъюввенҍ ва̄ресьт</X>
 		<XT>дрова вывезены из леса</XT>
 	</E>
@@ -9431,9 +9414,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">вуаннче</LINK>
-		</T>
+		<DER type="STRAD_K">вуаннче</DER>
+		<T>xxx</T>
 		<X>лӯдт вӯннчей ке̄һпнэзэсьт</X>
 		<XT>пулю извлекли из лёгкого</XT>
 	</E>
@@ -10684,9 +10666,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">вӯллькэ-1</LINK>
-		</T>
+		<DER type="STRAD_K">вӯллькэ-1</DER>
+		<T>xxx</T>
 		<X>кыррьй вӯлкхувэ</X>
 		<XT>письмо отослано</XT>
 		<X>мунн вӯлкхувве лыһцэй гоаррэ</X>
@@ -10778,9 +10759,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">вӯллэ</LINK>
-		</T>
+		<DER type="STRAD_K">вӯллэ</DER>
+		<T>xxx</T>
 		<X>оаккшэ нэ̄дт шӣгктэнне вӯллъювэ</X>
 		<XT>топорище хорошо обстругано</XT>
 	</E>
@@ -12625,9 +12605,8 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">вуэссьтэ</LINK>
-		</T>
+		<DER type="STRAD_K">вуэссьтэ</DER>
+		<T>xxx</T>
 		<X>пугк е̄весь лӣ вӯсстъя</X>
 		<XT>все продукты закуплены</XT>
 	</E>
@@ -12810,9 +12789,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">выгкэ</LINK>
-		</T>
+		<DER type="STRAD_K">выгкэ</DER>
+		<T>xxx</T>
 		<X>пугк кырьй выгкъюввенҍ адрезэ мӣлльтэ</X>
 		<XT>все письма доставлены по адресам</XT>
 	</E>
@@ -13250,9 +13228,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">выйе</LINK>
-		</T>
+		<DER type="STRAD_K">выйе</DER>
+		<T>xxx</T>
 		<X>ча̄рр пугк пырр лӣ выйюввма, ча̄рр пугк пырр выйювэ</X>
 		<XT>тундра вся изъезжена</XT>
 	</E>
@@ -13443,9 +13420,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">выйхэ</LINK>
-		</T>
+		<DER type="STRAD_K">выйхэ</DER>
+		<T>xxx</T>
 		<X>пе̄ннэ выйхувэ</X>
 		<XT>собаку прогнали</XT>
 		<X>со̄нн выйхувэ институтэсьт</X>
@@ -14106,9 +14082,8 @@
 		<STEM/>
 		<CLASS>I</CLASS>
 		<POS/>
-		<T>
-			<LINK type="STRAD_K">выххчтэ</LINK>
-		</T>
+		<DER type="STRAD_K">выххчтэ</DER>
+		<T>xxx</T>
 		<X>паллтас выххчтуввенҍ ме̄һцьлагуэйм</X>
 		<XT>волков преследовали охотники</XT>
 	</E>
