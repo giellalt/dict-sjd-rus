@@ -180,7 +180,7 @@ which occur only with verbs
 			</semantics>
 			<t>
 			  <!-- this should be checked -->
-			  <xsl:value-of select="'xxx'"/>
+			  <xsl:value-of select="'xxx___xxx'"/>
 			</t>
 		      </tg>
 		    </xsl:if>
@@ -189,19 +189,66 @@ which occur only with verbs
 		    <xsl:if test="count(./node()) = 1">
 		      <!-- child of type text: normal case -->
 		      <xsl:if test="child::text()">
-			<xsl:for-each select="tokenize(normalize-space(child::text()), ';')">
+			<!-- but has no real translation, just a pointer to some other entry in the dict -->
+			<xsl:if test="child::text() = 'xxx'">
 			  <tg>
 			    <semantics>
 			      <!-- some default as wished -->
 			      <sem class="xxx"/>
 			    </semantics>
-			    <xsl:for-each select="tokenize(., ',')">
-			      <t>
-				<xsl:value-of select="normalize-space(.)"/>
-			      </t>
-			    </xsl:for-each>
+			    <!-- gogo -->
+			    <t>
+
+			      <xsl:if test="not($debug)">
+				<xsl:message terminate="no">
+				  <xsl:value-of select="concat('T_xxx_T: ', $current_l, $nl)"/>
+				  <xsl:value-of select="'%%%%%%%%%%%%%%%%'"/>
+				</xsl:message>
+			      </xsl:if>
+				
+			      <xsl:attribute name="bare_pointers">
+				<xsl:value-of select="count(preceding-sibling::COMPARE) + count(preceding-sibling::DER)"/>
+			      </xsl:attribute>
+			      
+			      <xsl:if test="preceding-sibling::COMPARE">
+				<xsl:attribute name="link_type">
+				  <xsl:value-of select="'COMPARE'"/>
+				</xsl:attribute>
+				<xsl:value-of select="normalize-space(preceding-sibling::COMPARE)"/>
+			      </xsl:if>
+			      <xsl:if test="preceding-sibling::DER">
+				<xsl:attribute name="link_type">
+				  <xsl:value-of select="'DERIVAT'"/>
+				</xsl:attribute>
+				<xsl:attribute name="link_sub_type">
+				  <xsl:value-of select="preceding-sibling::DER/@type"/>
+				</xsl:attribute>
+				<xsl:value-of select="normalize-space(preceding-sibling::DER)"/>
+			      </xsl:if>
+			      <xsl:if test="not(preceding-sibling::COMPARE) and not(preceding-sibling::DER)">
+				<xsl:attribute name="link_type">
+				  <xsl:value-of select="'xxx_empty-link_xxx'"/>
+				</xsl:attribute>
+				<xsl:value-of select="'xxx_empty-t_xxx'"/>
+			      </xsl:if>
+			    </t>
 			  </tg>
-			</xsl:for-each>
+			</xsl:if>
+			<xsl:if test="not(child::text() = 'xxx')">
+			  <xsl:for-each select="tokenize(normalize-space(child::text()), ';')">
+			    <tg>
+			      <semantics>
+				<!-- some default as wished -->
+				<sem class="xxx"/>
+			      </semantics>
+			      <xsl:for-each select="tokenize(., ',')">
+				<t>
+				  <xsl:value-of select="normalize-space(.)"/>
+				</t>
+			      </xsl:for-each>
+			    </tg>
+			  </xsl:for-each>
+			</xsl:if>
 		      </xsl:if>
 		      
 		      <!-- child of type element -->
@@ -337,14 +384,16 @@ which occur only with verbs
 	
       </xsl:for-each>
 
-      <global_pattern>
-	<xsl:for-each select="$theXStar/child::*|$theXStar/child::text()">
-	  <g_node position="{position()}">
-	    <xsl:copy-of select="."/>
-	  </g_node>
-	</xsl:for-each>
-      </global_pattern>
-      
+      <xsl:if test="not($debug)">
+	<global_pattern>
+	  <xsl:for-each select="$theXStar/child::*|$theXStar/child::text()">
+	    <g_node position="{position()}">
+	      <xsl:copy-of select="."/>
+	    </g_node>
+	  </xsl:for-each>
+	</global_pattern>
+      </xsl:if>
+	
     </xg_all>
     
     <!-- 			  <xsl:for-each select="../X*"> -->
