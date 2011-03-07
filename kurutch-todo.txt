@@ -190,6 +190,8 @@ What should I compare to вынна: the first mg (косо, криво ; нак
 the first tg from the first mg (косо, криво), the first t of the first tg of
 the first mg (косо), and so on?
 
+The same hold also for <DER>-elements.
+
 --------------------------------------
    2          <todo n_pattern="sem_txt"> (??? --> take a look!)
 --> this belongs to the element <SEM> = semantics, e.g. MEDicine, RELigion; scopus should be the meaning group; you have created this element "semantics" already with xxx, for a few entries (like these) a value is given in the dict 
