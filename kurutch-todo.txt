@@ -151,7 +151,45 @@ sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort
 <DER type="STRAD_K">балъе</DER>
 and reads as follows:
 DER of the type "strad_k" of the verb "балъе"
--->2)for the other "link" I've also created a new element in <lg>: <COMPARE>; it points to another lemma with the same meaning, e.g. <COMPARE>камаша</COMPARE>
+-->2)for the other "link" I've also created a new element in <lg>:
+<COMPARE>; it points to another lemma with the same meaning,
+e.g. <COMPARE>камаша</COMPARE>
+
+@cip: if the t-element has the value "xxx" this solusion is file but
+if not then there is a scope problem: is this information in addition
+to whatever is the t-element translation or not?  If not does that
+mean to create a new meaning group with a new tg and a new t
+especially for this pointer? If yes how to display it (possible
+problem: there might be several translation groups divided by
+semicolon -- at the momet, I am working just with the first file)
+
+	<E kur_ID="276">
+		<L>БОТИНКА</L>
+		<STEM>о.ч.</STEM>
+		<CLASS>IV</CLASS>
+		<POS/>
+		<COMPARE>камаша</COMPARE>
+		<T>ботинки PL_NUMBER (ед. ботинок M_GENDER)</T>
+		<X>вуэссьтэ о̄дт ботинкатҍ </X>
+		<XT>купить новые ботинки</XT>
+
+
+Best example of underspecification wrt. this pointer:
+
+	<E>
+		<L>выннлэнне</L>
+		<COMPARE>вынна</COMPARE>
+		<T tnumber="1">косо, криво ; наклонно</T>
+		<T tnumber="2">навстречу друг другу (наискосок)</T>
+		<X>выннлэнне мэ̄нэмь, ка̄нҍц ка̄ннцан ебпь то̄ммтма</X>
+		<XT>[мы] навстречу друг другу шли, а друг друга не узнали</XT>
+	</E>
+	<E kur_ID="925">
+
+What should I compare to вынна: the first mg (косо, криво ; наклонно),
+the first tg from the first mg (косо, криво), the first t of the first tg of
+the first mg (косо), and so on?
+
 --------------------------------------
    2          <todo n_pattern="sem_txt"> (??? --> take a look!)
 --> this belongs to the element <SEM> = semantics, e.g. MEDicine, RELigion; scopus should be the meaning group; you have created this element "semantics" already with xxx, for a few entries (like these) a value is given in the dict 
