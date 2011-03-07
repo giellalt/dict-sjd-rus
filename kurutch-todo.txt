@@ -155,7 +155,7 @@ DER of the type "strad_k" of the verb "балъе"
 <COMPARE>; it points to another lemma with the same meaning,
 e.g. <COMPARE>камаша</COMPARE>
 
-@cip: if the t-element has the value "xxx" this solusion is file but
+@cip: if the t-element has the value "xxx" this solution is fine but
 if not then there is a scope problem: is this information in addition
 to whatever is the t-element translation or not?  If not does that
 mean to create a new meaning group with a new tg and a new t
