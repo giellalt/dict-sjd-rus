@@ -170,14 +170,18 @@ which occur only with verbs
 			<xsl:value-of select="concat('g', ./@tnumber)"/>
 		      </xsl:attribute>
 		    </xsl:if>
+
+		    <!-- as agreed with Michael, semantic types have as scope the whole mg -->
+		    <!-- which is more understandable: meaning = semantics -->
+		    <semantics>
+		      <stype>
+			<xsl:value-of select="if (child::*/local-name() = 'SEM') then lower-case(child::SEM) else 'xxx'"/>
+		      </stype>
+		    </semantics>
 		    
 		    <!-- T is empty -->
 		    <xsl:if test="count(./node()) = 0">
 		      <tg>
-			<semantics>
-			  <!-- some default as wished -->
-			  <sem class="xxx"/>
-			</semantics>
 			<t>
 			  <!-- this should be checked -->
 			  <xsl:value-of select="'xxx___xxx'"/>
@@ -192,10 +196,6 @@ which occur only with verbs
 			<!-- but has no real translation, just a pointer to some other entry in the dict -->
 			<xsl:if test="child::text() = 'xxx'">
 			  <tg>
-			    <semantics>
-			      <!-- some default as wished -->
-			      <sem class="xxx"/>
-			    </semantics>
 			    <!-- gogo -->
 			    <t>
 
@@ -256,10 +256,6 @@ which occur only with verbs
 			  </xsl:if>
 			  <xsl:for-each select="tokenize(normalize-space(child::text()), ';')">
 			    <tg>
-			      <semantics>
-				<!-- some default as wished -->
-				<sem class="xxx"/>
-			      </semantics>
 			      <xsl:for-each select="tokenize(., ',')">
 				<t>
 				  <xsl:value-of select="normalize-space(.)"/>
@@ -273,10 +269,6 @@ which occur only with verbs
 		      <!-- child of type element -->
 		      <xsl:if test="child::*">
 			<tg>
-			  <semantics>
-			    <!-- some default as wished -->
-			    <sem class="xxx"/>
-			  </semantics>
 			  <xsl:if test="child::*/local-name() = 'LINK'">
 			    <t>
 			      <xsl:attribute name="link_type">
