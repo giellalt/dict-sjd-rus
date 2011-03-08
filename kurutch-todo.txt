@@ -28,9 +28,10 @@ automatically:
 		 
 		 (z. 136: after dash/bracket/etc. = re)
 
-TAM-element = grammar info (aspect, etc.); scopus is tg-element!!!
+TAM-element = grammar info (aspect, etc.); scopus is mg-element
+(according to our discussion from 08.03.2011)!!!
 
-(z. 324: scopus tg-element) 
+(z. 324: scopus mg-element, according to our discussion from 08.03.2011) 
 <RE>PRJAM,PEREN</RE>
 
 			<t pos="xxx" xml:lang="xxx">xxx</t>
@@ -192,6 +193,8 @@ the first mg (косо), and so on?
 
 The same hold also for <DER>-elements.
 
+@cip: as agreed on 08.03.2011, this will be underspecified outside the mg groups 
+
 --------------------------------------
    2          <todo n_pattern="sem_txt"> (??? --> take a look!)
 --> this belongs to the element <SEM> = semantics, e.g. MEDicine, RELigion; scopus should be the meaning group; you have created this element "semantics" already with xxx, for a few entries (like these) a value is given in the dict 
@@ -244,6 +247,3 @@ sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | grep -v X1
 
 This is important: please check whether the scope of tam and re is ok
 in these cases, Michael!
-
-
-
