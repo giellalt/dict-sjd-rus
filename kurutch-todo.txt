@@ -261,3 +261,6 @@ the idioms. Please check!
 		<X>воаррдэ клӯбпе, библиотекая</X>
 		<XT>бывать в клубе, в библиотеке</XT>
 	</E>
+
+TODO: check mixed T-elements with text and LINK children.
+
