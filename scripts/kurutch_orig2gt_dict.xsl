@@ -439,7 +439,7 @@ which occur only with verbs
     <!-- based on the number of semicolons, only one tg -->
     <xsl:if test="$tgg = 1">
       <tg>
-	<xsl:for-each select="./*">
+	<xsl:for-each select="./*[not(local-name() = 'SEM')]">
 	  <xsl:element name="{lower-case(local-name(.))}">
 	    <xsl:copy-of select="normalize-space(lower-case(.))"/>
 	  </xsl:element>
