@@ -150,6 +150,18 @@ which occur only with verbs
 		    </class>
 		  </xsl:if>
 		</lg>
+		
+		<xsl:if test="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
+		  <pointers>
+		    <xsl:for-each select="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
+		      <xsl:element name="{lower-case(local-name(.))}">
+			<xsl:copy-of select="./@*"/>
+			<xsl:copy-of select="normalize-space(lower-case(.))"/>
+		      </xsl:element>
+		    </xsl:for-each>
+		  </pointers>
+		</xsl:if>
+		
 		<xsl:for-each select="./T">
 		  <mg>
 		    <!-- marking Kurutch meaning groups
@@ -171,13 +183,20 @@ which occur only with verbs
 		      </xsl:attribute>
 		    </xsl:if>
 
-		    <!-- as agreed with Michael, semantic types have as scope the whole mg -->
+		    <!-- as agreed with Michael, semantic types, re and tam have as scope the whole mg -->
 		    <!-- which is more understandable: meaning = semantics -->
 		    <semantics>
 		      <stype>
 			<xsl:value-of select="if (child::*/local-name() = 'SEM') then lower-case(child::SEM) else 'xxx'"/>
 		      </stype>
 		    </semantics>
+		    
+		    <xsl:for-each select="./*[not(local-name() = 'SEM')][not(local-name() = 'LINK')]">
+		      <xsl:element name="{lower-case(local-name(.))}">
+			<xsl:copy-of select="./@*"/>
+			<xsl:copy-of select="normalize-space(lower-case(.))"/>
+		      </xsl:element>
+		    </xsl:for-each>
 		    
 		    <!-- T is empty -->
 		    <xsl:if test="count(./node()) = 0">
@@ -189,110 +208,30 @@ which occur only with verbs
 		      </tg>
 		    </xsl:if>
 		    
-		    <!-- T has only one child -->
-		    <xsl:if test="count(./node()) = 1">
-		      <!-- child of type text: normal case -->
-		      <xsl:if test="child::text()">
-			<!-- but has no real translation, just a pointer to some other entry in the dict -->
-			<xsl:if test="child::text() = 'xxx'">
-			  <tg>
-			    <!-- gogo -->
-			    <t>
-
-			      <xsl:if test="not($debug)">
-				<xsl:message terminate="no">
-				  <xsl:value-of select="concat('T_xxx_T: ', $current_l, $nl)"/>
-				  <xsl:value-of select="'%%%%%%%%%%%%%%%%'"/>
-				</xsl:message>
-				
-				<xsl:attribute name="bare_pointers">
-				  <xsl:value-of select="count(preceding-sibling::COMPARE) + count(preceding-sibling::DER)"/>
-				</xsl:attribute>
-			      </xsl:if>
-			      
-			      <xsl:if test="preceding-sibling::COMPARE">
-				<xsl:attribute name="link_type">
-				  <xsl:value-of select="'COMPARE'"/>
-				</xsl:attribute>
-				<xsl:value-of select="normalize-space(preceding-sibling::COMPARE)"/>
-			      </xsl:if>
-			      <xsl:if test="preceding-sibling::DER">
-				<xsl:attribute name="link_type">
-				  <xsl:value-of select="'DERIVAT'"/>
-				</xsl:attribute>
-				<xsl:attribute name="link_sub_type">
-				  <xsl:value-of select="preceding-sibling::DER/@type"/>
-				</xsl:attribute>
-				<xsl:value-of select="normalize-space(preceding-sibling::DER)"/>
-			      </xsl:if>
-			      <xsl:if test="not(preceding-sibling::COMPARE) and not(preceding-sibling::DER)">
-				<xsl:attribute name="link_type">
-				  <xsl:value-of select="'xxx_empty-link_xxx'"/>
-				</xsl:attribute>
-				<xsl:value-of select="'xxx_empty-t_xxx'"/>
-			      </xsl:if>
-			    </t>
-			  </tg>
+		    <!-- T has only one child of type element -->
+		    <xsl:if test="(count(child::*) = 1) and not(child::text())">
+		      <!-- which is LINK: take it! -->
+		      <tg>
+			<xsl:if test="child::*/local-name() = 'LINK'">
+			  <t>
+			    <xsl:attribute name="link_type">
+			      <xsl:value-of select="if (./LINK/@type) then ./LINK/@type
+						    else if (./LINK/@TYPE) then ./LINK/@TYPE
+						    else 'xxx'"/>
+			    </xsl:attribute>
+			    <xsl:value-of select="normalize-space(./LINK)"/>
+			  </t>
 			</xsl:if>
-			<xsl:if test="not(child::text() = 'xxx')">
-			  <xsl:if test="preceding-sibling::COMPARE">
-			    <todo type="underspecification">
-			      <xsl:attribute name="link_type">
-				<xsl:value-of select="'COMPARE'"/>
-			      </xsl:attribute>
-			      <xsl:value-of select="normalize-space(preceding-sibling::COMPARE)"/>
-			    </todo>
-			  </xsl:if>
-			  <xsl:if test="preceding-sibling::DER">
-			    <todo type="underspecification">
-			      <xsl:attribute name="link_type">
-				<xsl:value-of select="'DERIVAT'"/>
-			      </xsl:attribute>
-			      <xsl:attribute name="link_sub_type">
-				<xsl:value-of select="preceding-sibling::DER/@type"/>
-			      </xsl:attribute>
-			      <xsl:value-of select="normalize-space(preceding-sibling::DER)"/>
-			    </todo>
-			  </xsl:if>
-			  <xsl:for-each select="tokenize(normalize-space(child::text()), ';')">
-			    <tg>
-			      <xsl:for-each select="tokenize(., ',')">
-				<t>
-				  <xsl:value-of select="normalize-space(.)"/>
-				</t>
-			      </xsl:for-each>
-			    </tg>
-			  </xsl:for-each>
+			<!-- else ... just for the sake of robustness --> 
+			<xsl:if test="not(child::*/local-name() = 'LINK')">
+			  <t unknown_elem="xxx"/>
+			  <xsl:copy-of select="child::*"/>
 			</xsl:if>
-		      </xsl:if>
-		      
-		      <!-- child of type element -->
-		      <xsl:if test="child::*">
-			<tg>
-			  <xsl:if test="child::*/local-name() = 'LINK'">
-			    <t>
-			      <xsl:attribute name="link_type">
-				<xsl:value-of select="if (./LINK/@type) then ./LINK/@type
-						      else if (./LINK/@TYPE) then ./LINK/@TYPE
-						      else 'xxx'"/>
-			      </xsl:attribute>
-			      <xsl:value-of select="normalize-space(./LINK)"/>
-			    </t>
-			  </xsl:if>
-			  
-			  <!-- Wer sich einmal mit heisser Suppe 
-			       verbrannt hat, pustet auch in
-			       Yoghourt. -->
-			  <xsl:if test="not(child::*/local-name() = 'LINK')">
-			    <t unknown_elem="xxx"/>
-			    <xsl:copy-of select="child::*"/>
-			  </xsl:if>
-			</tg>
-		      </xsl:if>
+		      </tg>
 		    </xsl:if>
 		    
-		    <!-- T has more than one child: mixed content -->
-		    <xsl:if test="count(./node()) &gt; 1">
+		    <!-- T has some text node as child -->
+		    <xsl:if test="child::text()">
 		      <xsl:variable name="pattern">
 			<xsl:for-each select="./node()">
 			  <xsl:if test="self::text()">
@@ -307,7 +246,7 @@ which occur only with verbs
 			</xsl:for-each>
 		      </xsl:variable>
 
-		      <xsl:if test="$debug">
+		      <xsl:if test="not($debug)">
 			<todo>
 			  <xsl:attribute name="stamp">
 			    <xsl:value-of select="$pattern"/>
@@ -333,24 +272,18 @@ which occur only with verbs
 		      </xsl:if>
 
 		      <done>
-			<xsl:attribute name="stamp">
-			  <xsl:value-of select="$pattern"/>
-			</xsl:attribute>
-
-			<xsl:call-template name="processMixedMG">
-			  <xsl:with-param name="theMG" select="."/>
-			</xsl:call-template>
-			
-
+			<xsl:for-each select="child::text()">
+			  <xsl:for-each select="tokenize(., ';')">
+			    <tg>
+			      <xsl:for-each select="tokenize(., ',')">
+				<t>
+				  <xsl:value-of select="normalize-space(.)"/>
+				</t>
+			      </xsl:for-each>
+			    </tg>
+			  </xsl:for-each>
+			</xsl:for-each>
 		      </done>
-
-
-<!-- 		      <done> -->
-<!-- 			<xsl:attribute name="stamp"> -->
-<!-- 			  <xsl:value-of select="$pattern"/> -->
-<!-- 			</xsl:attribute> -->
-<!-- 		      </done> -->
-
 		    </xsl:if>
 		    
 		    <!-- at the moment, the location for xg is uncertain: to be solved later -->
@@ -429,36 +362,4 @@ which occur only with verbs
     <!-- 			  </xsl:for-each> -->
   </xsl:template>
 
-  <xsl:template name="processMixedMG">
-    <xsl:param name="theMG"/>
-    
-    <xsl:variable name="tgg">
-      <xsl:value-of select="count(tokenize($theMG/child::text(), ';'))"/>
-    </xsl:variable>
-
-    <!-- based on the number of semicolons, only one tg -->
-    <xsl:if test="$tgg = 1">
-      <tg>
-	<xsl:for-each select="./*[not(local-name() = 'SEM')]">
-	  <xsl:element name="{lower-case(local-name(.))}">
-	    <xsl:copy-of select="normalize-space(lower-case(.))"/>
-	  </xsl:element>
-	</xsl:for-each>
-	<xsl:for-each select="tokenize(./text(), ',')">
-	  <t>
-	    <xsl:value-of select="normalize-space(.)"/>
-	  </t>
-	</xsl:for-each>
-      </tg>
-    </xsl:if>
-    
-    <!-- based on the number of semicolons, more than one tg -->
-    <xsl:if test="$tgg &gt; 1">
-      <iii>
-	<xsl:copy-of select="$theMG"/>
-      </iii>
-    </xsl:if>
-
-  </xsl:template>
-  
 </xsl:stylesheet>
