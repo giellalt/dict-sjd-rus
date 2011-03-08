@@ -444,7 +444,7 @@ which occur only with verbs
       <xsl:value-of select="count(tokenize($theMG/child::text(), ';'))"/>
     </xsl:variable>
 
-    <!-- according to the semicolon, only one tg -->
+    <!-- based on the number of semicolons, only one tg -->
     <xsl:if test="$tgg = 1">
       <tg>
 	<xsl:for-each select="./*">
@@ -460,7 +460,7 @@ which occur only with verbs
       </tg>
     </xsl:if>
     
-    <!-- according to the semicolon, more than one tg -->
+    <!-- based on the number of semicolons, more than one tg -->
     <xsl:if test="$tgg &gt; 1">
       <iii>
 	<xsl:copy-of select="$theMG"/>
