@@ -247,3 +247,17 @@ sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | grep -v X1
 
 This is important: please check whether the scope of tam and re is ok
 in these cases, Michael!
+
+===================================
+Is # ok in the T-element? I thought that # is the special sign marking
+the idioms. Please check!
+
+	<E>
+		<L>воаррдэ</L>
+		<STEM/>
+		<CLASS>III</CLASS>
+		<POS/>
+		<T># бывать, побывать (где-л.)</T>
+		<X>воаррдэ клӯбпе, библиотекая</X>
+		<XT>бывать в клубе, в библиотеке</XT>
+	</E>
