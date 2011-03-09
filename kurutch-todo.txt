@@ -262,5 +262,38 @@ the idioms. Please check!
 		<XT>бывать в клубе, в библиотеке</XT>
 	</E>
 
+====================================
 TODO: check mixed T-elements with text and LINK children.
+to be solved according to the following two rules
+RULE1 (LINK TYPE="SM")
+-find two entries of the following type
+1st entry:   
+   <E kur_ID="3">
+		<L>аббрай</L>
+		<T>
+			<LINK TYPE="SM">аббьр</LINK>
+		</T>
+	</E>
+2nd entry:
+	<E>
+		<L>аббрай</L>
+		<POS>PRED</POS>
+		<T>дождливый, дождлив</T>
+		<X>ке̄ссь ля̄йй аббрай</X>
+		<XT>лето было дождливым</XT>
+	</E>
+-these entry pairs always:
+++have two similar contents in <L>
+++1st entry has a kur_ID, 2nd entry doesn't
+++1st entry has a mixed T-element with text and LINK children, 2nd entry doesn't
+-merge these two entries into one entry, as in the following example
+   <E kur_ID="3">
+		<L>аббрай</L>
+		<POS>PRED</POS>
+		<DER type="SM">аббьр</DER>
+		<T>дождливый, дождлив</T>
+		<X>ке̄ссь ля̄йй аббрай</X>
+		<XT>лето было дождливым</XT>
+	</E>
 
+RULE2 (LINK TYPE="OT") follows…
