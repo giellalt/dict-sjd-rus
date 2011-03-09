@@ -286,11 +286,20 @@ which occur only with verbs
 		      </done>
 		    </xsl:if>
 		    
-		    <!-- at the moment, the location for xg is uncertain: to be solved later -->
-		    <xsl:if test="../X">
-		      <xsl:call-template name="processExGroup">
-			<xsl:with-param name="theXStar" select=".."/>
-		      </xsl:call-template>
+		    <xsl:if test="following-sibling::X">
+		      <ex_group>
+			<xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::T[1])=
+					      generate-id(current())][not(local-name() = 'T')]">
+			  
+			  <!-- 		    <xsl:for-each select="following-sibling::*[generate-id(preceding-sibling::T[1])= -->
+			  <!-- 					  generate-id(current())][starts-with(local-name(), 'X')]"> -->
+			  
+			  <line p_loc="{position()}">
+			    <xsl:copy-of select="./@*"/>
+			    <xsl:value-of select="."/>
+			  </line>
+			</xsl:for-each>
+		      </ex_group>
 		    </xsl:if>
 		    
 		  </mg>
@@ -309,57 +318,6 @@ which occur only with verbs
 	<xsl:text>Cannot locate: </xsl:text><xsl:value-of select="$file"/><xsl:text>&#xa;</xsl:text>
       </xsl:otherwise>
     </xsl:choose>
-  </xsl:template>
-
-  <xsl:template name="processExGroup">
-    <xsl:param name="theXStar"/>
-    <xsl:variable name="x_a" select="count($theXStar/*[starts-with(local-name(), 'X')])"/>
-    <xsl:variable name="x_o" select="count($theXStar/*[local-name() = 'X'])"/>
-    <xsl:variable name="x_t" select="count($theXStar/*[local-name() = 'XT'])"/>
-    <xsl:variable name="idiom" select="count($theXStar/child::text()[normalize-space(.) = '#'])"/>
-    <xg_all>
-      <xsl:attribute name="xstar">
-	<xsl:value-of select="$x_a"/>
-      </xsl:attribute>
-      <xsl:attribute name="x">
-	<xsl:value-of select="$x_o"/>
-      </xsl:attribute>
-      <xsl:attribute name="xt">
-	<xsl:value-of select="$x_t"/>
-      </xsl:attribute>
-      <xsl:attribute name="idiom">
-	<xsl:value-of select="$idiom"/>
-      </xsl:attribute>
-      <xsl:for-each select="$theXStar/*[starts-with(local-name(), 'X')]|$theXStar/child::text()[normalize-space(.) = '#']">
-	<xsl:variable name="c_content" select="."/>
-	<xsl:if test="../child::node()[. = $c_content]/position()">
-	  <xsl:variable name="c_pos" select="position()"/>
-	  
-	  <xelex position="{$c_pos}">
-	    <xsl:copy-of select="./@*"/>
-	    <xsl:copy-of select="normalize-space(.)"/>
-	  </xelex>
-	</xsl:if>
-	
-      </xsl:for-each>
-
-      <xsl:if test="not($debug)">
-	<global_pattern>
-	  <xsl:for-each select="$theXStar/child::*|$theXStar/child::text()">
-	    <g_node position="{position()}">
-	      <xsl:copy-of select="."/>
-	    </g_node>
-	  </xsl:for-each>
-	</global_pattern>
-      </xsl:if>
-	
-    </xg_all>
-    
-    <!-- 			  <xsl:for-each select="../X*"> -->
-    <!-- 			    <xg> -->
-    
-    <!-- 			    </xg> -->
-    <!-- 			  </xsl:for-each> -->
   </xsl:template>
 
 </xsl:stylesheet>
