@@ -150,14 +150,12 @@ example for idiom subtype (idiom groups are preliminary marked by # preceeding t
 
 4. rules for automatic PoS tagging (most of them are already included in the script)
 
-d) verbs have these tags somewhere in the entry:
-<LINK type="PONUD_K"></LINK>
-<LINK type="STRAD_K"></LINK>
-<RE>BESL</RE>
-<TAM>
-   ==> what has that to do with assigning pos? Inference like: if
-   something like that in the entry then assigne pos="verb"? if so
-   then   ==> TODO
+- if there is something like
+type="PONUD_K" or type="STRAD_K" or <RE>BESL</RE>
+in the entry then assigne pos="verb"
+
+- if there is an element <TAM> in the entry then assigne pos="verb"
+   ==> TODO
 
 5. the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
 
