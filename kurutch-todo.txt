@@ -263,7 +263,13 @@ the idioms. Please check!
 	</E>
 
 ====================================
-TODO: check mixed T-elements with text and LINK children.
+TODO: check T-elements with mixed node types as children: both
+text-nodes and LINK-element nodes.
+ - parse mixed content along the lines for examples with # marking for idioms
+====================================
+
+Merging related entries by the LINK-element of type SM and OT:
+
 to be solved according to the following two rules
 RULE1 (LINK TYPE="SM")
 -find two entries of the following type
