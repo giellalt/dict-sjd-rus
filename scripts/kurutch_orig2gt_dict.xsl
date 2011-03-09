@@ -271,35 +271,70 @@ which occur only with verbs
 			</todo>
 		      </xsl:if>
 
-		      <done>
-			<xsl:for-each select="child::text()">
-			  <xsl:for-each select="tokenize(., ';')">
-			    <tg>
-			      <xsl:for-each select="tokenize(., ',')">
-				<t>
-				  <xsl:value-of select="normalize-space(.)"/>
-				</t>
-			      </xsl:for-each>
-			    </tg>
-			  </xsl:for-each>
+		      <xsl:for-each select="child::text()">
+			<xsl:for-each select="tokenize(., ';')">
+			  <tg>
+			    <xsl:for-each select="tokenize(., ',')">
+			      <t>
+				<xsl:value-of select="normalize-space(.)"/>
+			      </t>
+			    </xsl:for-each>
+			  </tg>
 			</xsl:for-each>
-		      </done>
+		      </xsl:for-each>
 		    </xsl:if>
 		    
 		    <xsl:if test="following-sibling::X">
-		      <ex_group>
-			<xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::T[1])=
-					      generate-id(current())][not(local-name() = 'T')]">
-			  
-			  <!-- 		    <xsl:for-each select="following-sibling::*[generate-id(preceding-sibling::T[1])= -->
-			  <!-- 					  generate-id(current())][starts-with(local-name(), 'X')]"> -->
-			  
-			  <line p_loc="{position()}">
-			    <xsl:copy-of select="./@*"/>
-			    <xsl:value-of select="."/>
-			  </line>
+		      <xsl:variable name="exs">
+			<ex_group>
+			  <xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::T[1])=
+						generate-id(current())][not(local-name() = 'T')]">
+			    
+			    <!-- 		    <xsl:for-each select="following-sibling::*[generate-id(preceding-sibling::T[1])= -->
+			    <!-- 					  generate-id(current())][starts-with(local-name(), 'X')]"> -->
+			    
+			    
+			    <xsl:if test="self::*">
+			      <xsl:element name="{lower-case(local-name(.))}">
+				<xsl:copy-of select="./@*"/>
+				<xsl:copy-of select="normalize-space(lower-case(.))"/>
+			      </xsl:element>
+			    </xsl:if>
+
+			    <xsl:if test="self::text()">
+			      <idiom_boundary>
+				<xsl:value-of select="normalize-space(.)"/>
+			      </idiom_boundary>
+			    </xsl:if>
+			  </xsl:for-each>
+			</ex_group>
+		      </xsl:variable>
+		      
+		      <xsl:if test="$exs/ex_group/idiom_boundary">
+			<xsl:for-each select="$exs/ex_group/idiom_boundary/preceding-sibling::x">
+			  <xg>
+			    <xsl:copy-of select="."/>
+			    <xsl:copy-of select="following-sibling::xt[1]"/>
+			  </xg>
 			</xsl:for-each>
-		      </ex_group>
+
+			<xsl:for-each select="$exs/ex_group/idiom_boundary/following-sibling::x">
+			  <xg type="idiom">
+			    <xsl:copy-of select="."/>
+			    <xsl:copy-of select="following-sibling::xt[1]"/>
+			  </xg>
+			</xsl:for-each>
+		      </xsl:if>
+		      
+		      <xsl:if test="not($exs/ex_group/idiom_boundary)">
+			<xsl:for-each select="$exs/ex_group/x">
+			  <xg>
+			    <xsl:copy-of select="."/>
+			    <xsl:copy-of select="following-sibling::xt[1]"/>
+			  </xg>
+			</xsl:for-each>
+		      </xsl:if>
+
 		    </xsl:if>
 		    
 		  </mg>
