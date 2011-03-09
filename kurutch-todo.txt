@@ -43,7 +43,6 @@ RULE1 (LINK TYPE="SM")
 
 RULE2 (LINK TYPE="OT") follows…
 
-
 2. gt_dict structure: mapping like in the following example:
    
 <e kur_ID="xxx">
@@ -53,24 +52,27 @@ RULE2 (LINK TYPE="OT") follows…
 		<CLASS>xxx</CLASS> (1-100: z. 56)
 	</lg>
 	<mg>
-     <tg>
      	<semantics>
 			<sem class="xxx"/>
 		</semantics>
 
-		 (1-100: z. 72, komma mapped on different t-elements)
+     <tg>
+  ==> done
+		 (1-100: z. 72, komma mapped on different t-elements)   ==> done
 		 
-         (1-100: z. 1348, semicollon mapped on different tg-elements)
+         (1-100: z. 1348, semicollon mapped on different tg-elements)   ==> done
 		 
 		 (z. 136: different meaning groups: relevant order???)
 		 
-		 (z. 136: after dash/bracket/etc. = re)
+		 (z. 136: after dash/bracket/etc. = re) <== this is a
+		 re-element related really to the tg (or perhaps even
+		 t-element)   ==> TODO
 
 TAM-element = grammar info (aspect, etc.); scopus is mg-element
-(according to our discussion from 08.03.2011)!!!
+(according to our discussion from 08.03.2011)!!!   ==> done
 
 (z. 324: scopus mg-element, according to our discussion from 08.03.2011) 
-<RE>PRJAM,PEREN</RE>
+<RE>PRJAM,PEREN</RE>   ==> done
 
 			<t pos="xxx" xml:lang="xxx">xxx</t>
 			<xg>
@@ -88,6 +90,7 @@ examples of <x> with several translations:
 				<x>xxx</x>
 				<xt xml:lang="xxx">xxx</xt>
 			</xg>
+  ==> done
 
 example for idiom subtype (idiom groups are preliminary marked by # preceeding the whole group; idioms are always at the end of an <e> or <mg> (no other <x> following them):			
 
@@ -103,23 +106,36 @@ example for idiom subtype (idiom groups are preliminary marked by # preceeding t
 		<T>выделывать/ выделать (шкуру крюком<LOOKUP xml:lang="sjd">крӯһкь</LOOKUP>
 		</T>
 
+  ==> done
+
 
 3. non-capitals in the element <L>
 
+  ==> done
+
 4. rules for automatic PoS tagging (most of them are already included in the script)
+
 d) verbs have these tags somewhere in the entry:
 <LINK type="PONUD_K"></LINK>
 <LINK type="STRAD_K"></LINK>
 <RE>BESL</RE>
 <TAM>
+   ==> what has that to do with assigning pos? Inference like: if
+   something like that in the entry then assigne pos="verb"? if so
+   then   ==> TODO
 
 5. the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
+
+  ==> TODO
+
 
 6. solved
 -----------------
 Problem: Kommas innerhalb von Klammern trennen keine <t>-Elemente
 these commas are all replaced by COMMA already
 -----------------
+
+  ==> done
 
 7. conversion of parentheses inside <t>
 if the text in parentheses start with the word "о" it is most likely a <re>, e.g.
@@ -135,6 +151,8 @@ is to be converted into -->
 <t>натирка</t>
 <te>напр. полов</t> 
 
+  ==> TODO
+
 8. grammatical indicators inside <t>
 ж F(emininum)
 м M(asculinum)
@@ -145,6 +163,8 @@ e.g.
 <t>дождь м</t>
 <t>будни мн.</t>
 most of them are already tagged as F_GENDER, PL_NUMBER, etc.
+
+  ==> TODO
 
 9. aspect pairs in <t>
 are always marked by / , perfective aspect seems always to be first, e.g.
@@ -159,6 +179,7 @@ is to be converted into -->
 <t aspect="perf">убегать</t>
 <t aspect="imperf">убежать</t>
 
+  ==> TODO
 
 ===============
 
