@@ -6,6 +6,44 @@ automatically:
 1. merge of original reference entries (i.e. having kur_ID) with content entries (i.e. without ID) 
    trigger: string (watch out for ambiguities)
 
+
+Merging related entries by the LINK-element of type SM and OT:
+
+to be solved according to the following two rules
+RULE1 (LINK TYPE="SM")
+-find two entries of the following type
+1st entry:   
+   <E kur_ID="3">
+		<L>аббрай</L>
+		<T>
+			<LINK TYPE="SM">аббьр</LINK>
+		</T>
+	</E>
+2nd entry:
+	<E>
+		<L>аббрай</L>
+		<POS>PRED</POS>
+		<T>дождливый, дождлив</T>
+		<X>ке̄ссь ля̄йй аббрай</X>
+		<XT>лето было дождливым</XT>
+	</E>
+-these entry pairs always:
+++have two similar contents in <L>
+++1st entry has a kur_ID, 2nd entry doesn't
+++1st entry has a mixed T-element with text and LINK children, 2nd entry doesn't
+-merge these two entries into one entry, as in the following example
+   <E kur_ID="3">
+		<L>аббрай</L>
+		<POS>PRED</POS>
+		<DER type="SM">аббьр</DER>
+		<T>дождливый, дождлив</T>
+		<X>ке̄ссь ля̄йй аббрай</X>
+		<XT>лето было дождливым</XT>
+	</E>
+
+RULE2 (LINK TYPE="OT") follows…
+
+
 2. gt_dict structure: mapping like in the following example:
    
 <e kur_ID="xxx">
@@ -268,38 +306,3 @@ text-nodes and LINK-element nodes.
  - parse mixed content along the lines for examples with # marking for idioms
 ====================================
 
-Merging related entries by the LINK-element of type SM and OT:
-
-to be solved according to the following two rules
-RULE1 (LINK TYPE="SM")
--find two entries of the following type
-1st entry:   
-   <E kur_ID="3">
-		<L>аббрай</L>
-		<T>
-			<LINK TYPE="SM">аббьр</LINK>
-		</T>
-	</E>
-2nd entry:
-	<E>
-		<L>аббрай</L>
-		<POS>PRED</POS>
-		<T>дождливый, дождлив</T>
-		<X>ке̄ссь ля̄йй аббрай</X>
-		<XT>лето было дождливым</XT>
-	</E>
--these entry pairs always:
-++have two similar contents in <L>
-++1st entry has a kur_ID, 2nd entry doesn't
-++1st entry has a mixed T-element with text and LINK children, 2nd entry doesn't
--merge these two entries into one entry, as in the following example
-   <E kur_ID="3">
-		<L>аббрай</L>
-		<POS>PRED</POS>
-		<DER type="SM">аббьр</DER>
-		<T>дождливый, дождлив</T>
-		<X>ке̄ссь ля̄йй аббрай</X>
-		<XT>лето было дождливым</XT>
-	</E>
-
-RULE2 (LINK TYPE="OT") follows…
