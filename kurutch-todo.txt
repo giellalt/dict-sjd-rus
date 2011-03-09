@@ -353,6 +353,7 @@ the idioms. Please check!
 		<X>воаррдэ клӯбпе, библиотекая</X>
 		<XT>бывать в клубе, в библиотеке</XT>
 	</E>
+	==> DONE
 
 ====================================
 TODO: check T-elements with mixed node types as children: both
