@@ -41,8 +41,43 @@ RULE1 (LINK TYPE="SM")
 		<XT>лето было дождливым</XT>
 	</E>
 
-RULE2 (LINK TYPE="OT") follows…
+RULE2 (LINK TYPE="OT"), I don't know yet how to deal with these entries, look at the following example
+1st entry
+	<E kur_ID="58">
+		<L>АДЖЬ</L>
+		<STEM>ажь</STEM>
+		<CLASS>I,1</CLASS>
+		<POS/>
+		<T>отец</T>
+#
+<X>ажьнӣййт</X>
+		<XT>оленёнок (самка) или важенка, подаренная отцом (напр. дочери на свадьбу)</XT>
+	</E>
 
+2nd entry	
+	<E kur_ID="69">
+		<L>ажь</L>
+		<T>
+			<LINK TYPE="OT">аджь</LINK>
+		</T>
+	</E>
+
+probably, we don't need a pointer here because these 2nd entries simply show inflected forms of the 1st entries
+I even believe that this inflected form is always similar to the element <STEM> in the 1st entries
+if so couldn't we skip the whole merging and just delete the 2nd entries?
+otherwise merging should result in something like the following
+
+merged entry 
+	<E kur_ID="58">
+		<L>АДЖЬ</L>
+		<STEM>ажь</STEM>
+		<STEM type="OT" kur_ID="69">ажь</STEM>
+		<CLASS>I,1</CLASS>
+		<POS/>
+		<T>…
+		etc.		
+
+===========================================
 2. gt_dict structure: mapping like in the following example:
    
 <e kur_ID="xxx">
