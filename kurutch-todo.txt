@@ -136,12 +136,13 @@ example for idiom subtype (idiom groups are preliminary marked by # preceeding t
 	</mg>
 </e>
 
+  ==> done
 
 101-500: z. 3536
 		<T>выделывать/ выделать (шкуру крюком<LOOKUP xml:lang="sjd">крӯһкь</LOOKUP>
 		</T>
 
-  ==> done
+  ==> TODO
 
 
 3. non-capitals in the element <L>
@@ -155,7 +156,7 @@ type="PONUD_K" or type="STRAD_K" or <RE>BESL</RE>
 in the entry then assigne pos="verb"
 
 - if there is an element <TAM> in the entry then assigne pos="verb"
-   ==> TODO
+   ==> done
 
 5. the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
 
@@ -182,7 +183,9 @@ if the text in parentheses start with the word "напр." it is most likely a <
 is to be converted into -->
 <t>надраивание</t>
 <t>натирка</t>
-<te>напр. полов</t> 
+<te>напр. полов</te> (@cip: As an interim solution, I will put this
+into some attributes to the t-element under scrutiny!!! This is
+because of the unclear status of te-element in the gt_dict.)
 
   ==> TODO
 
