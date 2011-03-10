@@ -124,7 +124,10 @@
 					      or ends-with($current_l, 'еннтэ')
 					      or ends-with($current_l, 'эдтэ')
 					      or ends-with($current_l, 'eдтэ')
-					      or ends-with($current_l, 'ювне')) then 'v' else 'xxx'"/>
+					      or ends-with($current_l, 'ювне')) then 'v' else
+					      if ((./DER[(./@type = 'STRAD_K') or (./@type = 'PONUD_K')]) or
+					      (./T/TAM)) then 'v'
+					      else 'xxx'"/>
 <!-- further PoS tagging possible thru elements
 <DER type="STRAD_K">
 <DER type="PONUD_K">
