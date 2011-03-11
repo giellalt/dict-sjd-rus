@@ -40,6 +40,8 @@ RULE1 (LINK TYPE="SM")
 		<X>ке̄ссь ля̄йй аббрай</X>
 		<XT>лето было дождливым</XT>
 	</E>
+	
+	==> TODO
 
 RULE2 (LINK TYPE="OT"), I don't know yet how to deal with these entries, look at the following example
 1st entry
@@ -75,7 +77,9 @@ merged entry
 		<CLASS>I,1</CLASS>
 		<POS/>
 		<T>…
-		etc.		
+		etc.
+		
+	==> TODO	
 
 ===========================================
 2. gt_dict structure: mapping like in the following example:
@@ -93,15 +97,16 @@ merged entry
 
      <tg>
   ==> done
+  
 		 (1-100: z. 72, komma mapped on different t-elements)   ==> done
 		 
-         (1-100: z. 1348, semicollon mapped on different tg-elements)   ==> done
+         (1-100: z. 1348, semicolon mapped on different tg-elements)   ==> done
 		 
-		 (z. 136: different meaning groups: relevant order???)
+		 (z. 136: different meaning groups: @cip: relevant order???) @micha: order was probably relevant for the authers of the original dict; wenn es mehrere Bedeutungen gibt (im Sinne von unseren <mg>), habe ich die Nummerierung der Übersetzungen aus dem Original behalten (tnumber="x"). Die Autoren des Originalwörterbuches haben sich wahrscheinlich bei der Reihenfolge der verschiedenen Bedeutungen etwas gedacht. Deshalb wollte ich gern diese Angabe behalten. ==> done
 		 
 		 (z. 136: after dash/bracket/etc. = re) <== this is a
 		 re-element related really to the tg (or perhaps even
-		 t-element)   ==> TODO
+		 t-element) @micha: I don't recall what was meant here, but  ==> TODO
 
 TAM-element = grammar info (aspect, etc.); scopus is mg-element
 (according to our discussion from 08.03.2011)!!!   ==> done
@@ -188,13 +193,10 @@ the problem: F_GENDER here tags only one part of the phrasal translation
   ==> TODO
 ==================
 
-6. solved
------------------
-Problem: Kommas innerhalb von Klammern trennen keine <t>-Elemente
+6. Problem: Kommas innerhalb von Klammern trennen keine <t>-Elemente
 these commas are all replaced by COMMA already
------------------
-
   ==> done
+===================
 
 7. conversion of parentheses inside <t>
 if the text in parentheses start with the word "о" it is most likely a <re>, e.g.
@@ -202,7 +204,7 @@ if the text in parentheses start with the word "о" it is most likely a <re>, e.
 is to be converted into -->
 <re>о шкуре</re>
 <t>выделаться</t>
-if the text in parentheses start with the word "напр." it is most likely a <te>, e.g.
+if the text in parentheses start with the word "напр." (="for example") it is most likely a <te>, e.g.
 <t>надраивание</t>
 <t>натирка (напр. полов)</t>
 is to be converted into -->
@@ -226,17 +228,17 @@ e.g.
 most of them are already tagged as F_GENDER, PL_NUMBER, etc.
 
   ==> TODO
+================
 
-9. aspect pairs in <t>
-are always marked by / , perfective aspect seems always to be first, e.g.
+9. aspect pairs in <t> are always marked by / (slash), perfective aspect seems always to be first, e.g.
 <t>покрывать / покрыть</t>
 is to be converted into -->
 <t aspect="perf">покрывать</t>
 <t aspect="imperf">покрыть</t>
 a following parenthesis (<re> or <te>) has scope on the whole <tg>, e.g.
-<t>убегать / убежать (о супе, молоке при кипении)</t>
+<t>убегать / убежать (о супе COMMA молоке при кипении)</t>
 is to be converted into -->
-<re>о супе, молоке при кипении</re>
+<re>о супе COMMA молоке при кипении</re>
 <t aspect="perf">убегать</t>
 <t aspect="imperf">убежать</t>
 
@@ -244,19 +246,15 @@ is to be converted into -->
 
 ===============
 
--wenn es mehrere Bedeutungen gibt (im Sinne von unseren <mg>), habe ich die Nummerierung der Übersetzungen aus dem Original behalten (tnumber=.…). Die Autoren des Originalwörterbuches haben sich wahrscheinlich bei der Reihenfolge der verschiedenen Bedeutungen etwas gedacht. Deshalb wollte ich gern diese Angabe behalten.
-+wenn es mehrere "nahe Übersetzungen" gibt, sind diese innerhalb des Elements <T> mit Komma getrennt…
-+wenn es mehrere "entferntere Übersetzungen gibt, sind diese innerhalb des Elements <T> mit Semikolon getrennt…
-+wenn es russische Aspektpaare innerhalb des Elements <T> gibt, sind diese mit Slash getrennt, z.B. <T tnumber="1">кусать, укусить кого-что ; откусывать / откусить что, чего</T>
-
 -warum haben <re>, <te>, <tf>, <xt> kein Sprachattribut, aber <t>
  schon (z.B. xml:lang="nob")? Wenn wir schon wissen, dass es
  sma<-->nob ist brauchen wir eigentlich gar keins. Aber wenn wir
  zeigen wollen, dass der folgende Text zu einer bestimmten Sprache
  gehört, ist das für <xt> usw. doch auch relevant. @cip: ich habe
  gelernt, flexibel damit zu sein. Wir werden sehen, wie sich das
- kristalliesiert, wenn wir wirklich in Richtung Cip's dream gehen.
-
+ kristallisiert, wenn wir wirklich in Richtung Cip's dream gehen.
+ 
+===============
 
 Hier sind die Muster von den gemischten Knoten.
 sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr  
@@ -313,9 +311,11 @@ the first mg (косо), and so on?
 
 The same hold also for <DER>-elements.
 
-@cip: as agreed on 08.03.2011, this will be underspecified outside the mg groups 
+@cip: as agreed on 08.03.2011, this will be underspecified outside the mg groups
 
---------------------------------------
+	==> done
+
+=====================================
    2          <todo n_pattern="sem_txt"> (??? --> take a look!)
 --> this belongs to the element <SEM> = semantics, e.g. MEDicine, RELigion; scopus should be the meaning group; you have created this element "semantics" already with xxx, for a few entries (like these) a value is given in the dict 
 --------------------------------------
@@ -337,6 +337,8 @@ The same hold also for <DER>-elements.
    1          <todo n_pattern="re_txt_tam_tam_tam">
 -->just one more tam as compared to "re_txt_tam_tam" above
 
+	==> done
+
 ===================================
 
 sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr   173          <todo n_pattern="txt_tam">
@@ -347,6 +349,8 @@ sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort
    2          <todo n_pattern="sem_txt">
    1          <todo n_pattern="txt_tam_tam_tam">
    1          <todo n_pattern="re_txt_tam_tam_tam">
+   
+   ==> done
 
 ===================================
 
@@ -368,6 +372,8 @@ sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | grep -v X1
 This is important: please check whether the scope of tam and re is ok
 in these cases, Michael!
 
+		==> done
+
 ===================================
 Is # ok in the T-element? I thought that # is the special sign marking
 the idioms. Please check!
@@ -384,8 +390,11 @@ the idioms. Please check!
 	==> DONE
 
 ====================================
-TODO: check T-elements with mixed node types as children: both
+check T-elements with mixed node types as children: both
 text-nodes and LINK-element nodes.
  - parse mixed content along the lines for examples with # marking for idioms
+ 
+  == TODO
+  
 ====================================
 
