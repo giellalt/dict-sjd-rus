@@ -127,9 +127,9 @@
 					      or ends-with($current_l, 'ювне')) then 'v' else
 					      if ((./DER[(./@type = 'STRAD_K') or (./@type = 'PONUD_K')])
 					      or (./T/RE = 'BESL') or (./T/TAM)) then 'v' else
-					      'xxx'"/>
 					      if (contains(., '_GENDER') or contains(., '_NUMBER')) then 'n' else
-
+					      'xxx'"/>
+			
 		      </xsl:if>
 		    </xsl:variable>
 		    
@@ -271,9 +271,15 @@
 		      </xsl:if>
 
 		      <xsl:for-each select="child::text()">
+			<!-- here: to refine it wrt. LINK-elements mixed T-elements -->
 			<xsl:for-each select="tokenize(., ';')">
 			  <tg>
 			    <xsl:for-each select="tokenize(., ',')">
+			      <!-- processing brackets -->
+<!-- 			      <xsl:if test="contains(., '(')"> -->
+<!-- 				<xsl:variable name="bracket" select=""/> -->
+<!-- 			      </xsl:if> -->
+			      
 			      <t>
 				<xsl:value-of select="normalize-space(.)"/>
 			      </t>
