@@ -158,12 +158,13 @@ in the entry then assigne pos="verb"
 - if there is an element <TAM> in the entry then assigne pos="verb"
    ==> done
 
+==================
 5. the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
 
-@cip: Can we assume that sjd-lemma's pos it n, too?
-
-  ==> TODO
-
+@cip: Can we assume that sjd-lemma's pos is n, too?
+@micha: Yes, we can.
+  ==> done
+==================
 
 6. solved
 -----------------
