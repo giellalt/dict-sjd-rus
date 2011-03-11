@@ -118,7 +118,7 @@
    </e>
    <e kur_ID="9">
       <lg>
-         <l pos="xxx">аббьр</l>
+         <l pos="n">аббьр</l>
          <stem>абьр</stem>
          <class>II,1</class>
       </lg>
@@ -389,7 +389,7 @@
    </e>
    <e kur_ID="11">
       <lg>
-         <l pos="xxx">а̄бей</l>
+         <l pos="n">а̄бей</l>
          <stem>о.ч.</stem>
          <class>V</class>
       </lg>
@@ -2986,7 +2986,7 @@
    </e>
    <e kur_ID="94">
       <lg>
-         <l pos="xxx">а̄ййн</l>
+         <l pos="n">а̄ййн</l>
          <stem>а̄йн</stem>
          <class>II,1</class>
       </lg>
@@ -4288,7 +4288,7 @@
    </e>
    <e kur_ID="134">
       <lg>
-         <l pos="xxx">алльм-2</l>
+         <l pos="n">алльм-2</l>
          <stem>альм</stem>
          <class>II,1</class>
       </lg>
@@ -6080,7 +6080,7 @@
    </e>
    <e kur_ID="188">
       <lg>
-         <l pos="xxx">апрелль</l>
+         <l pos="n">апрелль</l>
          <stem>апрель</stem>
          <class>I</class>
       </lg>
@@ -7003,7 +7003,7 @@
    </e>
    <e kur_ID="220">
       <lg>
-         <l pos="xxx">асськ</l>
+         <l pos="n">асськ</l>
          <stem>аськ</stem>
          <class>II,1</class>
       </lg>
@@ -7877,7 +7877,7 @@
    </e>
    <e kur_ID="250">
       <lg>
-         <l pos="xxx">ба̄нка</l>
+         <l pos="n">ба̄нка</l>
          <stem>о.ч.</stem>
          <class>IV</class>
       </lg>
@@ -8640,7 +8640,7 @@
    </e>
    <e kur_ID="276">
       <lg>
-         <l pos="xxx">ботинка</l>
+         <l pos="n">ботинка</l>
          <stem>о.ч.</stem>
          <class>IV</class>
       </lg>
@@ -8719,7 +8719,7 @@
    </e>
    <e kur_ID="280">
       <lg>
-         <l pos="xxx">бро̄шка</l>
+         <l pos="n">бро̄шка</l>
          <stem>о.ч.</stem>
          <class>IV</class>
       </lg>
@@ -8772,7 +8772,7 @@
    </e>
    <e kur_ID="282">
       <lg>
-         <l pos="xxx">букваррь</l>
+         <l pos="n">букваррь</l>
          <stem>букварь</stem>
          <class>I</class>
       </lg>
@@ -9112,7 +9112,7 @@
    </e>
    <e kur_ID="293">
       <lg>
-         <l pos="xxx">ва̄ввьл</l>
+         <l pos="n">ва̄ввьл</l>
          <stem>ва̄вьл</stem>
          <class>II,1</class>
       </lg>
@@ -9394,7 +9394,7 @@
    </e>
    <e kur_ID="305">
       <lg>
-         <l pos="xxx">ваджь</l>
+         <l pos="n">ваджь</l>
          <stem>важь</stem>
          <class>I,1</class>
       </lg>
@@ -10031,7 +10031,7 @@
    </e>
    <e kur_ID="322">
       <lg>
-         <l pos="xxx">ва̄ййв</l>
+         <l pos="n">ва̄ййв</l>
          <stem>ва̄йв</stem>
          <class>II,1</class>
       </lg>
@@ -11900,7 +11900,7 @@
    </e>
    <e kur_ID="xxx">
       <lg>
-         <l pos="xxx">ва̄ннцэнҍ</l>
+         <l pos="n">ва̄ннцэнҍ</l>
          <stem>о.ч.</stem>
          <class>V</class>
       </lg>
@@ -12396,7 +12396,7 @@
    </e>
    <e kur_ID="383">
       <lg>
-         <l pos="xxx">ва̄рр</l>
+         <l pos="n">ва̄рр</l>
          <stem>ва̄р</stem>
          <class>I</class>
       </lg>
@@ -12430,7 +12430,7 @@
    </e>
    <e kur_ID="xxx">
       <lg>
-         <l pos="xxx">ва̄рэнь</l>
+         <l pos="n">ва̄рэнь</l>
          <stem>о.ч.</stem>
          <class>V</class>
       </lg>
@@ -13274,7 +13274,7 @@
    </e>
    <e kur_ID="xxx">
       <lg>
-         <l pos="xxx">ва̄ххтъей</l>
+         <l pos="n">ва̄ххтъей</l>
          <stem>о.ч.</stem>
          <class>V</class>
       </lg>
@@ -13462,7 +13462,7 @@
    </e>
    <e kur_ID="411">
       <lg>
-         <l pos="xxx">ве̄һкь</l>
+         <l pos="n">ве̄һкь</l>
          <stem>ве̄кь</stem>
          <class>I,1</class>
       </lg>
@@ -13551,7 +13551,7 @@
    </e>
    <e kur_ID="xxx">
       <lg>
-         <l pos="xxx">ве̄кьхуввэ</l>
+         <l pos="n">ве̄кьхуввэ</l>
          <class>I</class>
       </lg>
       <mg km="g">
@@ -14855,7 +14855,7 @@
    </e>
    <e kur_ID="448">
       <lg>
-         <l pos="xxx">ве̄шш</l>
+         <l pos="n">ве̄шш</l>
          <stem>о.ч.</stem>
          <class>III</class>
       </lg>
@@ -14974,7 +14974,7 @@
    </e>
    <e kur_ID="451">
       <lg>
-         <l pos="xxx">ве̄шшьк</l>
+         <l pos="n">ве̄шшьк</l>
          <stem>ве̄шьк</stem>
          <class>II,1</class>
       </lg>
@@ -15058,7 +15058,7 @@
    </e>
    <e kur_ID="453">
       <lg>
-         <l pos="xxx">вӣгк</l>
+         <l pos="n">вӣгк</l>
          <stem>вӣг</stem>
          <class>I</class>
       </lg>
@@ -17570,7 +17570,7 @@
    </e>
    <e kur_ID="528">
       <lg>
-         <l pos="xxx">вла̄ссьт</l>
+         <l pos="n">вла̄ссьт</l>
          <stem>вла̄сьт</stem>
          <class>II,1</class>
       </lg>
@@ -18651,7 +18651,7 @@
    </e>
    <e kur_ID="xxx">
       <lg>
-         <l pos="xxx">воалшэй</l>
+         <l pos="n">воалшэй</l>
          <stem>о.ч.</stem>
          <class>V</class>
       </lg>
@@ -20728,7 +20728,7 @@
    </e>
    <e kur_ID="650">
       <lg>
-         <l pos="xxx">вуаллнешш</l>
+         <l pos="n">вуаллнешш</l>
          <stem>вуаллнеж</stem>
          <class>I</class>
       </lg>
@@ -21861,7 +21861,7 @@
    </e>
    <e kur_ID="691">
       <lg>
-         <l pos="xxx">вӯһп</l>
+         <l pos="n">вӯһп</l>
          <stem>вӯп</stem>
          <class>I</class>
       </lg>
@@ -21879,7 +21879,7 @@
    </e>
    <e kur_ID="692">
       <lg>
-         <l pos="xxx">вӯһпь</l>
+         <l pos="n">вӯһпь</l>
          <stem>вӯпь</stem>
          <class>I,1</class>
       </lg>
@@ -22086,7 +22086,7 @@
    </e>
    <e kur_ID="699">
       <lg>
-         <l pos="xxx">вӯйвас</l>
+         <l pos="n">вӯйвас</l>
          <stem>вӯййвас</stem>
          <class>V</class>
       </lg>
@@ -22159,7 +22159,7 @@
    </e>
    <e kur_ID="xxx">
       <lg>
-         <l pos="xxx">вӯйей</l>
+         <l pos="n">вӯйей</l>
          <stem>о.ч.</stem>
          <class>V</class>
       </lg>
@@ -24175,7 +24175,7 @@
    </e>
    <e kur_ID="753">
       <lg>
-         <l pos="xxx">вӯнн</l>
+         <l pos="n">вӯнн</l>
          <stem>вӯн</stem>
          <class>I</class>
       </lg>
@@ -24230,7 +24230,7 @@
    </e>
    <e kur_ID="756">
       <lg>
-         <l pos="xxx">вӯннm</l>
+         <l pos="n">вӯннm</l>
          <stem>вӯнҍ</stem>
          <class>I,1</class>
       </lg>
@@ -26032,7 +26032,7 @@
    </e>
    <e kur_ID="804">
       <lg>
-         <l pos="xxx">вуэййв</l>
+         <l pos="n">вуэййв</l>
          <stem>вуэйв</stem>
          <class>II,1</class>
       </lg>
@@ -27248,7 +27248,7 @@
    </e>
    <e kur_ID="833">
       <lg>
-         <l pos="xxx">вуэнҍтэсь</l>
+         <l pos="n">вуэнҍтэсь</l>
          <stem>вуаннтас</stem>
          <class>V</class>
       </lg>
@@ -27504,7 +27504,7 @@
    </e>
    <e kur_ID="xxx">
       <lg>
-         <l pos="xxx">вуэпьсэй</l>
+         <l pos="n">вуэпьсэй</l>
          <stem>о.ч.</stem>
          <class>V</class>
       </lg>
@@ -27712,7 +27712,7 @@
    </e>
    <e kur_ID="849">
       <lg>
-         <l pos="xxx">вуэррьт</l>
+         <l pos="n">вуэррьт</l>
          <stem>вуэрьт</stem>
          <class>II,1</class>
       </lg>
@@ -27818,7 +27818,7 @@
    </e>
    <e kur_ID="853">
       <lg>
-         <l pos="xxx">вуэсск</l>
+         <l pos="n">вуэсск</l>
          <stem>вӯсскан</stem>
          <class>V</class>
       </lg>
@@ -28350,7 +28350,7 @@
    </e>
    <e kur_ID="869">
       <lg>
-         <l pos="xxx">выббл</l>
+         <l pos="n">выббл</l>
          <stem>выбл</stem>
          <class>II</class>
       </lg>
