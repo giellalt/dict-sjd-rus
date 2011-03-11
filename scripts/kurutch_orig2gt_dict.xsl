@@ -128,8 +128,7 @@
 					      if ((./DER[(./@type = 'STRAD_K') or (./@type = 'PONUD_K')])
 					      or (./T/RE = 'BESL') or (./T/TAM)) then 'v' else
 					      'xxx'"/>
-			<!-- this would be added if Michael agrees on that: otherwise assigment only for the t-elements -->
-			<!-- if (contains(., '_GENDER') or contains(., '_NUMBER')) then 'n' else -->
+					      if (contains(., '_GENDER') or contains(., '_NUMBER')) then 'n' else
 
 		      </xsl:if>
 		    </xsl:variable>
