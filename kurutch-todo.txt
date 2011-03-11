@@ -229,11 +229,11 @@ is to be converted into -->
 
 -warum haben <re>, <te>, <tf>, <xt> kein Sprachattribut, aber <t>
  schon (z.B. xml:lang="nob")? Wenn wir schon wissen, dass es
- sma<-->nob ist brauchen wir eigentlich gar keins. Aber wenn wir
+ sma<-->nob ist, brauchen wir eigentlich gar keins. Aber wenn wir
  zeigen wollen, dass der folgende Text zu einer bestimmten Sprache
  gehört, ist das für <xt> usw. doch auch relevant. @cip: ich habe
  gelernt, flexibel damit zu sein. Wir werden sehen, wie sich das
- kristalliesiert, wenn wir wirklich in Richtung Cip's dream gehen.
+ kristallisiert, wenn wir wirklich in Richtung Cip's dream gehen.
 
 
 Hier sind die Muster von den gemischten Knoten.
