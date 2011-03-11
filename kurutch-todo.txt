@@ -162,8 +162,30 @@ in the entry then assigne pos="verb"
 5. the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
 
 @cip: Can we assume that sjd-lemma's pos is n, too?
-@micha: Yes, we can.
-  ==> done
+@micha: Yes, we can, but…
+I found only one mistake
+<e kur_ID="xxx">
+      <lg>
+         <l pos="n">ве̄кьхуввэ</l>
+         <class>I</class>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>получить помощь F_GENDER</t>
+         </tg>
+         <xg>
+            <x>со̄нн ве̄кьхувв ӣжесь па̄ррнэнҍ</x>
+            <xt>он получает помощь от детей</xt>
+         </xg>
+      </mg>
+   </e>
+<l> is a verb (even according to the old PoS rules because it ends on -уввэ)
+the problem: F_GENDER here tags only one part of the phrasal translation
+
+  ==> TODO
 ==================
 
 6. solved
@@ -229,11 +251,11 @@ is to be converted into -->
 
 -warum haben <re>, <te>, <tf>, <xt> kein Sprachattribut, aber <t>
  schon (z.B. xml:lang="nob")? Wenn wir schon wissen, dass es
- sma<-->nob ist, brauchen wir eigentlich gar keins. Aber wenn wir
+ sma<-->nob ist brauchen wir eigentlich gar keins. Aber wenn wir
  zeigen wollen, dass der folgende Text zu einer bestimmten Sprache
  gehört, ist das für <xt> usw. doch auch relevant. @cip: ich habe
  gelernt, flexibel damit zu sein. Wir werden sehen, wie sich das
- kristallisiert, wenn wir wirklich in Richtung Cip's dream gehen.
+ kristalliesiert, wenn wir wirklich in Richtung Cip's dream gehen.
 
 
 Hier sind die Muster von den gemischten Knoten.
