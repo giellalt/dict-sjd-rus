@@ -95,8 +95,7 @@
 					      or ends-with($current_l, 'алт')
 					      or ends-with($current_l, 'ханна')
 					      or ends-with($current_l, 'энне')) then 'adv' else
-					      if (ends-with($current_l, 'ант')
-					      or ends-with($current_l, 'мушш')
+					      if (ends-with($current_l, 'мушш')
 					      or ends-with($current_l, 'мусс')
 					      or ends-with($current_l, 'пе̄лль')
 					      or ends-with($current_l, 'егк')
