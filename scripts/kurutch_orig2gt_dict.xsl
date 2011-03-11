@@ -109,7 +109,6 @@
 					      or ends-with($current_l, 'хэсс')) then 'n' else
 					      if (ends-with($current_l, 'хэмь')
 					      or ends-with($current_l, 'есь')
-					      or ends-with($current_l, 'ей')
 					      or ends-with($current_l, 'ай')) then 'a' else
 					      if (ends-with($current_l, 'юввэ')
 					      or ends-with($current_l, 'уввэ')
