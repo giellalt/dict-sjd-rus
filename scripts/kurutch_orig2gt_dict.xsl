@@ -92,9 +92,13 @@
 					      or ends-with($current_l, 'эльт')
 					      or ends-with($current_l, 'ӭльт')
 					      or ends-with($current_l, 'енне')
-					      or ends-with($current_l, 'тэнне')) then 'adv' else
+					      or ends-with($current_l, 'алт')
+					      or ends-with($current_l, 'ханна')
+					      or ends-with($current_l, 'энне')) then 'adv' else
 					      if (ends-with($current_l, 'ант')
 					      or ends-with($current_l, 'мушш')
+					      or ends-with($current_l, 'мусс')
+					      or ends-with($current_l, 'пе̄лль')
 					      or ends-with($current_l, 'егк')
 					      or ends-with($current_l, 'эгк')
 					      or ends-with($current_l, 'ӭгк')
@@ -105,10 +109,11 @@
 					      or ends-with($current_l, 'хэсс')) then 'n' else
 					      if (ends-with($current_l, 'хэмь')
 					      or ends-with($current_l, 'есь')
+					      or ends-with($current_l, 'ей')
 					      or ends-with($current_l, 'ай')) then 'a' else
-					      if (ends-with($current_l, 'ювве')
-					      or ends-with($current_l, 'увве')
-					      or ends-with($current_l, 'увне')
+					      if (ends-with($current_l, 'юввэ')
+					      or ends-with($current_l, 'уввэ')
+					      or ends-with($current_l, 'увнэ')
 					      or ends-with($current_l, 'енне')
 					      or ends-with($current_l, 'эллэ')
 					      or ends-with($current_l, 'элнэ')
@@ -124,7 +129,10 @@
 					      or ends-with($current_l, 'еннтэ')
 					      or ends-with($current_l, 'эдтэ')
 					      or ends-with($current_l, 'eдтэ')
-					      or ends-with($current_l, 'ювне')) then 'v' else
+					      or ends-with($current_l, 'ънэ')
+					      or ends-with($current_l, 'ъе')
+					      or ends-with($current_l, 'ассьтэ')
+					      or ends-with($current_l, 'ювнэ')) then 'v' else
 					      if ((./DER[(./@type = 'STRAD_K') or (./@type = 'PONUD_K')])
 					      or (./T/RE = 'BESL') or (./T/TAM)) then 'v' else
 					      if (contains(., '_GENDER') or contains(., '_NUMBER')) then 'n' else
