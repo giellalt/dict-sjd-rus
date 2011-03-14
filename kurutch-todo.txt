@@ -204,7 +204,7 @@ if the text in parentheses start with either the word "о" or "об" (but not wi
 is to be converted into -->
 <re>о шкуре</re>
 <t>выделаться</t>
-scope of <re> (from parentheses with "o", etc.) is <tg>
+==> we postpone this convertion, because the scope of <re> (from parentheses with "o", etc.) is not at all always <tg>
 
 if the text in parentheses start with the word "напр." (="for example") it is most likely a <te>, e.g.
 <t>надраивание</t>
@@ -213,7 +213,7 @@ is to be converted into -->
 <t>надраивание</t>
 <t>натирка</t>
 <te>напр. полов</te>
-scope of <te> (from parentheses with "напр.") is <tg>
+==> we postpone this convertion, because the scope of <te> (from parentheses with "напр.") is perhaps not always <tg>
 (@cip: As an interim solution, I will put this
 into some attributes to the t-element under scrutiny!!! This is
 because of the unclear status of te-element in the gt_dict.)
