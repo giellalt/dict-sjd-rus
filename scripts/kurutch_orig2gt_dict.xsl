@@ -323,6 +323,14 @@
 		      <xsl:if test="$exs/ex_group/idiom_boundary">
 			<xsl:for-each select="$exs/ex_group/idiom_boundary/preceding-sibling::x">
 			  <xg>
+			    <xsl:attribute name="type">
+			      <xsl:if test="ends-with(. , '!') or ends-with(., '?')">
+				<xsl:value-of select="'sentence'"/>
+			      </xsl:if>
+			      <xsl:if test="not(ends-with(. , '!') or ends-with(., '?'))">
+				<xsl:value-of select="'xxx'"/>
+			      </xsl:if>
+			    </xsl:attribute>
 			    <xsl:copy-of select="."/>
 			    <xsl:copy-of select="following-sibling::xt[1]"/>
 			  </xg>
@@ -339,6 +347,14 @@
 		      <xsl:if test="not($exs/ex_group/idiom_boundary)">
 			<xsl:for-each select="$exs/ex_group/x">
 			  <xg>
+			    <xsl:attribute name="type">
+			      <xsl:if test="ends-with(. , '!') or ends-with(., '?')">
+				<xsl:value-of select="'sentence'"/>
+			      </xsl:if>
+			      <xsl:if test="not(ends-with(. , '!') or ends-with(., '?'))">
+				<xsl:value-of select="'xxx'"/>
+			      </xsl:if>
+			    </xsl:attribute>
 			    <xsl:copy-of select="."/>
 			    <xsl:copy-of select="following-sibling::xt[1]"/>
 			  </xg>
