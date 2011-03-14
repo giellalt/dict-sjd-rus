@@ -5632,9 +5632,8 @@
 	<E>
 		<L>ка̄ййншэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">
-			<COMPARE>ка̄ййнэ</COMPARE>
-		<T>xxx</T>
+		<COMPARE>ка̄ййнэ</COMPARE>
+		<T tnumber="1">xxx</T>
 		<T tnumber="2">считать кого робким, стеснительным</T>
 	</E>
 	<E>
