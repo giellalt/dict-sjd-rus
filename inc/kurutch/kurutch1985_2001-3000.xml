@@ -3311,8 +3311,8 @@
 	<E>
 		<L>кыррьтътэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">(тоже что кырьтхэ)</LINK>
-		</T>
+		<COMPARE>кырьтхэ</COMPARE>
+		<T tnumber="1">xxx</T>
 		<T tnumber="2">знобить, трясти кого</T>
 	</E>
 	<E>
