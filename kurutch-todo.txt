@@ -199,18 +199,22 @@ these commas are all replaced by COMMA already
 ===================
 
 7. conversion of parentheses inside <t>
-if the text in parentheses start with either the word "о" or "об" (but not with "о чём-л."!) it is most likely a <re>, e.g.
+if the text in parentheses start with either the word "о" or "об" (but not with "о чём-л." or "о ком-л."!) it is most likely a <re>, e.g.
 <t>выделаться (о шкуре)</t>
 is to be converted into -->
 <re>о шкуре</re>
 <t>выделаться</t>
+scope of <re> (from parentheses with "o", etc.) is <tg>
+
 if the text in parentheses start with the word "напр." (="for example") it is most likely a <te>, e.g.
 <t>надраивание</t>
 <t>натирка (напр. полов)</t>
 is to be converted into -->
 <t>надраивание</t>
 <t>натирка</t>
-<te>напр. полов</te> (@cip: As an interim solution, I will put this
+<te>напр. полов</te>
+scope of <te> (from parentheses with "напр.") is <tg>
+(@cip: As an interim solution, I will put this
 into some attributes to the t-element under scrutiny!!! This is
 because of the unclear status of te-element in the gt_dict.)
 
