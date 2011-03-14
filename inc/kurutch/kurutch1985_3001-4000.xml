@@ -812,9 +812,8 @@
 	</E>
 	<E>
 		<L>ме̄вас</L>
-		<T>
-			<COMPARE>ме̄вв</LINK>
-		</T>
+		<COMPARE>ме̄вв</COMPARE>
+		<T>мелкий, мелок</T>
 		<X>ме̄вас аббьр</X>
 		<XT>мелкий дождь</XT>
 		<X>ме̄вас кырьйхэм на̄лль</X>
@@ -1155,9 +1154,8 @@
 	<E>
 		<L>мӣйтнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мӣйтче</LINK>
-		</T>
+		<COMPARE>мӣйтче</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мӣйтче</L>
@@ -1230,9 +1228,8 @@
 	<E>
 		<L>ме̄ллълэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ме̄лсэ</LINK>
-		</T>
+		<COMPARE>ме̄лсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ме̄лнэ</L>
