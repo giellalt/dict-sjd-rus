@@ -199,7 +199,7 @@ these commas are all replaced by COMMA already
 ===================
 
 7. conversion of parentheses inside <t>
-if the text in parentheses start with either the word "о" or "об" it is most likely a <re>, e.g.
+if the text in parentheses start with either the word "о" or "об" (but not with "о чём-л."!) it is most likely a <re>, e.g.
 <t>выделаться (о шкуре)</t>
 is to be converted into -->
 <re>о шкуре</re>
