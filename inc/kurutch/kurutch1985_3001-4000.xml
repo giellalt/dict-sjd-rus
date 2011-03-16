@@ -1257,9 +1257,8 @@
 	<E>
 		<L>ме̄лче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мэ̄лнэ</LINK>
-		</T>
+		<COMPARE>мэ̄лнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3097">
 		<L>ме̄лнэ</L>
@@ -1310,9 +1309,8 @@
 	<E>
 		<L>ме̄ӆӆьтхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ме̄ӆьтсэ</LINK>
-		</T>
+		<COMPARE>ме̄ӆьтсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ме̄ӆӆьтъесь</L>
@@ -1361,9 +1359,8 @@
 	<E>
 		<L>мӣӆтче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мӣӆтнэ</LINK>
-		</T>
+		<COMPARE>мӣӆтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мя̄ӆтант</L>
@@ -1409,9 +1406,8 @@
 	<E>
 		<L>ме̄ресьлаһтӭ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<COMPARE>ме̄рьсаһтӭ</LINK>
-		</T>
+		<COMPARE>ме̄рьсаһтӭ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ме̄рьсаһтӭ</L>
@@ -1579,30 +1575,26 @@
 	<E>
 		<L>ме̄рькнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ме̄ррьктэ</LINK>
-		</T>
+		<COMPARE>ме̄ррьктэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ме̄рькнэллэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<COMPARE>ме̄ррьктэллэ</LINK>
-		</T>
+		<COMPARE>ме̄ррьктэллэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ме̄рькнэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ме̄ррьктэлнэ</LINK>
-		</T>
+		<COMPARE>ме̄ррьктэлнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ме̄рькхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ме̄ррьктэ</LINK>
-		</T>
+		<COMPARE>ме̄ррьктэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мя̄рркай</L>
@@ -1850,9 +1842,8 @@
 	<E>
 		<L>мӣгсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мӣгклэ</LINK>
-		</T>
+		<COMPARE>мӣгклэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мӣгхэ</L>
@@ -1865,9 +1856,8 @@
 	<E>
 		<L>мӣгче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мӣгнэ</LINK>
-		</T>
+		<COMPARE>мӣгнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3136">
 		<L>мӣгкэй</L>
@@ -2060,7 +2050,7 @@
 		<L>мӣлса</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>IV</CLASS>
-		<T>милый (милая F_GENDER) сущ., любовь F_GENDER(о ком-л.)</T>
+		<T>милый (милая F_GENDER) сущ., любовь F_GENDER (о ком-л.)</T>
 		<X>мун мӣлса пӯдӭ</X>
 		<XT>приехал мой милый</XT>
 		<X>е̄рркъя мӣлса</X>
@@ -2166,9 +2156,8 @@
 	<E>
 		<L>мӣллтлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<COMPARE>мӣллтэ</LINK>
-		</T>
+		<COMPARE>мӣллтэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мӣллтлувнэ</L>
@@ -2368,9 +2357,8 @@
 	<E>
 		<L>мӣнтнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мӣнтче</LINK>
-		</T>
+		<COMPARE>мӣнтче</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мӣнтхэ</L>
@@ -2676,9 +2664,8 @@
 	<E>
 		<L>моадзье</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>моадзтэ</LINK>
-		</T>
+		<COMPARE>моадзтэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>моадзяй</L>
@@ -2809,9 +2796,8 @@
 	<E>
 		<L>моадтҍлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<COMPARE>моадтэ</LINK>
-		</T>
+		<COMPARE>моадтэ</COMPARE>
+		<T>xxx</T>
 		<X>ча̄дзь моадтҍлувэ</X>
 		<XT>вода замутилась</XT>
 	</E>
@@ -3131,9 +3117,8 @@
 	<E>
 		<L>моайкрэннтэ</L>
 		<CLASS>II,1*</CLASS>
-		<T>
-			<COMPARE>моайкрувнэ</LINK>
-		</T>
+		<COMPARE>моайкрувнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3247">
 		<L>моайкнэ</L>
@@ -3319,9 +3304,8 @@
 	<E>
 		<L>мо̄ӆӆьчтэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>моаӆьчхэ</LINK>
-		</T>
+		<COMPARE>моаӆьчхэ</COMPARE>
+		<T>xxx</T>
 		<X>мунн тӯльй мо̄ӆӆьчта</X>
 		<XT>я вымачиваю шкуру (чтобы она облезла)</XT>
 	</E>
@@ -3709,10 +3693,10 @@
 		<XT>быть совсем иным человеком</XT>
 		<X>эфт са̄ррнэ, лыһкэ мудта</X>
 		<XT>говорить одно, а делать другое</XT>
- </E>
- <E>
- <L>мудтма PL_NUMBER</L>
- <CLASS>IV</CLASS> 
+	</E>
+	<E>
+		<L>мудтма PL_NUMBER</L>
+		<CLASS>IV</CLASS>
 		<T>другой, иной сущ.</T>
 		<X>пя̄дцлушшэ мудтмэ баяс</X>
 		<XT>заботиться о других</XT>
@@ -3843,9 +3827,8 @@
 	<E>
 		<L>мӯцсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мӯһцлэ</LINK>
-		</T>
+		<COMPARE>мӯһцлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мӯцхуввэ</L>
@@ -3857,9 +3840,8 @@
 	<E>
 		<L>мецче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мецнэ</LINK>
-		</T>
+		<COMPARE>мецнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3300">
 		<L>мӯһцэй</L>
@@ -4388,9 +4370,8 @@
 	<E>
 		<L>муштче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>муштнэ</LINK>
-		</T>
+		<COMPARE>муштнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мушштлэ</L>
@@ -4455,9 +4436,8 @@
 	<E>
 		<L>мушьтнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мушштхэ</LINK>
-		</T>
+		<COMPARE>мушштхэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3338">
 		<L>мушштлэ</L>
@@ -4544,9 +4524,8 @@
 	<E>
 		<L>муэйнче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>муэйнънэ</LINK>
-		</T>
+		<COMPARE>муэйнънэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>муэйнънэ</L>
@@ -4705,9 +4684,8 @@
 	<E>
 		<L>мырръе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мыррдэдтэ</LINK>
-		</T>
+		<COMPARE>мыррдэдтэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мырръенне</L>
@@ -4723,15 +4701,13 @@
 	<E>
 		<L>мырхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мыррдэ</LINK>
-		</T>
+		<COMPARE>мыррдэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мырэч</L>
-		<T>
-			<COMPARE>мырряй</LINK>
-		</T>
+		<COMPARE>мырряй</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3358">
 		<L>мыррдэ</L>
@@ -4958,9 +4934,8 @@
 	<E>
 		<L>мэ̄нсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>мэ̄ннэ</LINK>
-		</T>
+		<COMPARE>мэ̄ннэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>мэ̄нхэ</L>
@@ -5047,9 +5022,8 @@
 	<E>
 		<L>мэӊтэ</L>
 		<CLASS>IV</CLASS>
-		<T>
-			<COMPARE>мэ̄нхэ</LINK>
-		</T>
+		<COMPARE>мэ̄нхэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3373">
 		<L>мэ̄ннэй</L>
@@ -5260,9 +5234,8 @@
 	<E>
 		<L>на̄ввьлье</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>наввьлдэ</LINK>
-		</T>
+		<COMPARE>наввьлдэ</COMPARE>
+		<T>xxx</T>
 		<X>лӯвьт на̄ввьлье</X>
 		<XT>прибить доску гвоздями</XT>
 	</E>
@@ -5937,8 +5910,8 @@
 		<XT>четыреста</XT>
 		<X>не̄льй тоафант</X>
 		<XT>четыре тысячи</XT>
-		</E>
-		<E>
+	</E>
+	<E>
 		<L>не̄льй PL_NUMBER</L>
 		<CLASS>II,1</CLASS>
 		<T>четвёрка</T>
@@ -6026,9 +5999,8 @@
 	<E>
 		<L>ня̄лксуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<COMPARE>ня̄ллкэ</LINK>
-		</T>
+		<COMPARE>ня̄ллкэ</COMPARE>
+		<T>xxx</T>
 		<X>пӯдзэ ня̄лксуввенҍ</X>
 		<XT>олени проголодались</XT>
 	</E>
@@ -6098,9 +6070,8 @@
 	<E>
 		<L>не̄ммлаһтӭ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<COMPARE>не̄ммдэ</LINK>
-		</T>
+		<COMPARE>не̄ммдэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>не̄ммлуввэ</L>
@@ -6256,9 +6227,8 @@
 	<E>
 		<L>нӣскче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нӣскнэ</LINK>
-		</T>
+		<COMPARE>нӣскнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нӣскчедтэ</L>
@@ -6345,9 +6315,8 @@
 	<E>
 		<L>ня̄шшнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>не̄шшьлувнэ</LINK>
-		</T>
+		<COMPARE>не̄шшьлувнэ</COMPARE>
+		<T>xxx</T>
 		<X>э̄ввтэль сыйтэнҍ е̄тткас ня̄шшнэнҍ</X>
 		<XT>раньше в сёлах на дорогах часто была непролазная грязь</XT>
 	</E>
@@ -6364,16 +6333,14 @@
 	<E>
 		<L>ня̄шшче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ня̄шшнэ</LINK>
-		</T>
+		<COMPARE>ня̄шшнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ня̄шшъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>не̄шшьлуввэ</LINK>
-		</T>
+		<COMPARE>не̄шшьлуввэ</COMPARE>
+		<T>xxx</T>
 		<X>маӈӈа та̄львэсьт ла̄мьп ня̄шшъенҍ</X>
 		<XT>после зимы болота превратились в трясины</XT>
 	</E>
@@ -6435,9 +6402,8 @@
 	<E>
 		<L>нёавсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нёаввлэ</LINK>
-		</T>
+		<COMPARE>нёаввлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нёавхуввэ</L>
@@ -6458,9 +6424,8 @@
 	<E>
 		<L>нёавче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нёавнэ</LINK>
-		</T>
+		<COMPARE>нёавнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3471">
 		<L>нёавнэ</L>
@@ -6671,9 +6636,8 @@
 	<E>
 		<L>нёаррпнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нёаррплуввэ</LINK>
-		</T>
+		<COMPARE>нёаррплуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нёаррпнэннтэ</L>
@@ -6687,9 +6651,8 @@
 	</E>
 	<E>
 		<L>нёаррпэ</L>
-		<T>
-			<COMPARE>нёаррьпай</LINK>
-		</T>
+		<COMPARE>нёаррьпай</COMPARE>
+		<T>xxx</T>
 		<X>поаййн лӣ нёаррпэ</X>
 		<XT>краска жидка</XT>
 	</E>
@@ -6730,9 +6693,8 @@
 	</E>
 	<E>
 		<L>нёаррьпэсь</L>
-		<T>
-			<COMPARE>нёаррп</LINK>
-		</T>
+		<COMPARE>нёаррп</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3494">
 		<L>нёаррплуввэ</L>
@@ -6868,9 +6830,8 @@
 	<E>
 		<L>нёаффклэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нёафксэ</LINK>
-		</T>
+		<COMPARE>нёафксэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3511">
 		<L>НЁАШШ</L>
@@ -7301,9 +7262,8 @@
 	<E>
 		<L>нӣййлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нӣйсэ</LINK>
-		</T>
+		<COMPARE>нӣйсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нӣйнэ</L>
@@ -7527,9 +7487,8 @@
 	<E>
 		<L>нӣлче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нӣлнэ</LINK>
-		</T>
+		<COMPARE>нӣлнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3563">
 		<L>нӣлнэ</L>
@@ -7603,9 +7562,8 @@
 	<E>
 		<L>ниммлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нимсэ-2</LINK>
-		</T>
+		<COMPARE>нимсэ-2</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ниммъе</L>
@@ -7643,9 +7601,8 @@
 	<E>
 		<L>нимче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нимнэ</LINK>
-		</T>
+		<COMPARE>нимнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нимэч</L>
@@ -7912,9 +7869,8 @@
 	<E>
 		<L>нӣзче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нӣзнэ</LINK>
-		</T>
+		<COMPARE>нӣзнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нӣсслуввэ</L>
@@ -8107,9 +8063,8 @@
 	<E>
 		<L>ноаҏҏтлаһтӭ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<COMPARE>ноаҏҏьтъе</LINK>
-		</T>
+		<COMPARE>ноаҏҏьтъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ноаҏҏтлуввэ</L>
@@ -8536,9 +8491,8 @@
 	<E>
 		<L>нӯһтҍлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нӯтҍсэ</LINK>
-		</T>
+		<COMPARE>нӯтҍсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нӯһтӭ</L>
@@ -8643,9 +8597,8 @@
 	<E>
 		<L>нӯллълэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нӯлсэ</LINK>
-		</T>
+		<COMPARE>нӯлсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нӯлсэ</L>
@@ -8753,9 +8706,8 @@
 	</E>
 	<E>
 		<L>нӯрръенне</L>
-		<T>
-			<COMPARE>нӯрэльт</LINK>
-		</T>
+		<COMPARE>нӯрэльт</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нӯршушшэ</L>
@@ -9483,9 +9435,8 @@
 	<E>
 		<L>нюаллълэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нюалсэ</LINK>
-		</T>
+		<COMPARE>нюалсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нюалсэ</L>
@@ -9526,9 +9477,8 @@
 	<E>
 		<L>ню̄лче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ню̄лнэ</LINK>
-		</T>
+		<COMPARE>ню̄лнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3715">
 		<L>нюалсэ</L>
@@ -9596,9 +9546,8 @@
 	<E>
 		<L>ню̄мче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ню̄мнэ</LINK>
-		</T>
+		<COMPARE>ню̄мнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3718">
 		<L>нюаммэй</L>
@@ -9670,9 +9619,8 @@
 	<E>
 		<L>ню̄ввлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ню̄всэ</LINK>
-		</T>
+		<COMPARE>ню̄всэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ню̄ввсэ</L>
@@ -9721,9 +9669,8 @@
 	<E>
 		<L>ню̄вче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ню̄внэ</LINK>
-		</T>
+		<COMPARE>ню̄внэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3729">
 		<L>ню̄внэ</L>
@@ -10458,9 +10405,8 @@
 	<E>
 		<L>ню̄зче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ню̄знэ</LINK>
-		</T>
+		<COMPARE>ню̄знэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ню̄ссъе</L>
@@ -10556,9 +10502,8 @@
 	<E>
 		<L>нӣвче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нӣвнэ</LINK>
-		</T>
+		<COMPARE>нӣвнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ня̄вант</L>
@@ -10706,11 +10651,10 @@
 	<E>
 		<L>нёадзтэдтэ</L>
 		<CLASS>I,1*</CLASS>
+		<COMPARE>ня̄дзе</COMPARE>
 		<RE>PRJAM_PEREN</RE>
 		<T tnumber="1">схватиться (друг с другом)</T>
-		<T tnumber="2">
-			<COMPARE>ня̄дзе</LINK>
-		</T>
+		<T tnumber="2">xxx</T>
 	</E>
 	<E>
 		<L>нёадзэль</L>
@@ -10730,16 +10674,14 @@
 	<E>
 		<L>нёазче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>нёазнэ</LINK>
-		</T>
+		<COMPARE>нёазнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ня̄дзьлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<COMPARE>ня̄дзе</LINK>
-		</T>
+		<COMPARE>ня̄дзе</COMPARE>
+		<T>xxx</T>
 		<X>кӣдт кӣдтӭ ня̄дзьлуввэ</X>
 		<XT>взяться за руки</XT>
 		<X>пе̄ннэ ня̄дзьлувэ ма̄лець лӣбпкэ</X>
@@ -10793,9 +10735,8 @@
 	<E>
 		<L>не̄дтлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>не̄днэ</LINK>
-		</T>
+		<COMPARE>не̄днэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>не̄дтъе</L>
@@ -10810,9 +10751,8 @@
 	<E>
 		<L>не̄дче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>не̄днэ</LINK>
-		</T>
+		<COMPARE>не̄днэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>нядант</L>
@@ -11074,9 +11014,8 @@
 	<E>
 		<L>ня̄ллкаслуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<COMPARE>ня̄лкэсмэ</LINK>
-		</T>
+		<COMPARE>ня̄лкэсмэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ня̄ллксэнне</L>
@@ -11222,10 +11161,9 @@
 	<E>
 		<L>няммъе</L>
 		<CLASS>III</CLASS>
+		<COMPARE>няммсэ</COMPARE>
 		<T>
-			<RE>PRJAM_PEREN</RE>
-			<COMPARE>няммсэ</LINK>
-		</T>
+			<RE>PRJAM_PEREN</RE>xxx</T>
 	</E>
 	<E>
 		<L>нямхэ</L>
@@ -11301,9 +11239,8 @@
 		<L>няфкхэсс</L>
 		<STEM>няфкхэз</STEM>
 		<CLASS>I</CLASS>
-		<T>
-			<COMPARE>няффьк</LINK>
-		</T>
+		<COMPARE>няффьк</COMPARE>
+		<T>xxx</T>
 		<X>няфкхэзэтҍ пырр ва̄нҍц</X>
 		<XT>скользкие места обходи</XT>
 		<X>няфкхэсс лӣ ва̄ннҍцэ</X>
@@ -12024,16 +11961,14 @@
 	<E>
 		<L>о̄лвче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>о̄лвнэ</LINK>
-		</T>
+		<COMPARE>о̄лвнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>о̄ллвъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оалвхуввэ</LINK>
-		</T>
+		<COMPARE>оалвхуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>о̄лльвъе</L>
@@ -12293,9 +12228,8 @@
 	<E>
 		<L>оанҍсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оаннҍлэ</LINK>
-		</T>
+		<COMPARE>оаннҍлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>о̄ннъе</L>
@@ -12315,9 +12249,8 @@
 	<E>
 		<L>о̄нче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>о̄нънэ</LINK>
-		</T>
+		<COMPARE>о̄нънэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>о̄нънэ</L>
@@ -12439,16 +12372,14 @@
 	<E>
 		<L>оанънэллэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<COMPARE>оанхэллэ</LINK>
-		</T>
+		<COMPARE>оанхэллэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оанънэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оанхэлнэ</LINK>
-		</T>
+		<COMPARE>оанхэлнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оанҍнэ</L>
@@ -12512,9 +12443,8 @@
 	<E>
 		<L>оаӈкхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оаӈӈкъе</LINK>
-		</T>
+		<COMPARE>оаӈӈкъе</COMPARE>
+		<T>xxx</T>
 		<X>оаӈкэһтҍ, вуайй копчнэдтэ выйе</X>
 		<XT>наст начал образовываться, можно собираться ехать</XT>
 	</E>
@@ -12695,9 +12625,8 @@
 	<E>
 		<L>о̄рръе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>о̄рхуввэ</LINK>
-		</T>
+		<COMPARE>о̄рхуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>о̄рхуввэ</L>
@@ -12716,16 +12645,14 @@
 	<E>
 		<L>о̄рхэдтэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<COMPARE>о̄рхуввэ</LINK>
-		</T>
+		<COMPARE>о̄рхуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>о̄рче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>о̄рнэ</LINK>
-		</T>
+		<COMPARE>о̄рнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="3943">
 		<L>оарсэ</L>
@@ -12827,9 +12754,8 @@
 	<E>
 		<L>оаҏтче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оаҏтнэ</LINK>
-		</T>
+		<COMPARE>оаҏтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оаҏтэдант</L>
@@ -13083,16 +13009,14 @@
 	<E>
 		<L>оасстлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<COMPARE>оасстъе-1</LINK>
-		</T>
+		<COMPARE>оасстъе-1</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оасстлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оастсэ</LINK>
-		</T>
+		<COMPARE>оастсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оасстъе</L>
@@ -13193,9 +13117,8 @@
 	<E>
 		<L>оассьтай</L>
 		<POS>PRED</POS>
-		<T>
-			<COMPARE>оассьтъялаш</LINK>
-		</T>
+		<COMPARE>оассьтъялаш</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оассьтъе</L>
@@ -13220,9 +13143,8 @@
 	<E>
 		<L>оассьтэлаһтӭ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<COMPARE>оассьтъе</LINK>
-		</T>
+		<COMPARE>оассьтъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оассьтэлуввэ</L>
@@ -13279,9 +13201,8 @@
 	<E>
 		<L>оазсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оассэ</LINK>
-		</T>
+		<COMPARE>оассэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оазхэ</L>
@@ -13294,9 +13215,8 @@
 	<E>
 		<L>оазче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оазнэ</LINK>
-		</T>
+		<COMPARE>оазнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оасслуввэ</L>
@@ -13413,16 +13333,14 @@
 	<E>
 		<L>оафксэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>ояффклэ</LINK>
-		</T>
+		<COMPARE>ояффклэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оафкче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<COMPARE>оафкнэ</LINK>
-		</T>
+		<COMPARE>оафкнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>оаффклэ</L>
