@@ -111,14 +111,16 @@ merged entry
 TAM-element = grammar info (aspect, etc.); scopus is mg-element
 (according to our discussion from 08.03.2011)!!!   ==> done
 
+=============================================
 (z. 324: scopus mg-element, according to our discussion from 08.03.2011) 
-<RE>PRJAM,PEREN</RE>   ==> done
-
-			<t pos="xxx" xml:lang="xxx">xxx</t>
-			<xg>
-				<x type="xxx">xxx</x>
-				<xt xml:lang="xxx">xxx</xt>
-			</xg>
+<RE>PRJAM,PEREN</RE> / <RE>PRJAM_PEREN</RE> / <RE>PEREN</RE> / etc.
+Scope remains as we discussed, but I have re-tagged this element (because I'll need <RE> for another field)
+___VERSCH_BED___ Scope is mg
+___ÜBERTRAGEN___ Scope is mg (<-- <RE>PEREN</RE>)
+___AUCH_ÜBERTRAGEN___ Scope is mg (<-- <RE>TOZHE_PEREN</RE>)
+___WÖRTLICH+ÜBERTRAGEN___ Scope is mg (<-- <RE>PRJAM_PEREN</RE>)
+ ==> ToDo
+==============================================
 
 examples of <x> with several translations:
 (101-500: z. 3258)
