@@ -9099,8 +9099,7 @@
 		<L>коабпкэнч</L>
 		<STEM>коабпка</STEM>
 		<CLASS>IV</CLASS>
-		<T>
-			<REGISTER>LASK</REGISTER>жёнушка</T>
+		<T>жёнушка RASK_REGISTER</T>
 	</E>
 	<E kur_ID="1678">
 		<L>КОАББЛЭ</L>
@@ -9635,7 +9634,7 @@
 		<L>коаһчей</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>V</CLASS>
-		<T>тот, кто приглашает кого (куда-л.) ; зазывала F_GENDER	 M_GENDER	<REGISTER>UST</REGISTER>
+		<T>тот, кто приглашает кого (куда-л.) ; зазывала F_GENDER	 M_GENDER	UST_REGISTER
 		</T>
 	</E>
 	<E>
