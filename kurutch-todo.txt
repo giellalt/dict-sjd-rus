@@ -207,7 +207,17 @@ because of the unclear status of te-element in the gt_dict.)
 
     ==> TODO
 
-===================  
+=================== 
+
+8. a few other <re>s (formely in parentheses inside <t>) have been tagged manually as ___RE x RE___ and should likewise be converted into an <re> element with scope on <tg> (see above)
+
+	==> TODO
+	
+8. a few other <te>s (formely in parentheses inside <t>) have been tagged manually as ___TE x TE___ and should likewise be converted into an <te> element with scope on <tg> (see above)
+
+	==> TODO
+	
+====================
 
 9. aspect pairs in <t> are always marked by / (slash), perfective aspect seems always to be first, e.g.
 <t>покрывать / покрыть</t>
