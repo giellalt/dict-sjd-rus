@@ -130,9 +130,12 @@
 					      or ends-with($current_l, 'ъе')
 					      or ends-with($current_l, 'ассьтэ')
 					      or ends-with($current_l, 'ювнэ')) then 'v' else
-					      if ((./DER[(./@type = 'STRAD_K') or (./@type = 'PONUD_K')])
-					      or (./T/RE = 'BESL') or (./T/TAM)) then 'v' else
-					      if (contains(., '_GENDER') or contains(., '_NUMBER')) then 'n' else
+					      if ((./DER[(./@type = 'STRAD_K') 
+					      or (./@type = 'PONUD_K')])
+					      or (./T/RE = '___UNPERS___') 
+					      or (./T/TAM)) then 'v' else
+					      if (contains(., '_GENDER') 
+					      or contains(., '_NUMBER')) then 'n' else
 					      'xxx'"/>
 			
 		      </xsl:if>
