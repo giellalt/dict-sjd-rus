@@ -195,46 +195,19 @@ the problem: F_GENDER here tags only one part of the phrasal translation
   ==> TODO
 ==================
 
-6. Problem: Kommas innerhalb von Klammern trennen keine <t>-Elemente
-these commas are all replaced by COMMA already
-  ==> done
-===================
-
 7. conversion of parentheses inside <t>
-if the text in parentheses start with either the word "о" or "об" (but not with "о чём-л." or "о ком-л."!) it is most likely a <re>, e.g.
-<t>выделаться (о шкуре)</t>
-is to be converted into -->
-<re>о шкуре</re>
-<t>выделаться</t>
-==> we postpone this convertion, because the scope of <re> (from parentheses with "o", etc.) is not at all always <tg>
+if the text in parentheses start with either the word "(о " or "(об " it should be converted into an <re> element with scope on <tg>
 
-if the text in parentheses start with the word "напр." (="for example") it is most likely a <te>, e.g.
-<t>надраивание</t>
-<t>натирка (напр. полов)</t>
-is to be converted into -->
-<t>надраивание</t>
-<t>натирка</t>
-<te>напр. полов</te>
-==> we postpone this convertion, because the scope of <te> (from parentheses with "напр.") is perhaps not always <tg>
+	==> TODO
+	
+if the text in parentheses start with the word "(напр. " it should be converted into an <te> element with scope on <tg>
 (@cip: As an interim solution, I will put this
 into some attributes to the t-element under scrutiny!!! This is
 because of the unclear status of te-element in the gt_dict.)
 
-  ==> TODO
+    ==> TODO
 
-8. grammatical indicators inside <t>
-ж F(emininum)
-м M(asculinum)
-с N(eutrum)
-мн. Pl(uralis)
-e.g.
-<t>боль ж (душевная)</t>
-<t>дождь м</t>
-<t>будни мн.</t>
-most of them are already tagged as F_GENDER, PL_NUMBER, etc.
-
-  ==> TODO
-================
+===================  
 
 9. aspect pairs in <t> are always marked by / (slash), perfective aspect seems always to be first, e.g.
 <t>покрывать / покрыть</t>
