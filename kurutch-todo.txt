@@ -404,3 +404,31 @@ text-nodes and LINK-element nodes.
   
 ====================================
 
+LEXICON GROUP
+there is a lot of comprehensive lexicon-like information included in the translations, these should go into a new group under <mg>
+rule: convert text between the tags ___LEXICON x LEXICON___ into 
+<mg>
+<lexicon>
+<lex>x</lex>
+</lexicon>
+</mg>
+Example
+<e kur_ID="6674">
+      <lg>
+         <l pos="MEZHD">уш-уш-уш</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <lexicon>
+         <lex>возглас при ощущении холода</lex>
+         </lexicon>
+         <tg>
+            <t>ой!</t>
+            <t>ух!</t>
+         </tg>
+      </mg>
+   </e>
+   
+  ==> ToDo
