@@ -75,7 +75,7 @@
 		<L>та̄тнэ</L>
 		<CLASS>III</CLASS>
 		<T>хотеть, жаждать, желать чего и с неопр ; мечтать о ком-чём и с неопр.<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -110,9 +110,8 @@
 	<E>
 		<L>тоаһтъюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоаһтъе</LINK>
-		</T>
+		<COMPARE>тоаһтъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6007">
 		<L>ТА̄ЙЕ</L>
@@ -148,7 +147,7 @@
 		<STEM>та̄йймуж</STEM>
 		<CLASS>I</CLASS>
 		<T tnumber="1">сумасшествие</T>
-		<T tnumber="2">чушь<GENDER>F</GENDER>, ерунда, безрассудство</T>
+		<T tnumber="2">чушь F_GENDER, ерунда, безрассудство</T>
 	</E>
 	<E>
 		<L>та̄ййшэ</L>
@@ -184,16 +183,15 @@
 		<CLASS>II,1*</CLASS>
 		<T tnumber="1">побредить<TAM>NEDOLGO</TAM>
 		</T>
-		<T tnumber="2">повести себя безрассудно<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T tnumber="2">повести себя безрассудно<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 		<T tnumber="3">понять, осознать, почувствовать что</T>
 	</E>
 	<E>
 		<L>тоаййдэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">та̄йе</LINK>
-		</T>
+		<COMPARE>та̄йе</COMPARE>
+		<T>xxx</T>
 		<X>тоаййдэ не̄льк</X>
 		<XT>чувствовать голод</XT>
 		<X>со̄нн эйй тоайедҍ чӯдзьмуж</X>
@@ -285,7 +283,7 @@
 		<L>ТА̄ЛЛ</L>
 		<STEM>та̄л</STEM>
 		<CLASS>I,1</CLASS>
-		<T>медведь<GENDER>M</GENDER>
+		<T>медведь M_GENDER
 		</T>
 		<X>вӣллькесь та̄лл</X>
 		<XT>белый медведь</XT>
@@ -359,9 +357,8 @@
 	<E>
 		<L>та̄ллвсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">та̄лльвлуввэ</LINK>
-		</T>
+		<COMPARE>та̄лльвлуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>та̄ллвшэ</L>
@@ -387,7 +384,7 @@
 		<L>та̄лльвдэлнэ</L>
 		<CLASS>III</CLASS>
 		<T>проводить зиму (где-л.)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -401,7 +398,7 @@
 		<L>та̄лльвлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>наступать (о зиме)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6025">
@@ -456,36 +453,33 @@
 	<E>
 		<L>та̄мчсэ</L>
 		<CLASS>III</CLASS>
-		<T>поточить что-л. бруском<TAM>NEDOLGO,NEMNOGO</TAM>
+		<T>поточить что-л. бруском<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>та̄мчхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">та̄ммче</LINK>
-		</T>
+		<DER type="PONUD_K">та̄ммче</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тоаммчнэ</L>
 		<CLASS>III</CLASS>
 		<T>точить что-л. бруском<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тоаммчье</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">та̄ммче</LINK>
-		</T>
+		<DER type="STRAD_K">та̄ммче</DER>
+		<T>xxx></T>
 	</E>
 	<E>
 		<L>тоаммчьюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоаммчье</LINK>
-		</T>
+		<COMPARE>тоаммчье</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6031">
 		<L>та̄ммчлэ</L>
@@ -656,9 +650,8 @@
 	<E>
 		<L>тарвхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">таррвэ</LINK>
-		</T>
+		<DER type="PONUD_K">таррвэ</DER>
+		<T>xxx</T>
 		<X>бэдт вэ̄ннас тарвхэ</X>
 		<XT>нужно, чтобы лодку смолили</XT>
 	</E>
@@ -672,9 +665,8 @@
 	<E>
 		<L>таррвдэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">таррвэ</LINK>
-		</T>
+		<COMPARE>таррвэ</COMPARE>
+		<T>xxx</T>
 		<X>таррвдэ вэ̄ннас</X>
 		<XT>смолить лодку</XT>
 		<X>таррвда вэнс</X>
@@ -684,7 +676,7 @@
 		<L>таррвдэллэ</L>
 		<CLASS>I,1*</CLASS>
 		<T>смолить что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -692,7 +684,7 @@
 		<CLASS>III</CLASS>
 		<T>считать что-л. сильно просмолённым</T>
 		<X>мунн тубэркэтҍ таррвша</X>
-		<XT>я считаю тоборки LOOKUP___тубэрк___LOOKUP слишком просмолёнными</XT>
+		<XT>я считаю тоборки ___LOOKUPтубэркLOOKUP___ слишком просмолёнными</XT>
 	</E>
 	<E>
 		<L>таррвэ</L>
@@ -716,15 +708,14 @@
 	<E>
 		<L>тэрвнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тэрвче</LINK>
-		</T>
+		<COMPARE>тэрвче</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тэрвче</L>
 		<CLASS>III</CLASS>
 		<T>смолить что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн тэрвач вэ̄ннас</X>
 		<XT>он смолит лодку</XT>
@@ -739,9 +730,8 @@
 	<E>
 		<L>тэ̄ррвъюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тэ̄ррвъе</LINK>
-		</T>
+		<COMPARE>тэ̄ррвъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6051">
 		<L>ТА̄РРЬЕ</L>
@@ -766,25 +756,23 @@
 	<E>
 		<L>та̄рьйсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">та̄ррьйлэ</LINK>
-		</T>
+		<COMPARE>та̄ррьйлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>та̄рьйхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">та̄ррье</LINK>
-		</T>
+		<DER type="PONUD_K">та̄ррье</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тоарьйнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">терпеть, переносить что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">терпеть кого-что мириться с чем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6052">
@@ -841,9 +829,8 @@
 	</E>
 	<E>
 		<L>та̄ррьмъя</L>
-		<T>
-			<LINK type="TOZHE_SHTO">та̄ррьмъенч</LINK>
-		</T>
+		<COMPARE>та̄ррьмъенч</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6059">
 		<L>ТАҎҎЧЕ</L>
@@ -866,9 +853,8 @@
 	<E>
 		<L>таҏчхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">таҏҏче</LINK>
-		</T>
+		<DER type="STRAD_K">таҏҏче</DER>
+		<T>xxx></T>
 		<X>са̄вьн пла̄тьясьт таҏчхуввенҍ</X>
 		<XT>швы на платье лопнули</XT>
 		<X>со̄нн та̄рьм таҏчхувэ</X>
@@ -898,7 +884,7 @@
 		<L>тэ̄ҏҏчлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>стукаться, биться чем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 #
 <X>тэ̄ҏҏчлувнэ вуйвэнҍ вэсьт сте̄ннэ</X>
@@ -916,9 +902,8 @@
 	<E>
 		<L>тэ̄ҏҏчье</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">таҏчхэ</LINK>
-		</T>
+		<COMPARE>таҏчхэ</COMPARE>
+		<T>xxx</T>
 		<X>стоакан тэ̄ҏҏчей</X>
 		<XT>стакан лопнул</XT>
 		<X>кӣммьн тэ̄ҏҏчей</X>
@@ -943,7 +928,7 @@
 		<L>тэҏчнэ</L>
 		<CLASS>III</CLASS>
 		<T>лопаться, трещать, давать трещины<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>пӯлле ча̄зесьт тэгка оассьтэ тэҏчнэв</X>
 		<XT>от горячей воды эта посуда лопается</XT>
@@ -1013,9 +998,8 @@
 	<E>
 		<L>та̄сстъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">та̄ссьтлуввэ</LINK>
-		</T>
+		<COMPARE>та̄ссьтлуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>та̄ссьтлуввэ</L>
@@ -1028,7 +1012,7 @@
 		<L>та̄ссьтлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>появляться (о звёздах)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6067">
@@ -1047,7 +1031,7 @@
 		<L>ТА̄ССЭМ</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>V</CLASS>
-		<T>ремень<GENDER>M</GENDER>, пояс (мужской, из юфти или яловой кожи, шириной до 10 сантиметр застегивается металлическими пряжками с орнаментом. Праздничный пояс украшается орнаментом из металла или кости ; с левой стороны к поясу на цепочках прикрепляются ножны, с правой - кожаный мешочек для бумаг и т. п.)</T>
+		<T>ремень M_GENDER, пояс ___LEXICONмужской COMMA из юфти или яловой кожи COMMA шириной до 10 сантиметр застегивается металлическими пряжками с орнаментом. Праздничный пояс украшается орнаментом из металла или кости SEMICOLON с левой стороны к поясу на цепочках прикрепляются ножны COMMA с правой - кожаный мешочек для бумаг и т. п.LEXICON___</T>
 		<X>та̄ссэм пуалхэ</X>
 		<XT>застегнуть ремень</XT>
 		<X>та̄ссэм ныййп</X>
@@ -1123,7 +1107,7 @@
 		<L>ТА̄ХХЬТ</L>
 		<STEM>та̄хьт</STEM>
 		<CLASS>II,1</CLASS>
-		<T>кость<GENDER>ж</GENDER>
+		<T>кость  F_GENDER
 		</T>
 		<X>лэ̄дзэ тоахьтэ райя</X>
 		<XT>промокнуть до костей</XT>
@@ -1202,15 +1186,14 @@
 	<E>
 		<L>те̄дсэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>узнавать, разузнавать что<TAM>INOGDA,BYVALO</TAM>
+		<T>узнавать, разузнавать что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>те̄дтлэннтэ</L>
 		<CLASS>II,1*</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">те̄дсэллэ</LINK>
-		</T>
+		<COMPARE>те̄дсэллэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>те̄дтмушш</L>
@@ -1231,9 +1214,8 @@
 	<E>
 		<L>тӣдтъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">тӣдтэ</LINK>
-		</T>
+		<DER type="STRAD_K">тӣдтэ</DER>
+		<T>xxx></T>
 	</E>
 	<E>
 		<L>тӣдтӭ</L>
@@ -1313,7 +1295,7 @@
 		<L>ТЕ̄ҺКЬ</L>
 		<STEM>те̄кь</STEM>
 		<CLASS>I,1</CLASS>
-		<T>мякоть<GENDER>ж</GENDER>
+		<T>мякоть  F_GENDER
 		</T>
 		<X>те̄һкь вуэннч</X>
 		<XT>мясо без костей</XT>
@@ -1359,16 +1341,15 @@
 	<E>
 		<L>те̄тҍхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">те̄һтӭ</LINK>
-		</T>
+		<DER type="PONUD_K">те̄һтӭ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӣтҍнэ</L>
 		<CLASS>III</CLASS>
 		<T>
 			 ___WÖRTLICH+ÜBERTRAGEN___ натыкаться на кого-что ; попадаться кому<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн тӣтҍнэ кнӣгасьт тыгквэн юртэ э̄л</X>
 		<XT>мне попадались в книге интересные мысли</XT>
@@ -1482,7 +1463,7 @@
 		<CLASS>III</CLASS>
 		<T>
 			 ___UNPERS___ темнеть<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -1548,7 +1529,7 @@
 		<L>ТЕ̄ННҌК</L>
 		<STEM>те̄нҍк</STEM>
 		<CLASS>II,1</CLASS>
-		<T>деньги<NUMBER>PL</NUMBER>
+		<T>деньги PL_NUMBER
 		</T>
 		<X>шӯрр те̄ннҍк</X>
 		<XT>большие деньги</XT>
@@ -1646,9 +1627,8 @@
 	<E>
 		<L>тя̄ррмъюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тя̄ррмъе</LINK>
-		</T>
+		<COMPARE>тя̄ррмъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6113">
 		<L>ТЕ̄РРЭ</L>
@@ -1663,7 +1643,7 @@
 		<L>те̄рнэ</L>
 		<CLASS>III</CLASS>
 		<T>бежать (о стаде)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>чуэз тоаяйв те̄рант югке гоаррэ</X>
 		<XT>стадо часто разбегается в разные стороны</XT>
@@ -1671,18 +1651,16 @@
 	<E>
 		<L>те̄рръе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">те̄ррэ</LINK>
-		</T>
+		<DER type="STRAD_K">те̄ррэ</DER>
+		<T>xxx></T>
 		<X>чуэз э̄ххьтэ те̄ррэй</X>
 		<XT>стадо собрано</XT>
 	</E>
 	<E>
 		<L>те̄рхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">те̄рхэ</LINK>
-		</T>
+		<DER type="STRAD_K">те̄рхэ</DER>
+		<T>xxx></T>
 		<X>чуэз те̄рхувэ э̄ххьтэ</X>
 		<XT>стадо собралось в кучу</XT>
 	</E>
@@ -1702,7 +1680,7 @@
 	<E>
 		<L>те̄рхэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>гнать (стадо с помощью собак)<TAM>INOGDA,BYVALO</TAM>
+		<T>гнать (стадо с помощью собак)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6114">
@@ -1788,7 +1766,7 @@
 		<CLASS>II,1</CLASS>
 		<T>рубить, разрубать / разрубить что (топором)</T>
 		<X>те̄ҏҏпэ мӯрэтҍ куэдҍ гӯрэсьт</X>
-		<XT>рубить дрова около вежи LOOKUP___куэдтҍ___LOOKUP 
+		<XT>рубить дрова около вежи ___LOOKUPкуэдтҍLOOKUP___ 
 		</XT>
 		<X>тэ̄ҏҏпэ кэ̄ллм кӯль куськэ-куськэ</X>
 		<XT>разрубить мороженую рыбу на куски</XT>
@@ -1797,21 +1775,20 @@
 		<L>те̄ҏпнэ</L>
 		<CLASS>III</CLASS>
 		<T>рубить, разрубать что (топором)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>те̄ҏпсэ</L>
 		<CLASS>III</CLASS>
-		<T>порубить что (топором)<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T>порубить что (топором)<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>те̄ҏпхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">те̄ҏҏпэ</LINK>
-		</T>
+		<DER type="STRAD_K">те̄ҏҏпэ</DER>
+		<T>xxx></T>
 		<X>кэллм кӯлль пугк те̄ҏпхувэ куськэ-куськэ</X>
 		<XT>мороженая рыба вся порублена на куски</XT>
 		<X>мунн те̄ҏпхувве</X>
@@ -1820,23 +1797,21 @@
 	<E>
 		<L>те̄ҏпхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">те̄ҏҏпэ</LINK>
-		</T>
+		<DER type="PONUD_K">те̄ҏҏпэ</DER>
+		<T>xxx</T>
 		<X>бэдт мӯрэтҍ те̄ҏпхэ</X>
 		<XT>нужно, чтобы дрова порубили</XT>
 	</E>
 	<E>
 		<L>те̄ҏпче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">те̄ҏпнэ</LINK>
-		</T>
+		<COMPARE>те̄ҏпнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>те̄ҏпчедтэ</L>
 		<CLASS>I*,1</CLASS>
-		<T>заниматься рубкой чего, рубить, разрубать что (топором - в настоящий момент)</T>
+		<T>заниматься рубкой чего, рубить, разрубать что (топором) (в настоящий момент)</T>
 	</E>
 	<E>
 		<L>те̄ҏҏплэ</L>
@@ -1846,24 +1821,22 @@
 	<E>
 		<L>те̄ҏҏпъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">те̄ҏпхуввэ</LINK>
-		</T>
+		<COMPARE>те̄ҏпхуввэ</COMPARE>
+		<T>xxx</T>
 		<X>тӯрк те̄ҏҏпъенҍ</X>
 		<XT>ветки порублены</XT>
 	</E>
 	<E>
 		<L>те̄ҏҏпъюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">те̄ҏпхуввэ</LINK>
-		</T>
+		<COMPARE>те̄ҏпхуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6128">
 		<L>ТЕТРАДТҌ</L>
 		<STEM>тетрадь</STEM>
 		<CLASS>I</CLASS>
-		<T>тетрадь<GENDER>ж</GENDER>
+		<T>тетрадь  F_GENDER
 		</T>
 		<X>чуэйй тетрадтҍ</X>
 		<XT>тетрадь в линейку</XT>
@@ -1931,7 +1904,7 @@
 		</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ толстеть, полнеть<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -1980,7 +1953,7 @@
 	<E>
 		<L>тӣввтътэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">наполнить,. заполнить что</T>
+		<T tnumber="1">наполнить, заполнить что</T>
 		<X>нӯраш тӣввтътэнҍ клуб</X>
 		<XT>молодёжь заполнила клуб</XT>
 		<T tnumber="2">выполнить что</T>
@@ -1988,9 +1961,8 @@
 	<E>
 		<L>тӣввтъюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣввтъе</LINK>
-		</T>
+		<COMPARE>тӣввтъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӣввтэ</L>
@@ -2030,24 +2002,23 @@
 		<L>тӣвтнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">наполняться, заполняться кем-чем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>е̄мьперь тӣвтант мурьегуэйм</X>
 		<XT>ведро заполняется ягодами</XT>
 		<T tnumber="2">выполняться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">
 			 ___UNPERS___ хватать чего<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тӣвтсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣввттэ</LINK>
-		</T>
+		<COMPARE>тӣввттэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӣвтхэ</L>
@@ -2072,17 +2043,16 @@
 	<E>
 		<L>тӣвтхэлнэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">наполнять, заполнять что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">наполнять, заполнять что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">выполнять что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">выполнять что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тӣвтче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣвтнэ</LINK>
-		</T>
+		<COMPARE>тӣвтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6135">
 		<L>тӣввтлуввэ</L>
@@ -2164,9 +2134,8 @@
 	<E>
 		<L>тӣввъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣвхуввэ</LINK>
-		</T>
+		<COMPARE>тӣвхуввэ</COMPARE>
+		<T>xxx</T>
 		<X>сыйй тӣввъенҍ мунэнҍ</X>
 		<XT>и их навестил</XT>
 	</E>
@@ -2174,7 +2143,7 @@
 		<L>тӣвнэ</L>
 		<CLASS>III</CLASS>
 		<T>навещать, посещать, проведывать кого, наведываться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>бэдт тоайва тӣвнэ кнӣга ла̄фьк</X>
 		<XT>нужно почаще наведываться в книжный магазин</XT>
@@ -2182,44 +2151,40 @@
 	<E>
 		<L>тӣвнэдтэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>навещать (посещать, проведывать) друг друга, наведываться друг к другу</T>
+		<T>навещать (посещать COMMA проведывать) друг друга, наведываться друг к другу</T>
 		<X>мыйй со̄нэнҍ тӣвнэдтэпь</X>
 		<XT>мы с ним навещаем друг друга</XT>
 	</E>
 	<E>
 		<L>тӣвсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣввлэ</LINK>
-		</T>
+		<COMPARE>тӣввлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӣвхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">тӣввэ</LINK>
-		</T>
+		<DER type="STRAD_K">тӣввэ</DER>
+		<T>xxx></T>
 		<X>мунн тӣвхувве</X>
 		<XT>меня проведали</XT>
 	</E>
 	<E>
 		<L>тӣвхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тӣввэ</LINK>
-		</T>
+		<DER type="PONUD_K">тӣввэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӣвче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣвнэ</LINK>
-		</T>
+		<COMPARE>тӣвнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӣвэч</L>
 		<POS>PRED</POS>
-		<T>любитель навещать (посещать, проведывать) кого-что</T>
+		<T>любитель навещать (посещать COMMA проведывать) кого-что</T>
 		<X>со̄нн лӣ пэре тӣвэч</X>
 		<XT>он большой любитель навещать (кого-л.)</XT>
 	</E>
@@ -2417,9 +2382,8 @@
 	<E>
 		<L>тӣһтъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">тӣһтэ</LINK>
-		</T>
+		<DER type="STRAD_K">тӣһтэ</DER>
+		<T>xxx></T>
 		<X>вӯзь пугк тӣһтъенҍ</X>
 		<XT>все оленята затаврены</XT>
 		<X>чуэкас тӣһтэй</X>
@@ -2438,31 +2402,28 @@
 		<L>тӣтнэ</L>
 		<CLASS>III</CLASS>
 		<T>таврить кого, обозначать, помечать, отмечать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тӣтсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣһтлэ</LINK>
-		</T>
+		<COMPARE>тӣһтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӣтхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тӣһтэ</LINK>
-		</T>
+		<DER type="PONUD_K">тӣһтэ</DER>
+		<T>xxx</T>
 		<X>бэдт оасскэтҍ тӣтхэ</X>
 		<XT>нужно сделать метки на белье</XT>
 	</E>
 	<E>
 		<L>тӣтче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣтнэ</LINK>
-		</T>
+		<COMPARE>тӣтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6174">
 		<L>тӣһтлэ</L>
@@ -2604,7 +2565,7 @@
 	<E>
 		<L>тӣрвхэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>поздравлять кого с чем<TAM>INOGDA,BYVALO</TAM>
+		<T>поздравлять кого с чем<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2698,20 +2659,19 @@
 		<L>тӣжнэ</L>
 		<CLASS>III</CLASS>
 		<T>чудить<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тӣжсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӣшшлэ</LINK>
-		</T>
+		<COMPARE>тӣшшлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӣшшлэ</L>
 		<CLASS>III</CLASS>
-		<T>почудить<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T>почудить<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2797,9 +2757,8 @@
 	<E>
 		<L>тоаваслуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоавасмэ</LINK>
-		</T>
+		<COMPARE>тоавасмэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тоавасмэ</L>
@@ -2858,7 +2817,7 @@
 		<L>ТОАВВРЭШШ</L>
 		<STEM>тоавврэж</STEM>
 		<CLASS>I</CLASS>
-		<T>друг, приятель<GENDER>M</GENDER>, товарищ</T>
+		<T>друг, приятель M_GENDER, товарищ</T>
 		<X>вуэммь тоавврэшш</X>
 		<XT>старый друг</XT>
 		<X>шко̄льнэ тоавврэж</X>
@@ -2878,7 +2837,7 @@
 	<E>
 		<L>тоавврэжхувсэ</L>
 		<CLASS>III</CLASS>
-		<T>лишиться друга, приятеля, товарища<TAM>VDRUG,NEOZHIDANNO</TAM>
+		<T>лишиться друга, приятеля, товарища<TAM>VDRUG_NEOZHIDANNO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2896,7 +2855,7 @@
 		<L>тоавврэшшлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>обзаводиться другом, приятелем, товарищем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6210">
@@ -2946,7 +2905,7 @@
 		<L>тоагкрэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>вдавливаться, прогибаться (от удара)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -2958,7 +2917,7 @@
 	<E>
 		<L>тоагьрсэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>вдавливать что (ударом)<TAM>INOGDA,BYVALO</TAM>
+		<T>вдавливать что (ударом)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -3030,7 +2989,7 @@
 #
 <X>тоагэ соннӭ я чуэкас!</X>
 		<XT>туда ему и дорбга!</XT>
-		<X>тоагэ лӯдт кыррт,ко̄з со̄н вулкхэшь</X>
+		<X>тоагэ лӯдт кыррт, ко̄з со̄н вулкхэшь</X>
 		<XT>POSLOVICA пуля [всегда] летит туда, куда её послали</XT>
 	</E>
 	<E kur_ID="6227">
@@ -3119,7 +3078,7 @@
 	<E kur_ID="6237">
 		<L>ТОАЙЙТЭ</L>
 		<CLASS>II,1</CLASS>
-		<T tnumber="1">мыть/вымыть (мясо, рыбу)<TAM>SLEGKA</TAM>
+		<T tnumber="1">мыть/вымыть (мясо COMMA рыбу)<TAM>SLEGKA</TAM>
 		</T>
 		<X>тоайт вуэнч</X>
 		<XT>вымой мясо</XT>
@@ -3130,16 +3089,15 @@
 	<E>
 		<L>тоаййтлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">тоаййтэ</LINK>
-		</T>
+		<DER type="STRAD_K">тоаййтэ</DER>
+		<T>xxx></T>
 		<X>оассэ нюэзельт тоаййтлуввенҍ</X>
 		<XT>бельё плохо выполоскалось</XT>
 	</E>
 	<E>
 		<L>тоаййтлэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">вымыть (мясо, рыбу)<TAM>BYSTRO</TAM>
+		<T tnumber="1">вымыть (мясо COMMA рыбу)<TAM>BYSTRO</TAM>
 		</T>
 		<T tnumber="2">выполоскать (бельё)<TAM>BYSTRO</TAM>
 		</T>
@@ -3147,40 +3105,36 @@
 	<E>
 		<L>тоайтнэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">мыть (мясо, рыбу)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">мыть (мясо COMMA рыбу)<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">полоскать (бельё)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тоайтсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоаййтлэ</LINK>
-		</T>
+		<COMPARE>тоаййтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>то̄айтхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тоаййтэ</LINK>
-		</T>
+		<DER type="PONUD_K">тоаййтэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>то̄ййтъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоаййтлуввэ</LINK>
-		</T>
+		<COMPARE>тоаййтлуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>то̄ййтъюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоаййтлуввэ</LINK>
-		</T>
+		<COMPARE>тоаййтлуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6238">
 		<L>ТОАЙКЭН</L>
@@ -3211,7 +3165,7 @@
 	<E kur_ID="6242">
 		<L>тоала</L>
 		<T>
-			<LINK TYPE="OT">тоалэнч LOOKUP___та̄лл___LOOKUP 
+			<LINK TYPE="OT">тоалэнч ___LOOKUPта̄ллLOOKUP___ 
 			</LINK>
 		</T>
 	</E>
@@ -3282,7 +3236,7 @@
 		<L>тоармнэ</L>
 		<CLASS>III</CLASS>
 		<T>портить кого-что, приводить что-л. в негодность<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>то̄нн тоармнак парна</X>
 		<XT>ты портишь ребёнка</XT>
@@ -3296,16 +3250,15 @@
 	<E>
 		<L>тоармхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">тоаррмэ</LINK>
-		</T>
+		<DER type="STRAD_K">тоаррмэ</DER>
+		<T>xxx></T>
 		<X>машина тоармхувэ</X>
 		<XT>машину привели в негодность</XT>
 	</E>
 	<E>
 		<L>тоармэч</L>
 		<POS>PRED</POS>
-		<T>тот, у кого вещи часто приходят в негодность</T>
+		<T>___LEXICONтот COMMA у кого вещи часто приходят в негодностьLEXICON___</T>
 	</E>
 	<E>
 		<L>то̄ррмсэллэ</L>
@@ -3318,15 +3271,14 @@
 	<E>
 		<L>то̄ррмсэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>портиться, приходить в негодность<TAM>INOGDA,BYVALO</TAM>
+		<T>портиться, приходить в негодность<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>то̄ррмъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоармхуввэ</LINK>
-		</T>
+		<COMPARE>тоармхуввэ</COMPARE>
+		<T>xxx</T>
 		<X>пла̄тья то̄ррмэй</X>
 		<XT>платье прищло в негодность</XT>
 	</E>
@@ -3351,9 +3303,8 @@
 	<E>
 		<L>тоаҏькхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">то̄ҏҏькэ</LINK>
-		</T>
+		<DER type="STRAD_K">то̄ҏҏькэ</DER>
+		<T>xxx></T>
 		<X>е̄мьперь тоаҏькхувэ</X>
 		<XT>ведро испоганили</XT>
 	</E>
@@ -3361,7 +3312,7 @@
 		<L>то̄ҏҏклэ</L>
 		<CLASS>III</CLASS>
 		<T>поганить, портить что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -3373,15 +3324,18 @@
 		<L>то̄ҏҏксэлнэ</L>
 		<CLASS>III</CLASS>
 		<T>пачкаться, портиться (напр. о посуде)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>то̄ҏҏкъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоаҏькхуввэ</LINK>
-		</T>то̄ҏҏькэ<CLASS>II,1</CLASS>
+		<COMPARE>тоаҏькхуввэ</COMPARE>
+		<T>xxx</T>
+		</E>
+		<E>
+		<L>то̄ҏҏькэ</L>
+		<CLASS>II,1</CLASS>
 		<T>поганить / испоганить, портить / испортить что</T>
 	</E>
 	<E kur_ID="6254">
@@ -3436,7 +3390,7 @@
 		<L>ТОАССЬК</L>
 		<STEM>тоаськ</STEM>
 		<CLASS>II,1</CLASS>
-		<T>грусть<GENDER>F</GENDER>, тоска, печаль<GENDER>ж</GENDER>
+		<T>грусть F_GENDER, тоска, печаль  F_GENDER
 		</T>
 		<X>тоасськ мыннӭ вырэ</X>
 		<XT>на меня напала тоска</XT>
@@ -3474,7 +3428,7 @@
 		<L>тоассктэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>грустить, тосковать, печалиться о ком-чём<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -3490,9 +3444,8 @@
 	<E>
 		<L>тоасськай</L>
 		<POS>PRED</POS>
-		<T>
-			<LINK type="TOZHE_SHTO">тоаскэч</LINK>
-		</T>
+		<COMPARE>тоаскэч</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тоасськлаһтӭ</L>
@@ -3531,7 +3484,7 @@
 		<L>ТО̄ҺП</L>
 		<STEM>то̄бп</STEM>
 		<CLASS>II,1</CLASS>
-		<T>ножны<NUMBER>PL</NUMBER>(футляр для охотничьего ножа, выдолбленный обычно из целого куска берёзы и обтянутый юфтью, может быть сделан и из двух половинок, сшитых оленьими жилами ; прикрепляется к кожаному поясу цепочками)</T>
+		<T>ножны PL_NUMBER ___LEXICONфутляр для охотничьего ножа COMMA выдолбленный обычно из целого куска берёзы и обтянутый юфтью COMMA может быть сделан и из двух половинок COMMA сшитых оленьими жилами SEMICOLON прикрепляется к кожаному поясу цепочкамиLEXICON___</T>
 		<X>пый ныйп то̄һпе</X>
 		<XT>вложи нож в ножны</XT>
 		<X>мӯрр то̄һп</X>
@@ -3589,22 +3542,20 @@
 		<L>то̄йтнэ</L>
 		<CLASS>III</CLASS>
 		<T>добираться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>то̄йтсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">то̄ййтлэ</LINK>
-		</T>
+		<COMPARE>то̄ййтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>то̄йтче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">то̄йтнэ</LINK>
-		</T>
+		<COMPARE>то̄йтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6273">
 		<L>то̄йтнэ</L>
@@ -3634,7 +3585,7 @@
 		<L>ТО̄ЛЛ</L>
 		<STEM>то̄л</STEM>
 		<CLASS>I</CLASS>
-		<T>огонь<GENDER>M</GENDER>
+		<T>огонь M_GENDER
 		</T>
 		<X>оавтчедтэ то̄лл гӯрэсьт</X>
 		<XT>греться у огня</XT>
@@ -3649,7 +3600,8 @@
 		<X>то̄лхэм коавас лӣ гӯ ка̄лльм</X>
 		<XT>POSLOVICA кувакса (чум) без огня как могила</XT>
 		<X>то̄лха эйй суввэд</X>
-		<XT>POSLOVICA без огня не дымит ; = нет дыма без огня</XT>
+		<XT>POSLOVICA без огня не дымит</XT>
+		<XT>POSLOVICA нет дыма без огня</XT>
 	</E>
 	<E>
 		<L>то̄ленч</L>
@@ -3724,7 +3676,7 @@
 		<L>то̄ӆӆькъеннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>понимать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мыйй ка̄ннҍц ка̄ннцан че̄д то̄ӆӆькъеннтэпь</X>
 		<XT>мы друг друга всегда хорошо (букв. насквозь) понимаем</XT>
@@ -3799,7 +3751,7 @@
 		<L>то̄ӆӆцлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>разминаться (напр. о ягодах)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -3811,9 +3763,8 @@
 	<E>
 		<L>то̄ӆӆцъюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">то̄ӆӆцэ</LINK>
-		</T>
+		<DER type="STRAD_K">то̄ӆӆцэ</DER>
+		<T>xxx></T>
 		<X>мӯрьй то̄ӆӆцъюввенҍ</X>
 		<XT>ягоды измялись</XT>
 	</E>
@@ -3821,22 +3772,20 @@
 		<L>то̄ӆцнэ</L>
 		<CLASS>III</CLASS>
 		<T>мять что чем (при перемешивании), толочь что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>то̄ӆцсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">то̄ӆӆцлэ</LINK>
-		</T>
+		<COMPARE>то̄ӆӆцлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>то̄ӆцхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">то̄ӆӆцэ</LINK>
-		</T>
+		<DER type="PONUD_K">то̄ӆӆцэ</DER>
+		<T>xxx</T>
 		<X>то̄ӆцеһтҍ парнҍне мӯрьетҍ</X>
 		<XT>разомни для ребёнка ягоды</XT>
 	</E>
@@ -3926,7 +3875,7 @@
 		<L>томтнэ</L>
 		<CLASS>III</CLASS>
 		<T>узнавать, опознавать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -3943,7 +3892,7 @@
 		<L>томтсувнэ</L>
 		<CLASS>III</CLASS>
 		<T>знакомиться с кем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн о̄ллмэгуэйм томтсувант удлэнне</X>
 		<XT>он быстро знакомится с людьми</XT>
@@ -3951,9 +3900,8 @@
 	<E>
 		<L>томтсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">томмтлэ</LINK>
-		</T>
+		<COMPARE>томмтлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>томтсэллэ</L>
@@ -3966,17 +3914,16 @@
 	<E>
 		<L>томтсэлнэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">знакомить кого с кем<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">знакомить кого с кем<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">узнавать, припоминать кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">узнавать, припоминать кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>томтче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">томтнэ</LINK>
-		</T>
+		<COMPARE>томтнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>томтэч</L>
@@ -4119,9 +4066,8 @@
 	<E>
 		<L>то̄ппцъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">то̄ппцэ</LINK>
-		</T>
+		<DER type="STRAD_K">то̄ппцэ</DER>
+		<T>xxx></T>
 		<X>шалльт то̄ппцей</X>
 		<XT>[весь] пол затоптан</XT>
 	</E>
@@ -4129,7 +4075,7 @@
 		<L>то̄пцнэ</L>
 		<CLASS>III</CLASS>
 		<T>топтать, затаптывать кого-что, вытаптывать что, наступать на что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4137,10 +4083,10 @@
 		<CLASS>III</CLASS>
 		<T tnumber="1">
 			 ___WÖRTLICH+ÜBERTRAGEN___ топтаться (на одном месте)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">топать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4157,7 +4103,7 @@
 	<E>
 		<L>то̄пцсэ</L>
 		<CLASS>III</CLASS>
-		<T>топтать кого-что<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T>топтать кого-что<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6313">
@@ -4251,7 +4197,7 @@
 	<E kur_ID="6326">
 		<L>тоҏька</L>
 		<T>
-			<LINK TYPE="OT">то̄ҏькэнч LOOKUP___то̄ҏҏк___LOOKUP 
+			<LINK TYPE="OT">то̄ҏькэнч ___LOOKUPто̄ҏҏкLOOKUP___ 
 			</LINK>
 		</T>
 	</E>
@@ -4309,13 +4255,13 @@
 		<L>трычкнэ</L>
 		<CLASS>III</CLASS>
 		<T>брызгать, разбрызгиваться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>трычксэ</L>
 		<CLASS>III</CLASS>
-		<T>побрызгать<TAM>NEDOLGO,NEMNOGO</TAM>
+		<T>побрызгать<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4356,7 +4302,7 @@
 	<E>
 		<L>туаррлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>начать воевать (бороться, сражаться, драться)</T>
+		<T>начать воевать (бороться COMMA сражаться COMMA драться)</T>
 	</E>
 	<E>
 		<L>туаррлэ</L>
@@ -4380,21 +4326,19 @@
 	<E>
 		<L>туархэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">туаррэ</LINK>
-		</T>
+		<DER type="PONUD_K">туаррэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>туарэч</L>
-		<T>
-			<LINK type="TOZHE_SHTO">туаррай</LINK>
-		</T>
+		<COMPARE>туаррай</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӯрнэ</L>
 		<CLASS>III</CLASS>
 		<T>воевать ; бороться, сражаться, драться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4467,7 +4411,7 @@
 	<E kur_ID="6345">
 		<L>ТУБПЭ</L>
 		<CLASS>I</CLASS>
-		<T>дубить (кожу настоем из коры ольхи, берёзы, ивы)</T>
+		<T>дубить ___LEXICONкожу настоем из коры ольхи COMMA берёзы COMMA ивыLEXICON___</T>
 		<X>тубпэ пӯдзэ шышшенҍ</X>
 		<XT>дубить кожу [из оленьей шкуры]</XT>
 	</E>
@@ -4475,15 +4419,14 @@
 		<L>тубнэ</L>
 		<CLASS>III</CLASS>
 		<T>дубить (кожу)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тубпъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">тубпэ</LINK>
-		</T>
+		<DER type="STRAD_K">тубпэ</DER>
+		<T>xxx></T>
 		<X>шышшенҍ тубпэй</X>
 		<XT>кожа выдублена</XT>
 	</E>
@@ -4496,9 +4439,8 @@
 	<E>
 		<L>тубхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тубпэ</LINK>
-		</T>
+		<DER type="PONUD_K">тубпэ</DER>
+		<T>xxx</T>
 		<X>бэдт шышшенҍ тубхэ</X>
 		<XT>нужно, чтобы кожу выдубили</XT>
 	</E>
@@ -4518,7 +4460,7 @@
 		<L>ТУБЭРК</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>V</CLASS>
-		<T>тоборки (повседневная обувь высотой до бёдер, шьётся в основном из тёмного меха ворсом наружу ; носится поверх меховых чулок, привязывается к поясу завязками)</T>
+		<T>тоборки ___LEXICONповседневная обувь высотой до бёдер COMMA шьётся в основном из тёмного меха ворсом наружу SEMICOLON носится поверх меховых чулок COMMA привязывается к поясу завязкамиLEXICON___</T>
 		<X>о̄дт тубэрк</X>
 		<XT>новые то̄борки</XT>
 		<X>вӣллькесь тубэрк</X>
@@ -4562,9 +4504,8 @@
 	<E>
 		<L>тӯввнлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">тӯввнэ</LINK>
-		</T>
+		<DER type="STRAD_K">тӯввнэ</DER>
+		<T>xxx></T>
 		<X>пуфс тӯввнлуввенҍ</X>
 		<XT>брюки залатали</XT>
 	</E>
@@ -4576,9 +4517,8 @@
 	<E>
 		<L>тӯввнъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӯввнлуввэ</LINK>
-		</T>
+		<COMPARE>тӯввнлуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӯвнас</L>
@@ -4591,15 +4531,14 @@
 	<E>
 		<L>тӯвнхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тӯввнэ</LINK>
-		</T>
+		<DER type="PONUD_K">тӯввнэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӯвнънэ</L>
 		<CLASS>III</CLASS>
 		<T>ставить заплаты на что ; латать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4781,7 +4720,7 @@
 	<E>
 		<L>тугкхэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>заставлять кого--либо собираться толпой, в кучу<TAM>INOGDA,BYVALO</TAM>
+		<T>заставлять кого--либо собираться толпой, в кучу<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4807,7 +4746,7 @@
 	<E>
 		<L>туһктэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>собирать кого-что-л. в кучу<TAM>INOGDA,BYVALO</TAM>
+		<T>собирать кого-что-л. в кучу<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4893,7 +4832,7 @@
 		<CLASS>III</CLASS>
 		<T>
 			 ___WÖRTLICH+ÜBERTRAGEN___ одолевать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6380">
@@ -4949,10 +4888,10 @@
 		<L>тӯййшэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T tnumber="1">работать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">делать, строить что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -4964,7 +4903,7 @@
 		<L>тӯйхувнэ</L>
 		<CLASS>III</CLASS>
 		<T>лишаться работы, дела<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6381">
@@ -5088,9 +5027,8 @@
 	<E>
 		<L>тӯлльтхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тӯллтэ</LINK>
-		</T>
+		<DER type="PONUD_K">тӯллтэ</DER>
+		<T>xxx</T>
 		<X>бэдт чӓйнэһкь тӯлльтхэ</X>
 		<XT>надо, чтобы чайник вскипел</XT>
 	</E>
@@ -5113,7 +5051,7 @@
 		<CLASS>III</CLASS>
 		<T>
 			 ___WÖRTLICH+ÜBERTRAGEN___ кипеть, бурлить<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5139,7 +5077,7 @@
 	<E>
 		<L>тӯлтхэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>кипятить что<TAM>INOGDA,BYVALO</TAM>
+		<T>кипятить что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6394">
@@ -5166,9 +5104,8 @@
 	<E>
 		<L>тулльвдэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тулльвъе</LINK>
-		</T>
+		<COMPARE>тулльвъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тулльвсэллэ</L>
@@ -5179,7 +5116,7 @@
 	<E>
 		<L>тулльвсэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>наступать (о половодье), разливаться (о реках COMMA озёрах)<TAM>INOGDA,BYVALO</TAM>
+		<T>наступать (о половодье), разливаться (о реках COMMA озёрах)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5235,11 +5172,11 @@
 		<L>тӯлльеднэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">держаться за что, на чём<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ сдерживаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5257,16 +5194,15 @@
 	<E>
 		<L>тӯлльюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">тӯллье</LINK>
-		</T>
+		<DER type="STRAD_K">тӯллье</DER>
+		<T>xxx></T>
 		<X>со̄нн тӯлльювэ</X>
 		<XT>его задержали</XT>
 	</E>
 	<E>
 		<L>тӯлльяссьтэ</L>
 		<CLASS>II,1*</CLASS>
-		<T>подержать кого-что<TAM>NEDOLGO,NEMNOGO</TAM>
+		<T>подержать кого-что<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6400">
@@ -5371,7 +5307,7 @@
 		<L>ТУММПЛЭСС</L>
 		<STEM>туммплэз</STEM>
 		<CLASS>I</CLASS>
-		<T>даль<GENDER>F</GENDER> ; туммплэзэсьт е̄лле жить в дали</T>
+		<T>даль F_GENDER ; туммплэзэсьт е̄лле жить в дали</T>
 		<X>туммплэссе кӣһче</X>
 		<XT>смотреть вдаль</XT>
 #
@@ -5398,7 +5334,7 @@
 		<L>туммъюжнэ</L>
 		<CLASS>III</CLASS>
 		<T>совещаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5459,28 +5395,26 @@
 	<E>
 		<L>тӯннлэ</L>
 		<CLASS>III</CLASS>
-		<T>победствовать<TAM>NEDOLGO,NEMNOGO</TAM>
+		<T>победствовать<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тӯнсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тӯннлэ</LINK>
-		</T>
+		<COMPARE>тӯннлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӯнхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тӯннэ</LINK>
-		</T>
+		<DER type="PONUD_K">тӯннэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тӯнънэ</L>
 		<CLASS>III</CLASS>
 		<T>бедствовать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6424">
@@ -5587,9 +5521,8 @@
 	<E>
 		<L>туҏҏшлаһтӭ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">туҏшхэ</LINK>
-		</T>
+		<COMPARE>туҏшхэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>туҏҏшлэ</L>
@@ -5600,7 +5533,7 @@
 		<L>туҏшнэ</L>
 		<CLASS>III</CLASS>
 		<T>фыркать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5612,9 +5545,8 @@
 	<E>
 		<L>туҏшхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">туҏҏшэ</LINK>
-		</T>
+		<DER type="PONUD_K">туҏҏшэ</DER>
+		<T>xxx</T>
 		<X>пӯррэ туҏшхэв ӣрькэтҍ</X>
 		<XT>оводы заставляют быков фыркать</XT>
 	</E>
@@ -5683,7 +5615,7 @@
 		<L>тӯзнэ</L>
 		<CLASS>III</CLASS>
 		<T>светить кому<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5694,16 +5626,14 @@
 	<E>
 		<L>тӯзхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">тӯссэ</LINK>
-		</T>
+		<DER type="STRAD_K">тӯссэ</DER>
+		<T>xxx></T>
 	</E>
 	<E>
 		<L>тӯзхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тӯссэ</LINK>
-		</T>
+		<DER type="PONUD_K">тӯссэ</DER>
+		<T>xxx</T>
 		<X>тӯзэһтҍ со̄ннӭ!</X>
 		<XT>пусть он посветит тебе!</XT>
 	</E>
@@ -5751,7 +5681,7 @@
 		<L>туффлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>появляться (о пелене COMMA тумане)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5827,7 +5757,7 @@
 		<L>туараст</L>
 		<T>поперёк чего</T>
 		<X>уккьсэ туараст пый мӯр</X>
-		<XT>положи палку поперёк двери (на скобы, чтобы запереть дверь)</XT>
+		<XT>положи палку поперёк двери (на скобы COMMA чтобы запереть дверь)</XT>
 		<X>туараст чӯһка</X>
 		<XT>поперёк дороги</XT>
 	</E>
@@ -5868,11 +5798,11 @@
 		<L>туэрнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">присборивать, собирать что-л. в сборки<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ ёжиться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -5894,9 +5824,8 @@
 	<E>
 		<L>туэрхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">туэррэ</LINK>
-		</T>
+		<DER type="PONUD_K">туэррэ</DER>
+		<T>xxx</T>
 		<X>туэрхэ саҏфан</X>
 		<XT>надо сделать сарафан со сборками</XT>
 	</E>
@@ -5915,16 +5844,15 @@
 	<E kur_ID="6460">
 		<L>ТУЭРРПЭ</L>
 		<CLASS>II,1</CLASS>
-		<T>бить по воде (напр. веслом), шуметь у воды (во время ловли рыбы сетями или неводом недалеко от берега ; рыбаки обычно шумят у мест скопления рыбы, загоняя её в сети)</T>
+		<T>бить по воде (напр. веслом), шуметь у воды ___LEXICONво время ловли рыбы сетями или неводом недалеко от берега SEMICOLON рыбаки обычно шумят у мест скопления рыбы COMMA загоняя её в сетиLEXICON___</T>
 		<X>па̄ррнэ туэррпэв рынтэсьт</X>
 		<XT>дети шумят у самого берега</XT>
 	</E>
 	<E>
 		<L>тӯрпшэдтэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">туэрпнэдтэ</LINK>
-		</T>
+		<COMPARE>туэрпнэдтэ</COMPARE>
+		<T>xxx</T>
 		<T tnumber="2">
 			 ___WÖRTLICH+ÜBERTRAGEN___ барахтаться</T>
 		<X>па̄ррьшя тӯрпшэдтэв рынтэсьт</X>
@@ -5933,9 +5861,8 @@
 	<E>
 		<L>тӯррпъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">туэррпэ</LINK>
-		</T>
+		<DER type="STRAD_K">туэррпэ</DER>
+		<T>xxx></T>
 		<X>кӯлль тӯррпэй са̄ййма</X>
 		<XT>рыбу загнали в сети</XT>
 	</E>
@@ -6004,15 +5931,14 @@
 	<E>
 		<L>тыввлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тыввнэдсэ</LINK>
-		</T>
+		<COMPARE>тыввнэдсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тыввнэднэ</L>
 		<CLASS>III</CLASS>
 		<T>одеваться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -6059,7 +5985,7 @@
 		<L>кого тывхэлнэ</L>
 		<CLASS>III</CLASS>
 		<T>одевать кого<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6468">
@@ -6073,7 +5999,7 @@
 		<L>тывнэ</L>
 		<CLASS>III</CLASS>
 		<T>появляться (о намерении) (что-л. сделать)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн тывэнҍт во̄дтэдтэ мя̄һца</X>
 		<XT>у него иногда появлялось намерение сходить на охоту</XT>
@@ -6186,7 +6112,7 @@
 		<L>ТЫҺКЬ</L>
 		<STEM>тыгкь</STEM>
 		<CLASS>I</CLASS>
-		<T>вошь<GENDER>ж</GENDER>
+		<T>вошь  F_GENDER
 		</T>
 	</E>
 	<E>
@@ -6290,7 +6216,7 @@
 		<L>тыфтужнэ</L>
 		<CLASS>III</CLASS>
 		<T>удивляться, изумляться чему<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -6339,7 +6265,7 @@
 		<L>ТЭ̄ГКЕСЬ</L>
 		<T>тесный</T>
 		<X>тэ̄гкесь тубэрк</X>
-		<XT>тесные тоборки LOOKUP___тубэрк___LOOKUP 
+		<XT>тесные тоборки ___LOOKUPтубэркLOOKUP___ 
 		</XT>
 		<X>тэ̄гкесь пэ̄ҏҏт</X>
 		<XT>тесная комната</XT>
@@ -6367,22 +6293,20 @@
 		<L>тэ̄гкьсэлнэ</L>
 		<CLASS>III</CLASS>
 		<T>
-			 ___WÖRTLICH+ÜBERTRAGEN___ притеснять кого-что<TAM>INOGDA,BYVALO</TAM>
+			 ___WÖRTLICH+ÜBERTRAGEN___ притеснять кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тэ̄гкьтэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тэ̄гкье</LINK>
-		</T>
+		<COMPARE>тэ̄гкье</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тэ̄гкьюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">тэ̄гкье</LINK>
-		</T>
+		<DER type="STRAD_K">тэ̄гкье</DER>
+		<T>xxx></T>
 	</E>
 	<E>
 		<L>тэ̄гкяй</L>
@@ -6392,7 +6316,7 @@
 		<XT>дом тесен</XT>
 #
 <X>тэ̄гкяй лӣ пэ̄ҏҏт эйй углегуэйм, а мӣлэгуэйм</X>
-		<XT>POSLOVICA дом тесен не углами, а умами (о семье, в которой нет лада)</XT>
+		<XT>POSLOVICA дом тесен не углами, а умами (о семье COMMA в которой нет лада)</XT>
 	</E>
 	<E kur_ID="6498">
 		<L>тэ̄гкье</L>
@@ -6481,15 +6405,14 @@
 		<CLASS>III</CLASS>
 		<T>
 			 ___WÖRTLICH+ÜBERTRAGEN___ затыкать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тэбпсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">тэ̄һплэ</LINK>
-		</T>
+		<COMPARE>тэ̄һплэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тэ̄һплэ</L>
@@ -6501,9 +6424,8 @@
 	<E>
 		<L>тэ̄һпсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">тэ̄һпэ</LINK>
-		</T>
+		<DER type="STRAD_K">тэ̄һпэ</DER>
+		<T>xxx></T>
 		<X>ра̄ййк тэ̄һпэсьт</X>
 		<XT>дыру заткнули</XT>
 	</E>
@@ -6681,15 +6603,14 @@
 		<L>тэфкнэ</L>
 		<CLASS>III</CLASS>
 		<T>подтыкать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>тэфкхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тэффкэ</LINK>
-		</T>
+		<DER type="PONUD_K">тэффкэ</DER>
+		<T>xxx</T>
 		<X>бэдт роавв тэфкхэ</X>
 		<XT>нужно, чтобы одеяло из оленьих шкур подоткнули</XT>
 	</E>
@@ -6703,9 +6624,8 @@
 	<E>
 		<L>тэффкъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">тэффкэ</LINK>
-		</T>
+		<DER type="STRAD_K">тэффкэ</DER>
+		<T>xxx></T>
 		<X>одьяла тэффкэй</X>
 		<XT>одеяло подоткнули</XT>
 	</E>
@@ -6748,16 +6668,15 @@
 	<E kur_ID="6538">
 		<L>ТЯ̄ЛЛЭ</L>
 		<CLASS>I,1</CLASS>
-		<T>выделывать / выделать (на окончательном этапе выделки шкуры после её натирания мукой)</T>
+		<T>выделывать / выделать ___LEXICONна окончательном этапе выделки шкуры после её натирания мукойLEXICON___</T>
 		<X>тя̄ллэ ма̄лець тӯльетҍ</X>
 		<XT>выделать шкуры для малицы</XT>
 	</E>
 	<E>
 		<L>те̄ллъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">тя̄ллэ</LINK>
-		</T>
+		<DER type="STRAD_K">тя̄ллэ</DER>
+		<T>xxx></T>
 		<X>тӯлльй те̄ллэй</X>
 		<XT>шкура выделана</XT>
 	</E>
@@ -6765,15 +6684,14 @@
 		<L>те̄лнэ</L>
 		<CLASS>III</CLASS>
 		<T>выделывать (шкуру)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>те̄лсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">те̄ллъе</LINK>
-		</T>
+		<COMPARE>те̄ллъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>тя̄ллълэ</L>
@@ -6784,9 +6702,8 @@
 	<E>
 		<L>тя̄лхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">тя̄ллэ</LINK>
-		</T>
+		<DER type="PONUD_K">тя̄ллэ</DER>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6539">
 		<L>тя̄лхэ</L>
@@ -6798,7 +6715,7 @@
 		<L>ТЯ̄ММП</L>
 		<STEM>тя̄мп</STEM>
 		<CLASS>II</CLASS>
-		<T>водоросли<NUMBER>PL</NUMBER>(ед. водоросль<GENDER>F</GENDER>)</T>
+		<T>водоросли PL_NUMBER, водоросль SG_NUMBER F_GENDER</T>
 		<X>ме̄рр тя̄мп</X>
 		<XT>морские водоросли</XT>
 	</E>
@@ -6855,7 +6772,7 @@
 		<L>ТЯ̄ШШ</L>
 		<STEM>тя̄ж</STEM>
 		<CLASS>I</CLASS>
-		<T>тяж (длинный ремень из тюленьей шкуры, соединяющий упряжь с санями)</T>
+		<T>тяж ___LEXICONдлинный ремень из тюленьей шкуры COMMA соединяющий упряжь с санямиLEXICON___</T>
 		<X>чуһпэ тя̄ж нуэррьй куэжэсьт</X>
 		<XT>вырезать тяж из тюленьей шкуры</XT>
 	</E>
@@ -6937,15 +6854,15 @@
 		<L>угнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">лаять, тявкать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ ругаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">
 			___ÜBERTRAGEN___ говорить о чём-л. преждевременно<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -6983,9 +6900,8 @@
 	<E>
 		<L>угхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">угкэ</LINK>
-		</T>
+		<DER type="PONUD_K">угкэ</DER>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6554">
 		<L>угкяй</L>
@@ -7128,7 +7044,7 @@
 		<L>удлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>становиться быстрым, стремительным, проворным<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>парна югке ыгь удлувант</X>
 		<XT>ребёнок с каждым годом становится проворнее</XT>
@@ -7186,7 +7102,7 @@
 		<X>ма̄лець лӣ удць</X>
 		<XT>малица мала</XT>
 		<X>тубэрк ле̄в удць</X>
-		<XT>тоборки LOOKUP___тубэрк___LOOKUP малы</XT>
+		<XT>тоборки ___LOOKUPтубэркLOOKUP___ малы</XT>
 #
 <X>я удць вуахта ка̄һт пе̄йв</X>
 		<XT>POSLOVICA и маленькая тучка закроет солнце</XT>
@@ -7215,7 +7131,7 @@
 		<L>удцьнэллэ</L>
 		<CLASS>I,1*</CLASS>
 		<T>уменьшать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -7237,7 +7153,7 @@
 		<L>уһцнэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>уменьшаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>пе̄йв уһцнэннтэв</X>
 		<XT>дни становятся короче</XT>
@@ -7245,9 +7161,8 @@
 	<E>
 		<L>уһцше</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">удцшэ</LINK>
-		</T>
+		<COMPARE>удцшэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6574">
 		<L>удцьнэ</L>
@@ -7292,7 +7207,7 @@
 		<CLASS>III</CLASS>
 		<T>
 			 ___UNPERS___ удаваться кому (что-л. делать)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>соннӭ тоаййв удъедэнҍт вуэјјтэ кэ̄рхэллмужэнҍ</X>
 		<XT>ему часто удавалось побеждать в гонках</XT>
@@ -7301,7 +7216,7 @@
 		<L>удъедсэ</L>
 		<CLASS>III</CLASS>
 		<T>
-			 ___UNPERS___ удаться, посчастливиться кому (что-л. сделать)<TAM>BYSTRO,SRAZU</TAM>
+			 ___UNPERS___ удаться, посчастливиться кому (что-л. сделать)<TAM>BYSTRO_SRAZU</TAM>
 		</T>
 		<X>мыннӭ удъедэсьт пӯдзэ соагкэ</X>
 		<XT>мне удалось быстро поймать оленя</XT>
@@ -7390,10 +7305,10 @@
 		<L>удцнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">учить кого чему и с неопр.<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">учить, изучать, разучивать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн уркэтҍ удцант пе̄ййва</X>
 		<XT>он учит уроки днём</XT>
@@ -7401,9 +7316,9 @@
 	<E>
 		<L>удцсэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">поучить кого чему и с неопр.<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T tnumber="1">поучить кого чему и с неопр.<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
-		<T tnumber="2">поучить, поразучивать что<TAM>NEMNOGO,NEDOLGO</TAM>
+		<T tnumber="2">поучить, поразучивать что<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E>
@@ -7417,9 +7332,8 @@
 	<E>
 		<L>уһцъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">уһцэ</LINK>
-		</T>
+		<DER type="STRAD_K">уһцэ</DER>
+		<T>xxx></T>
 		<X>урэк уһцъенҍ</X>
 		<XT>уроки выучены</XT>
 	</E>
@@ -7427,7 +7341,7 @@
 		<L>уһцэй</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>V</CLASS>
-		<T>учитель<GENDER>M</GENDER>(учительница<GENDER>F</GENDER>)</T>
+		<T>учитель M_GENDER, учительница F_GENDER</T>
 	</E>
 	<E kur_ID="6592">
 		<L>уһцэй</L>
@@ -7444,7 +7358,7 @@
 	<E kur_ID="6594">
 		<L>уйва</L>
 		<T>
-			<LINK TYPE="OT">уйвэнч LOOKUP___уййв___LOOKUP 
+			<LINK TYPE="OT">уйвэнч ___LOOKUPуййвLOOKUP___ 
 			</LINK>
 		</T>
 	</E>
@@ -7481,8 +7395,8 @@
 	<E>
 		<L>уйвнэ</L>
 		<CLASS>III</CLASS>
-		<T>пушиться (быть мягким, как пушинка)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T>пушиться ___LEXICONбыть мягким COMMA как пушинкаLEXICON___<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>о̄дтэнҍ рыбпехь уйвэнҍт</X>
 		<XT>платок пушился, когда был новым</XT>
@@ -7490,7 +7404,7 @@
 	<E>
 		<L>уйвсэ</L>
 		<CLASS>III</CLASS>
-		<T>пушиться (быть мягким, как пушинка)</T>
+		<T>пушиться ___LEXICONбыть мягким COMMA как пушинкаLEXICON___</T>
 		<X>мун рыбпехь уйваст</X>
 		<XT>мой платок пушится</XT>
 	</E>
@@ -7516,10 +7430,10 @@
 		<L>уййвлувнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">покрываться пухом<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">становиться пушистым<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -7599,15 +7513,14 @@
 	<E>
 		<L>уййнлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">уйнънэ</LINK>
-		</T>
+		<COMPARE>уйнънэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>уййнлэднэ</L>
 		<CLASS>III</CLASS>
 		<T>видеться с кем<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -7653,15 +7566,15 @@
 		<L>уйнсэлнэ</L>
 		<CLASS>III</CLASS>
 		<T>придираться к кому<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>уйнънэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">видеть, замечать кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">видеть, замечать кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
-		<T tnumber="2">наблюдать, присмотривать за кем-чем<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">наблюдать, присмотривать за кем-чем<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6607">
@@ -7718,9 +7631,8 @@
 	<E>
 		<L>уййтъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">уййтэ</LINK>
-		</T>
+		<DER type="STRAD_K">уййтэ</DER>
+		<T>xxx></T>
 		<X>вэнс пӣӈкэнҍ уййтэй</X>
 		<XT>лодку унесло ветром</XT>
 	</E>
@@ -7749,18 +7661,18 @@
 	<E>
 		<L>уййтэлнэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">уносить, выносить кого-что<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="1">уносить, выносить кого-что<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>шэ̄ӈӈэнҍ тоаййв уййтэлант вэ̄ннсэтҍ рынтэсьт поагэ</X>
 		<XT>в шторм лодки часто уносит от берега (в море)</XT>
-		<T tnumber="2">уводить кого<TAM>INOGDA,BYVALO</TAM>
+		<T tnumber="2">уводить кого<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>уйтнэ</L>
 		<CLASS>III</CLASS>
 		<T>уходить, удаляться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>а̄йя тоаййв уйтант мя̄һца</X>
 		<XT>[мой] дедушка часто уходит на охоту</XT>
@@ -7778,7 +7690,7 @@
 		<CLASS>I,1*</CLASS>
 		<T>уходить, удаляться<TAM>NENADOLGO</TAM>
 			<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн ӣнцка мӣлльтэ уйтсалл</X>
 		<XT>он по утрам ненадолго уходит</XT>
@@ -7786,18 +7698,16 @@
 	<E>
 		<L>уйтхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">уййтэ</LINK>
-		</T>
+		<DER type="STRAD_K">уййтэ</DER>
+		<T>xxx></T>
 		<X>со̄нн кӯссесьт уйтхувэ</X>
 		<XT>он был вынужден уйти из гостей</XT>
 	</E>
 	<E>
 		<L>уйтхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">уййтэ</LINK>
-		</T>
+		<DER type="PONUD_K">уййтэ</DER>
+		<T>xxx</T>
 		<X>уйтхэгке со̄н</X>
 		<XT>уведите его</XT>
 		<X>бэдт со̄н ко̄ххт-не уйтхэ</X>
@@ -7814,9 +7724,8 @@
 	<E>
 		<L>ујјтъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">ујјтэ</LINK>
-		</T>
+		<DER type="STRAD_K">ујјтэ</DER>
+		<T>xxx></T>
 		<X>е̄весь пугк ујјтэй соанн ышшьтъе</X>
 		<XT>все продукты отнесены в ящик на санях</XT>
 	</E>
@@ -7833,7 +7742,7 @@
 		<L>ујтнэ</L>
 		<CLASS>III</CLASS>
 		<T>носить, переносить, таскать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>ујтнэ ве̄шшэтҍ вэ̄ннсэ</X>
 		<XT>переносить вещи в лодку</XT>
@@ -7846,16 +7755,15 @@
 	<E>
 		<L>ујтсэллэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>носить, переносить, таскать что (не торопясь, понемногу)</T>
+		<T>носить, переносить, таскать что (не торопясь COMMA понемногу)</T>
 		<X>со̄нн ујтсалл ве̄шшэтҍ</X>
 		<XT>он переносит вещи не торопясь</XT>
 	</E>
 	<E>
 		<L>ујтэ</L>
 		<CLASS>IV</CLASS>
-		<T>
-			<LINK type="PONUD_K">ујјтэ</LINK>
-		</T>
+		<DER type="PONUD_K">ујјтэ</DER>
+		<T>xxx</T>
 		<X>бэдт со̄н ујтэ, анҍ уйт</X>
 		<XT>нужно его выпроводить, пусть уходит</XT>
 	</E>
@@ -7977,7 +7885,7 @@
 		<L>УККС</L>
 		<STEM>укс</STEM>
 		<CLASS>II</CLASS>
-		<T>дверь<GENDER>ж</GENDER>
+		<T>дверь  F_GENDER
 		</T>
 		<X>уккс ра̄ййк</X>
 		<XT>дверной проём</XT>
@@ -8042,7 +7950,7 @@
 	<E kur_ID="6635">
 		<L>укьса</L>
 		<T>
-			<LINK TYPE="OT">укьсэнч LOOKUP___уккс___LOOKUP 
+			<LINK TYPE="OT">укьсэнч ___LOOKUPукксLOOKUP___ 
 			</LINK>
 		</T>
 	</E>
@@ -8055,7 +7963,7 @@
 	<E kur_ID="6637">
 		<L>УЛЛ</L>
 		<CLASS>I</CLASS>
-		<T>шерсть<GENDER>F</GENDER>(годная для изготовления пряжи, чаще овечья или верблюжья)</T>
+		<T>шерсть F_GENDER ___LEXICONгодная для изготовления пряжи COMMA чаще овечья или верблюжьяLEXICON___</T>
 		<X>сӯткесь кугкесь улл ла̄мьпесь</X>
 		<XT>овца с длинной густой шерстью</XT>
 		<X>чоаһпесь улл ла̄мьпесь</X>
@@ -8176,7 +8084,7 @@
 		<L>уӆьчхэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>лосниться, блестеть<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>оассэ карьнэль ё уӆьчхэннтэв</X>
 		<XT>рукава на одежде уже начинают лосниться</XT>
@@ -8209,15 +8117,15 @@
 	<E>
 		<L>ӯӎтэ</L>
 		<CLASS>IV</CLASS>
-		<T>напустить (мух, комаров)</T>
+		<T>напустить (мух COMMA комаров)</T>
 		<X>ӯӎтэ пэҏт чӯшкэгуэйм</X>
 		<XT>напустить в дом комаров</XT>
 	</E>
 	<E>
 		<L>ӯӎтэллэ</L>
 		<CLASS>I</CLASS>
-		<T>1* напускать (мух, комаров)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T>1* напускать (мух COMMA комаров)<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>па̄ррнэ пай ӯӎтэллэв пэҏт</X>
 		<XT>дети постоянно напускают в дом комаров</XT>
@@ -8274,7 +8182,7 @@
 		<L>УРРЬМ</L>
 		<STEM>урьм</STEM>
 		<CLASS>II</CLASS>
-		<T tnumber="1">личинка овода (живёт в мездре шкуры оленя)</T>
+		<T tnumber="1">личинка овода ___LEXICONживёт в мездре шкуры оленяLEXICON___</T>
 		<X>падже урьмэтҍ</X>
 		<XT>выдавливать личинки из кожи (оленя)</XT>
 		<X>уррьм сайй</X>
@@ -8326,9 +8234,8 @@
 	<E>
 		<L>уррьмлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">уррмъе</LINK>
-		</T>
+		<COMPARE>уррмъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>урьмхуввэ</L>
@@ -8357,7 +8264,7 @@
 		<L>урпнэ</L>
 		<CLASS>III</CLASS>
 		<T>обнажаться, оголяться, сбрасывать листву<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мӣн поајкэнҍ ва̄рь урпнэв сентяббрь кя̄джя</X>
 		<XT>в наших местах леса обнажаются в конце сентября</XT>
@@ -8458,7 +8365,7 @@
 	</E>
 	<E kur_ID="6672">
 		<L>УССЬ-УССЬ-УССЬ</L>
-		<T>усь! ; бери! ; ату [его]! (возглас, которым побуждают собаку к погоне)</T>
+		<T>усь! ; бери! ; ату [его]! ___LEXICONвозглас COMMA которым побуждают собаку к погонеLEXICON___</T>
 	</E>
 	<E kur_ID="6673">
 		<L>УССЭ</L>
@@ -8479,7 +8386,7 @@
 		<L>узнэ</L>
 		<CLASS>III</CLASS>
 		<T>собирать ягоды<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8491,9 +8398,8 @@
 	<E>
 		<L>узхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">уссэ</LINK>
-		</T>
+		<DER type="PONUD_K">уссэ</DER>
+		<T>xxx</T>
 		<X>мыйй тэнн ва̄рэнь та̄рьм узхэмь</X>
 		<XT>этот гость у нас сегодня вдоволь насобирал ягод</XT>
 	</E>
@@ -8513,18 +8419,16 @@
 	<E>
 		<L>уссъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">уссэ</LINK>
-		</T>
+		<DER type="STRAD_K">уссэ</DER>
+		<T>xxx></T>
 		<X>ёӈӈ тэнна саесьт уссэй</X>
 		<XT>брусника в этом месте собрана</XT>
 	</E>
 	<E>
 		<L>уссъсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">уссъюввэ</LINK>
-		</T>
+		<COMPARE>уссъюввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>уссъюввэ</L>
@@ -8537,7 +8441,7 @@
 	<E kur_ID="6674">
 		<L>УШ-УШ-УШ</L>
 		<POS>MEZHD</POS>
-		<T>ой!, ух! (при ощущении холода)</T>
+		<T>ой!, ух! ___LEXICONвозглас при ощущении холодаLEXICON___</T>
 	</E>
 	<E kur_ID="6675">
 		<L>ФА̄БРИКА</L>
@@ -8579,7 +8483,7 @@
 		<L>ФЕВРАЛЛЬ</L>
 		<STEM>февраль</STEM>
 		<CLASS>I</CLASS>
-		<T>февраль<GENDER>M</GENDER>
+		<T>февраль M_GENDER
 		</T>
 		<X>февралль лӣ ныммьп ма̄нн ыгесьт</X>
 		<XT>февраль - второй месяц года</XT>
@@ -8658,8 +8562,8 @@
 		<L>ФӮРЯ</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>IV</CLASS>
-		<T>неряха<GENDER>F</GENDER>
-			<GENDER>M</GENDER> ; неряшливый человек</T>
+		<T>неряха F_GENDER
+			 M_GENDER ; неряшливый человек</T>
 		<X>со̄нн фӯря лӣ</X>
 		<XT>он - неряха</XT>
 	</E>
@@ -8686,7 +8590,7 @@
 		<L>фӯрялувнэ</L>
 		<CLASS>III</CLASS>
 		<T>становиться неряхой<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>со̄нн тоаййв фӯрялувант</X>
 		<XT>она часто бывает неряшливо одета</XT>
@@ -8712,14 +8616,14 @@
 	<E kur_ID="6691">
 		<L>ФЫҎҎЧЕ</L>
 		<CLASS>II</CLASS>
-		<T>плакать (долго, нудно) ; хлюпать<REGISTER>RAZG</REGISTER>
+		<T>плакать (долго COMMA нудно) ; хлюпать RAZG_REGISTER
 		</T>
 	</E>
 	<E>
 		<L>фыҏчеч</L>
 		<POS>PRED</POS>
-		<T>плакса<GENDER>F</GENDER>
-			<GENDER>M</GENDER>
+		<T>плакса F_GENDER
+			 M_GENDER
 		</T>
 		<X>со̄нн пэре ли фыҏчеч</X>
 		<XT>он - большой плакса</XT>
@@ -8727,16 +8631,15 @@
 	<E>
 		<L>фыҏчнэ</L>
 		<CLASS>III</CLASS>
-		<T>плакать (долго, нудно)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T>плакать (долго COMMA нудно)<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>фыҏчсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">фыҏҏче</LINK>
-		</T>
+		<COMPARE>фыҏҏче</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6692">
 		<L>фыҏчеч</L>
@@ -8801,7 +8704,7 @@
 		<CLASS>II,1*</CLASS>
 		<T>
 			 ___WÖRTLICH+ÜBERTRAGEN___ вспыхивать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8820,7 +8723,7 @@
 		<L>ХА̄РРЬВ</L>
 		<STEM>ха̄рьв</STEM>
 		<CLASS>II,1</CLASS>
-		<T>гарва (морской невод для ловли сёмги)</T>
+		<T>гарва ___LEXICONморской невод для ловли сёмгиLEXICON___</T>
 		<X>лӯсс манн ха̄ррва</X>
 		<XT>сёмга идёт в гарву</XT>
 	</E>
@@ -8828,7 +8731,7 @@
 		<L>ХАРЯ</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>IV</CLASS>
-		<T>хорей (шест длиной около трёх метров, диаметром 3-4 сантиметр для управления оленьей упряжкой ; на более тонкий передний конец шеста надевается деревянный или костяной шарик, предохраняющий оленей от уколов)</T>
+		<T>хорей ___LEXICONшест длиной около трёх метров COMMA диаметром 3-4 сантиметр для управления оленьей упряжкой SEMICOLON на более тонкий передний конец шеста надевается деревянный или костяной шарик COMMA предохраняющий оленей от уколовLEXICON___</T>
 		<X>харянҍ пӯдзэтҍ чо̄һкэ</X>
 		<XT>погонять оленей хореем</XT>
 		<X>харя па̄лл</X>
@@ -8852,9 +8755,8 @@
 	<E>
 		<L>хаҏҏьпаһтӭ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<LINK type="PONUD_K">хаҏҏьпэ</LINK>
-		</T>
+		<DER type="PONUD_K">хаҏҏьпэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>хаҏҏьпэй</L>
@@ -8867,15 +8769,15 @@
 		<L>хэҏпнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">хрустеть, шуршать, скрипеть (чаще о пересохшей шкуре)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ создавать видимость быстрой работы<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">
 			___ÜBERTRAGEN___ терять душевное равновесие, становиться беспокойным<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8955,7 +8857,7 @@
 		<L>хоӈкрэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>каркать (о вороне)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -8978,13 +8880,13 @@
 	<E kur_ID="6712">
 		<L>ХО̄ҎҎКЭ</L>
 		<CLASS>II,1</CLASS>
-		<T>кричать негромко (об олене во время гона или об оленёнке, зовущем мать)</T>
+		<T>кричать негромко (об олене) ___LEXICONолень во время гона или об оленёнке COMMA зовущем матьLEXICON___</T>
 	</E>
 	<E>
 		<L>хо̄ҏкнэ</L>
 		<CLASS>III</CLASS>
-		<T>кричать негромко (об олене во время гона или об оленёнке, зовущем мать)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T>кричать негромко (об олене) ___LEXICONолень во время гона или об оленёнке COMMA зовущем матьLEXICON___<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6713">
@@ -9019,15 +8921,14 @@
 		<L>хэздэмушш</L>
 		<STEM>хэздэмуж</STEM>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">хэзэдэмушш</LINK>
-		</T>
+		<COMPARE>хэзэдэмушш</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>хэзэднэ</L>
 		<CLASS>III</CLASS>
 		<T>шуршать (о шёлке)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -9077,28 +8978,26 @@
 	<E>
 		<L>хэ̄ӆӆьпхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">хэ̄ӆӆпэ</LINK>
-		</T>
+		<DER type="PONUD_K">хэ̄ӆӆпэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>хэӆпхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">хэ̄ӆӆпэ</LINK>
-		</T>
+		<COMPARE>хэ̄ӆӆпэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>хэӆпхэй</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>V</CLASS>
-		<T>болтун (болтунья, болтушка<GENDER>F</GENDER>)</T>
+		<T>болтун, болтунья, болтушка F_GENDER</T>
 	</E>
 	<E>
 		<L>хэӆпхэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>болтать, пустословить<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6722">
@@ -9119,7 +9018,7 @@
 		<L>хэ̄ӆпсэллэ</L>
 		<CLASS>I,1*</CLASS>
 		<T>хлопать (дверью)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>елле хэ̄ӆпсалле уксэнҍ!</X>
 		<XT>не хлопайте дверью!</XT>
@@ -9176,7 +9075,7 @@
 		<L>ХЭҎЧХЭ</L>
 		<CLASS>III</CLASS>
 		<T>ворчать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>а̄ка пе̄ййв пай хэҏчаһт</X>
 		<XT>бабка ворчит целый день</XT>
@@ -9193,7 +9092,7 @@
 		<L>хэҏчхэсс</L>
 		<STEM>хэҏчхэз</STEM>
 		<CLASS>I</CLASS>
-		<T>ворчун (ворчунья<GENDER>F</GENDER>)</T>
+		<T>ворчун, ворчунья F_GENDER</T>
 	</E>
 	<E kur_ID="6732">
 		<L>хэҏчхэсс</L>
@@ -9251,7 +9150,7 @@
 		<T tnumber="1">упираться, упереться чем, в кого, во что (в настоящий момент)</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ сопротивляться, упрямиться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мэ̄нн то̄нн цаввцтэднак?</X>
 		<XT>ну что ты упрямишься?</XT>
@@ -9278,9 +9177,8 @@
 	<E>
 		<L>цавьцсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">цаввьцлэ</LINK>
-		</T>
+		<COMPARE>цаввьцлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>цавьцхэмэсь</L>
@@ -9293,9 +9191,8 @@
 	<E>
 		<L>цэ̄ввцъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">цаввьцэ</LINK>
-		</T>
+		<DER type="STRAD_K">цаввьцэ</DER>
+		<T>xxx></T>
 		<X>чуэз цэ̄ввцэй</X>
 		<XT>стадо остановлено</XT>
 	</E>
@@ -9315,7 +9212,7 @@
 		<L>цэвцнэ</L>
 		<CLASS>III</CLASS>
 		<T>останавливать, удерживать кого-что, тормозить что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>вэлас луэк ёадҍтмэнҍ бэдт соанэтҍ я пӯдзэтҍ цэвцнэ</X>
 		<XT>при спуске с горы сани и оленей нужно притормаживать</XT>
@@ -9324,7 +9221,7 @@
 		<L>цэвцнэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>упираться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>вэ̄ннас ча̄дза ца̄гкьмэнҍ бэдт чофта цэвцнэннтэ ю̄лькэгуэйм</X>
 		<XT>когда толкаешь лодку в воду, нужно сильно упираться ногами</XT>
@@ -9333,14 +9230,13 @@
 		<L>цэвцчадтэй</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>V</CLASS>
-		<T>упрямец (упрямица<GENDER>F</GENDER>)</T>
+		<T>упрямец, упрямица F_GENDER</T>
 	</E>
 	<E>
 		<L>цэвцче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">цэвцнэ</LINK>
-		</T>
+		<COMPARE>цэвцнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>цэвцэч</L>
@@ -9371,9 +9267,8 @@
 	<E>
 		<L>ца̄гкьлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">ца̄гъсэ</LINK>
-		</T>
+		<COMPARE>ца̄гъсэ</COMPARE>
+		<T>xxx</T>
 		<X>ца̄гкель ма̄льца</X>
 		<XT>надень малицу</XT>
 	</E>
@@ -9386,31 +9281,28 @@
 	<E>
 		<L>ца̄гьхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">ца̄гке</LINK>
-		</T>
+		<DER type="PONUD_K">ца̄гке</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>цоагкъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">ца̄гке</LINK>
-		</T>
+		<DER type="STRAD_K">ца̄гке</DER>
+		<T>xxx></T>
 		<X>одьяла оллька цоагкэй одьяла э̄л</X>
 		<XT>пододеяльник надет на одеяло</XT>
 	</E>
 	<E>
 		<L>цоагнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">цоагче</LINK>
-		</T>
+		<COMPARE>цоагче</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>цоагче</L>
 		<CLASS>III</CLASS>
 		<T>надевать, примерять что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>цоагэч о̄дт вуэсскэдт кабперь</X>
 		<XT>примерь новую пыжиковую шапку</XT>
@@ -9435,9 +9327,8 @@
 	<E>
 		<L>ца̄гкьлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">ца̄гьсэ</LINK>
-		</T>
+		<COMPARE>ца̄гьсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ца̄гьсэ</L>
@@ -9450,9 +9341,8 @@
 	<E>
 		<L>ца̄гьхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">ца̄гке</LINK>
-		</T>
+		<DER type="PONUD_K">ца̄гке</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>цоагктэдтэ</L>
@@ -9465,9 +9355,8 @@
 	<E>
 		<L>цоагкъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">ца̄гке</LINK>
-		</T>
+		<DER type="STRAD_K">ца̄гке</DER>
+		<T>xxx></T>
 		<X>пугк оассэ цоагкъенҍ вӯссе</X>
 		<XT>вся одежда засунута в кису (в национальную сумку)</XT>
 	</E>
@@ -9475,20 +9364,19 @@
 		<L>цоагнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">совать, пихать что во что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>цоагнэ мӯрэтҍ пе̄һце</X>
 		<XT>совать дрова в печь</XT>
 		<T tnumber="2">толкать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>цоагче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">цоагнэ</LINK>
-		</T>
+		<COMPARE>цоагнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6742">
 		<L>ца̄гкьлэ-1,-2</L>
@@ -9521,7 +9409,7 @@
 		<L>ЦЕ̄ГКЬ</L>
 		<STEM>це̄гь</STEM>
 		<CLASS>I,1</CLASS>
-		<T>короткие штаны из дублёной кожи (к которым пришиваются меховые чулки)</T>
+		<T>___LEXICONкороткие штаны из дублёной кожи к которым пришиваются меховые чулкиLEXICON___</T>
 		<X>цӣгетҍ бэдт ко̄шшктэ</X>
 		<XT>кожаные штаны надо высушить</XT>
 	</E>
@@ -9602,9 +9490,8 @@
 	<E>
 		<L>цӣӆӆкъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">це̄ӆӆькэ</LINK>
-		</T>
+		<DER type="STRAD_K">це̄ӆӆькэ</DER>
+		<T>xxx></T>
 		<X>со̄брэсьт ныдтҍ цӣӆӆкэй</X>
 		<XT>на собрании так было сказано</XT>
 	</E>
@@ -9636,16 +9523,15 @@
 		<L>ЦЕ̄ӇЬКЭНM</L>
 		<STEM>ця̄ӈӈкан</STEM>
 		<CLASS>V</CLASS>
-		<T>жердь<GENDER>F</GENDER>(для куваксы, чума)</T>
+		<T>жердь F_GENDER ___LEXICONдля куваксы или чумаLEXICON___</T>
 		<X>ця̄ӈӈкан мӯрэтҍ бэдт ра̄дтӭ</X>
 		<XT>нужно срубить [тонкие] деревья для жердей</XT>
 	</E>
 	<E>
 		<L>це̄ӈӈьклэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">це̄ӈькхэ</LINK>
-		</T>
+		<COMPARE>це̄ӈькхэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>це̄ӈӈькэ</L>
@@ -9653,14 +9539,14 @@
 		<T tnumber="1">ставить что (вертикально)</T>
 		<X>бэдт це̄ӈӈькэ а̄ййт кэлтэтҍ</X>
 		<XT>надо ставить колья для изгороди</XT>
-		<T tnumber="2">ставить, устанавливать (куваксу, чум)</T>
+		<T tnumber="2">ставить, устанавливать (куваксу COMMA чум)</T>
 		<X>це̄ӈӈькэ коаввас ёгк рынтэсьт</X>
 		<XT>устанавливать куваксу на берегу реки</XT>
 	</E>
 	<E>
 		<L>це̄ӈькхэ</L>
 		<CLASS>III</CLASS>
-		<T>поставить, воткнуть (что-л. длинное, высокое)</T>
+		<T>поставить, воткнуть (что-л. длинное COMMA высокое)</T>
 		<X>це̄ӈькэһтҍ оарьетҍ вэсьт оллкэ</X>
 		<XT>поставь вёсла к вешалам</XT>
 		<X>це̄ӈҍкхэ мӯрэтҍ косьтренҍ</X>
@@ -9669,28 +9555,27 @@
 	<E>
 		<L>цӣӈӈкъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">це̄ӈӈькэ</LINK>
-		</T>
+		<DER type="STRAD_K">це̄ӈӈькэ</DER>
+		<T>xxx></T>
 		<X>коавас цӣӈӈкэй</X>
 		<XT>кувакса поставлена</XT>
 	</E>
 	<E>
 		<L>ця̄ӈксэ</L>
 		<CLASS>III</CLASS>
-		<T>ставить (что-л. длинное, высокое)<TAM>BYSTRO</TAM>
+		<T>ставить (что-л. длинное COMMA высокое)<TAM>BYSTRO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>ця̄ӈкхэллэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>ставить (что-л. длинное, высокое)<TAM>POSTOJANNO</TAM>
+		<T>ставить (что-л. длинное COMMA высокое)<TAM>POSTOJANNO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>ця̄ӈкхэлнэ</L>
 		<CLASS>III</CLASS>
-		<T>ставить (что-л. длинное, высокое)<TAM>INOGDA,BYVALO</TAM>
+		<T>ставить (что-л. длинное COMMA высокое)<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -9710,7 +9595,7 @@
 	<E>
 		<L>ця̄ӈӈкэ</L>
 		<CLASS>II,1</CLASS>
-		<T>ставить (что-л. длинное, высокое)</T>
+		<T>ставить (что-л. длинное COMMA высокое)</T>
 		<X>ця̄ӈӈкнэтҍ ця̄ӈӈкэ ко̄ввас гуэйкэ</X>
 		<XT>ставить жерди для куваксы</XT>
 		<X>ця̄ӈк куэрьвхетҍ</X>
@@ -9772,9 +9657,8 @@
 	<E>
 		<L>це̄ҏҏтъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">це̄ҏҏтэ</LINK>
-		</T>
+		<DER type="STRAD_K">це̄ҏҏтэ</DER>
+		<T>xxx></T>
 		<X>сыййт пла̄нн це̄ҏҏтэй</X>
 		<XT>план села начерчен</XT>
 	</E>
@@ -9782,7 +9666,7 @@
 		<L>це̄ҏтнэ</L>
 		<CLASS>III</CLASS>
 		<T>чертить что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн мудта вуэр це̄ҏтна</X>
 		<XT>я иногда черчу</XT>
@@ -9796,9 +9680,8 @@
 	<E>
 		<L>це̄ҏтхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">це̄ҏҏтэ</LINK>
-		</T>
+		<DER type="PONUD_K">це̄ҏҏтэ</DER>
+		<T>xxx</T>
 		<X>бэдт со̄н це̄ҏтхэ</X>
 		<XT>нужно, чтобы он чертил</XT>
 	</E>
@@ -9919,7 +9802,7 @@
 		<L>цӣгнэ</L>
 		<CLASS>III</CLASS>
 		<T>появляться, падать (о тумане)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>оаллкэнҍ цӣгэнҍт</X>
 		<XT>пал туман</XT>
@@ -10053,7 +9936,7 @@
 	<E>
 		<L>цоаһклассьтэ</L>
 		<CLASS>II,1*</CLASS>
-		<T>покряхтеть<TAM>NEMNOGO,NEKOTOROE_VREMJA</TAM>
+		<T>покряхтеть<TAM>NEMNOGO_NEKOTOROE_VREMJA</TAM>
 		</T>
 	</E>
 	<E>
@@ -10066,7 +9949,7 @@
 		<L>цоаһклэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>кряхтеть<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6788">
@@ -10119,9 +10002,8 @@
 	<E>
 		<L>цо̄ввнъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">цо̄ввнэ</LINK>
-		</T>
+		<DER type="STRAD_K">цо̄ввнэ</DER>
+		<T>xxx></T>
 		<X>мунн ыгка цо̄ввнъе телефонэнҍ</X>
 		<XT>меня разбудил ночью телефон</XT>
 		<X>лыһк вуэххьт цо̄ввнэй</X>
@@ -10130,16 +10012,14 @@
 	<E>
 		<L>цо̄внсэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">цо̄ввнлэ</LINK>
-		</T>
+		<COMPARE>цо̄ввнлэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>цо̄внхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">цо̄ввнэ</LINK>
-		</T>
+		<DER type="PONUD_K">цо̄ввнэ</DER>
+		<T>xxx</T>
 		<X>ке̄з-не бэдт со̄н цо̄внхэ</X>
 		<XT>надо, чтобы его кто-нибудь разбудил</XT>
 	</E>
@@ -10149,15 +10029,14 @@
 		<T tnumber="1">будить кого</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ пробуждать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>цовнънэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">цовнче</LINK>
-		</T>
+		<COMPARE>цовнче</COMPARE>
+		<T>xxx</T>
 		<X>мунн цовнъна со̄н а̄йкалт</X>
 		<XT>я иногда бужу его рано</XT>
 	</E>
@@ -10384,13 +10263,13 @@
 		<L>цуагкнэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T tnumber="1">начинаться (об отливе)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>ча̄дзь цуагкнаннт пэ̄йель ка̄жнэ кудт ча̄ссэ</X>
 		<XT>отлив начинается через каждые шесть часов</XT>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ опадать (об опухоли)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>поассмушш цуагкнаннт</X>
 		<XT>опухоль опадает</XT>
@@ -10434,9 +10313,8 @@
 	</E>
 	<E>
 		<L>цуэгельт</L>
-		<T>
-			<LINK type="TOZHE_SHTO">цуагкъенне</LINK>
-		</T>
+		<COMPARE>цуагкъенне</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>цуэгкъе</L>
@@ -10520,7 +10398,7 @@
 		<L>ЦУЭППЬЦ</L>
 		<STEM>цуэпьц</STEM>
 		<CLASS>II</CLASS>
-		<T>руль<GENDER>M</GENDER>
+		<T>руль M_GENDER
 		</T>
 	</E>
 	<E kur_ID="6824">
@@ -10585,7 +10463,7 @@
 		<L>цыввьнлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>пахнуть мочой<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -10647,7 +10525,7 @@
 		<L>ЦЫҺЦ</L>
 		<STEM>цыдц</STEM>
 		<CLASS>I</CLASS>
-		<T>краска для сетей (варится из коры берёзы, ольхи, ивы)</T>
+		<T>краска для сетей ___LEXICONварится из коры берёзы COMMA ольхи COMMA ивыLEXICON___</T>
 		<X>кыппьтэ цыдц</X>
 		<XT>сварить краску для сетей</XT>
 	</E>
@@ -10661,7 +10539,7 @@
 		<L>цыдцнэ</L>
 		<CLASS>III</CLASS>
 		<T>красить (сети)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>вӣлкна соаймэтҍ о̄дтсэ цыдцнэв</X>
 		<XT>посветлевшие сети [они] снова красят</XT>
@@ -10675,16 +10553,14 @@
 	<E>
 		<L>цыһцлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">цыдцсэ</LINK>
-		</T>
+		<COMPARE>цыдцсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>цыһцъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">цыһцэ</LINK>
-		</T>
+		<DER type="STRAD_K">цыһцэ</DER>
+		<T>xxx></T>
 		<X>нӯһтҍ вӣрэм цыһцъенҍ</X>
 		<XT>мелкие сети для невода покрашены</XT>
 	</E>
@@ -10795,27 +10671,27 @@
 	<E kur_ID="6848">
 		<L>ЦЫӅӅКЭ</L>
 		<CLASS>II</CLASS>
-		<T>звенеть (о предметах, издающих звон)</T>
+		<T>звенеть (о предметах COMMA издающих звон)</T>
 		<X>оассьтэ шкоапэсьт цыӆӆкэв</X>
 		<XT>в шкафу звенит посуда</XT>
 	</E>
 	<E>
 		<L>цыӆкнэ</L>
 		<CLASS>III</CLASS>
-		<T>звенеть (о предметах, издающих звон,)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+		<T>звенеть (о предметах COMMA издающих звон)<TAM>POSTOJANNO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>цыӆксэ</L>
 		<CLASS>III</CLASS>
-		<T>позвенеть (о предметах, издающих звон,)<TAM>NEMNOGO</TAM>
+		<T>позвенеть (о предметах COMMA издающих звон)<TAM>NEMNOGO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>цыӆӆкай</L>
 		<POS>PRED</POS>
-		<T>звонкий, звонок (о предметах, издающих звон)</T>
+		<T>звонкий, звонок (о предметах COMMA издающих звон)</T>
 		<X>на̄һпь лӣ цыӆӆкай</X>
 		<XT>чашка звонкая</XT>
 	</E>
@@ -10843,7 +10719,7 @@
 	<E>
 		<L>цыӆӆкъе</L>
 		<CLASS>III</CLASS>
-		<T>зазвенеть (о предметах, издающих звон)</T>
+		<T>зазвенеть (о предметах COMMA издающих звон)</T>
 	</E>
 	<E>
 		<L>цыӆӆькъесь</L>
@@ -10897,7 +10773,7 @@
 		<L>ЦЫӇӇЬК-2</L>
 		<STEM>цыӈьк</STEM>
 		<CLASS>II</CLASS>
-		<T>лень<GENDER>ж</GENDER>
+		<T>лень  F_GENDER
 		</T>
 		<X>со̄нн цыӈьк по̄ткэ та̄рьм</X>
 		<XT>он сегодня преодолел лень</XT>
@@ -10928,7 +10804,7 @@
 		<L>цыӈӈкшэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>лениться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -10982,7 +10858,7 @@
 	<E kur_ID="6861">
 		<L>ЦЫРМШЭ</L>
 		<CLASS>III</CLASS>
-		<T>морщиться (от боли, неудовольствия и т. п.) ; щуриться (напр. на яркий свет)</T>
+		<T>морщиться (от боли COMMA неудовольствия и т. п.) ; щуриться (напр. на яркий свет)</T>
 		<X>мэ̄нн то̄нн цырмшак?</X>
 		<XT>что ты морщишься?</XT>
 	</E>
@@ -11003,7 +10879,7 @@
 		<L>ЦЫССТ</L>
 		<STEM>цыст</STEM>
 		<CLASS>II</CLASS>
-		<T>честь<GENDER>F</GENDER>, уважение, почёт</T>
+		<T>честь F_GENDER, уважение, почёт</T>
 		<X>со̄нн лӣ цыстэсьт</X>
 		<XT>он в почёте</XT>
 		<X>лыһкэ мэ̄нн-не цыстэсьт ке̄з-не</X>
@@ -11030,7 +10906,7 @@
 		<L>цысстлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>становиться уважаемым, почётным<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11168,9 +11044,8 @@
 	<E>
 		<L>циһкъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">ця̄һкэ</LINK>
-		</T>
+		<DER type="STRAD_K">ця̄һкэ</DER>
+		<T>xxx></T>
 		<X>пӯдзэ пугк цӣһкъенҍ</X>
 		<XT>все олени помечены</XT>
 	</E>
@@ -11191,7 +11066,7 @@
 		<T tnumber="2">разрубать / разрубить что-л. на куски</T>
 		<X>ця̄к вуэнч ке̄ммна!</X>
 		<XT>разруби мясо на куски для котла!</XT>
-		<T tnumber="3">метить / пометить (оленей, вырезать ножом на боку оленя родовой знак)</T>
+		<T tnumber="3">метить / пометить ___LEXICONоленей COMMA вырезать ножом на боку оленя родовой знакLEXICON___</T>
 		<X>ця̄һкэ пӯдзэтҍ!</X>
 		<XT>пометьте оленей</XT>
 	</E>
@@ -11199,13 +11074,13 @@
 		<L>ця̄кнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">проводить черту, линию<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">разрубать что-л. на куски<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">метить (оленей)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11303,22 +11178,19 @@
 	<E>
 		<L>чабнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">чабхэ</LINK>
-		</T>
+		<COMPARE>чабхэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>чабнэллэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">чабхэллэ</LINK>
-		</T>
+		<COMPARE>чабхэллэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>чабпас</L>
-		<T>
-			<LINK type="TOZHE_SHTO">чабан</LINK>
-		</T>
+		<COMPARE>чабан</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>чабпсэнне</L>
@@ -11329,9 +11201,8 @@
 	<E>
 		<L>чабпъюввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">чабхуввэ</LINK>
-		</T>
+		<COMPARE>чабхуввэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>чабхуввэ</L>
@@ -11351,7 +11222,7 @@
 		<L>чабхэллэ</L>
 		<CLASS>I,1*</CLASS>
 		<T>исправлять, ремонтировать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11410,23 +11281,20 @@
 	<E>
 		<L>ча̄брхуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="STRAD_K">ча̄ббрэ</LINK>
-		</T>
+		<DER type="STRAD_K">ча̄ббрэ</DER>
+		<T>xxx></T>
 	</E>
 	<E>
 		<L>ча̄брхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">ча̄ббрэ</LINK>
-		</T>
+		<DER type="PONUD_K">ча̄ббрэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>чоаббръе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">ча̄ббрэ</LINK>
-		</T>
+		<DER type="STRAD_K">ча̄ббрэ</DER>
+		<T>xxx></T>
 		<X>пугк кӣд чоаббръенҍ</X>
 		<XT>все руки исщипаны</XT>
 	</E>
@@ -11434,11 +11302,11 @@
 		<L>чоабрнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">щипать кого-что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ критиковать кого<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11451,9 +11319,8 @@
 	<E>
 		<L>чоабрче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">чоабрнэ</LINK>
-		</T>
+		<COMPARE>чоабрнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6896">
 		<L>чабнаһтӭ</L>
@@ -11542,7 +11409,7 @@
 	<E kur_ID="6910">
 		<L>чага</L>
 		<T>
-			<LINK TYPE="OT">чагэнч LOOKUP___чагкь___LOOKUP 
+			<LINK TYPE="OT">чагэнч ___LOOKUPчагкьLOOKUP___ 
 			</LINK>
 		</T>
 	</E>
@@ -11696,7 +11563,7 @@
 		<L>ча̄дзтэллэ</L>
 		<CLASS>I,1*</CLASS>
 		<T>мочить, смочивать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11720,9 +11587,8 @@
 	<E>
 		<L>ча̄дзьлаһтӭ</L>
 		<CLASS>I,1*</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">ча̄дзтэ</LINK>
-		</T>
+		<COMPARE>ча̄дзтэ</COMPARE>
+		<T>xxx</T>
 		<X>е̄ммьнэ ча̄дзьлэдтӭ</X>
 		<XT>земля напоена влагой</XT>
 		<X>оасскэтҍ ча̄дзьлэһтэнҍ вэсьт гла̄дҍемэдтӭ</X>
@@ -11731,9 +11597,8 @@
 	<E>
 		<L>ча̄дзьлуввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">ча̄дзъе</LINK>
-		</T>
+		<COMPARE>ча̄дзъе</COMPARE>
+		<T>xxx</T>
 		<X>е̄ммьне ча̄дзьлувэ маӈӈа абьрэсьт</X>
 		<XT>земля напоена дождём</XT>
 	</E>
@@ -11741,7 +11606,7 @@
 		<L>ча̄дзьлувнэ</L>
 		<CLASS>III</CLASS>
 		<T>становиться мокрым, влажным, сырым ; увлажняться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -11817,15 +11682,14 @@
 		<L>ча̄һкрэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>продырявливаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>че̄гкьруввэ</L>
 		<CLASS>I</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">ча̄һкрэ</LINK>
-		</T>
+		<COMPARE>ча̄һкрэ</COMPARE>
+		<T>xxx</T>
 		<X>е̄мьперь че̄гкьрувэ</X>
 		<XT>ведро продырявилось</XT>
 	</E>
@@ -11834,14 +11698,14 @@
 		<CLASS>III</CLASS>
 		<T>продырявить, протереть что</T>
 		<X>че̄гкьрэ тубэрк вуэдэтҍ</X>
-		<XT>протереть подошвы тоборок LOOKUP___тубэрк___LOOKUP
+		<XT>протереть подошвы тоборок ___LOOKUPтубэркLOOKUP___
 		</XT>
 	</E>
 	<E>
 		<L>че̄гкьрэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>продырявливать, протирать что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6936">
@@ -11881,7 +11745,7 @@
 		<X>ча̄лле тӯльй</X>
 		<XT>сделать надрез для снятия шкуры (забитого оленя)</XT>
 		<X>ча̄лле чӯлетҍ</X>
-		<XT>надрезать кишки (вдоль, чтобы отварить)</XT>
+		<XT>надрезать кишки (вдоль COMMA чтобы отварить)</XT>
 		<T tnumber="2">потрошить / выпотрошить что</T>
 		<X>бэдт ча̄лле кӯль</X>
 		<XT>надо выпотрошить рыбу</XT>
@@ -11896,9 +11760,8 @@
 	<E>
 		<L>ча̄лльлэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">ча̄льсэ</LINK>
-		</T>
+		<COMPARE>ча̄льсэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>ча̄льсэ</L>
@@ -11911,18 +11774,16 @@
 	<E>
 		<L>ча̄льхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">ча̄лле</LINK>
-		</T>
+		<DER type="PONUD_K">ча̄лле</DER>
+		<T>xxx</T>
 		<X>ча̄леһтҍ соннӭ кӯль</X>
 		<XT>пусть он выпотрошит рыбу</XT>
 	</E>
 	<E>
 		<L>чоаллъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">ча̄лле</LINK>
-		</T>
+		<DER type="STRAD_K">ча̄лле</DER>
+		<T>xxx></T>
 		<X>кӯлль пугк чоаллэй</X>
 		<XT>вся рыба выпотрошена</XT>
 	</E>
@@ -11930,10 +11791,10 @@
 		<L>чоалнэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">делать надрез (напр. вдоль туши)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="2">потрошить что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн мудта вуэр чоалнэ кӯлетҍ</X>
 		<XT>я иногда потрошил рыбу</XT>
@@ -11941,9 +11802,8 @@
 	<E>
 		<L>чоалче</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">чоалнэ</LINK>
-		</T>
+		<COMPARE>чоалнэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E kur_ID="6941">
 		<L>ча̄лльлэ</L>
@@ -11997,9 +11857,8 @@
 	</E>
 	<E>
 		<L>чалльмшэсь</L>
-		<T>
-			<LINK type="TOZHE_SHTO">чалльмэшь</LINK>
-		</T>
+		<COMPARE>чалльмэшь</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>чалльмъюшшэ</L>
@@ -12085,12 +11944,12 @@
 		<COMPARE>цуэҏҏьт</COMPARE>
 		<T>чёрт</T>
 		<X>ча̄нн лӣ тоннӭ тоавврэшш</X>
-		<XT>чёрт тебе товарищ (о человеке, который делает много зла)</XT>
+		<XT>чёрт тебе товарищ (о человеке COMMA который делает много зла)</XT>
 #
 <X>ча̄нэсьт вуайй поаччкэ, ӣджь ӣджьсант эгк поачк</X>
 		<XT>POGOVORKA от чёрта можно убежать, а от себя нет</XT>
 		<X>ча̄нн пыннь со̄н чӯдзэ</X>
-		<XT>POGOVORKA чёрт пасёт его стадо (о человеке, хорошо знающем местность, повадки животных, у которого не разбредается стадо ; по саамским поверьям некоторым людям силы рода помогали сохранять стада)</XT>
+		<XT>POGOVORKA чёрт пасёт его стадо (о человеке COMMA хорошо знающем местность COMMA повадки животных COMMA у которого не разбредается стадо SEMICOLON по саамским поверьям некоторым людям силы рода помогали сохранять стада)</XT>
 		<X>ча̄нн эйй е̄ск оаҏҏтэдтэ тэнн райя, ко̄н райя со̄нэсьт нюххчемь лӣ поаһк</X>
 		<XT>POSLOVICA чёрт не перестанет ругаться до тех пор, пока у него тёплый язык (т.е. пока жив) ; горбатого могила исправит</XT>
 	</E>
@@ -12185,11 +12044,11 @@
 		<X>тӣрьмесь ча̄ркэнҍт э ка̄дэ</X>
 		<XT>гром громыхнул и прекратился</XT>
 		<T tnumber="2">греметь, грохотать, громыхать (о громе)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<T tnumber="3">
 			___ÜBERTRAGEN___ говорить много и громко, всех заглушать<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -12274,7 +12133,7 @@
 	<E>
 		<L>чацьксуввэ</L>
 		<CLASS>I</CLASS>
-		<T>хотеть бросать (кидать, швырять) что</T>
+		<T>хотеть бросать (кидать COMMA швырять) что</T>
 		<X>со̄нн па̄лл чацьксувв</X>
 		<XT>он хочет кидать мяч</XT>
 	</E>
@@ -12287,18 +12146,16 @@
 	<E>
 		<L>чацькхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">чаццькэ</LINK>
-		</T>
+		<DER type="PONUD_K">чаццькэ</DER>
+		<T>xxx</T>
 		<X>бэдт соннӭ нӯтҍ чацькхэ</X>
 		<XT>пусть он забрасывает невод</XT>
 	</E>
 	<E>
 		<L>чецкнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">че̄ццклэ</LINK>
-		</T>
+		<COMPARE>че̄ццклэ</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>чецкнэдтэ</L>
@@ -12309,7 +12166,7 @@
 		<L>че̄ццклэ</L>
 		<CLASS>III</CLASS>
 		<T>бросать, кидать, швырять что<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мыйй адтҍ ре̄ельт че̄ццклэпь нӯтҍ</X>
 		<XT>мы сейчас редко забрасываем невод</XT>
@@ -12320,9 +12177,8 @@
 	<E>
 		<L>че̄ццкъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">чаццькэ</LINK>
-		</T>
+		<DER type="STRAD_K">чаццькэ</DER>
+		<T>xxx></T>
 		<X>ля̄шшкэм нӯррь че̄ццкэй</X>
 		<XT>аркан брошен</XT>
 	</E>
@@ -12438,7 +12294,7 @@
 		<L>че̄дтнэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>дышать с трудом от быстрой ходьбы, задыхаться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6979">
@@ -12451,7 +12307,7 @@
 		<L>ЧЕ̄ҺПЬ</L>
 		<STEM>че̄пь</STEM>
 		<CLASS>I,1</CLASS>
-		<T>мастер (мастерица<GENDER>F</GENDER>), умелец (в каком-л. деле)</T>
+		<T>мастер M_GENDER, мастерица F_GENDER, умелец (в каком-л. деле)</T>
 		<X>че̄һпь ма̄лець куаррэй</X>
 		<XT>мастерица по шитью малиц</XT>
 		<X>со̄нн лӣ че̄һпь вэ̄ннсэтҍ куаррэ</X>
@@ -12549,7 +12405,7 @@
 		<L>че̄лкнэ</L>
 		<CLASS>III</CLASS>
 		<T>становиться трезвым, протрезвляться<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -12560,9 +12416,8 @@
 	<E>
 		<L>че̄лкхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">че̄ллкэ</LINK>
-		</T>
+		<DER type="PONUD_K">че̄ллкэ</DER>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>че̄ллкэ</L>
@@ -12597,7 +12452,7 @@
 	<E>
 		<L>че̄лксэ</L>
 		<CLASS>III</CLASS>
-		<T>отсоединить, отделить, выпрячь (напр. сани, оленей)<TAM>BYSTRO</TAM>
+		<T>отсоединить, отделить, выпрячь (напр. сани COMMA оленей)<TAM>BYSTRO</TAM>
 		</T>
 		<X>че̄лкэсьт соанэтҍ удла</X>
 		<XT>отдели скорее сани</XT>
@@ -12605,24 +12460,22 @@
 	<E>
 		<L>че̄лкхэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="PONUD_K">че̄ллкэ</LINK>
-		</T>
+		<DER type="PONUD_K">че̄ллкэ</DER>
+		<T>xxx</T>
 		<X>бэдт соанэтҍ че̄лкхэ</X>
 		<XT>надо, чтобы сани отделили</XT>
 	</E>
 	<E>
 		<L>че̄ллкнэ</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="TOZHE_SHTO">че̄ллкъе</LINK>
-		</T>
+		<COMPARE>че̄ллкъе</COMPARE>
+		<T>xxx</T>
 	</E>
 	<E>
 		<L>че̄ллкнэннтэ</L>
 		<CLASS>II,1*</CLASS>
 		<T>отсоединиться, отделиться от чего (напр. о санях)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
@@ -12654,9 +12507,8 @@
 	<E>
 		<L>че̄ллъе</L>
 		<CLASS>III</CLASS>
-		<T>
-			<LINK type="STRAD_K">че̄ллэ</LINK>
-		</T>
+		<DER type="STRAD_K">че̄ллэ</DER>
+		<T>xxx></T>
 		<X>чуэрьв че̄ллъенҍ</X>
 		<XT>рога очищены (от кожицы)</XT>
 	</E>
@@ -12664,7 +12516,7 @@
 		<L>че̄лнэ</L>
 		<CLASS>III</CLASS>
 		<T>очищать, обдирать (рога от кожицы)<TAM>POSTOJANNO</TAM>
-			<TAM>INOGDA,BYVALO</TAM>
+			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>пудзэ чёлнэв чурьвэть чёххча</X>
 		<XT>олени обдирают рога осенью</XT>
@@ -12672,7 +12524,7 @@
 	<E>
 		<L>че̄лнэдтэ</L>
 		<CLASS>I,1*</CLASS>
-		<T>очищать, обдирать (рога от кожицы - в данный момент)</T>
+		<T>очищать, обдирать (рога от кожицы) (в данный момент)</T>
 	</E>
 	<E>
 		<L>че̄лсэ</L>
