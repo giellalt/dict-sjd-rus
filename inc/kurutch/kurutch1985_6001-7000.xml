@@ -3164,9 +3164,9 @@
 	</E>
 	<E kur_ID="6242">
 		<L>тоала</L>
+		<DER type="DIM">та̄лл</DER>
 		<T>
-			<LINK TYPE="OT">тоалэнч ___LOOKUPта̄ллLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">тоалэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="6243">
@@ -4196,9 +4196,9 @@
 	</E>
 	<E kur_ID="6326">
 		<L>тоҏька</L>
+		<DER type="DIM">то̄ҏҏк</DER>
 		<T>
-			<LINK TYPE="OT">то̄ҏькэнч ___LOOKUPто̄ҏҏкLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">то̄ҏькэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="6327">
@@ -7357,9 +7357,9 @@
 	</E>
 	<E kur_ID="6594">
 		<L>уйва</L>
+		<DER type="DIM">уййв</DER>
 		<T>
-			<LINK TYPE="OT">уйвэнч ___LOOKUPуййвLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">уйвэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="6595">
@@ -7949,9 +7949,9 @@
 	</E>
 	<E kur_ID="6635">
 		<L>укьса</L>
+		<DER type="DIM">уккс</DER>
 		<T>
-			<LINK TYPE="OT">укьсэнч ___LOOKUPукксLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">укьсэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="6636">
@@ -11408,9 +11408,9 @@
 	</E>
 	<E kur_ID="6910">
 		<L>чага</L>
+		<DER type="DIM">чагкь</DER>
 		<T>
-			<LINK TYPE="OT">чагэнч ___LOOKUPчагкьLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">чагэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="6911">
