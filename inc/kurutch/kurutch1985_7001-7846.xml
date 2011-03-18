@@ -4836,9 +4836,9 @@
 	</E>
 	<E kur_ID="7367">
 		<L>шага</L>
+		<DER type="DIM">шагкь</DER>
 		<T>
-			<LINK TYPE="OT">шагэнч ___LOOKUPшагкьLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">шагэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="7368">
@@ -9436,9 +9436,9 @@
 	</E>
 	<E kur_ID="7712">
 		<L>югкья</L>
+		<DER type="DIM">югке</DER>
 		<T>
-			<LINK TYPE="OT">югкьенч ___LOOKUPюгкеLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">югкьенч</LINK>
 		</T>
 	</E>
 	<E kur_ID="7713">
@@ -10388,9 +10388,9 @@
 	</E>
 	<E kur_ID="7785">
 		<L>юэда</L>
+		<DER type="DIM">ю̄дтҍ</DER>
 		<T>
-			<LINK TYPE="OT">юэдэнч ___LOOKUPю̄дтҍLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">юэдэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="7786">
@@ -10401,9 +10401,9 @@
 	</E>
 	<E kur_ID="7787">
 		<L>юэлка</L>
+		<DER type="DIM">ю̄лльк</DER>
 		<T>
-			<LINK TYPE="OT">юэлкэнч ___LOOKUPю̄ллькLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">юэлкэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="7788">
