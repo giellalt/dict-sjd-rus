@@ -749,9 +749,9 @@
 	</E>
 	<E kur_ID="49">
 		<L>агка</L>
+		<DER type="DIM">а̄һкь</DER>
 		<T>
-			<LINK TYPE="OT">а̄ка ___LOOKUPа̄һкьLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">а̄ка</LINK>
 		</T>
 	</E>
 	<E kur_ID="50">
@@ -11879,9 +11879,9 @@
 	</E>
 	<E kur_ID="816">
 		<L>вуэла</L>
+		<DER type="DIM">вӯлльгесь</DER>
 		<T>
-			<LINK TYPE="OT">вуэлэнч ___LOOKUPвӯлльгесьLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">вуэлэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="817">
