@@ -1,7 +1,7 @@
 Kurutch sjd-rus
 
-Todo:
-
+ORDER OF CONVERSIONS TO BE DONE
+===============================
 1. INFLECTION GROUP
 
 In Kurutch's dict two elements include info on infection:
@@ -39,6 +39,8 @@ two examples
          	<kur_infl class="I" ablaut="1" special="*">
          </infl_group>
       </lg>
+      
+      ==> TODO
       
 =======================================
 2. MERGE RULE1 (LINK TYPE="OT"), look at the following example
@@ -104,93 +106,73 @@ to be solved according to the following rules
 	
 	==> TODO
 
-===========================================
-2. gt_dict structure: mapping like in the following example:
+====================================
+4. LEXICON GROUP
+there is a lot of comprehensive lexicon-like information included in the translations, these should go into a new group under <mg>
+rule: convert text between the tags ___LEXICON x LEXICON___ into 
+<mg>
+<lex_group>
+<lexicon>x</lexicon>
+</lex_group>
+</mg>
+Example
+<e kur_ID="6674">
+      <lg>
+         <l pos="MEZHD">уш-уш-уш</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <lex_group>
+         <lexicon>возглас при ощущении холода</lex>
+         </lex_group>
+         <tg>
+            <t>ой!</t>
+            <t>ух!</t>
+         </tg>
+      </mg>
+   </e>
    
-<e kur_ID="xxx">
-	<lg>
-		<l pos="xxx">xxx</l>
-		<STEM>xxx</STEM> (1-100: z. 55)
-		<CLASS>xxx</CLASS> (1-100: z. 56)
-	</lg>
-	<mg>
-     	<semantics>
-			<sem class="xxx"/>
-		</semantics>
+  ==> TODO
 
-     <tg>
-  ==> done
-  
-		 (1-100: z. 72, komma mapped on different t-elements)   ==> done
-		 
-         (1-100: z. 1348, semicolon mapped on different tg-elements)   ==> done
-		 
-		 (z. 136: different meaning groups: @cip: relevant order???) @micha: order was probably relevant for the authers of the original dict; wenn es mehrere Bedeutungen gibt (im Sinne von unseren <mg>), habe ich die Nummerierung der Übersetzungen aus dem Original behalten (tnumber="x"). Die Autoren des Originalwörterbuches haben sich wahrscheinlich bei der Reihenfolge der verschiedenen Bedeutungen etwas gedacht. Deshalb wollte ich gern diese Angabe behalten. ==> done
-		 
-		 (z. 136: after dash/bracket/etc. = re) <== this is a
-		 re-element related really to the tg (or perhaps even
-		 t-element) @micha: I don't recall what was meant here, but  ==> TODO
+==================
+5. RE GROUPS
+5a. conversion of parentheses inside <t>
+if the text in parentheses start with either the word "(о " or "(об " it should be converted into an <re> element with scope on <tg>
 
-TAM-element = grammar info (aspect, etc.); scopus is mg-element
-(according to our discussion from 08.03.2011)!!!   ==> done
+	==> TODO
 
-=============================================
-(z. 324: scopus mg-element, according to our discussion from 08.03.2011) 
-<RE>PRJAM,PEREN</RE> / <RE>PRJAM_PEREN</RE> / <RE>PEREN</RE> / etc.
-Scope remains as we discussed, but I have re-tagged this element (because I'll need <RE> for another field)
-___VERSCH_BED___ Scope is mg
-___ÜBERTRAGEN___ Scope is mg (<-- <RE>PEREN</RE>)
-___AUCH_ÜBERTRAGEN___ Scope is mg (<-- <RE>TOZHE_PEREN</RE>)
-___WÖRTLICH+ÜBERTRAGEN___ Scope is mg (<-- <RE>PRJAM_PEREN</RE>)
- ==> ToDo
-==============================================
+5b. a few other <re>s (formely in parentheses inside <t>) have been tagged manually as ___RE x RE___ and should likewise be converted into an <re> element with scope on <tg> (see above)
 
-examples of <x> with several translations:
-(101-500: z. 3258)
-		<X>ва̄лльтэ ва̄лт</X>
-		<XT xtnumber="1">завоевать свободу</XT>
-		<XT xtnumber="2">стать своевольным</XT>
-			
-            <xg type=idiom subtype=blabla>
-				<x>xxx</x>
-				<xt xml:lang="xxx">xxx</xt>
-			</xg>
-  ==> done
+	==> TODO
+	
+==================
+6. TE GROUPS	
+5a.if the text in parentheses start with the word "(напр. " it should be converted into an <te> element with scope on <tg>
+(@cip: As an interim solution, I will put this
+into some attributes to the t-element under scrutiny!!! This is
+because of the unclear status of te-element in the gt_dict.)
 
-example for idiom subtype (idiom groups are preliminary marked by # preceeding the whole group; idioms are always at the end of an <e> or <mg> (no other <x> following them):			
+    ==> TODO
 
-<X>парна бальяк, шӯрран — лӯјкак</X>
-		<XT>POSLOVICA [ребёнка] маленького балуешь - с большим плачешь</XT>
+6b. a few other <te>s (formely in parentheses inside <t>) have been tagged manually as ___TE x TE___ and should likewise be converted into an <te> element with scope on <tg> (see above)
 
-		</tg>
-	</mg>
-</e>
-
-  ==> done
-
-101-500: z. 3536
-		<T>выделывать/ выделать (шкуру крюком<LOOKUP xml:lang="sjd">крӯһкь</LOOKUP>
-		</T>
+	==> TODO
+	
+====================
+7. ASPEKT PAIRS
+aspect pairs in <t> are always marked by / (slash), perfective aspect seems always to be first, e.g.
+<t>покрывать / покрыть</t>
+is to be converted into -->
+<t aspect="perf">покрывать</t>
+<t aspect="imperf">покрыть</t>
 
   ==> TODO
 
-
-3. non-capitals in the element <L>
-
-  ==> done
-
-4. rules for automatic PoS tagging (most of them are already included in the script)
-
-- if there is something like
-type="PONUD_K" or type="STRAD_K" or <RE>BESL</RE>
-in the entry then assigne pos="verb"
-
-- if there is an element <TAM> in the entry then assigne pos="verb"
-   ==> done
-
 ==================
-5. the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>; PoS will of course be "n" in these cases (e.g. <t pos="n" gender="f"> <t pos="n" number="pl">)
-
+8. GENDER/NUMBER TAGS
+the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>;
 @cip: Can we assume that sjd-lemma's pos is n, too?
 @micha: Yes, we can, but…
 I found only one mistake
@@ -216,45 +198,82 @@ I found only one mistake
 the problem: F_GENDER here tags only one part of the phrasal translation
 
   ==> TODO
-==================
 
-7. conversion of parentheses inside <t>
-if the text in parentheses start with either the word "(о " or "(об " it should be converted into an <re> element with scope on <tg>
+=============================================
+9. DIFFERENT THINGS (TO THINK ABOUT…)
 
-	==> TODO
-	
-if the text in parentheses start with the word "(напр. " it should be converted into an <te> element with scope on <tg>
-(@cip: As an interim solution, I will put this
-into some attributes to the t-element under scrutiny!!! This is
-because of the unclear status of te-element in the gt_dict.)
-
-    ==> TODO
-
-=================== 
-
-8. a few other <re>s (formely in parentheses inside <t>) have been tagged manually as ___RE x RE___ and should likewise be converted into an <re> element with scope on <tg> (see above)
-
-	==> TODO
-	
-8. a few other <te>s (formely in parentheses inside <t>) have been tagged manually as ___TE x TE___ and should likewise be converted into an <te> element with scope on <tg> (see above)
-
-	==> TODO
-	
-====================
-
-9. aspect pairs in <t> are always marked by / (slash), perfective aspect seems always to be first, e.g.
-<t>покрывать / покрыть</t>
-is to be converted into -->
-<t aspect="perf">покрывать</t>
-<t aspect="imperf">покрыть</t>
-a following parenthesis (<re> or <te>) has scope on the whole <tg>, e.g.
-<t>убегать / убежать (о супе COMMA молоке при кипении)</t>
-is to be converted into -->
-<re>о супе COMMA молоке при кипении</re>
-<t aspect="perf">убегать</t>
-<t aspect="imperf">убежать</t>
-
+(z. 324: scopus mg-element, according to our discussion from 08.03.2011) 
+<RE>PRJAM,PEREN</RE> / <RE>PRJAM_PEREN</RE> / <RE>PEREN</RE> / etc.
+Scope remains as we discussed, but I have re-tagged this element (because <RE> is needed for another element)
+___VERSCH_BED___ Scope is mg
+___ÜBERTRAGEN___ Scope is mg (<-- <RE>PEREN</RE>)
+___AUCH_ÜBERTRAGEN___ Scope is mg (<-- <RE>TOZHE_PEREN</RE>)
+___WÖRTLICH+ÜBERTRAGEN___ Scope is mg (<-- <RE>PRJAM_PEREN</RE>)
+ ==> TODO
+ 
+the preliminary tag LOOKUP marks a pointer to Kildin words in Russian text elements, e.g.
+выделывать / выделать (шкуру крюком ___LOOKUPкрӯһкь___LOOKUP)
+this should somehow be converted into a link inside the final dict, like
+выделывать / выделать (шкуру крюком <LOOKUP xml:lang="sjd">крӯһкь</LOOKUP>
   ==> TODO
+
+
+==================================
+==================================
+CONVERSIONS WHICH ARE DONE ALREADY
+
+2. gt_dict structure: mapping like in the following example:
+   
+<e kur_ID="xxx">
+	<lg>
+		<l pos="xxx">xxx</l>
+		<STEM>xxx</STEM> (1-100: z. 55)
+		<CLASS>xxx</CLASS> (1-100: z. 56)
+	</lg>
+	<mg>
+     	<semantics>
+			<sem class="xxx"/>
+		</semantics>
+
+     <tg>
+  ==> done
+  
+		 (1-100: z. 72, komma mapped on different t-elements)   ==> done
+		 
+         (1-100: z. 1348, semicolon mapped on different tg-elements)   ==> done
+		 
+		 (z. 136: different meaning groups: @cip: relevant order???) @micha: order was probably relevant for the authers of the original dict; wenn es mehrere Bedeutungen gibt (im Sinne von unseren <mg>), habe ich die Nummerierung der Übersetzungen aus dem Original behalten (tnumber="x"). Die Autoren des Originalwörterbuches haben sich wahrscheinlich bei der Reihenfolge der verschiedenen Bedeutungen etwas gedacht. Deshalb wollte ich gern diese Angabe behalten. ==> done
+		 
+TAM-element = grammar info (aspect, etc.); scopus is mg-element
+(according to our discussion from 08.03.2011)!!!   ==> done
+
+examples of <x> with several translations:
+(101-500: z. 3258)
+		<X>ва̄лльтэ ва̄лт</X>
+		<XT xtnumber="1">завоевать свободу</XT>
+		<XT xtnumber="2">стать своевольным</XT>
+			
+            <xg type=idiom subtype=blabla>
+				<x>xxx</x>
+				<xt xml:lang="xxx">xxx</xt>
+			</xg>
+  ==> done
+
+example for idiom subtype (idiom groups are preliminary marked by # preceeding the whole group; idioms are always at the end of an <e> or <mg> (no other <x> following them):		
+
+<X>парна бальяк, шӯрран — лӯјкак</X>
+		<XT>POSLOVICA [ребёнка] маленького балуешь - с большим плачешь</XT>
+
+		</tg>
+	</mg>
+</e>
+
+  ==> done
+
+non-capitals in the element <L>
+
+  ==> done
+
 
 ===============
 
@@ -406,37 +425,5 @@ check T-elements with mixed node types as children: both
 text-nodes and LINK-element nodes.
  - parse mixed content along the lines for examples with # marking for idioms
  
-  == TODO
-  
-====================================
-
-LEXICON GROUP
-there is a lot of comprehensive lexicon-like information included in the translations, these should go into a new group under <mg>
-rule: convert text between the tags ___LEXICON x LEXICON___ into 
-<mg>
-<lexicon>
-<lex>x</lex>
-</lexicon>
-</mg>
-Example
-<e kur_ID="6674">
-      <lg>
-         <l pos="MEZHD">уш-уш-уш</l>
-      </lg>
-      <mg km="g">
-         <semantics>
-            <stype>xxx</stype>
-         </semantics>
-         <lexicon>
-         <lex>возглас при ощущении холода</lex>
-         </lexicon>
-         <tg>
-            <t>ой!</t>
-            <t>ух!</t>
-         </tg>
-      </mg>
-   </e>
-   
-  ==> ToDo
-
+ ==> ?
       
