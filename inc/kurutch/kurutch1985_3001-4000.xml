@@ -5167,9 +5167,9 @@
 	</E>
 	<E kur_ID="3389">
 		<L>набпа</L>
+		<DER type="DIM">на̄һпь</DER>
 		<T>
-			<LINK TYPE="OT">на̄па ___LOOKUPна̄һпьLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">на̄па</LINK>
 		</T>
 	</E>
 	<E kur_ID="3390">
@@ -5356,9 +5356,9 @@
 	</E>
 	<E kur_ID="3401">
 		<L>навта</L>
+		<DER type="DIM">на̄ввьт</DER>
 		<T>
-			<LINK TYPE="OT">на̄втэнч ___LOOKUPна̄ввьтLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">на̄втэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="3402">
@@ -7351,9 +7351,9 @@
 	</E>
 	<E kur_ID="3552">
 		<L>нийта</L>
+		<DER type="DIM">нӣййт</DER>
 		<T>
-			<LINK TYPE="OT">нӣйтэнч ___LOOKUPнӣййтLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">нӣйтэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="3553">
