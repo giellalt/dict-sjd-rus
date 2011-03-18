@@ -1523,8 +1523,9 @@
 	</E>
 	<E kur_ID="1130">
 		<L>е̄һкас</L>
+		<DER type="xxx">е̄һк</DER>
 		<T>
-			<LINK TYPE="OT">е̄кас ___LOOKUPе̄һкLOOKUP___	</LINK>
+			<LINK TYPE="OT">е̄кас</LINK>
 		</T>
 	</E>
 	<E kur_ID="1131">
@@ -5722,8 +5723,9 @@
 	</E>
 	<E kur_ID="1444">
 		<L>каллас</L>
+		<DER type="xxx">калль</DER>
 		<T>
-			<LINK TYPE="OT">калас ___LOOKUPкалльLOOKUP___	</LINK>
+			<LINK TYPE="OT">калас</LINK>
 		</T>
 	</E>
 	<E kur_ID="1445">
@@ -13043,8 +13045,9 @@
 	</E>
 	<E kur_ID="1993">
 		<L>кугкь</L>
+		<DER type="xxx">кугкесь</DER>
 		<T>
-			<LINK TYPE="OT">куһкь ___LOOKUPкугкесьLOOKUP___	</LINK>
+			<LINK TYPE="OT">куһкь</LINK>
 		</T>
 	</E>
 	<E kur_ID="1994">
