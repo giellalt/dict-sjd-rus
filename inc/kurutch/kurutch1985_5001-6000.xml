@@ -1423,9 +1423,9 @@
 	</E>
 	<E kur_ID="5122">
 		<L>рӯһцла</L>
+		<DER type="DIM">рӯһц-2</DER>
 		<T>
-			<LINK TYPE="OT">рӯһцлэнч ___LOOKUPрӯһц-2LOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">рӯһцлэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="5123">
@@ -9481,9 +9481,9 @@
 	</E>
 	<E kur_ID="5740">
 		<L>сунӓ</L>
+		<DER type="DIM">сӯнн</DER>
 		<T>
-			<LINK TYPE="OT">сӯнӭнч ___LOOKUPсӯннLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">сӯнӭнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="5741">
