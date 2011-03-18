@@ -1465,9 +1465,9 @@
 	</E>
 	<E kur_ID="4104">
 		<L>пагка</L>
+		<DER type="DIM">па̄һк</DER>
 		<T>
-			<LINK TYPE="OT">па̄кэнч ___LOOKUPпа̄һкLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">па̄кэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="4105">
@@ -4606,9 +4606,9 @@
 	</E>
 	<E kur_ID="4314">
 		<L>пиӈька</L>
+		<DER type="DIM">пӣӈӈк</DER>
 		<T>
-			<LINK TYPE="OT">пӣӈькэнч ___LOOKUPпӣӈӈкLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">пӣӈькэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="4315">
@@ -5222,9 +5222,9 @@
 	</E>
 	<E kur_ID="4365">
 		<L>поаһкас</L>
+		<DER type="xxx">поаһк</DER>
 		<T>
-			<LINK TYPE="OT">поакас ___LOOKUPпоаһкLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">поакас</LINK>
 		</T>
 	</E>
 	<E kur_ID="4366">
@@ -5505,9 +5505,9 @@
 	</E>
 	<E kur_ID="4392">
 		<L>поалла</L>
+		<DER type="DIM">палл</DER>
 		<T>
-			<LINK TYPE="OT">поаллэнч ___LOOKUPпаллLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">поаллэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="4393">
@@ -8493,9 +8493,9 @@
 	</E>
 	<E kur_ID="4611">
 		<L>пура</L>
+		<DER type="DIM">пуарр</DER>
 		<T>
-			<LINK TYPE="OT">пӯрэнч ___LOOKUPпуаррLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">пӯрэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="4612">
@@ -11917,9 +11917,9 @@
 	</E>
 	<E kur_ID="4858">
 		<L>ражь</L>
+		<DER type="xxx">ражесь</DER>
 		<T>
-			<LINK TYPE="OT">рашшь ___LOOKUPражесьLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">рашшь</LINK>
 		</T>
 	</E>
 	<E kur_ID="4859">
@@ -12078,9 +12078,9 @@
 	</E>
 	<E kur_ID="4869">
 		<L>райка</L>
+		<DER type="DIM">раййк</DER>
 		<T>
-			<LINK TYPE="OT">ра̄йкэнч ___LOOKUPраййкLOOKUP___ 
-			</LINK>
+			<LINK TYPE="OT">ра̄йкэнч</LINK>
 		</T>
 	</E>
 	<E kur_ID="4870">
