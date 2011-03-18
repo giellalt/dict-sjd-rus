@@ -415,3 +415,42 @@ Example
    </e>
    
   ==> ToDo
+
+===================================
+INFLECTION GROUP
+
+In Kurutch's dict two elements include info on infection:
+<stem> (info on stem modification [by giving the form for NOM.PL], only for nouns)
+<class> (info on inflection [Roman(ian) numeral=class, Arabic numeral=subclass (ablaut), "*" (asterisk) marks some special gradation in verbs, "," (comma) devides class and subclass from each other, note that in all entries of the dict all info must be present])
+I do not find Kurutch's classes very useful and have to edit it later. However, her analysis should be keept.
+I suggest creating an "inflection group" and converting the inflectional stuff as follows
+<infl_group>
+	<kur_stem case="nompl"> x </stem>
+	<kur_infl class=" x " ablaut=" x " special=" x ">
+</infl_group>
+
++ add a variable case="nompl" to the old <stem> element
++ rename the old <class> element into <kur_infl>
++ split the three different kinds of info from the old <class> element into:
+++ a variable for class (=Roman numeral before comma)
+++ a variable for ablaut (=Arabic numeral after comma, if there is one)
+++ a variable for special [I don't have a better label] (=Asterisk, if there is one)
+
+two examples
+<e kur_ID="207">
+      <lg>
+         <l pos="n">а̄ррьп</l>
+         <infl_group>
+         	<kur_stem>а̄рьп</stem>
+         	<kur_infl class="II" ablaut="1">
+         </infl_group>
+      </lg>
+      
+<e kur_ID="440">
+      <lg>
+         <l pos="v">ве̄ҏтэдтэ</l>
+         <infl_group>
+         	<kur_infl class="I" ablaut="1" special="*">
+         </infl_group>
+      </lg>
+      
