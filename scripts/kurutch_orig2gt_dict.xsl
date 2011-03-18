@@ -135,7 +135,8 @@
 					      or (./T/RE = '___UNPERS___') 
 					      or (./T/TAM)) then 'v' else
 					      if (contains(., '_GENDER') 
-					      or contains(., '_NUMBER')) then 'n' else
+					      or contains(., '_NUMBER')
+					      or (./STEM)) then 'n' else
 					      'xxx'"/>
 			
 		      </xsl:if>
