@@ -133,7 +133,8 @@
 					      if ((./DER[(./@type = 'STRAD_K') 
 					      or (./@type = 'PONUD_K')])
 					      or (./T/RE = '___UNPERS___') 
-					      or (./T/TAM)) then 'v' else
+					      or (./T/TAM)
+					      or contains(., '*')) then 'v' else
 					      if (contains(., '_GENDER') 
 					      or contains(., '_NUMBER')
 					      or (./STEM)) then 'n' else
