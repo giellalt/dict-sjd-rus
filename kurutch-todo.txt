@@ -20,7 +20,7 @@ I suggest creating an "inflection group" and converting the inflectional stuff a
 ++ a variable for class (=Roman numeral before comma)
 ++ a variable for ablaut (=Arabic numeral after comma, if there is one)
 ++ a variable for special [I don't have a better label] (=Asterisk, if there is one)
-+ add a variable kur_ID="xxx" (xxx to be specified later when the <LINK TYPE="OT"> is merged)
++ add a variable kur_ID="xxx" (xxx to be specified later when the <LINK TYPE="OT"> is merged, see next task)
 
 two examples
 <e kur_ID="207">
@@ -40,8 +40,8 @@ two examples
          </infl_group>
       </lg>
       
-
-2. MERGE RULE1 (LINK TYPE="OT"), I don't know yet how to deal with these entries, look at the following example
+=======================================
+2. MERGE RULE1 (LINK TYPE="OT"), look at the following example
 1st entry
 	<E kur_ID="58">
 		<L>АДЖЬ</L>
@@ -61,19 +61,17 @@ two examples
 			<LINK TYPE="OT">аджь</LINK>
 		</T>
 	</E>
+	
+-to be merged in a way, that the kur_ID remains in the <infl_group> (see task above): <kur_stem kur_ID="x"
 		
 	==> TODO	
 
+================================
+3. MERGE RULE 2 (LINK TYPE="SM")
+merge of original reference entries (i.e. having a kur_ID) with content entries (i.e. without ID) 
+trigger: string (watch out for ambiguities)
 
-3. MERGE RULE 2
-merge of original reference entries (i.e. having kur_ID) with content entries (i.e. without ID) 
-   trigger: string (watch out for ambiguities)
-
-
-Merging related entries by the LINK-element of type SM and OT:
-
-to be solved according to the following two rules
-RULE1 (LINK TYPE="SM")
+to be solved according to the following rules
 -find two entries of the following type
 1st entry:   
    <E kur_ID="3">
