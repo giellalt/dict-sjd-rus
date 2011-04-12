@@ -17,10 +17,19 @@
   <xsl:function name="local:substring-before-if-contains" as="xs:string?">
     <xsl:param name="arg" as="xs:string?"/> 
     <xsl:param name="delim" as="xs:string"/> 
-    
     <xsl:sequence select=" 
 			  if (contains($arg,$delim))
 			  then substring-before($arg,$delim)
+			  else $arg
+			  "/>
+  </xsl:function>
+  
+  <xsl:function name="local:substring-after-if-contains" as="xs:string?">
+    <xsl:param name="arg" as="xs:string?"/> 
+    <xsl:param name="delim" as="xs:string"/> 
+    <xsl:sequence select=" 
+			  if (contains($arg,$delim))
+			  then substring-after($arg,$delim)
 			  else $arg
 			  "/>
   </xsl:function>
@@ -33,7 +42,7 @@
 			  distinct-values($arg1[.=$arg2])
 			  "/>
   </xsl:function>
-
+  
   <xsl:function name="local:value-except" as="xs:anyAtomicType*">
     <xsl:param name="arg1" as="xs:anyAtomicType*"/> 
     <xsl:param name="arg2" as="xs:anyAtomicType*"/> 
@@ -53,6 +62,11 @@
   <xsl:variable name="cbl" select="'{'"/>
   <xsl:variable name="cbr" select="'}'"/>
   <xsl:variable name="bsl" select="'\'"/>
+  <!-- helper for kurutsch inflection class -->
+  <xsl:variable name="class" select="'IIIV'"/>
+  <xsl:variable name="ablaut" select="'1234'"/>
+  <xsl:variable name="grad" select="'*'"/>
+
 
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
@@ -148,15 +162,39 @@
 		    </xsl:attribute>
 		    <xsl:value-of select="$current_l"/>
 		  </l>
-		  <xsl:if test="not(normalize-space(./STEM/text()) = '')">
-		    <stem>
-		      <xsl:value-of select="normalize-space(./STEM/text())"/>
-		    </stem>
-		  </xsl:if>
-		  <xsl:if test="not(normalize-space(./CLASS/text()) = '')">
-		    <class>
-		      <xsl:value-of select="normalize-space(./CLASS/text())"/>
-		    </class>
+		  <xsl:if test="not(normalize-space(./STEM/text()) = '') or not(normalize-space(./CLASS/text()) = '')">
+		    <infl>
+		      <xsl:if test="not(normalize-space(./STEM/text()) = '')">
+			<kur_stem kur_ID="xxx" case="nom" number="pl">
+			  <xsl:value-of select="lower-case(normalize-space(./STEM/text()))"/>
+			</kur_stem>
+		      </xsl:if>
+		      <xsl:if test="not(normalize-space(./CLASS/text()) = '')">
+			<!-- mark not found value with '_x_' -->
+			<xsl:variable name="cls" select="normalize-space(./CLASS/text())"/>
+			<kur_infl>
+			  <xsl:attribute name="class">
+			    <xsl:if test="contains($cls, ',')">
+			      <xsl:value-of select="local:substring-before-if-contains(substring-before($cls, ','), $grad)"/>
+			    </xsl:if>
+			    <xsl:if test="not(contains($cls, ','))">
+			      <xsl:value-of select="if (contains($class, $cls)) then $cls else '_x_'"/>
+			    </xsl:if>
+			  </xsl:attribute>
+			  <xsl:attribute name="ablaut">
+			    <xsl:if test="contains($cls, ',')">
+			      <xsl:value-of select="local:substring-before-if-contains(substring-after($cls, ','), $grad)"/>
+			    </xsl:if>
+			    <xsl:if test="not(contains($cls, ','))">
+			    <xsl:value-of select="if (contains($ablaut, $cls)) then $cls else '_x_'"/>
+			    </xsl:if>
+			  </xsl:attribute>
+			  <xsl:attribute name="special">
+			    <xsl:value-of select="if (contains($cls, $grad)) then $grad else '_x_'"/>
+			  </xsl:attribute>
+			</kur_infl>
+		      </xsl:if>
+		    </infl>
 		  </xsl:if>
 		</lg>
 		
