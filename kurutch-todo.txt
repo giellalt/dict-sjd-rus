@@ -5,14 +5,24 @@ ORDER OF CONVERSIONS TO BE DONE
 1. INFLECTION GROUP
 
 In Kurutch's dict two elements include info on infection:
-<stem> (info on stem gradation [by giving the form for NOM.PL], only for nouns)
-<class> (info on inflection [Roman numeral=class, Arabic numeral=subclass (ablaut), "*" (asterisk) marks some special gradation in verbs, "," (comma) devides class and subclass from each other, note that in all entries of the dict not all info must be present])
+<stem/> 
+  (info on stem gradation [by giving the form for NOM.PL], only for nouns)
+
+<class/> 
+  (info on inflection [Roman numeral=class, 
+   Arabic numeral=subclass (ablaut), 
+   "*" (asterisk) marks some special gradation in verbs, 
+   "," (comma) divides class and subclass from each other, 
+   translate_linguist2normal("note that in all entries of the dict not all info must be present") 
+  ==> this info is optional])
+
 I do not find Kurutch's classes very useful and have to edit it later. However, her analysis should be kept.
 I suggest creating an "inflection group" and converting the inflectional stuff as follows
-<infl_group>
-	<kur_stem kur_ID="xxx" case="nom" number="pl"> x </stem>
-	<kur_infl class=" x " ablaut=" x " special=" x ">
-</infl_group>
+
+<infl>
+   <kur_stem kur_ID="xxx" case="nom" number="pl">x</kur_stem>
+   <kur_infl class=" x " ablaut=" x " special=" x "/>
+</infl>
 
 + add a variable case="nompl" to the old <stem> element
 + rename the old <class> element into <kur_infl>
@@ -26,23 +36,24 @@ two examples
 <e kur_ID="207">
       <lg>
          <l pos="n">а̄ррьп</l>
-         <infl_group>
+         <infl>
          	<kur_stem kur_ID="xxx" case="nom" number="pl">а̄рьп</stem>
          	<kur_infl class="II" ablaut="1">
-         </infl_group>
+         </infl>
       </lg>
       
 <e kur_ID="440">
       <lg>
          <l pos="v">ве̄ҏтэдтэ</l>
-         <infl_group>
+         <infl>
          	<kur_infl class="I" ablaut="1" special="*">
-         </infl_group>
+         </infl>
       </lg>
       
-      ==> TODO
+      ==> done
       
 =======================================
+
 2. MERGE RULE1 (LINK TYPE="OT"), look at the following example
 1st entry
 	<E kur_ID="58">
