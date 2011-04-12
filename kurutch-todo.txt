@@ -229,6 +229,14 @@ this should somehow be converted into a link inside the final dict, like
   ==> TODO
 
 
+====================================
+@cip: this, I have to check:
+
+check T-elements with mixed node types as children: both
+text-nodes and LINK-element nodes.
+
+ ==> TODO?
+
 ==================================
 ==================================
 CONVERSIONS WHICH ARE DONE ALREADY
@@ -431,10 +439,10 @@ the idioms. Please check!
 	</E>
 	==> DONE
 
+
 ====================================
-check T-elements with mixed node types as children: both
-text-nodes and LINK-element nodes.
+
  - parse mixed content along the lines for examples with # marking for idioms
- 
- ==> ?
+ testit : grep          <xg type="idiom"> in the output file
+ ==> done
       
