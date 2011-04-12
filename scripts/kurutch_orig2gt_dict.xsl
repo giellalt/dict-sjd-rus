@@ -77,8 +77,53 @@
     <xsl:choose>
       <xsl:when test="doc-available($file)">
 	<xsl:variable name="file_out" as="element()">
+
+	  <xsl:variable name="e_link_ot" as="element()">
+	    <e_link_ot>
+	      <xsl:attribute name="ot_counter">
+		<xsl:value-of select="count(doc($file)/r/E[T/LINK/@TYPE ='OT'])"/>
+	      </xsl:attribute>
+	      <xsl:for-each select="doc($file)/r/E[T/LINK/@TYPE ='OT']">
+		<E>
+		  <xsl:copy-of select="./@*"/>
+		  <xsl:attribute name="link_ot">
+		    <xsl:value-of select="count(./T/LINK[./@TYPE ='OT'])"/>
+		  </xsl:attribute>
+		  <xsl:attribute name="link_sm">
+		    <xsl:value-of select="count(./T/LINK[./@TYPE ='SM'])"/>
+		  </xsl:attribute>
+		  <xsl:copy-of select="./*"/>
+		</E>
+	      </xsl:for-each>
+	    </e_link_ot>
+	  </xsl:variable>
+
+	  <xsl:variable name="e_link_sm" as="element()">
+	    <e_link_sm>
+	      <xsl:attribute name="sm_counter">
+		<xsl:value-of select="count(doc($file)/r/E[T/LINK/@TYPE ='SM'])"/>
+	      </xsl:attribute>
+	      <xsl:for-each select="doc($file)/r/E[T/LINK/@TYPE ='SM']">
+		<E>
+		  <xsl:copy-of select="./@*"/>
+		  <xsl:attribute name="link_sm">
+		    <xsl:value-of select="count(./T/LINK[./@TYPE ='SM'])"/>
+		  </xsl:attribute>
+		  <xsl:attribute name="link_ot">
+		    <xsl:value-of select="count(./T/LINK[./@TYPE ='OT'])"/>
+		  </xsl:attribute>
+		  <xsl:copy-of select="./*"/>
+		</E>
+	      </xsl:for-each>
+	    </e_link_sm>
+	  </xsl:variable>
+
 	  <r xml:lang="sjd">
-	    <xsl:for-each select="doc($file)/r/E">
+	      <xsl:attribute name="ot_counter">
+		<xsl:value-of select="count(doc($file)/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')])"/>
+	      </xsl:attribute>
+
+	    <xsl:for-each select="doc($file)/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]">
 	      <xsl:if test="$debug">
 		<xsl:message terminate="no">
 		  <xsl:value-of select="concat('-----------------------------------------', $nl)"/>
@@ -410,6 +455,8 @@
 		</xsl:for-each>
 	      </e>
 	    </xsl:for-each>
+	    <xsl:copy-of select="$e_link_ot"/>
+	    <xsl:copy-of select="$e_link_sm"/>
 	  </r>
 	</xsl:variable>
 	
