@@ -92,6 +92,46 @@
 		  <xsl:attribute name="link_sm">
 		    <xsl:value-of select="count(./T/LINK[./@TYPE ='SM'])"/>
 		  </xsl:attribute>
+
+		  <xsl:variable name="pattern">
+		    <xsl:for-each select="./node()">
+		      <xsl:if test="self::text()">
+			<xsl:value-of select="'txt'"/>
+		      </xsl:if>
+		      <xsl:if test="self::*">
+			<xsl:value-of select="lower-case(local-name(.))"/>
+		      </xsl:if>
+		      <xsl:if test="not(position() = last())">
+			<xsl:value-of select="'_'"/>
+		      </xsl:if>
+		    </xsl:for-each>
+		  </xsl:variable>
+		  
+		  <xsl:if test="$debug">
+		    <ot_test>
+		      <xsl:attribute name="stamp">
+			<xsl:value-of select="$pattern"/>
+		      </xsl:attribute>
+		      
+		      <xsl:for-each select="./node()">
+			<node>
+			  <xsl:if test="self::text()">
+			    <xsl:attribute name="ntype">
+			      <xsl:value-of select="'txt'"/>
+			    </xsl:attribute>
+			    <xsl:copy-of select="normalize-space(.)"/>
+			  </xsl:if>
+			  <xsl:if test="self::*">
+			    <xsl:attribute name="ntype">
+			      <xsl:value-of select="lower-case(local-name(.))"/>
+			    </xsl:attribute>
+			    <xsl:copy-of select="normalize-space(lower-case(.))"/>
+			  </xsl:if>
+			</node>
+		      </xsl:for-each>
+		    </ot_test>
+		  </xsl:if>
+
 		  <xsl:copy-of select="./*"/>
 		</E>
 	      </xsl:for-each>
@@ -112,6 +152,46 @@
 		  <xsl:attribute name="link_ot">
 		    <xsl:value-of select="count(./T/LINK[./@TYPE ='OT'])"/>
 		  </xsl:attribute>
+
+		  <xsl:variable name="pattern">
+		    <xsl:for-each select="./node()">
+		      <xsl:if test="self::text()">
+			<xsl:value-of select="'txt'"/>
+		      </xsl:if>
+		      <xsl:if test="self::*">
+			<xsl:value-of select="lower-case(local-name(.))"/>
+		      </xsl:if>
+		      <xsl:if test="not(position() = last())">
+			<xsl:value-of select="'_'"/>
+		      </xsl:if>
+		    </xsl:for-each>
+		  </xsl:variable>
+
+		  <xsl:if test="$debug">
+		    <sm_test>
+		      <xsl:attribute name="stamp">
+			<xsl:value-of select="$pattern"/>
+		      </xsl:attribute>
+		      
+		      <xsl:for-each select="./node()">
+			<node>
+			  <xsl:if test="self::text()">
+			    <xsl:attribute name="ntype">
+			      <xsl:value-of select="'txt'"/>
+			    </xsl:attribute>
+			    <xsl:copy-of select="normalize-space(.)"/>
+			  </xsl:if>
+			  <xsl:if test="self::*">
+			    <xsl:attribute name="ntype">
+			      <xsl:value-of select="lower-case(local-name(.))"/>
+			    </xsl:attribute>
+			    <xsl:copy-of select="normalize-space(lower-case(.))"/>
+			  </xsl:if>
+			</node>
+		      </xsl:for-each>
+		    </sm_test>
+		  </xsl:if>
+		  
 		  <xsl:copy-of select="./*"/>
 		</E>
 	      </xsl:for-each>
