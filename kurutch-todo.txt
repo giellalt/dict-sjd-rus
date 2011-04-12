@@ -147,6 +147,39 @@ Example
    
   ==> TODO
 
+Analysis before unification:
+sjdrus>grep '<ot_test ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr 
+  28          <ot_test stamp="l_t">
+   2          <ot_test stamp="l_der_t">
+   1          <ot_test stamp="l_t_t">
+sjdrus>grep '<sm_test ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr 
+ 679          <sm_test stamp="l_t">
+   1          <sm_test stamp="l_t_t">
+
+
+@cip: Micha, take a look at these two entries:
+   2          <ot_test stamp="l_der_t">
+
+      <E kur_ID="49" link_ot="1" link_sm="0">
+        <L>агка</L>
+         <DER type="DIM">а̄һкь</DER>
+         <T>
+            <LINK TYPE="OT">а̄ка</LINK>
+         </T>
+      </E>
+
+      <E kur_ID="816" link_ot="1" link_sm="0">
+        <L>вуэла</L>
+         <DER type="DIM">вӯлльгесь</DER>
+         <T>
+            <LINK TYPE="OT">вуэлэнч</LINK>
+         </T>
+      </E>
+
+Question: What to do with the <DER>-slot?
+
+The rest is pretty clear.
+
 ==================
 5. RE GROUPS
 5a. conversion of parentheses inside <t>
