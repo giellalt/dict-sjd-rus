@@ -37,7 +37,7 @@ two examples
       <lg>
          <l pos="n">а̄ррьп</l>
          <infl>
-         	<kur_stem kur_ID="xxx" case="nom" number="pl">а̄рьп</stem>
+         	<kur_stem kur_ID="xxx" case="nom" number="pl">а̄рьп</kur_stem>
          	<kur_infl class="II" ablaut="1">
          </infl>
       </lg>
@@ -117,36 +117,6 @@ to be solved according to the following rules
 	
 	==> TODO
 
-====================================
-4. LEXICON GROUP
-there is a lot of comprehensive lexicon-like information included in the translations, these should go into a new group under <mg>
-rule: convert text between the tags ___LEXICON x LEXICON___ into 
-<mg>
-<lex_group>
-<lexicon>x</lexicon>
-</lex_group>
-</mg>
-Example
-<e kur_ID="6674">
-      <lg>
-         <l pos="MEZHD">уш-уш-уш</l>
-      </lg>
-      <mg km="g">
-         <semantics>
-            <stype>xxx</stype>
-         </semantics>
-         <lex_group>
-         <lexicon>возглас при ощущении холода</lex>
-         </lex_group>
-         <tg>
-            <t>ой!</t>
-            <t>ух!</t>
-         </tg>
-      </mg>
-   </e>
-   
-  ==> TODO
-
 Analysis before unification:
 sjdrus>grep '<ot_test ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr 
   28          <ot_test stamp="l_t">
@@ -177,6 +147,17 @@ sjdrus>grep '<sm_test ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | s
       </E>
 
 Question: What to do with the <DER>-slot?
+@Micha: Cip, <DER> should stay in <lg>
+<lg>
+…
+<l>а̄ка</l> <---this comes from <LINK>
+<infl>
+<kur_stem kur_ID="49" case="nom" number="pl">агка</kur_stem> <---this comes from <L>
+</infl>
+<DER type="DIM">а̄һкь</DER> <---this comes from <DER>
+…
+</lg>
+
 
 The rest is pretty clear.
 
@@ -242,6 +223,37 @@ I found only one mistake
 the problem: F_GENDER here tags only one part of the phrasal translation
 
   ==> TODO
+
+====================================
+4. LEXICON GROUP
+there is a lot of comprehensive lexicon-like information included in the translations, these should go into a new group under <mg>
+rule: convert text between the tags ___LEXICON x LEXICON___ into 
+<mg>
+<lex_group>
+<lexicon>x</lexicon>
+</lex_group>
+</mg>
+Example
+<e kur_ID="6674">
+      <lg>
+         <l pos="MEZHD">уш-уш-уш</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <lex_group>
+         <lexicon>возглас при ощущении холода</lex>
+         </lex_group>
+         <tg>
+            <t>ой!</t>
+            <t>ух!</t>
+         </tg>
+      </mg>
+   </e>
+   
+  ==> TODO (LATER; THIS TASK MOVES LOWER IN THE HIERARCHY OF IMPORTANCE)
+
 
 =============================================
 9. DIFFERENT THINGS (TO THINK ABOUT…)
