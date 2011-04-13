@@ -19,9 +19,15 @@ In Kurutch's dict two elements include info on infection:
 I do not find Kurutch's classes very useful and have to edit it later. However, her analysis should be kept.
 I suggest creating an "inflection group" and converting the inflectional stuff as follows
 
+a) (for nouns: i.e. those lemma for which info on <STEM> is provided)
 <infl>
    <kur_stem kur_ID="xxx" case="nom" number="pl">x</kur_stem>
    <kur_infl class=" x " ablaut=" x " special=" x "/>
+</infl>
+
+b) (for verbs: i.e. those lemma for which there is no info on <STEM> provided; note also that verbs also never have "ablaut" and "special")
+<infl>
+   <kur_infl class=" x "/>
 </infl>
 
 + add a variable case="nompl" to the old <stem> element
