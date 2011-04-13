@@ -150,14 +150,14 @@ Question: What to do with the <DER>-slot?
 @Micha: Cip, <DER> should stay in <lg>
 <lg>
 …
-<l>а̄ка</l> <---this comes from <LINK>
+<l>а̄ка</l> <---this comes from <LINK> (this is pretty clear.)
 <infl>
-<kur_stem kur_ID="49" case="nom" number="pl">агка</kur_stem> <---this comes from <L>
+<kur_stem kur_ID="49" case="nom" number="pl">агка</kur_stem> <---this
+comes from <L> ( this is pretty clear.)
 </infl>
 <DER type="DIM">а̄һкь</DER> <---this comes from <DER>
-…
+… (This is now clear.)
 </lg>
-
 
 The rest is pretty clear.
 
