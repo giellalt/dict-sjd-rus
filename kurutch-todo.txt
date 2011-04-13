@@ -25,10 +25,12 @@ a) (for nouns: i.e. those lemma for which info on <STEM> is provided)
    <kur_infl class=" x " ablaut=" x " special=" x "/>
 </infl>
 
-b) (for verbs: i.e. those lemma for which there is no info on <STEM> provided; note also that verbs also never have "ablaut" and "special")
+b) (for verbs: i.e. those lemma for which there is no info on <STEM> provided)
 <infl>
-   <kur_infl class=" x "/>
+   <kur_infl class=" x " ablaut=" x " special=" x "/>
 </infl>
+
+(perhaps test the verb:noun differentiation an bases on the missing <STEM> first? according to the explanations in the original dict it should work though)
 
 + add a variable case="nompl" to the old <stem> element
 + rename the old <class> element into <kur_infl>
