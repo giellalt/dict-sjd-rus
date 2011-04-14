@@ -109,7 +109,7 @@
     <xsl:variable name="e_link_sm" as="element()">
       <e_link_sm>
 	<xsl:attribute name="sm_counter">
-	  <xsl:value-of select="count(collection(concat($dir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM'])"/>
+	  <xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM'])"/>
 	</xsl:attribute>
 	<xsl:for-each select="doc($file)/r/E[T/LINK/@TYPE ='SM']">
 	  <E>
@@ -137,10 +137,10 @@
     
     <r xml:lang="sjd">
       <xsl:attribute name="ot_counter">
-	<xsl:value-of select="count(collection(concat($dir, '?select=*.xml'))/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')])"/>
+	<xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')])"/>
       </xsl:attribute>
       
-      <xsl:for-each select="collection(concat($dir, '?select=*.xml'))/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]">
+      <xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]">
 	<xsl:if test="true()">
 	  <xsl:message terminate="no">
 	    <xsl:value-of select="concat('-----------------------------------------', $nl)"/>
