@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <!--+
     | Usage: java net.sf.saxon.Transform -it main THIS_FILE PARAM_NAME=PARAM_VALUE*
-    | 
+    | NB: Now, a name for the output file is needed!
+    | @cip's command: _sax scripts/all_kurutch_orig2gt_dict.xsl > kurutsch_interim.xml
     +-->
 
 <xsl:stylesheet version="2.0"
