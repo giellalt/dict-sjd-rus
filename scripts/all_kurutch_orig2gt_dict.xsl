@@ -78,7 +78,7 @@
   <xsl:template match="/" name="main">
     
     <xsl:variable name="e_link_ot" as="element()">
-      <e_link_ot>
+      <lot_entries>
 	<xsl:attribute name="ot_counter">
 	  <xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT'])"/>
 	</xsl:attribute>
@@ -103,11 +103,11 @@
 	    <xsl:copy-of select="./*"/>
 	  </E>
 	</xsl:for-each>
-      </e_link_ot>
+      </lot_entries>
     </xsl:variable>
     
     <xsl:variable name="e_link_sm" as="element()">
-      <e_link_sm>
+      <lsm_entries>
 	<xsl:attribute name="sm_counter">
 	  <xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM'])"/>
 	</xsl:attribute>
@@ -132,12 +132,23 @@
 	    <xsl:copy-of select="./*"/>
 	  </E>
 	</xsl:for-each>
-      </e_link_sm>
+      </lsm_entries>
     </xsl:variable>
     
     <r xml:lang="sjd">
-      <xsl:attribute name="ot_counter">
+      <!-- number of entries without any LINK element -->
+      <xsl:attribute name="no-link_e">
 	<xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')])"/>
+      </xsl:attribute>
+      
+      <!-- number of entries with LINK OT -->
+      <xsl:attribute name="ot_e">
+	<xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT'])"/>
+      </xsl:attribute>
+      
+      <!-- number of entries with LINK SM -->
+      <xsl:attribute name="sm_e">
+	<xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM'])"/>
       </xsl:attribute>
       
       <xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]">
