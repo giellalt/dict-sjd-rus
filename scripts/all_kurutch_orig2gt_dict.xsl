@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <!--+
     | Usage: java net.sf.saxon.Transform -it main THIS_FILE PARAM_NAME=PARAM_VALUE*
+    | 
     +-->
 
 <xsl:stylesheet version="2.0"
@@ -70,10 +71,8 @@
 
   <!-- get input dir -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="inDir" select="'../inc/kurutch/*.xml'"/>
-  <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
-
-
+  <xsl:param name="inDir" select="'../inc/kurutch'"/>
+  <!--   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/> -->
   
   <xsl:template match="/" name="main">
     
@@ -82,7 +81,7 @@
 	<xsl:attribute name="ot_counter">
 	  <xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT'])"/>
 	</xsl:attribute>
-	<xsl:for-each select="doc($file)/r/E[T/LINK/@TYPE ='OT']">
+	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']">
 	  <E>
 	    <xsl:copy-of select="./@*"/>
 	    <xsl:attribute name="link_ot">
@@ -111,7 +110,7 @@
 	<xsl:attribute name="sm_counter">
 	  <xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM'])"/>
 	</xsl:attribute>
-	<xsl:for-each select="doc($file)/r/E[T/LINK/@TYPE ='SM']">
+	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM']">
 	  <E>
 	    <xsl:copy-of select="./@*"/>
 	    <xsl:attribute name="link_sm">
