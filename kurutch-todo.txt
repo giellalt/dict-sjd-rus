@@ -62,6 +62,17 @@ two examples
       
 =======================================
 
+Checking the two types of entries before merging:
+
+sjdrus>grep '<ot_test' _out/kurutsch_interim.xml | sort | uniq -c | sort -nr 
+ 269          <ot_test stamp="l_t_">
+  26          <ot_test stamp="l_der_t_">
+   6          <ot_test stamp="l_t_t_">
+sjdrus>grep '<sm_test' _out/kurutsch_interim.xml | sort | uniq -c | sort -nr 
+5633          <sm_test stamp="l_t_">
+  16          <sm_test stamp="l_t_t_">
+
+
 2. MERGE RULE1 (LINK TYPE="OT"), look at the following example
 1st entry
 	<E kur_ID="58">
