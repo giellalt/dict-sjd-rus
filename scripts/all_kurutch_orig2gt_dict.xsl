@@ -494,14 +494,19 @@
     <xsl:param name="theTag"/>
     <xsl:variable name="pattern">
       <xsl:for-each select="$theNode/node()">
-	<xsl:if test="self::text()">
-	  <xsl:value-of select="'txt'"/>
-	</xsl:if>
-	<xsl:if test="self::*">
-	  <xsl:value-of select="lower-case(local-name(.))"/>
-	</xsl:if>
-	<xsl:if test="not(position() = last())">
-	  <xsl:value-of select="'_'"/>
+	<xsl:variable name="node_content">
+	  <xsl:value-of select="normalize-space(.)"/>
+	</xsl:variable>
+	<xsl:if test="not($node_content = '')">
+	  <xsl:if test="self::text() and not(normalize-space(text()) = '')">
+	    <xsl:value-of select="'txt'"/>
+	  </xsl:if>
+	  <xsl:if test="self::*">
+	    <xsl:value-of select="lower-case(local-name(.))"/>
+	  </xsl:if>
+	  <xsl:if test="not(position() = last())">
+	    <xsl:value-of select="'_'"/>
+	  </xsl:if>
 	</xsl:if>
       </xsl:for-each>
     </xsl:variable>
@@ -511,20 +516,26 @@
 	<xsl:value-of select="$pattern"/>
       </xsl:attribute>
       <xsl:for-each select="$theNode/node()">
-	<node>
-	  <xsl:if test="self::text()">
-	    <xsl:attribute name="ntype">
-	      <xsl:value-of select="'txt'"/>
-	    </xsl:attribute>
-	    <xsl:copy-of select="normalize-space(.)"/>
-	  </xsl:if>
-	  <xsl:if test="self::*">
-	    <xsl:attribute name="ntype">
-	      <xsl:value-of select="lower-case(local-name(.))"/>
-	    </xsl:attribute>
-	    <xsl:copy-of select="normalize-space(lower-case(.))"/>
-	  </xsl:if>
-	</node>
+
+	<xsl:variable name="c_node">
+	  <node>
+	    <xsl:if test="self::text() and not(normalize-space(text()) = '')">
+	      <xsl:attribute name="ntype">
+		<xsl:value-of select="'txt'"/>
+	      </xsl:attribute>
+	      <xsl:copy-of select="normalize-space(.)"/>
+	    </xsl:if>
+	    <xsl:if test="self::*">
+	      <xsl:attribute name="ntype">
+		<xsl:value-of select="lower-case(local-name(.))"/>
+	      </xsl:attribute>
+	      <xsl:copy-of select="normalize-space(lower-case(.))"/>
+	    </xsl:if>
+	  </node>
+	</xsl:variable>
+	<xsl:if test="not(count($c_node/node/node()) = 0)">
+	  <xsl:copy-of select="$c_node"/>
+	</xsl:if>
       </xsl:for-each>
     </xsl:element>
   </xsl:template>
