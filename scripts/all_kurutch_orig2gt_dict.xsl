@@ -83,7 +83,7 @@
 	  <xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT'])"/>
 	</xsl:attribute>
 	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']">
-	  <E>
+	  <e>
 	    <xsl:copy-of select="./@*"/>
 	    <xsl:attribute name="link_ot">
 	      <xsl:value-of select="count(./T/LINK[./@TYPE ='OT'])"/>
@@ -93,15 +93,47 @@
 	    </xsl:attribute>
 	    
 	    <!-- quick, grep-friendly test: not only for 'non-programmers' -->
-	    <xsl:if test="$debug">
+	    
+	    <xsl:message terminate="no">
+	      <xsl:value-of select="concat('.......................................................', $nl)"/>
+	      <xsl:value-of select="concat('OT entry kur_ID: ', ./@kur_ID, ' LINK counter ', count(./T), $nl)"/>
+	      <xsl:value-of select="'.......................................................'"/>
+	    </xsl:message>
+
+	    <merge_target t_count="{count(./T)}">
+	      <xsl:for-each select="./T">
+		
+		<!-- 	      <xsl:message terminate="no"> -->
+		<!-- 		<xsl:value-of select="concat('xxxxx', $nl)"/> -->
+		<!-- 		<xsl:value-of select="concat('OT-LINK T: ', ./position(), $nl)"/> -->
+		<!-- 		<xsl:value-of select="'............'"/> -->
+		<!-- 	      </xsl:message> -->
+		
+		<xsl:if test="$debug">
+		  <xsl:call-template name="check_merge_target">
+		    <xsl:with-param name="theLink" select="./LINK"/>
+		  </xsl:call-template>
+		</xsl:if>
+	      </xsl:for-each>
+	    </merge_target>
+	    
+	    <xsl:if test="not($debug)">
 	      <xsl:call-template name="flatten_node">
 		<xsl:with-param name="theNode" select="."/>
 		<xsl:with-param name="theTag" select="'ot'"/>
 	      </xsl:call-template>
 	    </xsl:if>
-	    
-	    <xsl:copy-of select="./*"/>
-	  </E>
+
+	    <!-- <xsl:copy-of select="./*"/> -->
+	    <!-- don't copy, lower-case it for the moment -->
+	    <!-- I keep this just for debugging purposes -->
+
+	    <xsl:for-each select="./*">
+	      <xsl:call-template name="lower-case_node">
+		<xsl:with-param name="theNode" select="."/>
+	      </xsl:call-template>
+	    </xsl:for-each>
+	  </e>
 	</xsl:for-each>
       </lot_entries>
     </xsl:variable>
@@ -235,6 +267,17 @@
 	      </xsl:attribute>
 	      <xsl:value-of select="$current_l"/>
 	    </l>
+
+	    <!-- this is to prepare the merging -->	    
+	    <!-- 	    <merge_ot_infl> -->
+	    <!-- 	      <xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']"> -->
+	    <!-- 		<ot_kur_stem kur_ID="xxx" case="nom" number="pl"> -->
+	    <!-- 		</ot_kur_stem> -->
+	    <!-- 	      </xsl:for-each> -->
+	    <!-- 	    </merge_ot_infl> -->
+	    
+	    <!-- a pos-test for verbs is needed here to account for the specification from the kurutsch-todo file -->
+
 	    <xsl:if test="not(normalize-space(./STEM/text()) = '') or not(normalize-space(./CLASS/text()) = '')">
 	      <infl>
 		<xsl:if test="not(normalize-space(./STEM/text()) = '')">
@@ -536,6 +579,48 @@
 	<xsl:if test="not(count($c_node/node/node()) = 0)">
 	  <xsl:copy-of select="$c_node"/>
 	</xsl:if>
+      </xsl:for-each>
+    </xsl:element>
+  </xsl:template>
+
+  
+  <xsl:template name="check_merge_target">
+    <xsl:param name="theLink"/>
+    
+    <xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]/L">
+      <xsl:if test="lower-case(.) = lower-case($theLink)">
+	
+	<xsl:variable name="kid">
+	  <xsl:value-of select="if (../@kur_id and not(../@kur_ID = '')) then ../@kur_ID else 'xxx'"/>
+	</xsl:variable>
+	
+	<target kur_ID="{$kid}">
+	  <xsl:value-of select="lower-case(.)"/>
+	</target>
+      </xsl:if>
+    </xsl:for-each>
+    
+  </xsl:template>
+  
+
+  <xsl:template name="lower-case_node">
+    <xsl:param name="theNode"/>
+
+    <xsl:element name="{lower-case(local-name($theNode))}">
+      <xsl:for-each select="$theNode/@*">
+	<xsl:attribute name="{lower-case(local-name(.))}">
+	  <xsl:value-of select="."/>
+	</xsl:attribute>
+      </xsl:for-each>
+
+      <xsl:if test="not($theNode/*)">
+	<xsl:value-of select="lower-case(./text())"/>
+      </xsl:if>
+      
+      <xsl:for-each select="$theNode/*">
+	<xsl:call-template name="lower-case_node">
+	  <xsl:with-param name="theNode" select="."/>
+	</xsl:call-template>
       </xsl:for-each>
     </xsl:element>
   </xsl:template>
