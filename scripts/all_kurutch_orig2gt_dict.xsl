@@ -102,13 +102,6 @@
 
 	    <merge_target t_count="{count(./T)}">
 	      <xsl:for-each select="./T">
-		
-		<!-- 	      <xsl:message terminate="no"> -->
-		<!-- 		<xsl:value-of select="concat('xxxxx', $nl)"/> -->
-		<!-- 		<xsl:value-of select="concat('OT-LINK T: ', ./position(), $nl)"/> -->
-		<!-- 		<xsl:value-of select="'............'"/> -->
-		<!-- 	      </xsl:message> -->
-		
 		<xsl:if test="$debug">
 		  <xsl:call-template name="check_merge_target">
 		    <xsl:with-param name="theLink" select="./LINK"/>
