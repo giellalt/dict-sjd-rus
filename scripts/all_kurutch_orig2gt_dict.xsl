@@ -596,35 +596,44 @@
   <xsl:template name="check_merge_ot_source">
     <xsl:param name="theEntry"/>
     
-    
-    <ot_kur_stem kur_ID="xxx" case="nom" number="pl">
-      <xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']">
-	<xsl:for-each select="./T[./LINK/@TYPE ='OT']">
-	  
-	  <xsl:if test="lower-case(./LINK[./@TYPE ='OT']) = lower-case($theEntry/L/text())">
+    <xsl:variable name="result">
+      <ot_kur_stem kur_ID="xxx" case="nom" number="pl">
+	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']">
+	  <xsl:for-each select="./T[./LINK/@TYPE ='OT']">
 	    
-
-	    <xsl:if test="true()">
-	      <xsl:message terminate="no">
-		<xsl:value-of select="concat('*****@@@@@***** check merge ot source in  target:', $nl)"/>
-		<xsl:value-of select="concat('target: ', lower-case($theEntry/L/text()), 'source: ', lower-case(./LINK[./@TYPE ='OT']),$nl)"/>
-		<xsl:value-of select="'*****@@@@@*****'"/>
-	      </xsl:message>
+	    <xsl:if test="lower-case(./LINK[./@TYPE ='OT']) = lower-case($theEntry/L/text())">
+	      
+	      
+	      <xsl:if test="true()">
+		<xsl:message terminate="no">
+		  <xsl:value-of select="concat('*****@@@@@***** check merge ot source in  target:', $nl)"/>
+		  <xsl:value-of select="concat('target: ', lower-case($theEntry/L/text()), 'source: ', lower-case(./LINK[./@TYPE ='OT']),$nl)"/>
+		  <xsl:value-of select="'*****@@@@@*****'"/>
+		</xsl:message>
+	      </xsl:if>
+	      
+	      <xsl:variable name="kid">
+		<xsl:value-of select="if (./@kur_id and not(./@kur_ID = '')) then ./@kur_ID else '_x_x_x_'"/>
+	      </xsl:variable>
+	      
+	      <source kur_ID="{$kid}">
+		<xsl:value-of select="lower-case(./LINK[./@TYPE ='OT'])"/>
+	      </source>
+	      
 	    </xsl:if>
-	    
-	    <xsl:variable name="kid">
-	      <xsl:value-of select="if (./@kur_id and not(./@kur_ID = '')) then ./@kur_ID else '_x_x_x_'"/>
-	    </xsl:variable>
-	    
-	    <source kur_ID="{$kid}">
-	      <xsl:value-of select="lower-case(./LINK[./@TYPE ='OT'])"/>
-	    </source>
-	    
-	  </xsl:if>
+	  </xsl:for-each>
 	</xsl:for-each>
-      </xsl:for-each>
-    </ot_kur_stem>
-
+      </ot_kur_stem>
+    </xsl:variable>
+    
+    <xsl:if test="normalize-space($result) = ''">
+      <empty_out_kur_stem/>
+    </xsl:if>
+    
+    <xsl:if test="not(normalize-space($result) = '')">
+      <xsl:copy-of select="$result"/>
+    </xsl:if>
+    
   </xsl:template>
   
 
