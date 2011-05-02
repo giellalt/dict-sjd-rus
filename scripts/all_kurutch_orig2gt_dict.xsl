@@ -278,7 +278,7 @@
 	    <xsl:if test="not(normalize-space(./STEM/text()) = '') or not(normalize-space(./CLASS/text()) = '')">
 	      <infl>
 		<!-- if no STEM take the info from the OT LINK element -->
-		<xsl:if test="normalize-space(./STEM/text()) = ''">
+		<xsl:if test="normalize-space(./STEM/text()) = '' and $ot_result/ot_kur_stem/source">
 		  <only_ot_kur_stem>
 		    <xsl:attribute name="kur_ID">
 		      <xsl:value-of select="$ot_result/ot_kur_stem/source/@kur_ID"/>
