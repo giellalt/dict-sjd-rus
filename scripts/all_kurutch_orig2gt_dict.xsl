@@ -261,21 +261,60 @@
 	      <xsl:value-of select="$current_l"/>
 	    </l>
 
-	    <!-- this is to prepare the merging -->
-	    <xsl:if test="$debug">
+	    <xsl:variable name="ot_result">
 	      <xsl:call-template name="check_merge_ot_source">
 		<xsl:with-param name="theEntry" select="."/>
 	      </xsl:call-template>
+	    </xsl:variable>
+	    
+	    <!-- this is to prepare the merging -->
+	    <xsl:if test="$debug">
+	      <xsl:copy-of select="$ot_result"/>
 	    </xsl:if>
 	    
 	    <!-- a pos-test for verbs is needed here to account for the specification from the kurutsch-todo file -->
 
 	    <xsl:if test="not(normalize-space(./STEM/text()) = '') or not(normalize-space(./CLASS/text()) = '')">
 	      <infl>
+		<xsl:if test="normalize-space(./STEM/text()) = ''">
+		  <only_ot_kur_stem>
+		    <xsl:attribute name="kur_ID">
+		      <xsl:value-of select="$ot_result/ot_kur_stem/source/@kur_ID"/>
+		    </xsl:attribute>
+		    <xsl:value-of select="$ot_result/ot_kur_stem/source"/>
+		  </only_ot_kur_stem>
+		</xsl:if>
 		<xsl:if test="not(normalize-space(./STEM/text()) = '')">
-		  <kur_stem kur_ID="xxx" case="nom" number="pl">
-		    <xsl:value-of select="lower-case(normalize-space(./STEM/text()))"/>
-		  </kur_stem>
+		  <xsl:if test="$ot_result/ot_kur_stem/source">
+		    
+		    <xsl:if test="$ot_result/ot_kur_stem/source = lower-case(normalize-space(./STEM/text()))">
+		      <kur_stem case="nom" number="pl">
+			<xsl:attribute name="kur_ID">
+			  <xsl:value-of select="$ot_result/ot_kur_stem/source/@kur_ID"/>
+			</xsl:attribute>
+			<xsl:value-of select="lower-case(normalize-space(./STEM/text()))"/>
+		      </kur_stem>
+		    </xsl:if>
+		    
+		    <xsl:if test="not($ot_result/ot_kur_stem/source = lower-case(normalize-space(./STEM/text())))">
+		      <ot_kur_stem case="nom" number="pl">
+			<xsl:attribute name="kur_ID">
+			  <xsl:value-of select="$ot_result/ot_kur_stem/source/@kur_ID"/>
+			</xsl:attribute>
+			<xsl:value-of select="lower-case(normalize-space(./STEM/text()))"/>
+		      </ot_kur_stem>
+		      <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">
+			<xsl:value-of select="lower-case(normalize-space(./STEM/text()))"/>
+		      </kur_stem>
+		    </xsl:if>
+		  </xsl:if>
+		  
+		  <xsl:if test="not($ot_result/ot_kur_stem/source)">
+		    <kur_stem kur_ID="xxx" case="nom" number="pl">
+		      <xsl:value-of select="lower-case(normalize-space(./STEM/text()))"/>
+		    </kur_stem>
+		  </xsl:if>
+		  
 		</xsl:if>
 		<xsl:if test="not(normalize-space(./CLASS/text()) = '')">
 		  <!-- mark not found value with '_x_' -->
@@ -597,7 +636,7 @@
     <xsl:param name="theEntry"/>
     
     <xsl:variable name="result">
-      <ot_kur_stem kur_ID="xxx" case="nom" number="pl">
+      <ot_kur_stem>
 	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']">
 	  <xsl:for-each select="./T[./LINK/@TYPE ='OT']">
 	    
@@ -613,7 +652,7 @@
 	      </xsl:if>
 	      
 	      <xsl:variable name="kid">
-		<xsl:value-of select="if (./@kur_id and not(./@kur_ID = '')) then ./@kur_ID else '_x_x_x_'"/>
+		<xsl:value-of select="if (../@kur_ID and not(../@kur_ID = '')) then ../@kur_ID else '_x_x_x_'"/>
 	      </xsl:variable>
 	      
 	      <source kur_ID="{$kid}">
