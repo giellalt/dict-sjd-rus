@@ -617,9 +617,13 @@
 	      </xsl:variable>
 	      
 	      <source kur_ID="{$kid}">
-		<xsl:value-of select="lower-case(./LINK[./@TYPE ='OT'])"/>
+		<xsl:value-of select="lower-case(../L)"/>
 	      </source>
 	      
+	      <link_target_test>
+		<xsl:value-of select="lower-case(./LINK[./@TYPE ='OT'])"/>
+	      </link_target_test>
+
 	    </xsl:if>
 	  </xsl:for-each>
 	</xsl:for-each>
