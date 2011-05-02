@@ -626,9 +626,9 @@
       </ot_kur_stem>
     </xsl:variable>
     
-    <xsl:if test="normalize-space($result) = ''">
-      <empty_out_kur_stem/>
-    </xsl:if>
+    <!--     <xsl:if test="normalize-space($result) = ''"> -->
+    <!--       <empty_out_kur_stem/> -->
+    <!--     </xsl:if> -->
     
     <xsl:if test="not(normalize-space($result) = '')">
       <xsl:copy-of select="$result"/>
