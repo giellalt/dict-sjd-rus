@@ -273,9 +273,11 @@
 	    </xsl:if>
 	    
 	    <!-- a pos-test for verbs is needed here to account for the specification from the kurutsch-todo file -->
-
+	    
+	    <!-- if at least one of the two elements STEM or CLASS are not emtpy: build an infl group element -->
 	    <xsl:if test="not(normalize-space(./STEM/text()) = '') or not(normalize-space(./CLASS/text()) = '')">
 	      <infl>
+		<!-- if no STEM take the info from the OT LINK element -->
 		<xsl:if test="normalize-space(./STEM/text()) = ''">
 		  <only_ot_kur_stem>
 		    <xsl:attribute name="kur_ID">
@@ -284,9 +286,11 @@
 		    <xsl:value-of select="$ot_result/ot_kur_stem/source"/>
 		  </only_ot_kur_stem>
 		</xsl:if>
+		<!-- if STEM carries info -->
 		<xsl:if test="not(normalize-space(./STEM/text()) = '')">
+		  <!-- if there is anything to merge with -->
 		  <xsl:if test="$ot_result/ot_kur_stem/source">
-		    
+		    <!-- the two values match: merge -->
 		    <xsl:if test="$ot_result/ot_kur_stem/source = lower-case(normalize-space(./STEM/text()))">
 		      <kur_stem case="nom" number="pl">
 			<xsl:attribute name="kur_ID">
@@ -296,6 +300,7 @@
 		      </kur_stem>
 		    </xsl:if>
 		    
+		    <!-- the two values do not match: build two different elements for check -->
 		    <xsl:if test="not($ot_result/ot_kur_stem/source = lower-case(normalize-space(./STEM/text())))">
 		      <ot_kur_stem case="nom" number="pl">
 			<xsl:attribute name="kur_ID">
@@ -309,6 +314,7 @@
 		    </xsl:if>
 		  </xsl:if>
 		  
+		  <!-- if there is nothing to merge with just take the STEM info with default values -->
 		  <xsl:if test="not($ot_result/ot_kur_stem/source)">
 		    <kur_stem kur_ID="xxx" case="nom" number="pl">
 		      <xsl:value-of select="lower-case(normalize-space(./STEM/text()))"/>
