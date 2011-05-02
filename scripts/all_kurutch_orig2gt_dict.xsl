@@ -261,13 +261,12 @@
 	      <xsl:value-of select="$current_l"/>
 	    </l>
 
-	    <!-- this is to prepare the merging -->	    
-	    <!-- 	    <merge_ot_infl> -->
-	    <!-- 	      <xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']"> -->
-	    <!-- 		<ot_kur_stem kur_ID="xxx" case="nom" number="pl"> -->
-	    <!-- 		</ot_kur_stem> -->
-	    <!-- 	      </xsl:for-each> -->
-	    <!-- 	    </merge_ot_infl> -->
+	    <!-- this is to prepare the merging -->
+	    <xsl:if test="$debug">
+	      <xsl:call-template name="check_merge_ot_source">
+		<xsl:with-param name="theEntry" select="."/>
+	      </xsl:call-template>
+	    </xsl:if>
 	    
 	    <!-- a pos-test for verbs is needed here to account for the specification from the kurutsch-todo file -->
 
@@ -592,7 +591,40 @@
 	</target>
       </xsl:if>
     </xsl:for-each>
+  </xsl:template>
+
+  <xsl:template name="check_merge_ot_source">
+    <xsl:param name="theEntry"/>
     
+    
+    <ot_kur_stem kur_ID="xxx" case="nom" number="pl">
+      <xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']">
+	<xsl:for-each select="./T[./LINK/@TYPE ='OT']">
+	  
+	  <xsl:if test="lower-case(./LINK[./@TYPE ='OT']) = lower-case($theEntry/L/text())">
+	    
+
+	    <xsl:if test="true()">
+	      <xsl:message terminate="no">
+		<xsl:value-of select="concat('*****@@@@@***** check merge ot source in  target:', $nl)"/>
+		<xsl:value-of select="concat('target: ', lower-case($theEntry/L/text()), 'source: ', lower-case(./LINK[./@TYPE ='OT']),$nl)"/>
+		<xsl:value-of select="'*****@@@@@*****'"/>
+	      </xsl:message>
+	    </xsl:if>
+	    
+	    <xsl:variable name="kid">
+	      <xsl:value-of select="if (./@kur_id and not(./@kur_ID = '')) then ./@kur_ID else '_x_x_x_'"/>
+	    </xsl:variable>
+	    
+	    <source kur_ID="{$kid}">
+	      <xsl:value-of select="lower-case(./LINK[./@TYPE ='OT'])"/>
+	    </source>
+	    
+	  </xsl:if>
+	</xsl:for-each>
+      </xsl:for-each>
+    </ot_kur_stem>
+
   </xsl:template>
   
 
