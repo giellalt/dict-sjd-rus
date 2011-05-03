@@ -5315,7 +5315,10 @@
 	<E>
 		<L>ка̄тҍхуввэ</L>
 		<CLASS>I</CLASS>
-		<DER type="STRAD_K">ка̄һтӭ-1,-2,-3,-4</DER>
+		<DER type="STRAD_K">ка̄һтӭ-1</DER>
+		<DER type="STRAD_K">ка̄һтӭ-2</DER>
+		<DER type="STRAD_K">ка̄һтӭ-3</DER>
+		<DER type="STRAD_K">ка̄һтӭ-4</DER>
 		<T>xxx</T>
 		<X>мунн ка̄тҍхуввэ пэҏтэсьт</X>
 		<XT>меня заперли дома</XT>
@@ -5514,11 +5517,14 @@
 			<LINK TYPE="SM">каһце-1</LINK>
 		</T>
 	</E>
-	<E kur_ID="1426">
-		<L>каһцьлэ-1,-2</L>
+	<E kur_ID="1426-1">
+		<L>каһцьлэ-1</L>
 		<T>
 			<LINK TYPE="SM">каһце-1</LINK>
 		</T>
+		</E>
+	<E kur_ID="1426-2">
+		<L>каһцьлэ-2</L>
 		<T>
 			<LINK TYPE="SM">каһце-2</LINK>
 		</T>
@@ -6437,7 +6443,8 @@
 	<E>
 		<L>ка̄ррьтлуввэ</L>
 		<CLASS>I</CLASS>
-		<DER type="STRAD_K">ка̄ррьтэ-1,-2</DER>
+		<DER type="STRAD_K">ка̄ррьтэ-1</DER>
+		<DER type="STRAD_K">ка̄ррьтэ-2</DER>
 		<T>xxx</T>
 		<X>та̄хьт шӣгктэнне ка̄ррьтлуввенҍ</X>
 		<XT>кости хорошо обглоданы (букв. обглодались)</XT>
@@ -7906,7 +7913,8 @@
 	<E>
 		<L>ке̄зьхэ</L>
 		<CLASS>III</CLASS>
-		<DER type="PONUD_K">ке̄ссе-1,-3</DER>
+		<DER type="PONUD_K">ке̄ссе-1</DER>
+		<DER type="PONUD_K">ке̄ссе-3</DER>
 		<T tnumber="1">xxx</T>
 		<X>ке̄зьхэгке соаймэтҍ ча̄зестҍ</X>
 		<XT>вытащите сети из воды</XT>
@@ -7932,7 +7940,8 @@
 	<E>
 		<L>кӣссъе</L>
 		<CLASS>III</CLASS>
-		<DER type="STRAD_K">ке̄ссе-1,-3</DER>
+		<DER type="STRAD_K">ке̄ссе-1</DER>
+		<DER type="STRAD_K">ке̄ссе-3</DER>
 		<T tnumber="1">
 			___WÖRTLICH+ÜBERTRAGEN___ тащиться, волочиться, тянуться</T>
 		<X>ва̄ннц - элэлэ кӣссай</X>
@@ -11725,7 +11734,9 @@
 	<E>
 		<L>ко̄ппчье</L>
 		<CLASS>III</CLASS>
-		<DER type="STRAD_K">ко̄ппче-1,-2,-3</DER>
+		<DER type="STRAD_K">ко̄ппче-1</DER>
+		<DER type="STRAD_K">ко̄ппче-2</DER>
+		<DER type="STRAD_K">ко̄ппче-3</DER>
 		<T>xxx</T>
 		<X>пугк кнӣга ко̄ппчьенҍ шкоаһпе</X>
 		<XT>все книги убраны в шкаф</XT>
