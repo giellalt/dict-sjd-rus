@@ -6721,7 +6721,8 @@
 	<E>
 		<L>шэ̄нтсэ</L>
 		<CLASS>III</CLASS>
-		<COMPARE>шэ̄ннтлэ-1,-2</COMPARE>
+		<COMPARE>шэ̄ннтлэ-1</COMPARE>
+		<COMPARE>шэ̄ннтлэ-2</COMPARE>
 		<T>xxx</T>
 		<X>со̄н алльк ё шэ̄нтэсьт</X>
 		<XT>его сын уже подрос</XT>
@@ -7590,7 +7591,9 @@
 	<E>
 		<L>ыштхуввэ</L>
 		<CLASS>I</CLASS>
-		<DER type="STRAD_K">ышштэ-1,-2,-4</DER>
+		<DER type="STRAD_K">ышштэ-1</DER>
+		<DER type="STRAD_K">ышштэ-2</DER>
+		<DER type="STRAD_K">ышштэ-4</DER>
 		<T>xxx</T>
 		<X>мунн ыштхувве диван э̄л</X>
 		<XT>меня заставили сесть на диван</XT>
@@ -7600,7 +7603,9 @@
 	<E>
 		<L>ыштхэ</L>
 		<CLASS>III</CLASS>
-		<DER type="PONUD_K">ышштэ-1,-2,-4</DER>
+		<DER type="PONUD_K">ышштэ-1</DER>
+		<DER type="PONUD_K">ышштэ-2</DER>
+		<DER type="PONUD_K">ышштэ-4</DER>
 		<T>xxx</T>
 		<X>ыштэһтҍ ва̄рнетҍ</X>
 		<XT>рассади гостей</XT>
