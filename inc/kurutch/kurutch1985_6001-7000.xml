@@ -9895,6 +9895,7 @@
 		<T>
 			<LINK TYPE="SM">ца̄гке-1</LINK>
 		</T>
+	</E>
 		<E kur_ID="6782-2">
 		<L>цоагкъе-2</L>
 		<T>
@@ -9906,7 +9907,8 @@
 		<T>
 			<LINK TYPE="SM">ца̄гке-1</LINK>
 		</T>
-		<E kur_ID="6783-2">
+	</E>
+	<E kur_ID="6783-2">
 		<L>цоагнэ-2</L>
 		<T>
 			<LINK TYPE="SM">ца̄гке-2</LINK>
@@ -9917,7 +9919,8 @@
 		<T>
 			<LINK TYPE="SM">ца̄гке-1</LINK>
 		</T>
-		<E kur_ID="6784-2">
+	</E>
+	<E kur_ID="6784-2">
 		<L>цоагче-2</L>
 		<T>
 			<LINK TYPE="SM">ца̄гке-2</LINK>
@@ -10831,7 +10834,8 @@
 		<T>
 			<LINK TYPE="SM">цыӈӈьк-1</LINK>
 		</T>
-		<E kur_ID="6856-2">
+	</E>
+	<E kur_ID="6856-2">
 		<L>цыӈӈьклуввэ-2</L>
 		<T>
 			<LINK TYPE="SM">цыӈӈьк-2</LINK>
