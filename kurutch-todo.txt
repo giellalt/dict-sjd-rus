@@ -96,7 +96,31 @@ sjdrus>grep '<sm_test' _out/kurutsch_interim.xml | sort | uniq -c | sort -nr
 	
 -to be merged in a way, that the kur_ID remains in the <infl_group> (see task above): <kur_stem kur_ID="x"
 		
-	==> TODO	
+
+@cip: This is to be checked. Some have the index problem attached to the
+L-value of an LINK OT entry, some lack diacritica. The interim file
+will be checked in.
+
+sjdrus>grep '_conf' _out/kurutsch_interim.xml 
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">я̄ррас</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">олк</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">рӯц</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">рӯц</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">та̄гь</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">то̄ҏька</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">тугк</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">тугк</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">чӯй</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">чӯйе</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">э̄д</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">ю̄ввэ</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">я̄ррас</kur_stem>
+
+
+
+	==> TODO: merge the info in the DER-element of the LINK OT
+	entry with that from the pendant content entry.
+
 
 ================================
 3. MERGE RULE 2 (LINK TYPE="SM")
