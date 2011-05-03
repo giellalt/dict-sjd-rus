@@ -1390,7 +1390,7 @@
 	</E>
 	<E kur_ID="5120">
 		<L>РӮҺЦ-1</L>
-		<STEM>рӯц</STEM>
+		<STEM>рӯц-1</STEM>
 		<CLASS>I</CLASS>
 		<T>враг, противник, неприятель M_GENDER
 		</T>
@@ -1401,7 +1401,7 @@
 	</E>
 	<E kur_ID="5121">
 		<L>РӮҺЦ-2</L>
-		<STEM>рӯц</STEM>
+		<STEM>рӯц-2</STEM>
 		<CLASS>I</CLASS>
 		<T>финн</T>
 		<X>рӯц кӣлл</X>
@@ -1849,11 +1849,14 @@
 			<LINK TYPE="SM">руффэ</LINK>
 		</T>
 	</E>
-	<E kur_ID="5155">
-		<L xxx="please_correct_me">рӯц-1,-2</L>
+	<E kur_ID="5155-1">
+		<L>рӯц-1</L>
 		<T>
 			<LINK TYPE="OT">рӯһц-1</LINK>
 		</T>
+		</E>
+	<E kur_ID="5155-2">
+		<L>рӯц-2</L>
 		<T>
 			<LINK TYPE="OT">рӯһц-2</LINK>
 		</T>
@@ -11069,11 +11072,14 @@
 			<LINK TYPE="SM">сыннҍ-2</LINK>
 		</T>
 	</E>
-	<E kur_ID="5862">
-		<L>сыннҍлуввэ-1,-2</L>
+	<E kur_ID="5862-1">
+		<L>сыннҍлуввэ-1</L>
 		<T>
 			<LINK TYPE="SM">сыннҍ-1</LINK>
 		</T>
+		</E>
+	<E kur_ID="5862-2">
+		<L>сыннҍлуввэ-2</L>
 		<T>
 			<LINK TYPE="SM">сыннҍ-2</LINK>
 		</T>
@@ -12464,7 +12470,11 @@
 	<E>
 		<L>та̄гхуввэ</L>
 		<CLASS>I</CLASS>
-		<DER type="STRAD_K">та̄гкэ-1,-3,-4,-5,-6</DER>
+		<DER type="STRAD_K">та̄гкэ-1</DER>
+		<DER type="STRAD_K">та̄гкэ-3</DER>
+		<DER type="STRAD_K">та̄гкэ-4</DER>
+		<DER type="STRAD_K">та̄гкэ-5</DER>
+		<DER type="STRAD_K">та̄гкэ-6</DER>
 		<T>xxx</T>
 		<X>сӯлл пе̄ннэ та̄гхувэ</X>
 		<XT>вороватую собаку побили</XT>
@@ -12478,7 +12488,11 @@
 	<E>
 		<L>та̄гхэ</L>
 		<CLASS>III</CLASS>
-		<DER type="PONUD_K">та̄гкэ-1,-2,-3,-4,-5,-6</DER>
+		<DER type="PONUD_K">та̄гкэ-1</DER>
+		<DER type="PONUD_K">та̄гкэ-2</DER>
+		<DER type="PONUD_K">та̄гкэ-3</DER>
+		<DER type="PONUD_K">та̄гкэ-4</DER>
+		<DER type="PONUD_K">та̄гкэ-5</DER>
 		<T>xxx</T>
 		<X>бэдт ышшьтэтҍ та̄гхэ</X>
 		<XT>нужно, чтобы кто-то забил ящики</XT>
