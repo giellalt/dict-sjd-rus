@@ -936,7 +936,8 @@
 	<E>
 		<L>кӯннҍтлэ</L>
 		<CLASS>III</CLASS>
-		<COMPARE>кӯнҍтсэ-2,-3</COMPARE>
+		<COMPARE>кӯнҍтсэ-2</COMPARE>
+		<COMPARE>кӯнҍтсэ-3</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E>
@@ -4005,11 +4006,14 @@
 			<LINK TYPE="SM">кэ̄дже</LINK>
 		</T>
 	</E>
-	<E kur_ID="2295">
-		<L>кэдцнэ-1,-2</L>
+	<E kur_ID="2295-1">
+		<L>кэдцнэ-1</L>
 		<T>
 			<LINK TYPE="SM">каһце-1</LINK>
 		</T>
+		</E>
+	<E kur_ID="2295-2">
+		<L>кэдцнэ-2</L>
 		<T>
 			<LINK TYPE="SM">каһце-2</LINK>
 		</T>
