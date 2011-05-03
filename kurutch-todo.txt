@@ -102,19 +102,19 @@ L-value of an LINK OT entry, some lack diacritica. The interim file
 will be checked in.
 
 sjdrus>grep '_conf' _out/kurutsch_interim.xml 
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">я̄ррас</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">олк</kur_stem>
+sjdrus>grep '_conf' _out/kurutsch_interim.xml 
             <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">рӯц</kur_stem>
             <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">рӯц</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">та̄гь</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">то̄ҏька</kur_stem>
             <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">тугк</kur_stem>
             <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">тугк</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">чӯй</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">чӯйе</kur_stem>
             <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">э̄д</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">ю̄ввэ</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">я̄ррас</kur_stem>
+
+
+@cip: indices in an L-element of the LINK OT type do not make sense,
+and as one can see here, they just make truble for processing.
+
+kurutch>grep '>рӯц\-1\,\-2<' *.xml 
+kurutch1985_5001-6000.xml:		<L xxx="please_correct_me">рӯц-1,-2</L>
 
 
 
