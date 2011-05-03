@@ -3906,12 +3906,8 @@
 	<E>
 		<L>ря̄гклэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">
-			<LINK type="TOZHE_SHTO">ря̄гнэ-1</LINK>
-		</T>
-		<T tnumber="2">
-			<LINK type="TOZHE_SHTO">ря̄гсэ</LINK>
-		</T>
+		<T tnumber="1">крикнуть</T>
+		<T tnumber="2">___TOZHE_SHTO___ря̄гсэ</T>
 	</E>
 	<E>
 		<L>ря̄гклэс</L>
@@ -4313,8 +4309,7 @@
 	<E>
 		<L>са̄дтлэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">
-			<LINK type="TOZHE_SHTO">са̄дсэ</LINK>
+		<T tnumber="1"><T>подышать тяжело (об олене COMMA собаке)<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 		<T tnumber="2">начать дышать тяжело (высунув язык) (напр. после бега) (об олене COMMA собаке)</T>
 		<X>пӯдзэ са̄дтлэнҍ, бэдт аннҍтэ вуэӈсэ</X>
