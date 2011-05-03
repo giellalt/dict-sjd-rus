@@ -1886,9 +1886,7 @@
 	<E>
 		<L>тӣввтлуввэ</L>
 		<CLASS>I</CLASS>
-		<T tnumber="1">
-			<LINK type="TOZHE_SHTO">тӣввтэ-1,-2</LINK>
-		</T>
+		<T tnumber="1">___TOZHE_SHTO___тӣввтэ1+2</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ потолстеть, располнеть</T>
 		<T tnumber="3">
@@ -1899,9 +1897,7 @@
 	<E>
 		<L>тӣввтлувнэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">
-			<LINK type="TOZHE_SHTO">тӣвтнэ</LINK>
-		</T>
+		<T tnumber="1">___TOZHE_SHTO___тӣвтнэ</T>
 		<T tnumber="2">
 			___ÜBERTRAGEN___ толстеть, полнеть<TAM>POSTOJANNO</TAM>
 			<TAM>INOGDA_BYVALO</TAM>
@@ -1935,9 +1931,9 @@
 	<E>
 		<L>тӣввтъе</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">
-			<LINK type="STRAD_K">тӣввтэ-1,-2</LINK>
-		</T>
+		<DER type="STRAD_K">тӣввтэ-1</DER>
+		<DER type="STRAD_K">тӣввтэ-2</DER>
+		<T tnumber="1">xxx</T>
 		<X>пла̄нн тӣввтэй</X>
 		<XT>план выполнен</XT>
 		<T tnumber="2">стать в достаточном количестве</T>
@@ -2023,9 +2019,7 @@
 	<E>
 		<L>тӣвтхэ</L>
 		<CLASS>III</CLASS>
-		<T tnumber="1">
-			<LINK type="TOZHE_SHTO">тӣввтътэ</LINK>
-		</T>
+		<T tnumber="1">___TOZHE_SHTO___тӣввтътэ</T>
 		<X>бэдт пла̄нэтҍ тӣвтхэ</X>
 		<XT>планы нужно выполнить</XT>
 		<T tnumber="2">обеспечить, снабдить кого-что чем</T>
@@ -4270,8 +4264,7 @@
 		<T tnumber="1">брызнуть</T>
 		<T tnumber="2">закапать (напр. о дожде)<TAM>VDRUG</TAM>
 		</T>
-		<T tnumber="3">
-			<LINK type="TOZHE_SHTO">трычксэ</LINK>
+		<T tnumber="3">побрызгать<TAM>NEMNOGO_NEDOLGO</TAM>
 		</T>
 	</E>
 	<E kur_ID="6334">
@@ -6824,8 +6817,7 @@
 		<T tnumber="1">тявкнуть, гавкнуть</T>
 		<X>кудца угкэль</X>
 		<XT>щенок тявкнул</XT>
-		<T tnumber="2">
-			<LINK type="TOZHE_SHTO">угсэ</LINK>
+		<T tnumber="2">___TOZHE_SHTO___угсэ
 		</T>
 	</E>
 	<E>
@@ -10714,8 +10706,7 @@
 		<L>цыӆӆклэ</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">издать звон, звякнуть</T>
-		<T tnumber="2">
-			<LINK type="TOZHE_SHTO">цыӆксэ</LINK>
+		<T tnumber="2">позвенеть (о предметах COMMA издающих звон)<TAM>NEMNOGO</TAM>
 		</T>
 	</E>
 	<E>
