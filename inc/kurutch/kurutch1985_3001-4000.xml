@@ -4911,7 +4911,10 @@
 	<E>
 		<L>мэ̄ннъе</L>
 		<CLASS>III</CLASS>
-		<DER type="STRAD_K">мэ̄ннэ-3,-6,-8,-11</DER>
+		<DER type="STRAD_K">мэ̄ннэ-3</DER>
+		<DER type="STRAD_K">мэ̄ннэ-6</DER>
+		<DER type="STRAD_K">мэ̄ннэ-8</DER>
+		<DER type="STRAD_K">мэ̄ннэ-11</DER>
 		<T>xxx</T>
 		<X>я̄ллмушш мэ̄ннэй ё</X>
 		<XT>жизнь уже прожита</XT>
@@ -4939,7 +4942,11 @@
 	<E>
 		<L>мэ̄нхэ</L>
 		<CLASS>III</CLASS>
-		<DER type="PONUD_K">мэ̄ннэ-1,-2,-3,-4,-8</DER>
+		<DER type="PONUD_K">мэ̄ннэ-1</DER>
+		<DER type="PONUD_K">мэ̄ннэ-2</DER>
+		<DER type="PONUD_K">мэ̄ннэ-3</DER>
+		<DER type="PONUD_K">мэ̄ннэ-4</DER>
+		<DER type="PONUD_K">мэ̄ннэ-8</DER>
 		<T>xxx</T>
 		<X>мэ̄нэһтҍ со̄н лыһцъе</X>
 		<XT>заставь его пойти к врачу</XT>
