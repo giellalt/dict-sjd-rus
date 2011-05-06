@@ -110,7 +110,7 @@
 	      </xsl:for-each>
 	    </merge_target>
 	    
-	    <xsl:if test="not($debug)">
+	    <xsl:if test="$debug">
 	      <xsl:call-template name="flatten_node">
 		<xsl:with-param name="theNode" select="."/>
 		<xsl:with-param name="theTag" select="'ot'"/>
@@ -192,6 +192,16 @@
 	      <xsl:value-of select="'xxx'"/>
 	    </xsl:attribute>
 	  </xsl:if>
+
+	  <!-- some tests before merging DERivation elements -->
+
+	  <xsl:if test="$debug">
+	    <xsl:call-template name="flatten_node">
+	      <xsl:with-param name="theNode" select="."/>
+	      <xsl:with-param name="theTag" select="'xcxnx'"/>
+	    </xsl:call-template>
+	  </xsl:if>
+
 	  <xsl:variable name="current_l" select="lower-case(./L)"/>
 	  <lg>
 	    <l>
