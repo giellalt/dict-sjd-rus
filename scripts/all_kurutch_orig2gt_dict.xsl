@@ -110,7 +110,7 @@
 	      </xsl:for-each>
 	    </merge_target>
 	    
-	    <xsl:if test="$debug">
+	    <xsl:if test="not($debug)">
 	      <xsl:call-template name="flatten_node">
 		<xsl:with-param name="theNode" select="."/>
 		<xsl:with-param name="theTag" select="'ot'"/>
@@ -147,7 +147,7 @@
 	    </xsl:attribute>
 	    
 	    <!-- quick, grep-friendly test: not only for 'non-programmers' -->
-	    <xsl:if test="$debug">
+	    <xsl:if test="not($debug)">
 	      <xsl:call-template name="flatten_node">
 		<xsl:with-param name="theNode" select="."/>
 		<xsl:with-param name="theTag" select="'sm'"/>
@@ -194,14 +194,13 @@
 	  </xsl:if>
 
 	  <!-- some tests before merging DERivation elements -->
-
-	  <xsl:if test="$debug">
+	  <xsl:if test="not($debug)">
 	    <xsl:call-template name="flatten_node">
 	      <xsl:with-param name="theNode" select="."/>
 	      <xsl:with-param name="theTag" select="'xcxnx'"/>
 	    </xsl:call-template>
 	  </xsl:if>
-
+	  
 	  <xsl:variable name="current_l" select="lower-case(./L)"/>
 	  <lg>
 	    <l>
@@ -653,6 +652,67 @@
     
     <xsl:variable name="result">
       <ot_kur_stem>
+	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']
+			      [some $c in T satisfies lower-case($c/LINK[./@TYPE ='OT']) = lower-case($theEntry/L/text())]">
+	  
+	  <xsl:if test="./DER">
+	    
+	    <ptrs>
+	      <xsl:for-each select="./DER">
+		<xsl:call-template name="lower-case_node">
+		  <xsl:with-param name="theNode" select="."/>
+		</xsl:call-template>
+	      </xsl:for-each>
+	    </ptrs>
+	  </xsl:if>
+	  
+	  <xsl:for-each select="./T[./LINK/@TYPE ='OT']">
+	    
+	    <xsl:if test="lower-case(./LINK[./@TYPE ='OT']) = lower-case($theEntry/L/text())">
+	      
+	      
+	      <xsl:if test="true()">
+		<xsl:message terminate="no">
+		  <xsl:value-of select="concat('*****@@@@@***** check merge ot source in  target:', $nl)"/>
+		  <xsl:value-of select="concat('target: ', lower-case($theEntry/L/text()), 'source: ', lower-case(./LINK[./@TYPE ='OT']),$nl)"/>
+		  <xsl:value-of select="'*****@@@@@*****'"/>
+		</xsl:message>
+	      </xsl:if>
+	      
+	      <xsl:variable name="kid">
+		<xsl:value-of select="if (../@kur_ID and not(../@kur_ID = '')) then ../@kur_ID else '_x_x_x_'"/>
+	      </xsl:variable>
+	      
+	      <source kur_ID="{$kid}">
+		<xsl:value-of select="lower-case(../L)"/>
+	      </source>
+	      
+	      <link_target_test>
+		<xsl:value-of select="lower-case(./LINK[./@TYPE ='OT'])"/>
+	      </link_target_test>
+
+	    </xsl:if>
+	  </xsl:for-each>
+	</xsl:for-each>
+      </ot_kur_stem>
+    </xsl:variable>
+    
+    <!--     <xsl:if test="normalize-space($result) = ''"> -->
+    <!--       <empty_out_kur_stem/> -->
+    <!--     </xsl:if> -->
+    
+    <xsl:if test="not(normalize-space($result) = '')">
+      <xsl:copy-of select="$result"/>
+    </xsl:if>
+    
+  </xsl:template>
+  
+  <!-- I keep this here just for comparison purposes --> 
+  <xsl:template name="old_check_merge_ot_source">
+    <xsl:param name="theEntry"/>
+    
+    <xsl:variable name="result">
+      <ot_kur_stem>
 	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']">
 	  <xsl:for-each select="./T[./LINK/@TYPE ='OT']">
 	    
@@ -695,6 +755,7 @@
     
   </xsl:template>
   
+
 
   <xsl:template name="lower-case_node">
     <xsl:param name="theNode"/>
