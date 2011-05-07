@@ -112,9 +112,11 @@ kurutch1985_5001-6000.xml:		<L xxx="please_correct_me">рӯц-1,-2</L>
 
  ==> the conflict problems are now done
  
-	==> TODO: merge the info in the DER-element of the LINK OT
-	entry with that from the pendant content entry.
 
+ Sub-task: merge the info in the DER-element of the LINK OT entry with
+	that from the pendant content entry.
+
+      ==> done
 
 ================================
 3. MERGE RULE 2 (LINK TYPE="SM")
