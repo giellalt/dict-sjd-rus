@@ -359,7 +359,7 @@
 	      </infl>
 	    </xsl:if>
 
-	    <!-- NB: not the whole pointers group is within the lg element -->
+	    <!-- NB: now the whole pointers group is within the lg element -->
 
 	    <!-- if there is a pointer comming from some LINk OT element
 		 merge it here -->
