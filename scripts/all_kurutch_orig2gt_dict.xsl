@@ -105,7 +105,7 @@
 		<xsl:if test="$debug">
 		  <xsl:call-template name="check_merge_target">
 		    <xsl:with-param name="theLink" select="./LINK"/>
-		    <xsl:with-param name="theContext" select="ot"/>
+		    <xsl:with-param name="theContext" select="'ot'"/>
 		  </xsl:call-template>
 		</xsl:if>
 	      </xsl:for-each>
@@ -162,7 +162,7 @@
 	      <xsl:if test="$debug">
 		<xsl:call-template name="check_merge_target">
 		  <xsl:with-param name="theLink" select="./L"/>
-		    <xsl:with-param name="theContext" select="sm"/>
+		    <xsl:with-param name="theContext" select="'sm'"/>
 		</xsl:call-template>
 	      </xsl:if>
 	    </merge_target>
@@ -709,7 +709,7 @@
 	  <xsl:value-of select="if (../@kur_id and not(../@kur_ID = '')) then ../@kur_ID else 'xxx'"/>
 	</xsl:variable>
 	
-	<xsl:element name="{concat($theContext, 'target')}">
+	<xsl:element name="{concat($theContext, '_target')}">
 	  <xsl:attribute name="kur_ID">
 	    <xsl:value-of select="$kid"/>
 	  </xsl:attribute>
