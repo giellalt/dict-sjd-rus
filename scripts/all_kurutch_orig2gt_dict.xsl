@@ -364,8 +364,8 @@
 	    <!-- if there is a pointer comming from some LINk OT element
 		 merge it here -->
 	    
-	    <xsl:if test="$ot_result/pointers">
-	      <xsl:copy-of select="$ot_result/pointers"/>
+	    <xsl:if test="$ot_result/ot_kur_stem/pointers">
+	      <xsl:copy-of select="$ot_result/ot_kur_stem/pointers"/>
 	    </xsl:if>
 	    
 	    <xsl:if test="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
