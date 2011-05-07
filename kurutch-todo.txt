@@ -164,6 +164,33 @@ kurutch1985_5001-6000.xml:		<L xxx="please_correct_me">рӯц-1,-2</L>
       ==> done
 
 ================================
+
+@cip: proper tests before merging of LINK SM entries:
+
+From a total of 5659 LINK SM entries:
+
+sjdrus>grep lsm _out/06_kurutsch_interim.xml 
+   <lsm_entries sm_counter="5659">
+sjdrus>grep '<merge_target' _out/06_kurutsch_interim.xml | wc -l     
+     5659
+
+
+5485 have a correspondent content entry and one LINK
+sjdrus>grep '<merge_target t_count="1">' _out/06_kurutsch_interim.xml | wc -l 
+    5485
+
+6 of them have a correspondent content entry and two LINK 
+sjdrus>grep '<merge_target' _out/06_kurutsch_interim.xml | grep -v '<merge_target t_count="1">' | grep -v '<merge_target t_count="1"/>' | wc -l 
+       6
+
+BUT ... for 168 LINK SM entries there is no correspondent content
+entry found. To be checked why is this so!
+
+sjdrus>grep '<merge_target t_count="1"/>' _out/06_kurutsch_interim.xml | wc -l      
+     168
+     
+     
+     
 3. MERGE RULE 2 (LINK TYPE="SM")
 merge of original reference entries (i.e. having a kur_ID) with content entries (i.e. without ID) 
 trigger: string (watch out for ambiguities)
