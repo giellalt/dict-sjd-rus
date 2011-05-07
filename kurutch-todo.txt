@@ -62,11 +62,6 @@ two examples
       
 =======================================
 
-@cip: DERivation element checked in all three types of entries before
-merging: no danger of overwriting, merging can be done just as a
-copying of DER element from the LINK OT entry into the content entry,
-without any further checks
-	
 2. MERGE RULE1 (LINK TYPE="OT"), look at the following example
 1st entry
 	<E kur_ID="58">
@@ -90,71 +85,6 @@ without any further checks
 	
 -to be merged in a way, that the kur_ID remains in the <infl_group> (see task above): <kur_stem kur_ID="x"
 		
-
-@cip: This is to be checked. Some have the index problem attached to the
-L-value of an LINK OT entry, some lack diacritica. The interim file
-will be checked in.
-
-sjdrus>grep '_conf' _out/kurutsch_interim.xml 
-sjdrus>grep '_conf' _out/kurutsch_interim.xml 
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">рӯц</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">рӯц</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">тугк</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">тугк</kur_stem>
-            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">э̄д</kur_stem>
-
-
-@cip: indices in an L-element of the LINK OT type do not make sense,
-and as one can see here, they just make truble for processing.
-
-kurutch>grep '>рӯц\-1\,\-2<' *.xml 
-kurutch1985_5001-6000.xml:		<L xxx="please_correct_me">рӯц-1,-2</L>
-
- ==> the conflict problems are now done
- 
-
- Sub-task: merge the info in the DER-element of the LINK OT entry with
-	that from the pendant content entry.
-
-      ==> done
-
-================================
-3. MERGE RULE 2 (LINK TYPE="SM")
-merge of original reference entries (i.e. having a kur_ID) with content entries (i.e. without ID) 
-trigger: string (watch out for ambiguities)
-
-to be solved according to the following rules
--find two entries of the following type
-1st entry:   
-   <E kur_ID="3">
-		<L>аббрай</L>
-		<T>
-			<LINK TYPE="SM">аббьр</LINK>
-		</T>
-	</E>
-2nd entry:
-	<E>
-		<L>аббрай</L>
-		<POS>PRED</POS>
-		<T>дождливый, дождлив</T>
-		<X>ке̄ссь ля̄йй аббрай</X>
-		<XT>лето было дождливым</XT>
-	</E>
--these entry pairs always:
-++have two similar contents in <L>
-++1st entry has a kur_ID, 2nd entry doesn't
-++1st entry has a mixed T-element with text and LINK children, 2nd entry doesn't
--merge these two entries into one entry, as in the following example
-   <E kur_ID="3">
-		<L>аббрай</L>
-		<POS>PRED</POS>
-		<DER type="SM">аббьр</DER>
-		<T>дождливый, дождлив</T>
-		<X>ке̄ссь ля̄йй аббрай</X>
-		<XT>лето было дождливым</XT>
-	</E>
-	
-	==> TODO
 
 Analysis before unification:
 sjdrus>grep '<ot_test ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr 
@@ -199,6 +129,78 @@ comes from <L> ( this is pretty clear.)
 </lg>
 
 The rest is pretty clear.
+    
+    
+    
+@cip: This is to be checked. Some have the index problem attached to the
+L-value of an LINK OT entry, some lack diacritica. The interim file
+will be checked in.
+
+sjdrus>grep '_conf' _out/kurutsch_interim.xml 
+sjdrus>grep '_conf' _out/kurutsch_interim.xml 
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">рӯц</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">рӯц</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">тугк</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">тугк</kur_stem>
+            <kur_stem kur_ID="xxx_conflict_xxx" case="nom" number="pl">э̄д</kur_stem>
+
+
+@cip: indices in an L-element of the LINK OT type do not make sense,
+and as one can see here, they just make truble for processing.
+
+kurutch>grep '>рӯц\-1\,\-2<' *.xml 
+kurutch1985_5001-6000.xml:		<L xxx="please_correct_me">рӯц-1,-2</L>
+
+ ==> the conflict problems are now done
+ 
+ @cip: DERivation element checked in all three types of entries before
+ merging: no danger of overwriting, merging can be done just as a
+ copying of DER element from the LINK OT entry into the content entry,
+ without any further checks
+	
+ Sub-task: merge the info in the DER-element of the LINK OT entry with
+	that from the pendant content entry.
+
+      ==> done
+
+================================
+3. MERGE RULE 2 (LINK TYPE="SM")
+merge of original reference entries (i.e. having a kur_ID) with content entries (i.e. without ID) 
+trigger: string (watch out for ambiguities)
+
+to be solved according to the following rules
+-find two entries of the following type
+1st entry:   
+   <E kur_ID="3">
+		<L>аббрай</L>
+		<T>
+			<LINK TYPE="SM">аббьр</LINK>
+		</T>
+	</E>
+2nd entry:
+	<E>
+		<L>аббрай</L>
+		<POS>PRED</POS>
+		<T>дождливый, дождлив</T>
+		<X>ке̄ссь ля̄йй аббрай</X>
+		<XT>лето было дождливым</XT>
+	</E>
+-these entry pairs always:
+++have two similar contents in <L>
+++1st entry has a kur_ID, 2nd entry doesn't
+++1st entry has a mixed T-element with text and LINK children, 2nd entry doesn't
+-merge these two entries into one entry, as in the following example
+   <E kur_ID="3">
+		<L>аббрай</L>
+		<POS>PRED</POS>
+		<DER type="SM">аббьр</DER>
+		<T>дождливый, дождлив</T>
+		<X>ке̄ссь ля̄йй аббрай</X>
+		<XT>лето было дождливым</XT>
+	</E>
+	
+	==> TODO
+
 
 ==================
 5. RE GROUPS
