@@ -88,11 +88,11 @@
 	    <xsl:attribute name="link_ot">
 	      <xsl:value-of select="count(./T/LINK[./@TYPE ='OT'])"/>
 	    </xsl:attribute>
-	    <xsl:attribute name="link_sm">
-	      <xsl:value-of select="count(./T/LINK[./@TYPE ='SM'])"/>
-	    </xsl:attribute>
-	    
-	    <!-- quick, grep-friendly test: not only for 'non-programmers' -->
+
+	    <!-- this was just a test -->
+	    <!-- 	    <xsl:attribute name="link_sm"> -->
+	    <!-- 	      <xsl:value-of select="count(./T/LINK[./@TYPE ='SM'])"/> -->
+	    <!-- 	    </xsl:attribute> -->
 	    
 	    <xsl:message terminate="no">
 	      <xsl:value-of select="concat('.......................................................', $nl)"/>
@@ -105,11 +105,13 @@
 		<xsl:if test="$debug">
 		  <xsl:call-template name="check_merge_target">
 		    <xsl:with-param name="theLink" select="./LINK"/>
+		    <xsl:with-param name="theContext" select="ot"/>
 		  </xsl:call-template>
 		</xsl:if>
 	      </xsl:for-each>
 	    </merge_target>
 	    
+	    <!-- quick, grep-friendly test: not only for 'non-programmers' -->
 	    <xsl:if test="not($debug)">
 	      <xsl:call-template name="flatten_node">
 		<xsl:with-param name="theNode" select="."/>
@@ -131,20 +133,39 @@
       </lot_entries>
     </xsl:variable>
     
+    
+    
     <xsl:variable name="e_link_sm" as="element()">
       <lsm_entries>
 	<xsl:attribute name="sm_counter">
 	  <xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM'])"/>
 	</xsl:attribute>
 	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM']">
-	  <E>
+	  <e>
 	    <xsl:copy-of select="./@*"/>
 	    <xsl:attribute name="link_sm">
 	      <xsl:value-of select="count(./T/LINK[./@TYPE ='SM'])"/>
 	    </xsl:attribute>
-	    <xsl:attribute name="link_ot">
-	      <xsl:value-of select="count(./T/LINK[./@TYPE ='OT'])"/>
-	    </xsl:attribute>
+
+	    <!-- this was just a test -->
+	    <!-- 	    <xsl:attribute name="link_ot"> -->
+	    <!-- 	      <xsl:value-of select="count(./T/LINK[./@TYPE ='OT'])"/> -->
+	    <!-- 	    </xsl:attribute> -->
+	    
+	    <xsl:message terminate="no">
+	      <xsl:value-of select="concat('.......................................................', $nl)"/>
+	      <xsl:value-of select="concat('SM entry kur_ID: ', ./@kur_ID, ' LINK counter ', count(./T), $nl)"/>
+	      <xsl:value-of select="'.......................................................'"/>
+	    </xsl:message>
+
+	    <merge_target t_count="{count(./T)}">
+	      <xsl:if test="$debug">
+		<xsl:call-template name="check_merge_target">
+		  <xsl:with-param name="theLink" select="./L"/>
+		    <xsl:with-param name="theContext" select="sm"/>
+		</xsl:call-template>
+	      </xsl:if>
+	    </merge_target>
 	    
 	    <!-- quick, grep-friendly test: not only for 'non-programmers' -->
 	    <xsl:if test="not($debug)">
@@ -154,11 +175,44 @@
 	      </xsl:call-template>
 	    </xsl:if>
 	    
-	    <xsl:copy-of select="./*"/>
-	  </E>
+	    <xsl:for-each select="./*">
+	      <xsl:call-template name="lower-case_node">
+		<xsl:with-param name="theNode" select="."/>
+	      </xsl:call-template>
+	    </xsl:for-each>
+
+	  </e>
 	</xsl:for-each>
       </lsm_entries>
     </xsl:variable>
+
+    <!--     <xsl:variable name="e_link_sm" as="element()"> -->
+    <!--       <lsm_entries> -->
+    <!-- 	<xsl:attribute name="sm_counter"> -->
+    <!-- 	  <xsl:value-of select="count(collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM'])"/> -->
+    <!-- 	</xsl:attribute> -->
+    <!-- 	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='SM']"> -->
+    <!-- 	  <E> -->
+    <!-- 	    <xsl:copy-of select="./@*"/> -->
+    <!-- 	    <xsl:attribute name="link_sm"> -->
+    <!-- 	      <xsl:value-of select="count(./T/LINK[./@TYPE ='SM'])"/> -->
+    <!-- 	    </xsl:attribute> -->
+    <!-- 	    <xsl:attribute name="link_ot"> -->
+    <!-- 	      <xsl:value-of select="count(./T/LINK[./@TYPE ='OT'])"/> -->
+    <!-- 	    </xsl:attribute> -->
+    
+    <!-- 	    <xsl:if test="not($debug)"> -->
+    <!-- 	      <xsl:call-template name="flatten_node"> -->
+    <!-- 		<xsl:with-param name="theNode" select="."/> -->
+    <!-- 		<xsl:with-param name="theTag" select="'sm'"/> -->
+    <!-- 	      </xsl:call-template> -->
+    <!-- 	    </xsl:if> -->
+    
+    <!-- 	    <xsl:copy-of select="./*"/> -->
+    <!-- 	  </E> -->
+    <!-- 	</xsl:for-each> -->
+    <!--       </lsm_entries> -->
+    <!--     </xsl:variable> -->
     
     <r xml:lang="sjd">
       <!-- number of entries without any LINK element -->
@@ -277,7 +331,7 @@
 	    </xsl:variable>
 	    
 	    <!-- this is to prepare the merging -->
-	    <xsl:if test="$debug">
+	    <xsl:if test="not($debug)">
 	      <xsl:copy-of select="$ot_result"/>
 	    </xsl:if>
 	    
@@ -583,7 +637,10 @@
 	  </xsl:for-each>
 	</e>
       </xsl:for-each>
-      <xsl:copy-of select="$e_link_ot"/>
+
+      <xsl:if test="not($debug)">
+	<xsl:copy-of select="$e_link_ot"/>
+      </xsl:if>
       <xsl:copy-of select="$e_link_sm"/>
     </r>
     
@@ -643,6 +700,7 @@
   
   <xsl:template name="check_merge_target">
     <xsl:param name="theLink"/>
+    <xsl:param name="theContext"/>
     
     <xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]/L">
       <xsl:if test="lower-case(.) = lower-case($theLink)">
@@ -651,13 +709,16 @@
 	  <xsl:value-of select="if (../@kur_id and not(../@kur_ID = '')) then ../@kur_ID else 'xxx'"/>
 	</xsl:variable>
 	
-	<target kur_ID="{$kid}">
+	<xsl:element name="{concat($theContext, 'target')}">
+	  <xsl:attribute name="kur_ID">
+	    <xsl:value-of select="$kid"/>
+	  </xsl:attribute>
 	  <xsl:value-of select="lower-case(.)"/>
-	</target>
+	</xsl:element>
       </xsl:if>
     </xsl:for-each>
   </xsl:template>
-
+  
   <xsl:template name="check_merge_ot_source">
     <xsl:param name="theEntry"/>
     
