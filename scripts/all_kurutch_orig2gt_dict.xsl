@@ -358,18 +358,29 @@
 		</xsl:if>
 	      </infl>
 	    </xsl:if>
+
+	    <!-- NB: not the whole pointers group is within the lg element -->
+
+	    <!-- if there is a pointer comming from some LINk OT element
+		 merge it here -->
+	    
+	    <xsl:if test="$ot_result/pointers">
+	      <xsl:copy-of select="$ot_result/pointers"/>
+	    </xsl:if>
+	    
+	    <xsl:if test="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
+	      <pointers>
+		<xsl:for-each select="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
+		  <xsl:element name="{lower-case(local-name(.))}">
+		    <xsl:copy-of select="./@*"/>
+		    <xsl:copy-of select="normalize-space(lower-case(.))"/>
+		  </xsl:element>
+		</xsl:for-each>
+	      </pointers>
+	    </xsl:if>
+	    
 	  </lg>
 	  
-	  <xsl:if test="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
-	    <pointers>
-	      <xsl:for-each select="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
-		<xsl:element name="{lower-case(local-name(.))}">
-		  <xsl:copy-of select="./@*"/>
-		  <xsl:copy-of select="normalize-space(lower-case(.))"/>
-		</xsl:element>
-	      </xsl:for-each>
-	    </pointers>
-	  </xsl:if>
 	  
 	  <xsl:for-each select="./T">
 	    <mg>
@@ -655,15 +666,19 @@
 	<xsl:for-each select="collection(concat($inDir, '?select=*.xml'))/r/E[T/LINK/@TYPE ='OT']
 			      [some $c in T satisfies lower-case($c/LINK[./@TYPE ='OT']) = lower-case($theEntry/L/text())]">
 	  
+
+	  <!-- flagged the pointer group with a from-attribute for
+	       tracking reasons: this can be ignored if not needed
+	       anymore -->
+
 	  <xsl:if test="./DER">
-	    
-	    <ptrs>
+	    <pointers from="'OT'">
 	      <xsl:for-each select="./DER">
 		<xsl:call-template name="lower-case_node">
 		  <xsl:with-param name="theNode" select="."/>
 		</xsl:call-template>
 	      </xsl:for-each>
-	    </ptrs>
+	    </pointers>
 	  </xsl:if>
 	  
 	  <xsl:for-each select="./T[./LINK/@TYPE ='OT']">
