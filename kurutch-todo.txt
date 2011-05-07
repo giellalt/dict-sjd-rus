@@ -62,46 +62,11 @@ two examples
       
 =======================================
 
-Checking the DERivation element in all three types of entries before merging:
-
-sjdrus>grep '<ot_test' _out/kurutsch_interim.xml | sort | uniq -c | sort -nr 
- 271          <ot_test stamp="l_t_">
-  26          <ot_test stamp="l_der_t_">
-   5          <ot_test stamp="l_t_t_">
-sjdrus>grep '<sm_test' _out/kurutsch_interim.xml | sort | uniq -c | sort -nr 
-5653          <sm_test stamp="l_t_">
-   6          <sm_test stamp="l_t_t_">
-sjdrus>grep '<xcxnx_test' _out/kurutsch_interim.xml | grep _der_ | sort | uniq -c | sort -nr 
- 207       <xcxnx_test stamp="l_class_der_t_x_xt_">
-  69       <xcxnx_test stamp="l_class_der_t_">
-  54       <xcxnx_test stamp="l_class_der_t_x_xt_x_xt_">
-   7       <xcxnx_test stamp="l_class_der_t_x_xt_x_xt_x_xt_">
-   6       <xcxnx_test stamp="l_class_der_t_x_xt_t_x_xt_">
-   3       <xcxnx_test stamp="l_class_der_t_x_xt_x_xt_x_xt_x_xt_">
-   3       <xcxnx_test stamp="l_class_der_t_t_x_xt_">
-   2       <xcxnx_test stamp="l_class_der_t_x_xt_t_x_xt_x_xt_">
-   2       <xcxnx_test stamp="l_class_der_t_x_xt_t_">
-   1       <xcxnx_test stamp="l_class_der_t_x_xt_xt_">
-   1       <xcxnx_test stamp="l_class_der_t_x_xt_x_xt_xt_">
-   1       <xcxnx_test stamp="l_class_der_t_x_xt_x_xt_t_">
-   1       <xcxnx_test stamp="l_class_der_t_x_xt_t_x_xt_t_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_t_t_t_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_t_t_">
-   1       <xcxnx_test stamp="l_class_der_der_t_x_xt_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_t_x_xt_x_xt_t_x_xt_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_t_x_xt_x_xt_t_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_t_x_xt_t_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_der_t_x_xt_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_der_t_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_der_t_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_der_der_t_x_xt_x_xt_x_xt_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_der_der_t_x_xt_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_der_der_der_t_x_xt_x_xt_x_xt_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_der_der_der_t_x_xt_x_xt_x_xt_x_xt_">
-   1       <xcxnx_test stamp="l_class_der_der_der_der_der_t_x_xt_">
-sjdrus>
-
-
+@cip: DERivation element checked in all three types of entries before
+merging: no danger of overwriting, merging can be done just as a
+copying of DER element from the LINK OT entry into the content entry,
+without any further checks
+	
 2. MERGE RULE1 (LINK TYPE="OT"), look at the following example
 1st entry
 	<E kur_ID="58">
