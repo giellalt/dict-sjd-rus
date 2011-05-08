@@ -167,29 +167,58 @@ kurutch1985_5001-6000.xml:		<L xxx="please_correct_me">рӯц-1,-2</L>
 
 @cip: proper tests before merging of LINK SM entries:
 
+First test: It the mapping of LINK SM entries into content entries exhaustive?
+
 From a total of 5659 LINK SM entries:
 
-sjdrus>grep lsm _out/06_kurutsch_interim.xml 
-   <lsm_entries sm_counter="5659">
-sjdrus>grep '<merge_target' _out/06_kurutsch_interim.xml | wc -l     
-     5659
+   sjdrus>grep '<merge_target' _out/kurutsch_interim.xml | wc -l 
+       5659
 
+there are 5485 LINK SM entries that have exactly one T element and
+some corresponent content entry has been found for the same L string:
 
-5485 have a correspondent content entry and one LINK
-sjdrus>grep '<merge_target t_count="1">' _out/06_kurutsch_interim.xml | wc -l 
-    5485
+   sjdrus>grep '<merge_target t_count="1">' _out/kurutsch_interim.xml | wc -l 
+       5485
 
-6 of them have a correspondent content entry and two LINK 
-sjdrus>grep '<merge_target' _out/06_kurutsch_interim.xml | grep -v '<merge_target t_count="1">' | grep -v '<merge_target t_count="1"/>' | wc -l 
+there are 6 LINK SM entries that have exactly two T elements and
+some corresponent content entry has been found for the same L string:
+
+   sjdrus>grep '<merge_target t_count="2">' _out/kurutsch_interim.xml | wc -l 
        6
 
 BUT ... for 168 LINK SM entries there is no correspondent content
-entry found. To be checked why is this so!
+entry found:
 
-sjdrus>grep '<merge_target t_count="1"/>' _out/06_kurutsch_interim.xml | wc -l      
-     168
-     
-     
+   sjdrus>grep '<merge_target t_count="1"/>' _out/kurutsch_interim.xml | wc -l 
+        168
+
+For the sake of completness, I did this test too: there is no LINK SM
+   with two T elements but lacking a content entry:
+
+   sjdrus>grep '<merge_target t_count="2"/>' _out/kurutsch_interim.xml | wc -l 
+        0
+
+Addition test: 6 + 168 + 5485 = 5659 (the total sum of LINK SM
+entries, i.e. nothing missed)
+
+Ergo: The mapping is not exhaustive.
+Problematic cases: 168 LINK SM entries without match (check for wrong
+spelling, weird indices, etc.)
+
+Second test: Is the mapping of LINK SM entries unambiguous? Micha
+aluded to ambiguosity when doing string comparison (see MERGE RULE 2 below).
+
+For the total of 5485 single links and  6 double links that have
+corresponding content entries, there should be 5485 + 12 = 5497
+content entry pointers.
+
+The number found is 5501, there is some ambiguosity but manually correctable
+   sjdrus>grep '<sm_target' _out/kurutsch_interim.xml | wc -l 
+       5501
+
+Mark the ambiguous cases
+     ==> TODO
+   
      
 3. MERGE RULE 2 (LINK TYPE="SM")
 merge of original reference entries (i.e. having a kur_ID) with content entries (i.e. without ID) 
