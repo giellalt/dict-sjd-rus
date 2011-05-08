@@ -232,7 +232,7 @@ sjdrus>grep '<merge_target' _out/kurutsch_interim.xml | sort | uniq -c | sort -n
    4          <merge_target t-element_count="1" link-match_count="2">
    ===> ambiguous cases: these have to be checked and corrected manually 
 
-   
+@cip: All checks should be done in the interim-file.   
      
 3. MERGE RULE 2 (LINK TYPE="SM")
 merge of original reference entries (i.e. having a kur_ID) with content entries (i.e. without ID) 
