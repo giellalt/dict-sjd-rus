@@ -158,14 +158,22 @@
 	      <xsl:value-of select="'.......................................................'"/>
 	    </xsl:message>
 
-	    <merge_target t_count="{count(./T)}">
-	      <xsl:if test="$debug">
-		<xsl:call-template name="check_merge_target">
-		  <xsl:with-param name="theLink" select="./L"/>
+	    <xsl:if test="$debug">
+	      <merge_target t-element_count="{count(./T)}">
+		<xsl:variable name="targets">
+		  <xsl:call-template name="check_merge_target">
+		    <xsl:with-param name="theLink" select="./L"/>
 		    <xsl:with-param name="theContext" select="'sm'"/>
-		</xsl:call-template>
-	      </xsl:if>
-	    </merge_target>
+		  </xsl:call-template>
+		</xsl:variable>
+		<xsl:attribute name="link-match_count">
+		  <xsl:value-of select="count($targets/sm_target)"/>
+		</xsl:attribute>
+		<xsl:if test="count($targets/sm_target) &gt; 0">
+		  <xsl:copy-of select="$targets"/>
+		</xsl:if>
+	      </merge_target>
+	    </xsl:if>
 	    
 	    <!-- quick, grep-friendly test: not only for 'non-programmers' -->
 	    <xsl:if test="not($debug)">
