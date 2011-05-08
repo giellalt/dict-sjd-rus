@@ -217,7 +217,21 @@ The number found is 5501, there is some ambiguosity but manually correctable
        5501
 
 Mark the ambiguous cases
-     ==> TODO
+     ==> done:
+
+Here is the improved test:
+
+sjdrus>grep '<merge_target' _out/kurutsch_interim.xml | sort | uniq -c | sort -nr 
+5481          <merge_target t-element_count="1" link-match_count="1">
+   ===> ideal cases 
+ 168          <merge_target t-element_count="1" link-match_count="0"/>
+   ===> problematic cases: LINK SM entries without corresponding
+   	      content entries (typos, weird indices, etc.)
+   6          <merge_target t-element_count="2" link-match_count="2">
+   ===> ideal cases (I assume that) 
+   4          <merge_target t-element_count="1" link-match_count="2">
+   ===> ambiguous cases: these have to be checked and corrected manually 
+
    
      
 3. MERGE RULE 2 (LINK TYPE="SM")
