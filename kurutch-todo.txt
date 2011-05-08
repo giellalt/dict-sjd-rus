@@ -258,7 +258,8 @@ to be solved according to the following rules
 -these entry pairs always:
 ++have two similar contents in <L>
 ++1st entry has a kur_ID, 2nd entry doesn't
-++1st entry has a mixed T-element with text and LINK children, 2nd entry doesn't
+++1st entry has a mixed T-element with text and LINK children (@cip:
+really, I don't belive that, ergo: I have to check it), 2nd entry doesn't
 -merge these two entries into one entry, as in the following example
    <E kur_ID="3">
 		<L>аббрай</L>
