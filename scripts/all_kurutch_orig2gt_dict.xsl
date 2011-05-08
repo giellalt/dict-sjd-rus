@@ -158,14 +158,17 @@
 	      <xsl:value-of select="'.......................................................'"/>
 	    </xsl:message>
 
-	    <xsl:if test="$debug">
-	      
+	    <!-- test done, now not relevant any more -->
+	    <xsl:if test="not($debug)">
 	      <xsl:for-each select="./T">
 		<xsl:call-template name="flatten_node">
 		  <xsl:with-param name="theNode" select="."/>
 		  <xsl:with-param name="theTag" select="'t_with_sm'"/>
 		</xsl:call-template>
 	      </xsl:for-each>
+	    </xsl:if>
+
+	    <xsl:if test="$debug">
 
 	      <merge_target t-element_count="{count(./T)}">
 		<xsl:variable name="targets">
