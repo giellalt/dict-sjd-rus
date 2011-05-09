@@ -232,7 +232,32 @@ sjdrus>grep '<merge_target' _out/kurutsch_interim.xml | sort | uniq -c | sort -n
    4          <merge_target t-element_count="1" link-match_count="2">
    ===> ambiguous cases: these have to be checked and corrected manually 
 
-@cip: All checks should be done in the interim-file.   
+@cip: All checks should be done in the interim-file. Answer to Micha's
+email: In order to check the ambiguous entries, go the the interm-file
+and find the pattern:
+
+  <merge_target t-element_count="1" link-match_count="2">
+
+That means: For the (normalized= lower-cased) string in L-element of the
+LINK SM entry ( t-element_count="1"), there are two content entries
+that match (link-match_count="2").
+
+Here is the first of the four ambiguous cases from the interim-file:
+
+      <e kur_ID="508" link_sm="1">
+         <t_with_sm_test stamp="link_">
+            <node ntype="link">вӣрр</node>
+         </t_with_sm_test>
+         <merge_target t-element_count="1" link-match_count="2">
+            <sm_target kur_ID="xxx">вӣрряй</sm_target>
+            <sm_target kur_ID="xxx">вӣрряй</sm_target>
+         </merge_target>
+         <l>вӣрряй</l>
+         <t>
+            <link type="SM">вӣрр</link>
+         </t>
+      </e>
+
 
 @cip: There are no T-elements in LINK SM entries that contain mixed
 nodes, i.e., both text nodes and element nodes:
@@ -265,10 +290,10 @@ to be solved according to the following rules
 -these entry pairs always:
 ++have two similar contents in <L>
 ++1st entry has a kur_ID, 2nd entry doesn't
-++1st entry has a mixed T-element with text and LINK children (@cip:
-Really? I don't belive that, ergo: I have to check it!
----
-checked and found out that they contain only LINK-elements), 2nd entry doesn't
+++1st entry has a mixed T-element with text and LINK children, 2nd entry doesn't
+
+(@cip: Really? I don't belive that, ergo: I have to check it! --- checked and found out that they contain only LINK-elements)
+
 -merge these two entries into one entry, as in the following example
    <E kur_ID="3">
 		<L>аббрай</L>
