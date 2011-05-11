@@ -3705,7 +3705,7 @@
 		<XT>забинтовать руку</XT>
 	</E>
 	<E>
-		<L>бинтнэ</L>
+		<L>бинтнэ_бӣнтнэ</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
@@ -3736,7 +3736,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<COMPARE>бинтнэ</COMPARE>
+		<COMPARE>бинтнэ_бӣнтнэ</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E kur_ID="265">
@@ -3764,7 +3764,7 @@
 		</T>
 	</E>
 	<E kur_ID="269">
-		<L>бинтнэ</L>
+		<L>бинтнэ_бӣнтнэ</L>
 		<T>
 			<LINK TYPE="SM">бӣннт</LINK>
 		</T>
