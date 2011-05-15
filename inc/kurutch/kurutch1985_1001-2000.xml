@@ -1151,7 +1151,7 @@
 		<XT>где-то он сейчас?!</XT>
 	</E>
 	<E kur_ID="1108">
-		<L>дэдтӭ</L>
+		<L>-дэдтӭ</L>
 		<T>
 			<LINK TYPE="SM">-дэдт</LINK>
 		</T>
@@ -5402,7 +5402,7 @@
 		</T>
 	</E>
 	<E>
-		<L>каһцьлэ</L>
+		<L>каһцьлэ-1</L>
 		<CLASS>III</CLASS>
 		<T>пуститься в карьер (о животных)</T>
 	</E>
@@ -5466,7 +5466,7 @@
 		<XT>нужно быстро нарвать ягеля</XT>
 	</E>
 	<E>
-		<L>каһцьлэ</L>
+		<L>каһцьлэ-2</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">нарвать (ягеля)<TAM>BYSTRO</TAM>
 		</T>
@@ -7938,7 +7938,7 @@
 		</T>
 	</E>
 	<E>
-		<L>кӣссъе</L>
+		<L>кӣссъе-1</L>
 		<CLASS>III</CLASS>
 		<DER type="STRAD_K">ке̄ссе-1</DER>
 		<DER type="STRAD_K">ке̄ссе-3</DER>
@@ -8241,7 +8241,7 @@
 		<XT>я в этом году осталась без помощника</XT>
 	</E>
 	<E kur_ID="1609">
-		<L>кӣдтьтэ</L>
+		<L>кӣдтътэ</L>
 		<T>
 			<LINK TYPE="SM">кӣдт</LINK>
 		</T>
@@ -9004,7 +9004,7 @@
 		<XT>все верёвки смотаны</XT>
 	</E>
 	<E>
-		<L>кӣссъе</L>
+		<L>кӣссъе-2</L>
 		<CLASS>III</CLASS>
 		<DER type="STRAD_K">кӣссэ</DER>
 		<T>xxx</T>
@@ -9352,7 +9352,7 @@
 		<XT>всё бельё вывешено</XT>
 	</E>
 	<E>
-		<L>ко̄знэ</L>
+		<L>ко̄знэ-1</L>
 		<CLASS>III</CLASS>
 		<COMPARE>коазсэллэ</COMPARE>
 		<T>xxx</T>
@@ -9413,13 +9413,13 @@
 		<XT>надо, чтобы кто-то связал чулки</XT>
 	</E>
 	<E>
-		<L>ко̄днэ</L>
+		<L>ко̄днэ-1</L>
 		<CLASS>III</CLASS>
 		<COMPARE>ко̄дче</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E>
-		<L>ко̄дтъюввэ</L>
+		<L>ко̄дтъюввэ-1</L>
 		<CLASS>I</CLASS>
 		<DER type="STRAD_K">коадтӭ</DER>
 		<T>xxx</T>
@@ -10489,7 +10489,7 @@
 		<XT>я всегда отдаю ей чесать шерсть</XT>
 	</E>
 	<E kur_ID="1779">
-		<L>коаҏҏьтье</L>
+		<L>коаҏҏьтъе</L>
 		<T>
 			<LINK TYPE="SM">коаҏҏт</LINK>
 		</T>
@@ -10873,11 +10873,11 @@
 	<E>
 		<L>ко̄дзлэ</L>
 		<CLASS>III</CLASS>
-		<COMPARE>ко̄зсэ</COMPARE>
+		<COMPARE>ко̄зсэ-1</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E>
-		<L>ко̄зсэ</L>
+		<L>ко̄зсэ-1</L>
 		<CLASS>III</CLASS>
 		<T>поуправлять кем-чем<TAM>NEMNOGO</TAM>
 		</T>
@@ -10919,7 +10919,7 @@
 		<XT>нерестовая рыба</XT>
 	</E>
 	<E>
-		<L>ко̄днэ</L>
+		<L>ко̄днэ-2</L>
 		<CLASS>III</CLASS>
 		<T>нереститься<TAM>POSTOJANNO</TAM>
 			<TAM>INOGDA_BYVALO</TAM>
@@ -10943,7 +10943,7 @@
 		<XT>сёмга начала нереститься</XT>
 	</E>
 	<E>
-		<L>ко̄дтъюввэ</L>
+		<L>ко̄дтъюввэ-2</L>
 		<CLASS>I</CLASS>
 		<T>отнереститься</T>
 		<X>ша̄бп ко̄дтъювэ</X>
@@ -10961,7 +10961,7 @@
 	<E>
 		<L>кодче</L>
 		<CLASS>III</CLASS>
-		<COMPARE>ко̄днэ</COMPARE>
+		<COMPARE>ко̄днэ-2</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E kur_ID="1816">
@@ -12025,7 +12025,7 @@
 		<XT>точить косы</XT>
 	</E>
 	<E>
-		<L>ко̄знэ</L>
+		<L>ко̄знэ-2</L>
 		<CLASS>III</CLASS>
 		<T>косить что<TAM>POSTOJANNO</TAM>
 			<TAM>INOGDA_BYVALO</TAM>
@@ -12034,7 +12034,7 @@
 		<XT>я кошу сено каждый год</XT>
 	</E>
 	<E>
-		<L>ко̄зсэ</L>
+		<L>ко̄зсэ-2</L>
 		<CLASS>III</CLASS>
 		<T>скосить что<TAM>BYSTRO</TAM>
 		</T>
@@ -12044,7 +12044,7 @@
 	<E>
 		<L>ко̄сслэ</L>
 		<CLASS>III</CLASS>
-		<COMPARE>ко̄зсэ</COMPARE>
+		<COMPARE>ко̄зсэ-2</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E>
