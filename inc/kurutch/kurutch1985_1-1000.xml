@@ -13869,11 +13869,14 @@
 			<LINK TYPE="SM">выррэ-2</LINK>
 		</T>
 	</E>
-	<E kur_ID="942">
+	<E kur_ID="942-1">
 		<L>вырнэ</L>
 		<T>
 			<LINK TYPE="SM">выррэ-1</LINK>
 		</T>
+		</E>
+	<E kur_ID="942-2">
+		<L>вырнэ</L>
 		<T>
 			<LINK TYPE="SM">выррэ-2</LINK>
 		</T>
@@ -13967,7 +13970,7 @@
 		<XT>идти проваливаясь</XT>
 	</E>
 	<E>
-		<L>вырнэ</L>
+		<L>вырнэ-1</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
@@ -14001,7 +14004,7 @@
 		<XT>порыв ветра</XT>
 	</E>
 	<E>
-		<L>вырнэ</L>
+		<L>вырнэ-2</L>
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
