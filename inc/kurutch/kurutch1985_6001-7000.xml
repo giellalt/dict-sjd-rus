@@ -1286,7 +1286,7 @@
 		</T>
 	</E>
 	<E kur_ID="6087">
-		<L>те̄дхзллэ</L>
+		<L>те̄дхэллэ</L>
 		<T>
 			<LINK TYPE="SM">те̄дт</LINK>
 		</T>
@@ -1570,7 +1570,7 @@
 		</T>
 	</E>
 	<E kur_ID="6108">
-		<L>те̄нькхаһтӭ</L>
+		<L>те̄нҍкхаһтӭ</L>
 		<T>
 			<LINK TYPE="SM">те̄ннҍк</LINK>
 		</T>
@@ -1696,7 +1696,7 @@
 		</T>
 	</E>
 	<E kur_ID="6116">
-		<L>те̄рхзллэ</L>
+		<L>те̄рхэллэ</L>
 		<T>
 			<LINK TYPE="SM">те̄ррэ</LINK>
 		</T>
@@ -2938,7 +2938,7 @@
 		</T>
 	</E>
 	<E kur_ID="6220">
-		<L>тоагкъювв</L>
+		<L>тоагкъюввэ</L>
 		<T>
 			<LINK TYPE="SM">та̄гкэ</LINK>
 		</T>
@@ -3176,7 +3176,7 @@
 		</T>
 	</E>
 	<E kur_ID="6245">
-		<L>тоаммчъе</L>
+		<L>тоаммчье</L>
 		<T>
 			<LINK TYPE="SM">та̄ммче</LINK>
 		</T>
@@ -9257,27 +9257,27 @@
 		<XT>надеть напёрсток на палец</XT>
 	</E>
 	<E>
-		<L>ца̄гкьлэ</L>
+		<L>ца̄гкьлэ-1</L>
 		<CLASS>III</CLASS>
-		<COMPARE>ца̄гъсэ</COMPARE>
+		<COMPARE>ца̄гъсэ-1</COMPARE>
 		<T>xxx</T>
 		<X>ца̄гкель ма̄льца</X>
 		<XT>надень малицу</XT>
 	</E>
 	<E>
-		<L>ца̄гьсэ</L>
+		<L>ца̄гьсэ-1</L>
 		<CLASS>III</CLASS>
 		<T>надеть что<TAM>BYSTRO</TAM>
 		</T>
 	</E>
 	<E>
-		<L>ца̄гьхэ</L>
+		<L>ца̄гьхэ-1</L>
 		<CLASS>III</CLASS>
 		<DER type="PONUD_K">ца̄гке</DER>
 		<T>xxx</T>
 	</E>
 	<E>
-		<L>цоагкъе</L>
+		<L>цоагкъе-1</L>
 		<CLASS>III</CLASS>
 		<DER type="STRAD_K">ца̄гке</DER>
 		<T>xxx></T>
@@ -9285,13 +9285,13 @@
 		<XT>пододеяльник надет на одеяло</XT>
 	</E>
 	<E>
-		<L>цоагнэ</L>
+		<L>цоагнэ-1</L>
 		<CLASS>III</CLASS>
-		<COMPARE>цоагче</COMPARE>
+		<COMPARE>цоагче-1</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E>
-		<L>цоагче</L>
+		<L>цоагче-1</L>
 		<CLASS>III</CLASS>
 		<T>надевать, примерять что<TAM>POSTOJANNO</TAM>
 			<TAM>INOGDA_BYVALO</TAM>
@@ -9317,13 +9317,13 @@
 		<XT>толкайте лодку с берега в воду</XT>
 	</E>
 	<E>
-		<L>ца̄гкьлэ</L>
+		<L>ца̄гкьлэ-2</L>
 		<CLASS>III</CLASS>
-		<COMPARE>ца̄гьсэ</COMPARE>
+		<COMPARE>ца̄гьсэ-2</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E>
-		<L>ца̄гьсэ</L>
+		<L>ца̄гьсэ-2</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">сунуть что во что<TAM>BYSTRO</TAM>
 		</T>
@@ -9331,7 +9331,7 @@
 		</T>
 	</E>
 	<E>
-		<L>ца̄гьхэ</L>
+		<L>ца̄гьхэ-2</L>
 		<CLASS>III</CLASS>
 		<DER type="PONUD_K">ца̄гке</DER>
 		<T>xxx</T>
@@ -9345,7 +9345,7 @@
 		<XT>они на берегу толкают лодку в воду</XT>
 	</E>
 	<E>
-		<L>цоагкъе</L>
+		<L>цоагкъе-2</L>
 		<CLASS>III</CLASS>
 		<DER type="STRAD_K">ца̄гке</DER>
 		<T>xxx></T>
@@ -9353,7 +9353,7 @@
 		<XT>вся одежда засунута в кису (в национальную сумку)</XT>
 	</E>
 	<E>
-		<L>цоагнэ</L>
+		<L>цоагнэ-2</L>
 		<CLASS>III</CLASS>
 		<T tnumber="1">совать, пихать что во что<TAM>POSTOJANNO</TAM>
 			<TAM>INOGDA_BYVALO</TAM>
@@ -9365,9 +9365,9 @@
 		</T>
 	</E>
 	<E>
-		<L>цоагче</L>
+		<L>цоагче-2</L>
 		<CLASS>III</CLASS>
-		<COMPARE>цоагнэ</COMPARE>
+		<COMPARE>цоагнэ-2</COMPARE>
 		<T>xxx</T>
 	</E>
 	<E kur_ID="6742-1">
@@ -10774,7 +10774,7 @@
 			<SEM>MED</SEM>цинга</T>
 	</E>
 	<E>
-		<L>цыӈӈьклуввэ</L>
+		<L>цыӈӈьклуввэ-1</L>
 		<CLASS>I</CLASS>
 		<T>заболеть цингой</T>
 	</E>
@@ -10817,7 +10817,7 @@
 		</T>
 	</E>
 	<E>
-		<L>цыӈӈьклуввэ</L>
+		<L>цыӈӈьклуввэ-2</L>
 		<CLASS>I</CLASS>
 		<T>стать ленивым, облениться</T>
 		<X>со̄нн чофта цыӈӈьклувэ</X>
@@ -12426,9 +12426,9 @@
 		<T>стать трезвым (с чьей-л. помощью)</T>
 	</E>
 	<E>
-		<L>че̄лкхэ</L>
+		<L>че̄лкхэ-1</L>
 		<CLASS>III</CLASS>
-		<DER type="PONUD_K">че̄ллкэ</DER>
+		<DER type="PONUD_K">че̄ллкэ-1</DER>
 		<T>xxx</T>
 	</E>
 	<E>
@@ -12470,7 +12470,7 @@
 		<XT>отдели скорее сани</XT>
 	</E>
 	<E>
-		<L>че̄лкхэ</L>
+		<L>че̄лкхэ-1</L>
 		<CLASS>III</CLASS>
 		<DER type="PONUD_K">че̄ллкэ</DER>
 		<T>xxx</T>
