@@ -217,7 +217,7 @@ The number found is 5501, there is some ambiguosity but manually correctable
        5501
 
 Mark the ambiguous cases
-     ==> done:
+     ==> done
 
 Here is the improved test:
 
@@ -231,6 +231,17 @@ sjdrus>grep '<merge_target' _out/kurutsch_interim.xml | sort | uniq -c | sort -n
    ===> ideal cases (I assume that) 
    4          <merge_target t-element_count="1" link-match_count="2">
    ===> ambiguous cases: these have to be checked and corrected manually 
+
+Test done 17.05.2011:
+
+sjdrus>grep '<merge_target' src/interim_kurutch1985_sjdrus.xml | sort | uniq -c | sort -nr 
+5517          <merge_target t-element_count="1" link-match_count="1">
+ 136          <merge_target t-element_count="1" link-match_count="0"/>
+   6          <merge_target t-element_count="2" link-match_count="2">
+   1          <merge_target t-element_count="1" link-match_count="2">
+
+
+
 
 @cip: All checks should be done in the interim-file. Answer to Micha's
 email: In order to check the ambiguous entries, go the the interm-file
