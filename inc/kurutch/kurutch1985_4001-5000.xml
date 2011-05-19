@@ -858,7 +858,7 @@
 		</T>
 	</E>
 	<E>
-		<L>о̄йкнэдтэ</L>
+		<L>ойкнэдтэ</L>
 		<CLASS>I,1*</CLASS>
 		<T tnumber="1"> ___WÖRTLICH+ÜBERTRAGEN___ соваться, вмешиваться во что</T>
 		<X>ель ойкнэд вӣресь тӯетҍ</X>
@@ -882,7 +882,7 @@
 		</T>
 	</E>
 	<E kur_ID="4059">
-		<L>о̄йкнэдтэ_ойкнэдтэ</L>
+		<L>ойкнэдтэ</L>
 		<T>
 			<LINK TYPE="SM">о̄ййкъе</LINK>
 		</T>
@@ -7511,7 +7511,7 @@
 		<L>ПУАЗ</L>
 		<STEM>пӯдзэ</STEM>
 		<CLASS>IV,1</CLASS>
-		<T>домашний олень ___LOOKUPа̄к COMMA а̄ллт COMMA амель COMMA ва̄жь COMMA вӯбресъ COMMA вӯнял COMMA вӯссь COMMA е̄ррьк COMMA ко̄нтас COMMA лӯһпель COMMA ре̄ввт COMMA сарьвесь COMMA че̄пэркLOOKUP___ 
+		<T>домашний олень ___LOOKUPа̄к COMMA а̄ллт COMMA амель COMMA ва̄жь COMMA вӯбресь COMMA вӯнял COMMA вӯссь COMMA е̄ррьк COMMA ко̄нтас COMMA лӯһпель COMMA ре̄ввт COMMA сарьвесь COMMA че̄пэркLOOKUP___ 
 		</T>
 		<X>таввял пуаз</X>
 		<XT>северный олень</XT>
