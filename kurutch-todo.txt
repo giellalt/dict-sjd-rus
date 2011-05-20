@@ -255,7 +255,7 @@ sjdrus>grep '<merge_target' src/interim_kurutch1985_sjdrus.xml | sort | uniq -c 
   36          <merge_target t-element_count="1" link-match_count="0"/>
 
 Ergo: only 36 problematic entries!
-
+@Micha: should be fixed now
 
 
 @cip: All checks should be done in the interim-file. Answer to Micha's
