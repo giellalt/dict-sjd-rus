@@ -1465,7 +1465,7 @@
 		<XT>[мне] приходилось пришивать тоборки к голенищам</XT>
 	</E>
 	<E kur_ID="5126">
-		<L>руййсэннтэ</L>
+		<L>рӯййсэннтэ</L>
 		<T>
 			<LINK TYPE="SM">рӯййсэ</LINK>
 		</T>
@@ -4509,7 +4509,7 @@
 		<XT>надо, чтобы ножи наточили</XT>
 	</E>
 	<E>
-		<L>се̄ййе</L>
+		<L>сэ̄ййе</L>
 		<CLASS>III</CLASS>
 		<DER type="STRAD_K">сайе</DER>
 		<T>xxx</T>
@@ -4698,7 +4698,7 @@
 		<T>лишиться сети</T>
 	</E>
 	<E kur_ID="5368">
-		<L>сайймлуввэ</L>
+		<L>са̄йймлуввэ</L>
 		<T>
 			<LINK TYPE="SM">са̄ййм</LINK>
 		</T>
@@ -5780,6 +5780,18 @@
 		<X>се̄ввьнэсьвудэсьт оаррсэпь</X>
 		<XT>посидим в темноте</XT>
 	</E>
+	<E>
+	<L>ся̄ййвнассьтэ</L>
+	<T>this seems to be a mistake in the original dict because this L rather belongs to ся̄ййвэ</T>
+	</E> 
+	<E>
+	<L>ся̄ййвнэ-1</L>
+	<T>this is definitely a mistake in the original dict</T>
+	</E> 
+	<E>
+	<L>ся̄ййвнэннтэ-1</L>
+	<T>this is definitely a mistake in the original dict</T>
+	</E> 
 	<E kur_ID="5454">
 		<L>се̄ввьнънэ</L>
 		<T>
@@ -9359,7 +9371,7 @@
 		<XT>рыба очень солёная</XT>
 	</E>
 	<E>
-		<L>суэллдаһтэ</L>
+		<L>суэллдаһтӭ</L>
 		<CLASS>I,1*</CLASS>
 		<DER type="PONUD_K">суэллдэ</DER>
 		<T>xxx</T>
@@ -10248,7 +10260,7 @@
 		</T>
 	</E>
 	<E kur_ID="5804">
-		<L>суэлдэлнэ</L>
+		<L>суэллдэлнэ</L>
 		<T>
 			<LINK TYPE="SM">сӯлль</LINK>
 		</T>
@@ -10690,7 +10702,7 @@
 		<T>xxx</T>
 	</E>
 	<E>
-		<L>сыййнэ</L>
+		<L>сыйпнэ</L>
 		<CLASS>III</CLASS>
 		<T>качаться, раскачиваться (напр. на качелях)<TAM>POSTOJANNO</TAM>
 			<TAM>INOGDA_BYVALO</TAM>
