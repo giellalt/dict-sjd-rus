@@ -1,5 +1,46 @@
 Kurutch sjd-rus
 
+@micha: please check the "idiom group conversion rule" (the marker was #), perhaps something is wrong because now the examples occur twice
+from the interim file:
+<e kur_ID="1">
+      <lg>
+         <l pos="xxx">а</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>а</t>
+         </tg>
+         <xg type="xxx"> <<<=== right conversion
+            <x>пуада эмм та̄рьм, а ента</x>
+            <xt>[я] приду не сегодня, а завтра</xt>
+         </xg>
+         <xg type="xxx"> <<<=== right conversion
+            <x>мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь лаппьсъенҍ</x>
+            <xt>я буду оленеводом, а она будет дояркой</xt>
+         </xg>
+         <xg type="sentence"> <<<=== right conversion
+            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
+            <xt>а кто тебе сказал об этом?</xt>
+         </xg>
+         <xg type="idiom"> <<<=== wrong
+            <x>пуада эмм та̄рьм, а ента</x>
+            <xt>[я] приду не сегодня, а завтра</xt>
+         </xg>
+         <xg type="idiom"> <<<=== wrong
+            <x>мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь лаппьсъенҍ</x>
+            <xt>я буду оленеводом, а она будет дояркой</xt>
+         </xg>
+         <xg type="idiom"> <<<=== wrong
+            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
+            <xt>а кто тебе сказал об этом?</xt>
+         </xg>
+      </mg>
+   </e>
+   
+
 ORDER OF CONVERSIONS TO BE DONE
 ===============================
 1. INFLECTION GROUP
@@ -344,11 +385,11 @@ to be solved according to the following rules
 5a. conversion of parentheses inside <t>
 if the text in parentheses start with either the word "(о " or "(об " it should be converted into an <re> element with scope on <tg>
 
-	==> TODO
+	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
 
 5b. a few other <re>s (formely in parentheses inside <t>) have been tagged manually as ___RE x RE___ and should likewise be converted into an <re> element with scope on <tg> (see above)
 
-	==> TODO
+	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
 	
 ==================
 6. TE GROUPS	
@@ -357,11 +398,11 @@ if the text in parentheses start with either the word "(о " or "(об " it shou
 into some attributes to the t-element under scrutiny!!! This is
 because of the unclear status of te-element in the gt_dict.)
 
-    ==> TODO
+    ==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
 
 6b. a few other <te>s (formely in parentheses inside <t>) have been tagged manually as ___TE x TE___ and should likewise be converted into an <te> element with scope on <tg> (see above)
 
-	==> TODO
+	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
 	
 ====================
 7. ASPEKT PAIRS
@@ -430,7 +471,7 @@ Example
       </mg>
    </e>
    
-  ==> TODO (LATER; THIS TASK MOVES LOWER IN THE HIERARCHY OF IMPORTANCE)
+  ==> TODO
 
 
 =============================================
@@ -443,13 +484,13 @@ ___VERSCH_BED___ Scope is mg
 ___ÜBERTRAGEN___ Scope is mg (<-- <RE>PEREN</RE>)
 ___AUCH_ÜBERTRAGEN___ Scope is mg (<-- <RE>TOZHE_PEREN</RE>)
 ___WÖRTLICH+ÜBERTRAGEN___ Scope is mg (<-- <RE>PRJAM_PEREN</RE>)
- ==> TODO
+ ==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
  
 the preliminary tag LOOKUP marks a pointer to Kildin words in Russian text elements, e.g.
 выделывать / выделать (шкуру крюком ___LOOKUPкрӯһкь___LOOKUP)
 this should somehow be converted into a link inside the final dict, like
 выделывать / выделать (шкуру крюком <LOOKUP xml:lang="sjd">крӯһкь</LOOKUP>
-  ==> TODO
+  ==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
 
 
 ====================================
