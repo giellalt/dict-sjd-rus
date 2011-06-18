@@ -301,7 +301,8 @@
 					or ends-with($current_l, 'вудт')
 					or ends-with($current_l, 'хэсс')) then 'n' else
 					if (ends-with($current_l, 'хэмь')
-					or ends-with($current_l, 'ай')) then 'a' else
+					or ends-with($current_l, 'ай')
+					or ends-with($current_l, 'есь')) then 'a' else
 					if (ends-with($current_l, 'юввэ')
 					or ends-with($current_l, 'уввэ')
 					or ends-with($current_l, 'увнэ')
