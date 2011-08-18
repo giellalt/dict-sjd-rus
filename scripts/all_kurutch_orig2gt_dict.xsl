@@ -610,7 +610,6 @@
 		  </ex_group>
 		</xsl:variable>
 		
-		<!-- <xsl:if test="$exs/ex_group/idiom_boundary/child::text()[normalize-space(.) = '#']"> -->
 		<xsl:if test="$exs/ex_group/idiom_boundary">
 		  <xsl:for-each select="$exs/ex_group/idiom_boundary/preceding-sibling::x">
 		    <xg>
@@ -635,7 +634,6 @@
 		  </xsl:for-each>
 		</xsl:if>
 
-		<!-- <xsl:if test="not($exs/ex_group/idiom_boundary/child::text()[normalize-space(.) = '#'])"> -->
 		<xsl:if test="not($exs/ex_group/idiom_boundary)">
 		  <xsl:for-each select="$exs/ex_group/x">
 		    <xg>
