@@ -4943,7 +4943,7 @@
 		<STEM/>
 		<CLASS>I,1</CLASS>
 		<POS/>
-		<T>выделывать / выделать ___TE шкуру крюком ___LOOKUPкрӯһкьLOOKUP___TE ___
+		<T>выделывать / выделать ___TE шкуру крюком ___LOOKUPкрӯһкьLOOKUP___ TE___
 		</T>
 		<X>мунн вала тӯльй</X>
 		<XT>я выделываю шкуру [крюком]</XT>
@@ -4962,7 +4962,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>выделать ___TE шкуру крюком ___LOOKUPкрӯһкьLOOKUP___TE ___<TAM>BYSTRO</TAM>
+		<T>выделать ___TE шкуру крюком ___LOOKUPкрӯһкьLOOKUP___ TE___<TAM>BYSTRO</TAM>
 		</T>
 		<X>бэдт тӯльй валлълэ</X>
 		<XT>шкуру нужно быстро выделать</XT>
@@ -5000,7 +5000,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>выделывать ___TE шкуру крюком ___LOOKUPкрӯһкьLOOKUP___TE ___<TAM>POSTOJANNO</TAM>
+		<T>выделывать ___TE шкуру крюком ___LOOKUPкрӯһкьLOOKUP___ TE___<TAM>POSTOJANNO</TAM>
 			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 		<X>мунн вэ̄лча ля̄ тӯльетҍ</X>
