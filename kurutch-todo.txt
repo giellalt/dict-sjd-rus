@@ -438,7 +438,7 @@ is to be converted into -->
 <t aspect="perf">покрывать</t>
 <t aspect="imperf">покрыть</t>
 
-  ==> TODO
+  ==> CAN WAIT
 
 ==================
 8. GENDER/NUMBER TAGS
@@ -467,7 +467,7 @@ I found only one mistake
 <l> is a verb (even according to the old PoS rules because it ends on -уввэ)
 the problem: F_GENDER here tags only one part of the phrasal translation
 
-  ==> TODO
+  ==> CAN WAIT
 
 ====================================
 4. LEXICON GROUP
@@ -497,7 +497,7 @@ Example
       </mg>
    </e>
    
-  ==> TODO
+  ==> CAN WAIT
 
 
 =============================================
