@@ -42,6 +42,8 @@ from the interim file:
       </mg>
    </e>
    
+   ==> done
+   
 
 ORDER OF CONVERSIONS TO BE DONE
 ===============================
@@ -125,6 +127,21 @@ two examples
 			<LINK TYPE="OT">аджь</LINK>
 		</T>
 	</E>
+
+
+
+result:
+
+	<E kur_ID="58">
+	   <lg>
+		<L>АДЖЬ</L>
+		<STEM kur_ID="69">ажь</STEM>
+		<CLASS>I,1</CLASS>
+		<POS/>
+        </lg>
+		<T>отец</T>
+
+
 	
 -to be merged in a way, that the kur_ID remains in the <infl_group> (see task above): <kur_stem kur_ID="x"
 		
@@ -379,6 +396,13 @@ to be solved according to the following rules
 		<XT>лето было дождливым</XT>
 	</E>
 	
+
+Caveat:
+1. merge of several SM entries
+grep '<link type="SM">' interim_kurutch1985_sjdrus.xml | sort | uniq -c | sort -nr | less
+2. no doubled entries after merging, i.e., just copy the entries that are not string-equal with
+some SM or OT link.
+
 	==> TODO
 
 
@@ -408,7 +432,7 @@ because of the unclear status of te-element in the gt_dict.)
 	
 ====================
 7. ASPEKT PAIRS
-aspect pairs in <t> are always marked by / (slash), perfective aspect seems always to be first, e.g.
+aspect pairs in <t> are always marked by / (slash), perfective aspect occurrs always as the first element, e.g.
 <t>покрывать / покрыть</t>
 is to be converted into -->
 <t aspect="perf">покрывать</t>
