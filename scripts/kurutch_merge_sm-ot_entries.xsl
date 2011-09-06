@@ -87,18 +87,18 @@
 	    
 	    
 	    <!-- to refine here: all entries that have no pointers to -->
-	    <xsl:for-each select="doc($file)/r/e[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]">
-	      <xsl:if test="true()">
-		<xsl:message terminate="no">
-		  <xsl:value-of select="concat('-----------------------------------------', $nl)"/>
-		  <xsl:value-of select="concat('entry kur_ID: ', ./@kur_ID, $nl)"/>
-		  <xsl:value-of select="'-----------------------------------------'"/>
-		</xsl:message>
-	      </xsl:if>
+<!-- 	    <xsl:for-each select="doc($file)/r/e[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]"> -->
+<!-- 	      <xsl:if test="true()"> -->
+<!-- 		<xsl:message terminate="no"> -->
+<!-- 		  <xsl:value-of select="concat('.................................', $nl)"/> -->
+<!-- 		  <xsl:value-of select="concat('entry kur_ID: ', ./@kur_ID, $nl)"/> -->
+<!-- 		  <xsl:value-of select="'.................................'"/> -->
+<!-- 		</xsl:message> -->
+<!-- 	      </xsl:if> -->
 
-	      <xsl:copy-of select="."/>
+<!-- 	      <xsl:copy-of select="."/> -->
 
-	    </xsl:for-each>
+<!-- 	    </xsl:for-each> -->
 
 	    <xsl:for-each select="doc($file)/r/lsm_entries/e">
 	      <xsl:if test="true()">
