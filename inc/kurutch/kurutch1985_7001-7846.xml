@@ -3220,7 +3220,7 @@
 		<XT>что за звон слышен?</XT>
 	</E>
 	<E>
-		<L>чӯйе</L>
+		<L>чӯйе-2</L>
 		<CLASS>I,1</CLASS>
 		<T>звенеть, звонить</T>
 		<X>ке̄лленч чуэйй</X>
@@ -4178,7 +4178,7 @@
 	</E>
 	<E kur_ID="7330">
 		<L>ЧУЭЙ</L>
-		<STEM>чӯйе</STEM>
+		<STEM>чӯйе-1</STEM>
 		<CLASS>IV</CLASS>
 		<T>полоса, полоска (на ткани COMMA бумаге)</T>
 		<X>цуӆӆк чӯйегуэйм</X>
@@ -8160,6 +8160,14 @@
 		<T>делать что-л. более высоким<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
+	<E>
+		<L>аллнэллэ</L>
+		<T>хххthis form should not exist, but has a pointer somewhere else in the original dictххх</T>
+	</E>	
+	<E>
+		<L>аллнэлнэ</L>
+		<T>хххthis form should not exist, but has a pointer somewhere else in the original dictххх</T>
+	</E>	
 	<E>
 		<L>альнаһтӭ</L>
 		<CLASS>I,1*</CLASS>
