@@ -438,7 +438,11 @@ is to be converted into -->
 <t aspect="perf">покрывать</t>
 <t aspect="imperf">покрыть</t>
 
-  ==> CAN WAIT
+Problem: sometimes in <t> there is more info than just die aspect verb pair, like
+<t>VERBperf / VERBimperf WORD (EXPLANATION)</t>
+However, I believe there is always only the VERBperf before the opening tag <t> and the / (slash). If this is true, the / (slash) has always scopus over the two words surrounding it.
+
+  ==> TO DO
 
 ==================
 8. GENDER/NUMBER TAGS
