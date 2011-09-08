@@ -8557,7 +8557,7 @@
 		<L>ФӮРЯ</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>IV</CLASS>
-		<T>неряха F_GENDER
+		<T>неряха F_GENDER, неряха
 			 M_GENDER ; неряшливый человек</T>
 		<X>со̄нн фӯря лӣ</X>
 		<XT>он - неряха</XT>
@@ -8617,8 +8617,7 @@
 	<E>
 		<L>фыҏчеч</L>
 		<POS>PRED</POS>
-		<T>плакса F_GENDER
-			 M_GENDER
+		<T>плакса F_GENDER, плакса M_GENDER
 		</T>
 		<X>со̄нн пэре ли фыҏчеч</X>
 		<XT>он - большой плакса</XT>
