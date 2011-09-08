@@ -448,7 +448,7 @@ However, I believe there is always only the VERBperf before the opening tag <t> 
 8. GENDER/NUMBER TAGS
 the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>;
 
-  ==> CAN WAIT
+  ==> TO DO
 
 ====================================
 4. LEXICON GROUP
