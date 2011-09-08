@@ -447,29 +447,6 @@ However, I believe there is always only the VERBperf before the opening tag <t> 
 ==================
 8. GENDER/NUMBER TAGS
 the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>;
-@cip: Can we assume that sjd-lemma's pos is n, too?
-@micha: Yes, we can, but…
-I found only one mistake
-<e kur_ID="xxx">
-      <lg>
-         <l pos="n">ве̄кьхуввэ</l>
-         <class>I</class>
-      </lg>
-      <mg km="g">
-         <semantics>
-            <stype>xxx</stype>
-         </semantics>
-         <tg>
-            <t>получить помощь F_GENDER</t>
-         </tg>
-         <xg>
-            <x>со̄нн ве̄кьхувв ӣжесь па̄ррнэнҍ</x>
-            <xt>он получает помощь от детей</xt>
-         </xg>
-      </mg>
-   </e>
-<l> is a verb (even according to the old PoS rules because it ends on -уввэ)
-the problem: F_GENDER here tags only one part of the phrasal translation
 
   ==> CAN WAIT
 
