@@ -478,7 +478,7 @@ Example
       </mg>
    </e>
    
-  ==> CAN WAIT
+  ==> TO DO
 
 
 =============================================
@@ -497,6 +497,7 @@ the preliminary tag LOOKUP marks a pointer to Kildin words in Russian text eleme
 выделывать / выделать (шкуру крюком ___LOOKUPкрӯһкь___LOOKUP)
 this should somehow be converted into a link inside the final dict, like
 выделывать / выделать (шкуру крюком <LOOKUP xml:lang="sjd">крӯһкь</LOOKUP>
+
   ==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
 
 
