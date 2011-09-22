@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sjd" no-link_e="1" ot_e="0" sm_e="1">
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="PRED">аббрай</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>дождливый</t>
+            <t>дождлив</t>
+         </tg>
+         <xg type="xxx">
+            <x>ке̄ссь ля̄йй аббрай</x>
+            <xt>лето было дождливым</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="6467">
+      <lg>
+         <l pos="v">тыввнэдтэ</l>
+         <infl>
+            <kur_infl class="I" ablaut="1" special="*"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>одеваться / одеться</t>
+         </tg>
+         <xg type="sentence">
+            <x>тыввнэд удла!</x>
+            <xt>одевайся побыстрее!</xt>
+         </xg>
+         <xg type="xxx">
+            <x>бэдт тыввнэдтэ поаһкса</x>
+            <xt>нужно одеться потеплее</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тыввлуввэ</l>
+         <infl>
+            <kur_infl class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+         <pointers>
+            <compare>тыввнэдсэ</compare>
+         </pointers>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <lsm_entries sm_counter="1">
+      <e kur_ID="3" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">аббрай</sm_target>
+         </merge_target>
+         <l>аббрай</l>
+         <t>
+            <link type="SM">аббьр</link>
+         </t>
+      </e>
+      <e kur_ID="6464" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тыввлуввэ</sm_target>
+         </merge_target>
+         <l>тыввлуввэ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+      <e kur_ID="6465" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тыввнэднэ</sm_target>
+         </merge_target>
+         <l>тыввнэднэ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+      <e kur_ID="6466" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тыввнэдсэ</sm_target>
+         </merge_target>
+         <l>тыввнэдсэ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+      <e kur_ID="6469" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тывнаһтӭ</sm_target>
+         </merge_target>
+         <l>тывнаһтӭ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+
+      <e kur_ID="6471" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тывнэсс</sm_target>
+         </merge_target>
+         <l>тывнэсс</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+
+      <e kur_ID="6473" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тывхуввэ</sm_target>
+         </merge_target>
+         <l>тывхуввэ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+      <e kur_ID="6474" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тывхэ</sm_target>
+         </merge_target>
+         <l>тывхэ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+      <e kur_ID="6475" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тывхэллэ</sm_target>
+         </merge_target>
+         <l>тывхэллэ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+
+      <e kur_ID="6476" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тывхэлнэ</sm_target>
+         </merge_target>
+         <l>тывхэлнэ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+   </lsm_entries>
+</r>
