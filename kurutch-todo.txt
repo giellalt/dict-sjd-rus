@@ -387,7 +387,7 @@ to be solved according to the following rules
 (@cip: Really? I don't belive that, ergo: I have to check it! --- checked and found out that they contain only LINK-elements)
 
 -merge these two entries into one entry, as in the following example
-   <E kur_ID="3">
+   <E kur_ID="3">  kur_ID="id_01;id_02;id_03"
 		<L>аббрай</L>
 		<POS>PRED</POS>
 		<DER type="SM">аббьр</DER>
@@ -396,6 +396,92 @@ to be solved according to the following rules
 		<XT>лето было дождливым</XT>
 	</E>
 	
+
+
+@cip: followup question
+Have a look at these entries that have to be merged:
+
+        <E kur_ID="6464">
+                <L>тыввлуввэ</L>
+                <T>
+                        <LINK TYPE="SM">тыввнэдтэ</LINK>
+                </T>
+        </E>
+
+        <E>
+                <L>тыввлуввэ</L>
+                <CLASS>I</CLASS>
+                <COMPARE>тыввнэдсэ</COMPARE>
+                <T>xxx</T>
+        </E>
+
+My script all_kurutchorit2gt.xsl does the following:
+
+	    <xsl:if test="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
+	      <pointers>
+		<xsl:for-each select="./*[(local-name() = 'DER') or (local-name() = 'COMPARE')]">
+		  <xsl:element name="{lower-case(local-name(.))}">
+		    <xsl:copy-of select="./@*"/>
+		    <xsl:copy-of select="normalize-space(lower-case(.))"/>
+		  </xsl:element>
+		</xsl:for-each>
+	      </pointers>
+	    </xsl:if>
+
+... that means it creates a pointers-element like that:
+
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тыввлуввэ</l>
+         <infl>
+            <kur_infl class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+         <pointers>
+            <compare>тыввнэдсэ</compare>
+         </pointers>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>xxx</t>
+         </tg>
+      </mg>
+   </e>
+
+When I merge that with the SM-entrie the result ist that:
+
+   <e kur_ID="6464" link_sm="1">
+      <lg>
+         <l pos="v">тыввлуввэ</l>
+         <infl>
+            <kur_infl class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+         <pointers>
+            <compare>тыввнэдсэ</compare>
+         </pointers>
+         <der type="SM">тыввнэдтэ</der>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>xxx</t>
+         </tg>
+      </mg>
+   </e>
+
+Question: Is the information in the pointers-element not superfluous that means exactly the same
+as that comming from the SM-entry? Can I just ignore it or could it be that there are entries with
+pointer-elements different than the SM/OT info?
+
+For the moment, I will just leave it inside the lg-slot, so this is not that important a question,
+but Micha has to think about that (or Cip has to mine into all pointers and compare them with the
+info comming from SM/OT slot).
+
+
 
 Caveat:
 1. merge of several SM entries
