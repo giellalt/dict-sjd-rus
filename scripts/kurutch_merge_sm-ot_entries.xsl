@@ -70,7 +70,7 @@
 
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="file" select="'../rule2_test.xml'"/>
+  <xsl:param name="file" select="'../rule2_merging_test.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
   
   <xsl:template match="/" name="main">
@@ -112,7 +112,7 @@
 	      <e>
 		<xsl:copy-of select="./@*"/>
 		<lg>
-		  <xsl:copy-of select="doc($file)/r/e/lg/l[. = $c_lemma]"/>
+		  <xsl:copy-of select="doc($file)/r/e/lg[./l = $c_lemma]/*"/>
 		  <der type="SM">
 		    <xsl:value-of select="./t/link[./@type = 'SM']"/>
 		  </der>
