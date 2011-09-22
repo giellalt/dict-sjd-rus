@@ -747,7 +747,7 @@
 			      [some $c in T satisfies lower-case($c/LINK[./@TYPE ='OT']) = lower-case($theEntry/L/text())]">
 	  
 
-	  <!-- flagged the pointer group with a from-attribute for
+	  <!-- flag the pointer group with a from-attribute for
 	       tracking reasons: this can be ignored if not needed
 	       anymore -->
 
