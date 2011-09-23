@@ -477,10 +477,7 @@ Question: Is the information in the pointers-element not superfluous that means 
 as that comming from the SM-entry? Can I just ignore it or could it be that there are entries with
 pointer-elements different than the SM/OT info?
 
-For the moment, I will just leave it inside the lg-slot, so this is not that important a question,
-but Micha has to think about that (or Cip has to mine into all pointers and compare them with the
-info comming from SM/OT slot).
-
+@micha: what you did was all right! yes, pointer-elements should be different the SM/OT info, like in this example here ( тыввнэдсэ vs. тыввнэдтэ ).
 
 
 Caveat:
