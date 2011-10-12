@@ -364,7 +364,7 @@ trigger: string (watch out for ambiguities)
 
 to be solved according to the following rules
 -find two entries of the following type
-1st entry:   
+1st entry:
    <E kur_ID="3">
 		<L>аббрай</L>
 		<T>
@@ -486,7 +486,38 @@ grep '<link type="SM">' interim_kurutch1985_sjdrus.xml | sort | uniq -c | sort -
 2. no doubled entries after merging, i.e., just copy the entries that are not string-equal with
 some SM or OT link.
 
-	==> TODO
+
+to debug: why do I get so many empty tg/t-elements here?
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тыввнэднэ</l>
+         <infl>
+            <kur_infl class="III" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tam>postojanno</tam>
+         <tam>inogda_byvalo</tam>
+         <tg>
+            <t>одеваться</t>
+         </tg>
+         <tg>
+            <t/>
+         </tg>
+         <tg>
+            <t/>
+         </tg>
+      </mg>
+   </e>
+
+
+
+
+
+	==> ONGOING WORK
 
 
 ==================
