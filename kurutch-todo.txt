@@ -488,6 +488,15 @@ some SM or OT link.
 
 
 to debug: why do I get so many empty tg/t-elements here?
+
+        <E>
+                <L>тыввнэднэ</L>
+                <CLASS>III</CLASS>
+                <T>одеваться<TAM>POSTOJANNO</TAM>
+                        <TAM>INOGDA_BYVALO</TAM>
+                </T>
+        </E>
+
    <e kur_ID="xxx">
       <lg>
          <l pos="v">тыввнэднэ</l>
@@ -510,6 +519,90 @@ to debug: why do I get so many empty tg/t-elements here?
          <tg>
             <t/>
          </tg>
+      </mg>
+   </e>
+
+        <E kur_ID="6465">
+                <L>тыввнэднэ</L>
+                <T>
+                        <LINK TYPE="SM">тыввнэдтэ</LINK>
+                </T>
+        </E>
+
+      <e kur_ID="6465" link_sm="1">
+         <merge_target t-element_count="1" link-match_count="1">
+            <sm_target kur_ID="xxx">тыввнэднэ</sm_target>
+         </merge_target>
+         <l>тыввнэднэ</l>
+         <t>
+            <link type="SM">тыввнэдтэ</link>
+         </t>
+      </e>
+
+
+src>grep '<t/>' interim_kurutch1985_sjdrus.xml | wc -l 
+    3442
+
+ ==> TODO: debug and correct!
+
+Aha, it seems to be because of mixed nodes TAM inside the T-element...
+but now I discover even worse things... 
+... unbalanced brackets or rather typos!!! <== Micha, please correct! I will try to work only on the merging rules for now,
+ignoring these problems. We can work on them together tomorrow.
+
+Input:
+
+        <E>
+                <L>абрсэллэ</L>
+                <STEM/>
+                <CLASS>I,1*</CLASS>
+                <POS/>
+                <T tnumber="1">накрапывать (о дожде)<TAM>POSTOJANNO</TAM>
+                </T>
+                <X>абрсэлэ, абрсэлэ я воазе</X>
+                <XT>дождь накрапывал, накрапывал и прекратился</XT>
+                <T tnumber="2">моросить (о дожде) <TAM>долго)</TAM></T>
+                <X>пе̄йвэсь абрсалл</X>
+                <XT>весь день моросит дождь</XT>
+        </E>
+
+Output:
+
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">абрсэллэ</l>
+         <infl>
+            <kur_infl class="I" ablaut="1" special="*"/>
+         </infl>
+      </lg>
+      <mg km="g1">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tam>postojanno</tam>
+         <tg>
+            <t>накрапывать (о дожде)</t>
+         </tg>
+         <tg>
+            <t/>
+         </tg>
+         <xg type="xxx">
+            <x>абрсэлэ, абрсэлэ я воазе</x>
+            <xt>дождь накрапывал, накрапывал и прекратился</xt>
+         </xg>
+      </mg>
+      <mg km="g2">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tam>долго)</tam>
+         <tg>
+            <t>моросить (о дожде)</t>
+         </tg>
+         <xg type="xxx">
+            <x>пе̄йвэсь абрсалл</x>
+            <xt>весь день моросит дождь</xt>
+         </xg>
       </mg>
    </e>
 
