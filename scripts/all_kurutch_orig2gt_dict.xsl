@@ -580,18 +580,22 @@
 
 		    <xsl:if test="not(normalize-space(.) = '')">
 		      <tg>
-			<xsl:attribute name="cip_tag">
-			  <xsl:value-of select="'full_txt_node'"/>
-			</xsl:attribute>
+			<xsl:if test="not($debug)">
+			  <xsl:attribute name="cip_tag">
+			    <xsl:value-of select="'full_txt_node'"/>
+			  </xsl:attribute>
+			</xsl:if>
 			<xsl:for-each select="tokenize(., ',')">
 			  <!-- processing brackets -->
 			  <!-- 			      <xsl:if test="contains(., '(')"> -->
 			  <!-- 				<xsl:variable name="bracket" select=""/> -->
 			  <!-- 			      </xsl:if> -->
-			  
-			  <t>
-			    <xsl:value-of select="normalize-space(.)"/>
-			  </t>
+
+			  <xsl:if test="not(normalize-space(.) = '')">			  
+			    <t>
+			      <xsl:value-of select="normalize-space(.)"/>
+			    </t>
+			  </xsl:if>
 			</xsl:for-each>
 		      </tg>
 		    </xsl:if>
