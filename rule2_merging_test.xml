@@ -61,6 +61,156 @@
          </tg>
       </mg>
    </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тыввнэдсэ</l>
+         <infl>
+            <kur_infl class="III" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tam>bystro</tam>
+         <tg>
+            <t>одеться</t>
+         </tg>
+      </mg>
+   </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тывнаһтӭ</l>
+         <infl>
+            <kur_infl class="I" ablaut="1" special="*"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>одеть кого</t>
+         </tg>
+         <xg type="xxx">
+            <x>тывнадтҍ парна</x>
+            <xt>одень ребёнка</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="n">тывнэсс</l>
+         <infl>
+            <kur_stem kur_ID="xxx" case="nom" number="pl">тывнэз</kur_stem>
+            <kur_infl class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>одежда</t>
+         </tg>
+         <xg type="xxx">
+            <x>поаһк тывнэсс</x>
+            <xt>тёплая одежда</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тывхуввэ</l>
+         <infl>
+            <kur_infl class="I" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>стать одетым</t>
+         </tg>
+         <xg type="xxx">
+            <x>со̄нн тывхувэ</x>
+            <xt>его одели</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="xxx">тывхэ</l>
+         <infl>
+            <kur_infl class="III" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>заставить кого-л. одеться</t>
+         </tg>
+         <xg type="xxx">
+            <x>тывэһтҍ парна</x>
+            <xt>пусть ребёнок оденется</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тывхэллэ</l>
+         <infl>
+            <kur_infl class="I" ablaut="1" special="*"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>одевать кого</t>
+         </tg>
+      </mg>
+   </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тывхэлнэ</l>
+         <infl>
+            <kur_infl class="III" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tam>postojanno</tam>
+         <tam>inogda_byvalo</tam>
+         <tg>
+            <t>одевать кого</t>
+         </tg>
+      </mg>
+   </e>
+   <e kur_ID="xxx">
+      <lg>
+         <l pos="v">тыввнэднэ</l>
+         <infl>
+            <kur_infl class="III" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tam>postojanno</tam>
+         <tam>inogda_byvalo</tam>
+         <tg>
+            <t>одеваться</t>
+         </tg>
+      </mg>
+   </e>
    <lsm_entries sm_counter="1">
       <e kur_ID="3" link_sm="1">
          <merge_target t-element_count="1" link-match_count="1">
@@ -107,7 +257,6 @@
             <link type="SM">тыввнэдтэ</link>
          </t>
       </e>
-
       <e kur_ID="6471" link_sm="1">
          <merge_target t-element_count="1" link-match_count="1">
             <sm_target kur_ID="xxx">тывнэсс</sm_target>
@@ -117,7 +266,6 @@
             <link type="SM">тыввнэдтэ</link>
          </t>
       </e>
-
       <e kur_ID="6473" link_sm="1">
          <merge_target t-element_count="1" link-match_count="1">
             <sm_target kur_ID="xxx">тывхуввэ</sm_target>
@@ -145,7 +293,6 @@
             <link type="SM">тыввнэдтэ</link>
          </t>
       </e>
-
       <e kur_ID="6476" link_sm="1">
          <merge_target t-element_count="1" link-match_count="1">
             <sm_target kur_ID="xxx">тывхэлнэ</sm_target>
