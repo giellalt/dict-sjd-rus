@@ -568,7 +568,7 @@
 		<xsl:for-each select="child::text()">
 		  <!-- here: to refine it wrt. LINK-elements mixed T-elements -->
 		  <xsl:for-each select="tokenize(., ';')">
-		    <tg>
+		    <tg cip_tag="txt_node">
 		      <xsl:for-each select="tokenize(., ',')">
 			<!-- processing brackets -->
 			<!-- 			      <xsl:if test="contains(., '(')"> -->
