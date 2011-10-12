@@ -502,6 +502,20 @@ but now I discover even worse things...
 ... unbalanced brackets or rather typos!!! <== Micha, please correct! I will try to work only on the merging rules for now,
 ignoring these problems. We can work on them together tomorrow.
 
+More unbalances brackets from the output file: please correct in the inc-file, i.e., input files!
+
+src>grep -n ')' interim_kurutch1985_sjdrus.xml | grep -v '('  
+282:         <tam>долго)</tam>
+85495:            <t>волосах)</t>
+105939:            <xt>у овцы хвост дрожит)</xt>
+146776:            <xt>тогдашнее время)</xt>
+186630:            <t>затишье в природе)</t>
+
+src>grep '(' interim_kurutch1985_sjdrus.xml | grep -v ')' 
+            <t>негустой (о шерсти</t>
+
+
+
 Input:
 
         <E>
