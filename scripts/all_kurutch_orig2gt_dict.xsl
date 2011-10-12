@@ -568,18 +568,33 @@
 		<xsl:for-each select="child::text()">
 		  <!-- here: to refine it wrt. LINK-elements mixed T-elements -->
 		  <xsl:for-each select="tokenize(., ';')">
-		    <tg cip_tag="txt_node">
-		      <xsl:for-each select="tokenize(., ',')">
-			<!-- processing brackets -->
-			<!-- 			      <xsl:if test="contains(., '(')"> -->
-			<!-- 				<xsl:variable name="bracket" select=""/> -->
-			<!-- 			      </xsl:if> -->
-			
-			<t>
-			  <xsl:value-of select="normalize-space(.)"/>
-			</t>
-		      </xsl:for-each>
-		    </tg>
+		    <xsl:if test="not($debug)">
+		      <xsl:if test="normalize-space(.) = ''">
+			<tg>
+			  <xsl:attribute name="cip_tag">
+			    <xsl:value-of select="'empty_txt_node'"/>
+			  </xsl:attribute>
+			</tg>
+		      </xsl:if>
+		    </xsl:if>
+
+		    <xsl:if test="not(normalize-space(.) = '')">
+		      <tg>
+			<xsl:attribute name="cip_tag">
+			  <xsl:value-of select="'full_txt_node'"/>
+			</xsl:attribute>
+			<xsl:for-each select="tokenize(., ',')">
+			  <!-- processing brackets -->
+			  <!-- 			      <xsl:if test="contains(., '(')"> -->
+			  <!-- 				<xsl:variable name="bracket" select=""/> -->
+			  <!-- 			      </xsl:if> -->
+			  
+			  <t>
+			    <xsl:value-of select="normalize-space(.)"/>
+			  </t>
+			</xsl:for-each>
+		      </tg>
+		    </xsl:if>
 		  </xsl:for-each>
 		</xsl:for-each>
 	      </xsl:if>
