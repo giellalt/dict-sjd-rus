@@ -1,5 +1,10 @@
 Kurutch sjd-rus
 
+
+TODO: very important to check what happened with the ot-entries after transformation
+into a gt-like format!!!
+
+
 @micha: please check the "idiom group conversion rule" (the marker was #), perhaps something is wrong because now the examples occur twice
 from the interim file:
 @cip: not perhaps, sure... I found that in some stage I deleted parts of the code that were responsible for dat. I will fix it.
