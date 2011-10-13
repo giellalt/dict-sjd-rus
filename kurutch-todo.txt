@@ -4,6 +4,8 @@ Kurutch sjd-rus
 TODO: very important to check what happened with the ot-entries after transformation
 into a gt-like format!!!
 @micha: the transformation went fine! I checked the interim file. only that there is no <lot> daughter of <r>. do we still need the "ot-merging test file"?
+@cip: Yes, definitely! This step doesn't have anything to do with the merging, this is just a transformation
+into a more gt-like dictionary structure.
 
 =======================================
 
