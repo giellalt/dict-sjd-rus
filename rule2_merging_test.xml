@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sjd">
+   <e kur_ID="1">
+      <lg>
+         <l pos="xxx">а</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>а</t>
+         </tg>
+         <xg type="xxx">
+            <x>пуада эмм та̄рьм, а ента</x>
+            <xt>[я] приду не сегодня, а завтра</xt>
+         </xg>
+         <xg type="xxx">
+            <x>мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь лаппьсъенҍ</x>
+            <xt>я буду оленеводом, а она будет дояркой</xt>
+         </xg>
+         <xg type="sentence">
+            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
+            <xt>а кто тебе сказал об этом?</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="14">
+      <lg>
+         <l pos="n">а̄бпяр</l>
+         <infl>
+            <kur_stem kur_ID="xxx" case="nom" number="pl">о.ч.</kur_stem>
+            <kur_infl class="V" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>закваска</t>
+         </tg>
+         <xg type="xxx">
+            <x>а̄бпяр кӯцэнҍт</x>
+            <xt>закваска закисла ___te т.е. готова te___</xt>
+         </xg>
+         <xg type="xxx">
+            <x>бэдт лыһкэ вэрс а̄бпяр</x>
+            <xt>нужно сделать свежую закваску</xt>
+         </xg>
+      </mg>
+   </e>
+   <e kur_ID="111">
+      <lg>
+         <l pos="n">а̄к</l>
+         <infl>
+            <kur_stem case="nom" number="pl" kur_ID="3875">оаһкэ</kur_stem>
+            <kur_infl class="IV" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>самка ___RE дикого оленя COMMA лося RE___</t>
+         </tg>
+         <xg type="xxx">
+            <x>сэрв а̄к</x>
+            <xt>лосиха</xt>
+         </xg>
+         <xg type="xxx">
+            <x>коанҍт а̄к</x>
+            <xt>самка дикого оленя</xt>
+         </xg>
+      </mg>
+   </e>
    <e kur_ID="xxx">
       <lg>
          <l pos="PRED">аббрай</l>
