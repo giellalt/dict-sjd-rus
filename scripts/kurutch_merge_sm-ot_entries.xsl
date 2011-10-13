@@ -53,7 +53,7 @@
   </xsl:function>
   
   <xsl:variable name="e" select="'xml'"/>
-  <xsl:variable name="outputDir" select="'output_kt2gt'"/>
+  <xsl:variable name="outputDir" select="'merge-test_output'"/>
   <xsl:variable name="debug" select="true()"/>
 
   <xsl:variable name="tab" select="'&#x9;'"/>
@@ -123,7 +123,7 @@
 	  </r>
 	</xsl:variable>
 	
-	<xsl:result-document href="{$outputDir}/{$file_name}.{$e}">
+	<xsl:result-document href="{$outputDir}/out_{$file_name}.{$e}">
 	  <xsl:copy-of select="$file_out"/>
 	</xsl:result-document>
 	
