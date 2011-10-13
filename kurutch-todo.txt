@@ -455,6 +455,9 @@ sjdrus>grep '<e' rule2_merging_test.xml | grep link_sm | wc -l
 sjdrus>grep '<e' rule2_merging_test.xml | grep -v link_sm | wc -l 
       14
 
+Assumption: the result file should contain the four entries that don't have to merge plus
+the ten sm-unified entries.
+
 	==> ONGOING WORK
 
 ====================
