@@ -5,6 +5,8 @@ TODO: very important to check what happened with the ot-entries after transforma
 into a gt-like format!!!
 @micha: the transformation went fine! I checked the interim file. only that there is no <lot> daughter of <r>. do we still need the "ot-merging test file"?
 @cip: Yes? I definitely have to check that! I really have to check what I did months ago. But I think you are right, I did unified the ot-entries.
+Hehe, naturally, there is no lot-element there because I did in fact merged the stuff and I switched off the output of this variable because it was
+not needed any longer. Ergo: no need of any ot-merging test file.
 
 OT-problem debugging:
 kurutch>grep '<E' * | wc -l 
