@@ -78,28 +78,20 @@
       <xsl:when test="doc-available($file)">
 	<xsl:variable name="file_out" as="element()">
 	  <r xml:lang="sjd">
+	    <!-- copy all entries that are not involved in the sm-merging operation -->
+	    <xsl:for-each select="doc($file)/r/e">
+	      <xsl:if test="not(index-of(doc($file)/r/lsm_entries/e/l, ./lg/l))">
+		<xsl:if test="true()">
+		  <xsl:message terminate="no">
+		    <xsl:value-of select="concat('.................................', $nl)"/>
+		    <xsl:value-of select="concat('entry kur_ID: ', ./@kur_ID, $nl)"/>
+		    <xsl:value-of select="'.................................'"/>
+		  </xsl:message>
+		</xsl:if>
+		<xsl:copy-of select="."/>
+	      </xsl:if>
+	    </xsl:for-each>
 	    
-	    <!-- 	    <xsl:variable name="noKID_e" as="element()"> -->
-	    <!-- 	      <e_noKID> -->
-	    <!-- 		<xsl:copy-of select="doc($file)/r/e"/> -->
-	    <!-- 	      </e_noKID> -->
-	    <!-- 	    </xsl:variable> -->
-	    
-	    
-	    <!-- to refine here: all entries that have no pointers to -->
-<!-- 	    <xsl:for-each select="doc($file)/r/e[not(T/LINK/@TYPE ='OT')][not(T/LINK/@TYPE ='SM')]"> -->
-<!-- 	      <xsl:if test="true()"> -->
-<!-- 		<xsl:message terminate="no"> -->
-<!-- 		  <xsl:value-of select="concat('.................................', $nl)"/> -->
-<!-- 		  <xsl:value-of select="concat('entry kur_ID: ', ./@kur_ID, $nl)"/> -->
-<!-- 		  <xsl:value-of select="'.................................'"/> -->
-<!-- 		</xsl:message> -->
-<!-- 	      </xsl:if> -->
-
-<!-- 	      <xsl:copy-of select="."/> -->
-
-<!-- 	    </xsl:for-each> -->
-
 	    <xsl:for-each select="doc($file)/r/lsm_entries/e">
 	      <xsl:if test="true()">
 		<xsl:message terminate="no">
