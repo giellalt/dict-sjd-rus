@@ -40,7 +40,7 @@ src>grep '<e' interim_kurutch1985_sjdrus.xml | grep '\-2' | wc -l
 <r xml:lang="sjd" no-link_e="7616" ot_e="304" sm_e="5657">
 
 308 ot in input but just 304 in output? 20 ID split in NO-1 and NO-2 but only 18 in the output?
-Is there something wrong?
+Is there something wrong? No, they landet inside the kur_stem element after the ot-merging.
 
 
 =======================================
