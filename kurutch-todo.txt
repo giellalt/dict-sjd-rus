@@ -4,8 +4,31 @@ Kurutch sjd-rus
 TODO: very important to check what happened with the ot-entries after transformation
 into a gt-like format!!!
 @micha: the transformation went fine! I checked the interim file. only that there is no <lot> daughter of <r>. do we still need the "ot-merging test file"?
-@cip: Yes, definitely! This step doesn't have anything to do with the merging, this is just a transformation
-into a more gt-like dictionary structure.
+@cip: Yes? I definitely have to check that! I really have to check what I did months ago. But I think you are right, I did unified the ot-entries.
+
+OT-problem debugging:
+kurutch>grep '<E' * | wc -l 
+   13577
+kurutch>grep '<E>' * | wc -l 
+    5712
+kurutch>grep '<E ' * | wc -l 
+    7865
+
+src>grep '<e' interim_kurutch1985_sjdrus.xml | wc -l 
+   13273
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep 'link' | wc -l 
+    5657
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep -v 'link' | wc -l 
+    7616
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep -v 'link' | grep 'xxx' | wc -l 
+    5712
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep -v 'link' | grep -v 'xxx' | wc -l 
+    1904
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep '\-1' | wc -l  
+      18
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep '\-2' | wc -l  
+      18
+
 
 =======================================
 
