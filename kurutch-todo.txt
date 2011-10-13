@@ -5,112 +5,6 @@ TODO: very important to check what happened with the ot-entries after transforma
 into a gt-like format!!!
 @micha: the transformation went fine! I checked the interim file. only that there is no <lot> daughter of <r>. do we still need the "ot-merging test file"?
 
-
-@micha: please check the "idiom group conversion rule" (the marker was #), perhaps something is wrong because now the examples occur twice
-from the interim file:
-@cip: not perhaps, sure... I found that in some stage I deleted parts of the code that were responsible for dat. I will fix it.
-
-<e kur_ID="1">
-      <lg>
-         <l pos="xxx">а</l>
-      </lg>
-      <mg km="g">
-         <semantics>
-            <stype>xxx</stype>
-         </semantics>
-         <tg>
-            <t>а</t>
-         </tg>
-         <xg type="xxx"> <<<=== right conversion
-            <x>пуада эмм та̄рьм, а ента</x>
-            <xt>[я] приду не сегодня, а завтра</xt>
-         </xg>
-         <xg type="xxx"> <<<=== right conversion
-            <x>мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь лаппьсъенҍ</x>
-            <xt>я буду оленеводом, а она будет дояркой</xt>
-         </xg>
-         <xg type="sentence"> <<<=== right conversion
-            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
-            <xt>а кто тебе сказал об этом?</xt>
-         </xg>
-         <xg type="idiom"> <<<=== wrong
-            <x>пуада эмм та̄рьм, а ента</x>
-            <xt>[я] приду не сегодня, а завтра</xt>
-         </xg>
-         <xg type="idiom"> <<<=== wrong
-            <x>мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь лаппьсъенҍ</x>
-            <xt>я буду оленеводом, а она будет дояркой</xt>
-         </xg>
-         <xg type="idiom"> <<<=== wrong
-            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
-            <xt>а кто тебе сказал об этом?</xt>
-         </xg>
-      </mg>
-   </e>
-   
-   ==> done
-   
-
-ORDER OF CONVERSIONS TO BE DONE
-===============================
-1. INFLECTION GROUP
-
-In Kurutch's dict two elements include info on infection:
-<stem/> 
-  (info on stem gradation [by giving the form for NOM.PL], only for nouns)
-
-<class/> 
-  (info on inflection [Roman numeral=class, 
-   Arabic numeral=subclass (ablaut), 
-   "*" (asterisk) marks some special gradation in verbs, 
-   "," (comma) divides class and subclass from each other, 
-   translate_linguist2normal("note that in all entries of the dict not all info must be present") 
-  ==> this info is optional])
-
-I do not find Kurutch's classes very useful and have to edit it later. However, her analysis should be kept.
-I suggest creating an "inflection group" and converting the inflectional stuff as follows
-
-a) (for nouns: i.e. those lemma for which info on <STEM> is provided)
-<infl>
-   <kur_stem kur_ID="xxx" case="nom" number="pl">x</kur_stem>
-   <kur_infl class=" x " ablaut=" x " special=" x "/>
-</infl>
-
-b) (for verbs: i.e. those lemma for which there is no info on <STEM> provided)
-<infl>
-   <kur_infl class=" x " ablaut=" x " special=" x "/>
-</infl>
-
-(perhaps test the verb:noun differentiation an bases on the missing <STEM> first? according to the explanations in the original dict it should work though)
-
-+ add a variable case="nompl" to the old <stem> element
-+ rename the old <class> element into <kur_infl>
-+ split the three different kinds of info from the old <class> element into:
-++ a variable for class (=Roman numeral before comma)
-++ a variable for ablaut (=Arabic numeral after comma, if there is one)
-++ a variable for special [I don't have a better label] (=Asterisk, if there is one)
-+ add a variable kur_ID="xxx" (xxx to be specified later when the <LINK TYPE="OT"> is merged, see next task)
-
-two examples
-<e kur_ID="207">
-      <lg>
-         <l pos="n">а̄ррьп</l>
-         <infl>
-         	<kur_stem kur_ID="xxx" case="nom" number="pl">а̄рьп</kur_stem>
-         	<kur_infl class="II" ablaut="1">
-         </infl>
-      </lg>
-      
-<e kur_ID="440">
-      <lg>
-         <l pos="v">ве̄ҏтэдтэ</l>
-         <infl>
-         	<kur_infl class="I" ablaut="1" special="*">
-         </infl>
-      </lg>
-      
-      ==> done
-      
 =======================================
 
 2. MERGE RULE1 (LINK TYPE="OT"), look at the following example
@@ -579,36 +473,8 @@ Output:
    </e>
 
 
-
-
-
 	==> ONGOING WORK
 
-
-==================
-5. RE GROUPS
-5a. conversion of parentheses inside <t>
-if the text in parentheses start with either the word "(о " or "(об " it should be converted into an <re> element with scope on <tg>
-
-	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
-
-5b. a few other <re>s (formely in parentheses inside <t>) have been tagged manually as ___RE x RE___ and should likewise be converted into an <re> element with scope on <tg> (see above)
-
-	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
-	
-==================
-6. TE GROUPS	
-5a.if the text in parentheses start with the word "(напр. " it should be converted into an <te> element with scope on <tg>
-(@cip: As an interim solution, I will put this
-into some attributes to the t-element under scrutiny!!! This is
-because of the unclear status of te-element in the gt_dict.)
-
-    ==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
-
-6b. a few other <te>s (formely in parentheses inside <t>) have been tagged manually as ___TE x TE___ and should likewise be converted into an <te> element with scope on <tg> (see above)
-
-	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
-	
 ====================
 7. ASPEKT PAIRS
 aspect pairs in <t> are always marked by / (slash), perfective aspect occurrs always as the first element, e.g.
@@ -660,6 +526,31 @@ Example
   ==> TO DO
 
 
+==================
+5. RE GROUPS
+5a. conversion of parentheses inside <t>
+if the text in parentheses start with either the word "(о " or "(об " it should be converted into an <re> element with scope on <tg>
+
+	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
+
+5b. a few other <re>s (formely in parentheses inside <t>) have been tagged manually as ___RE x RE___ and should likewise be converted into an <re> element with scope on <tg> (see above)
+
+	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
+	
+==================
+6. TE GROUPS	
+5a.if the text in parentheses start with the word "(напр. " it should be converted into an <te> element with scope on <tg>
+(@cip: As an interim solution, I will put this
+into some attributes to the t-element under scrutiny!!! This is
+because of the unclear status of te-element in the gt_dict.)
+
+    ==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
+
+6b. a few other <te>s (formely in parentheses inside <t>) have been tagged manually as ___TE x TE___ and should likewise be converted into an <te> element with scope on <tg> (see above)
+
+	==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
+	
+
 =============================================
 9. DIFFERENT THINGS (TO THINK ABOUT…)
 
@@ -680,18 +571,7 @@ this should somehow be converted into a link inside the final dict, like
   ==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
 
 
-====================================
-@cip: this, I have to check:
-
-check T-elements with mixed node types as children: both
-text-nodes and LINK-element nodes.
-
- ==> TODO?
-
-==================================
-==================================
-CONVERSIONS WHICH ARE DONE ALREADY
-
+==> DONE <==
 2. gt_dict structure: mapping like in the following example:
    
 <e kur_ID="xxx">
@@ -706,8 +586,7 @@ CONVERSIONS WHICH ARE DONE ALREADY
 		</semantics>
 
      <tg>
-  ==> done
-  
+==> DONE <==
 		 (1-100: z. 72, komma mapped on different t-elements)   ==> done
 		 
          (1-100: z. 1348, semicolon mapped on different tg-elements)   ==> done
@@ -743,6 +622,7 @@ example for idiom subtype (idiom groups are preliminary marked by # preceeding t
 non-capitals in the element <L>
 
   ==> done
+==> DONE <==
 
 
 ===============
@@ -757,6 +637,7 @@ non-capitals in the element <L>
  
 ===============
 
+==> DONE <==
 Hier sind die Muster von den gemischten Knoten.
 sjdrus>grep '<todo ' output_kt2gt/kurutch1985_1-1000.xml | sort | uniq -c | sort -nr  
  171          <todo n_pattern="txt_tam">
@@ -813,8 +694,7 @@ the first mg (косо), and so on?
 The same hold also for <DER>-elements.
 
 @cip: as agreed on 08.03.2011, this will be underspecified outside the mg groups
-
-	==> done
+==> DONE <==
 
 =====================================
    2          <todo n_pattern="sem_txt"> (??? --> take a look!)
@@ -897,3 +777,104 @@ the idioms. Please check!
  testit : grep          <xg type="idiom"> in the output file
  ==> done
       
+==> done <==
+@micha: please check the "idiom group conversion rule" (the marker was #), perhaps something is wrong because now the examples occur twice
+from the interim file:
+@cip: not perhaps, sure... I found that in some stage I deleted parts of the code that were responsible for dat. I will fix it.
+
+<e kur_ID="1">
+      <lg>
+         <l pos="xxx">а</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <tg>
+            <t>а</t>
+         </tg>
+         <xg type="xxx"> <<<=== right conversion
+            <x>пуада эмм та̄рьм, а ента</x>
+            <xt>[я] приду не сегодня, а завтра</xt>
+         </xg>
+         <xg type="xxx"> <<<=== right conversion
+            <x>мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь лаппьсъенҍ</x>
+            <xt>я буду оленеводом, а она будет дояркой</xt>
+         </xg>
+         <xg type="sentence"> <<<=== right conversion
+            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
+            <xt>а кто тебе сказал об этом?</xt>
+         </xg>
+         <xg type="idiom"> <<<=== wrong
+            <x>пуада эмм та̄рьм, а ента</x>
+            <xt>[я] приду не сегодня, а завтра</xt>
+         </xg>
+         <xg type="idiom"> <<<=== wrong
+            <x>мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь лаппьсъенҍ</x>
+            <xt>я буду оленеводом, а она будет дояркой</xt>
+         </xg>
+         <xg type="idiom"> <<<=== wrong
+            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
+            <xt>а кто тебе сказал об этом?</xt>
+         </xg>
+      </mg>
+   </e>
+==> done <==
+
+==> DONE <==
+INFLECTION GROUP
+
+In Kurutch's dict two elements include info on infection:
+<stem/> 
+  (info on stem gradation [by giving the form for NOM.PL], only for nouns)
+
+<class/> 
+  (info on inflection [Roman numeral=class, 
+   Arabic numeral=subclass (ablaut), 
+   "*" (asterisk) marks some special gradation in verbs, 
+   "," (comma) divides class and subclass from each other, 
+   translate_linguist2normal("note that in all entries of the dict not all info must be present") 
+  ==> this info is optional])
+
+I do not find Kurutch's classes very useful and have to edit it later. However, her analysis should be kept.
+I suggest creating an "inflection group" and converting the inflectional stuff as follows
+
+a) (for nouns: i.e. those lemma for which info on <STEM> is provided)
+<infl>
+   <kur_stem kur_ID="xxx" case="nom" number="pl">x</kur_stem>
+   <kur_infl class=" x " ablaut=" x " special=" x "/>
+</infl>
+
+b) (for verbs: i.e. those lemma for which there is no info on <STEM> provided)
+<infl>
+   <kur_infl class=" x " ablaut=" x " special=" x "/>
+</infl>
+
+(perhaps test the verb:noun differentiation an bases on the missing <STEM> first? according to the explanations in the original dict it should work though)
+
++ add a variable case="nompl" to the old <stem> element
++ rename the old <class> element into <kur_infl>
++ split the three different kinds of info from the old <class> element into:
+++ a variable for class (=Roman numeral before comma)
+++ a variable for ablaut (=Arabic numeral after comma, if there is one)
+++ a variable for special [I don't have a better label] (=Asterisk, if there is one)
++ add a variable kur_ID="xxx" (xxx to be specified later when the <LINK TYPE="OT"> is merged, see next task)
+
+two examples
+<e kur_ID="207">
+      <lg>
+         <l pos="n">а̄ррьп</l>
+         <infl>
+         	<kur_stem kur_ID="xxx" case="nom" number="pl">а̄рьп</kur_stem>
+         	<kur_infl class="II" ablaut="1">
+         </infl>
+      </lg>
+      
+<e kur_ID="440">
+      <lg>
+         <l pos="v">ве̄ҏтэдтэ</l>
+         <infl>
+         	<kur_infl class="I" ablaut="1" special="*">
+         </infl>
+      </lg>
+==> DONE <==
