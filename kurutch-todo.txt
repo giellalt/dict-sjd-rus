@@ -1,7 +1,27 @@
 Kurutch sjd-rus
 
 
-TODO: very important to check what happened with the ot-entries after transformation
+Observation when working with the interim file:
+
+1. Is there a crucial difference between ___TE and ___te or are these just the same in meaning?
+
+         <tg>
+            <t>боль F_GENDER ___TE душевная TE___</t>
+         </tg>
+         <tg>
+            <t>страдание</t>
+         </tg>
+         <xg type="xxx">
+            <x>а̄бьесьт е̄лле</x>
+            <xt>жить с обидой ___te в душе te___</xt>
+         </xg>
+
+
+
+
+
+==================
+Very important to check what happened with the ot-entries after transformation
 into a gt-like format!!!
 @micha: the transformation went fine! I checked the interim file. only that there is no <lot> daughter of <r>. do we still need the "ot-merging test file"?
 @cip: Yes? I definitely have to check that! I really have to check what I did months ago. But I think you are right, I did unified the ot-entries.
@@ -42,6 +62,8 @@ src>grep '<e' interim_kurutch1985_sjdrus.xml | grep '\-2' | wc -l
 308 ot in input but just 304 in output? 20 ID split in NO-1 and NO-2 but only 18 in the output?
 Is there something wrong? No, they landet inside the kur_stem element after the ot-merging.
 
+ ==> done
+==================
 
 =======================================
 
