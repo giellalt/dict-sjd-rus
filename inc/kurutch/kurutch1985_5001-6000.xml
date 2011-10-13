@@ -5548,7 +5548,7 @@
 		<L>САРЬВЭСЬ</L>
 		<STEM>саррвас</STEM>
 		<CLASS>V</CLASS>
-		<T>гирвас ___LEXICON олень-производитель COMMA обычно старше трёх лет LEXICON___ </T>
+		<T>гирвас ___LEXICON_LOV олень-производитель COMMA обычно старше трёх лет LEXICON_LOV___ </T>
 	</E>
 	<E>
 		<L>сарва</L>
@@ -6954,7 +6954,7 @@
 		<L>СӢССЬ</L>
 		<STEM>сӣзь</STEM>
 		<CLASS>I,1</CLASS>
-		<T>тётя ___LEXICON старшая сестра отца LEXICON___ </T>
+		<T>тётя ___LEXICON_LOV старшая сестра отца LEXICON_LOV___ </T>
 	</E>
 	<E>
 		<L>се̄сса</L>
