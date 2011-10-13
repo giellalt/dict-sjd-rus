@@ -188,8 +188,8 @@ kurutch1985_5001-6000.xml:		<L xxx="please_correct_me">рӯц-1,-2</L>
 +<r xml:lang="sjd" no-link_e="7603" ot_e="303" sm_e="5666">
 
 Michael has done some changes that affected also the number of LINK OT
-entries, so I have to turn on the LINK OT test anew.
-
+entries, so I have to turn on the LINK OT test anew. ==> no need for
+that, I debugged the OT-issue now and it was like that (see above).
 
 ================================
 
