@@ -13,6 +13,13 @@ kurutch>grep '<E>' * | wc -l
     5712
 kurutch>grep '<E ' * | wc -l 
     7865
+kurutch>grep -h '<E' *xml | grep 'kur_ID' | grep '\-1' | wc -l 
+      20
+kurutch>grep -h '<E' *xml | grep 'kur_ID' | grep '\-2' | wc -l 
+      20
+kurutch>grep 'TYPE="OT"' *  | wc -l 
+     308
+
 
 src>grep '<e' interim_kurutch1985_sjdrus.xml | wc -l 
    13273
@@ -28,6 +35,10 @@ src>grep '<e' interim_kurutch1985_sjdrus.xml | grep '\-1' | wc -l
       18
 src>grep '<e' interim_kurutch1985_sjdrus.xml | grep '\-2' | wc -l  
       18
+<r xml:lang="sjd" no-link_e="7616" ot_e="304" sm_e="5657">
+
+308 ot in input but just 304 in output? 20 ID split in NO-1 and NO-2 but only 18 in the output?
+Is there something wrong?
 
 
 =======================================
