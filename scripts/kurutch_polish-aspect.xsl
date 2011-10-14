@@ -82,7 +82,7 @@
 	    <xsl:for-each select="doc($file)/r/e">
 
 
-	      <xsl:if test="no $item in ./mg/tg/t satisfies index-of(doc($file)/r/e/mg/tg/t, $item)">
+	      <xsl:if test="every $item in ./mg/tg/t satisfies not(contains($item, ' / '))">
 		<xsl:if test="true()">
 		  <xsl:message terminate="no">
 		    <xsl:value-of select="concat('.................................', $nl)"/>
@@ -93,7 +93,7 @@
 		<xsl:copy-of select="."/>
 	      </xsl:if>
 
-	      <xsl:if test="some $item in ./mg/tg/t satisfies index-of(doc($file)/r/e/mg/tg/t, $item)">
+	      <xsl:if test="some $item in ./mg/tg/t satisfies contains($item, ' / ')">
 		<xsl:if test="true()">
 		  <xsl:message terminate="no">
 		    <xsl:value-of select="concat('.................................', $nl)"/>
