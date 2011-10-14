@@ -17,7 +17,12 @@ Observation when working with the interim file:
          </xg>
 
 
+src>grep '___TE' interim_kurutch1985_sjdrus.xml | wc -l 
+     118
+src>grep '___te' interim_kurutch1985_sjdrus.xml | wc -l 
+       6
 
+Aha, just "spellrelax"!
 
 
 ==================
