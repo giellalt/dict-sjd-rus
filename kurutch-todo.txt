@@ -609,6 +609,17 @@ OUTPUT:
 
 (and the combinations thereof!)
 
+Clue: 
+
+   First, solve the issues that take scope over aspect-operator, then
+   the aspect issue, otherwise one has to copy (i.e., double) all
+   information to both aspect elements.
+
+   Another soution is just to pick one element of the aspectual pair
+   as the content of the t-element, and the other can be stored as an
+   attribute to the respective t-element. This would be a
+   (linguistically perhaps weird but at least implementationswise)
+   clean solution to the lexicographic question added by micha above.
 
 
   ==> TO DO
