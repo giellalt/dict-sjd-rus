@@ -53,7 +53,7 @@
   </xsl:function>
   
   <xsl:variable name="e" select="'xml'"/>
-  <xsl:variable name="outputDir" select="'merge_output'"/>
+  <xsl:variable name="outputDir" select="'polish_output'"/>
   <xsl:variable name="debug" select="true()"/>
 
   <xsl:variable name="tab" select="'&#x9;'"/>
@@ -93,7 +93,7 @@
 		<xsl:copy-of select="."/>
 	      </xsl:if>
 
-	      <xsl:if test="not(index-of(doc($file)/r/e/lg, ./lg/l))">
+	      <xsl:if test="index-of(doc($file)/r/e/lg, ./lg/l)">
 		<xsl:if test="true()">
 		  <xsl:message terminate="no">
 		    <xsl:value-of select="concat('.................................', $nl)"/>
@@ -101,18 +101,12 @@
 		    <xsl:value-of select="'.................................'"/>
 		  </xsl:message>
 		</xsl:if>
-	      <e>
-		<xsl:copy-of select="./@*"/>
-		<lg>
-		  <xsl:copy-of select="doc($file)/r/e/lg[./l = $c_lemma]/*"/>
-		  <der type="SM">
-		    <xsl:value-of select="./t/link[./@type = 'SM']"/>
-		  </der>
-		</lg>
-		<xsl:copy-of select="doc($file)/r/e[./lg/l = $c_lemma]/mg"/>
-	      </e>
+		<e>
+		  <xsl:copy-of select="./@*"/>
+		  <xsl:copy-of select="./lg"/>
+		  <!-- here to implement the aspect issue -->
+		</e>
 	      </xsl:if>
-
 	    </xsl:for-each>
 	    
 	  </r>
