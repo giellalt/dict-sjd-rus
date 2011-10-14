@@ -577,6 +577,7 @@ src>grep '/' sm-unified_kurutch1985_sjdrus.xml | grep '/ ' | grep -v ' / '
 src>grep '/' sm-unified_kurutch1985_sjdrus.xml | grep ' /' | grep -v ' / ' 
             <t>затыкать /заткнуть что чем</t>
             <t>расти /вырасти</t>
+            ==> DONE <== (all are ' / ')            
 
 2. Inconsistencies:
 
@@ -586,6 +587,8 @@ vs.
 
 In the same greater context, the pattern "куда-л."  appears both
 in __TE TE__ and in () smaller contextes. Is there a reason why?
+
+@micha: no reason, for this "куда-л." there has yet to be find a place in my dict-structure :-(
 
 3. Scope of material immediately following the pattern ASPECT_1 / ASPECT_2:
  INPUT:
@@ -623,14 +626,6 @@ Clue:
 
  Example:
    <t pos="v" perf="переворачивать">___ÜBERTRAGEN___ переворачивать что</t>
-
-Still no answers to my questions: there is absolutely no difference between the last two svn versions of the
-file sm-unified_kurutch1985_sjdrus.xml apart of whitespaces. "unified Slash flag" just changed some withspaces.
-
-Also a diff ignoring all whitespaches/newlines between the newly generated sm_unified-file and the version
-changed from Michael confirms the same:
-sjdrus>d merge_output/out_interim_kurutch1985_sjdrus.xml src/sm-unified_kurutch1985_sjdrus.xml 
-
 
   ==> TO DO
 
@@ -678,6 +673,8 @@ But note, that the LEXICONtag can also occur inside <XT> (example). For now we n
 <X>ажьнӣййт</X>
 		<XT>___LEXICON оленёнок (самка) или важенка COMMA подаренная отцом COMMA напр. дочери на свадьбу LEXICON___ </XT>
 	</E>
+
+@Micha: Note that a subpart of the LEXICON entried are flagged for the Lovozero training (LEXICON_LOV)	
    
   ==> TO DO
 
