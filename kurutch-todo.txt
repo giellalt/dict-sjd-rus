@@ -594,9 +594,6 @@ in __TE TE__ and in () smaller contextes. Is there a reason why?
  INPUT:
             <t>закупать / закупить что</t>
  OUTPUT:
-            <t>закупать</t>
-            <t>закупить что</t>
- or 
             <t>закупать что</t>
             <t>закупать что</t>
 
@@ -606,11 +603,6 @@ INPUT:
 OUTPUT:
 	<t>___ÜBERTRAGEN___ переворачивать что</t>
 	<t>___ÜBERTRAGEN___ перевернуть что</t>
- or
-	<t>___ÜBERTRAGEN___ переворачивать что</t>
-	<t>перевернуть что</t>
-
-(and the combinations thereof!)
 
 Clue: 
 
@@ -627,6 +619,9 @@ Clue:
  Example:
    <t pos="v" perf="переворачивать">___ÜBERTRAGEN___ переворачивать что</t>
 
+@micha: I would rather just copy (i.e., double) all
+   information to both aspect elements for now
+   
   ==> TO DO
 
 ==================
