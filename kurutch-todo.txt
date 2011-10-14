@@ -235,10 +235,37 @@ src>grep '<e' interim_kurutch1985_sjdrus.xml | grep -v 'link' | grep -v 'xxx' | 
     1904
 
 
-Output ... (Trommelwirbel -- und wer ist and der Trommel?)
+Output:
 
+All entries:
+merge_output>grep '<e' out_interim_kurutch1985_sjdrus.xml | wc -l 
+    7616
 
+SM-Merged entries:
+merge_output>grep '<e' out_interim_kurutch1985_sjdrus.xml | grep link_sm | wc -l 
+    5657
 
+Non-merged entries:
+merge_output>grep '<e' out_interim_kurutch1985_sjdrus.xml | grep -v link_sm | wc -l 
+    1959
+
+Non-merged entries with real ID:
+merge_output>grep '<e' out_interim_kurutch1985_sjdrus.xml | grep -v link_sm | grep -v 'xxx' | wc -l 
+    1904
+
+Non-merged entries with fake ID xxx:
+merge_output>grep '<e' out_interim_kurutch1985_sjdrus.xml | grep -v link_sm | grep 'xxx' | wc -l 
+      55
+
+Same number of lind_sm entries: 5657 (ok)
+
+7616 - 5657= 1959 ==> this is the number in the output of non-merged entries (ok)
+
+Non-merged number of entries with real ID: 1904 (ok)
+
+Non-merged number of entries with fake ID xxx: 55
+
+Test bestanden! 
 
 ================================
 
