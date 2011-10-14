@@ -267,6 +267,8 @@ Non-merged number of entries with fake ID xxx: 55
 
 Test bestanden! 
 
+I will let the link_sm-flag on the e-element for a while, in the final step I will remove it.
+
 ================================
 
 @cip: proper tests before merging of LINK SM entries:
