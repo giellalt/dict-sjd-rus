@@ -53,7 +53,7 @@
   </xsl:function>
   
   <xsl:variable name="e" select="'xml'"/>
-  <xsl:variable name="outputDir" select="'merge-test_output'"/>
+  <xsl:variable name="outputDir" select="'merge_output'"/>
   <xsl:variable name="debug" select="true()"/>
 
   <xsl:variable name="tab" select="'&#x9;'"/>
@@ -70,7 +70,7 @@
 
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="file" select="'../rule2_merging_test.xml'"/>
+  <xsl:param name="file" select="'../src/interim_kurutch1985_sjdrus.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
   
   <xsl:template match="/" name="main">
