@@ -29,7 +29,15 @@ kurutch>grep '___TE' * | wc -l
 kurutch>grep '___te' * | wc -l 
        0
 
-Something is not quite correct: ==> TODO
+Something is not quite correct: 
+
+         <xg type="xxx">
+            <x>а̄бьесьт е̄лле</x>
+            <xt>жить с обидой ___te в душе te___</xt>
+         </xg>
+
+These are in the example-context and I just copy the content of the examples without doing anything special.
+==> DONE
 
 ==================
 Very important to check what happened with the ot-entries after transformation
