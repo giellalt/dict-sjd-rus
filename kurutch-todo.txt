@@ -619,8 +619,10 @@ Clue:
    as the content of the t-element, and the other can be stored as an
    attribute to the respective t-element. This would be a
    (linguistically perhaps weird but at least implementationswise)
-   clean solution to the lexicographic question added by micha above.
+   clean solution to the lexicographic question added by @micha above.
 
+ Example:
+   <t pos="v" perf="переворачивать">___ÜBERTRAGEN___ переворачивать что</t>
 
   ==> TO DO
 
