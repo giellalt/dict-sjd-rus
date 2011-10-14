@@ -624,6 +624,14 @@ Clue:
  Example:
    <t pos="v" perf="переворачивать">___ÜBERTRAGEN___ переворачивать что</t>
 
+Still no answers to my questions: there is absolutely no difference between the last two svn versions of the
+file sm-unified_kurutch1985_sjdrus.xml apart of whitespaces. "unified Slash flag" just changed some withspaces.
+
+Also a diff ignoring all whitespaches/newlines between the newly generated sm_unified-file and the version
+changed from Michael confirms the same:
+sjdrus>d merge_output/out_interim_kurutch1985_sjdrus.xml src/sm-unified_kurutch1985_sjdrus.xml 
+
+
   ==> TO DO
 
 ==================
