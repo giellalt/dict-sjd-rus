@@ -491,6 +491,15 @@ Problem: sometimes in <t> there is more info than just die aspect verb pair, lik
 <t>VERBperf / VERBimperf WORD (EXPLANATION)</t>
 However, I believe there is always only the VERBperf before the opening tag <t> and the / (slash). If this is true, the / (slash) has always scopus over the two words surrounding it.
 
+@Micha: lexicographic question: we have
+<mg>
+	<tg>
+		<t>
+		</t>
+	</tg>
+</mg>
+Are the aspect pairs sisters in <tg> (<t1><t2>), or aren't they rather sisters one level under <t>?
+
   ==> TO DO
 
 ==================
