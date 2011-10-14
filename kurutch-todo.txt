@@ -619,8 +619,16 @@ Clue:
  Example:
    <t pos="v" perf="переворачивать">___ÜBERTRAGEN___ переворачивать что</t>
 
-@micha: I would rather just copy (i.e., double) all
-   information to both aspect elements for now
+@micha: yes, this is a good solution (for now)!
+INPUT:
+<t>покрывать / покрыть</t>
+OUTPUT:
+<t pos="v" imperf="покрыть">покрывать</t>
+
+INPUT:
+<t>___ÜBERTRAGEN___ покрывать / покрыть что</t>
+OUTPUT:
+<t pos="v" imperf="покрыть">___ÜBERTRAGEN___ покрывать что</t>
    
   ==> TO DO
 
