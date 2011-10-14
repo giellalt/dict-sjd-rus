@@ -559,6 +559,58 @@ However, I believe there is always only the VERBperf before the opening tag <t> 
 </mg>
 Are the aspect pairs sisters in <tg> (<t1><t2>), or aren't they rather sisters one level under <t>?
 
+
+Preliminary tests:
+
+1. The pattern:
+src>grep '/' sm-unified_kurutch1985_sjdrus.xml | grep ' /' | wc -l  
+     738
+src>grep '/' sm-unified_kurutch1985_sjdrus.xml | grep '/ ' | wc -l  
+     740
+src>grep '/' sm-unified_kurutch1985_sjdrus.xml | grep ' / ' | wc -l  
+     736
+src>grep '/' sm-unified_kurutch1985_sjdrus.xml | grep '/ ' | grep -v ' / ' 
+            <t>защищать/ защитить кого-что</t>
+            <t>распарывать/ распороть</t>
+            <t>срыгивать/ срыгнуть что</t>
+            <t>разрезать/ разрезать что</t>
+src>grep '/' sm-unified_kurutch1985_sjdrus.xml | grep ' /' | grep -v ' / ' 
+            <t>затыкать /заткнуть что чем</t>
+            <t>расти /вырасти</t>
+
+2. Inconsistencies:
+
+<t>перегонять / перегнать кого ___TE куда-л. TE___</t>
+vs.
+<t>загонять / загнать кого (куда-л.)</t>
+
+In the same greater context, the pattern "куда-л."  appears both
+in __TE TE__ and in () smaller contextes. Is there a reason why?
+
+3. Scope of material immediately following the pattern ASPECT_1 / ASPECT_2:
+ INPUT:
+            <t>закупать / закупить что</t>
+ OUTPUT:
+            <t>закупать</t>
+            <t>закупить что</t>
+ or 
+            <t>закупать что</t>
+            <t>закупать что</t>
+
+4. Scope of material immediately preceding the pattern ASPECT_1 / ASPECT_2:
+INPUT:
+	<t>___ÜBERTRAGEN___ переворачивать / перевернуть что</t>
+OUTPUT:
+	<t>___ÜBERTRAGEN___ переворачивать что</t>
+	<t>___ÜBERTRAGEN___ перевернуть что</t>
+ or
+	<t>___ÜBERTRAGEN___ переворачивать что</t>
+	<t>перевернуть что</t>
+
+(and the combinations thereof!)
+
+
+
   ==> TO DO
 
 ==================
