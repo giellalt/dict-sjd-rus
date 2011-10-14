@@ -210,6 +210,36 @@ Michael has done some changes that affected also the number of LINK OT
 entries, so I have to turn on the LINK OT test anew. ==> no need for
 that, I debugged the OT-issue now and it was like that (see above).
 
+
+Testing input-output of the sm-merging operation:
+Input:
+
+All entries:
+src>grep '<e' interim_kurutch1985_sjdrus.xml | wc -l 
+   13273
+
+Entries that have a link_sm, i.e. with ID but without real content:
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep 'link' | wc -l 
+    5657
+
+Entries that don't have a link_sm (some of them would merge some of them not):
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep -v 'link' | wc -l 
+    7616
+
+Entries that most probably merge because they have not kur_ID just a fake one:
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep -v 'link' | grep 'xxx' | wc -l 
+    5712
+
+Entries that most problably don't merge because they don't have a fake kur_ID:
+src>grep '<e' interim_kurutch1985_sjdrus.xml | grep -v 'link' | grep -v 'xxx' | wc -l 
+    1904
+
+
+Output ... (Trommelwirbel -- und wer ist and der Trommel?)
+
+
+
+
 ================================
 
 @cip: proper tests before merging of LINK SM entries:
