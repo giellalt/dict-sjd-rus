@@ -629,7 +629,69 @@ INPUT:
 <t>___ÜBERTRAGEN___ покрывать / покрыть что</t>
 OUTPUT:
 <t pos="v" imperf="покрыть">___ÜBERTRAGEN___ покрывать что</t>
-   
+  
+iChat-quotation: "Michael Rießler
+die erste form ist die grundform, die zweite das attribut"
+ 
+@cip: Ok, but I just want to point to somenthing that migh call for the reverse,
+namely the first part as attribute and the second as baseform.
+I don't have any idea about Russian, this is just by observing some pattern.
+
+Look at these examples:
+<tg>
+   <t>греть кого-что</t>
+   <t>согревать / согреть кого-что</t>
+</tg>
+
+<tg>
+  <t>греть что</t>
+  <t>нагревать / нагреть что</t>
+  <t>разогревать / разогреть что</t>
+</tg>
+
+<tg>
+  <t>топить что</t>
+  <t>отапливать / отопить что</t>
+  <t>обогревать / обогреть что</t>
+</tg>
+
+<tg>
+  <t>лить что</t>
+  <t>наливать / налить что</t>
+</tg>
+
+<tg>
+  <t>тесать что</t>
+  <t>обтёсывать / обтесать что</t>
+</tg>
+
+<tg>
+  <t>мешать что</t>
+  <t>размешивать / размешать что</t>
+  <t>перемешивать / перемешать что</t>
+</tg>
+
+the result as you wanted would be:
+
+<tg>
+   <t>греть кого-что</t>
+   <t imperf="согреть кого-что">согревать</t>
+</tg>
+
+<tg>
+  <t>греть что</t>
+  <t imperf="нагреть">нагревать что</t>
+  <t imperf="разогреть">разогревать что</t>
+</tg>
+
+Pattern inconsistency:
+ the basform without aspect pair is a non-ва-suffix form while
+ the baseform with aspect pair is a ва-suffix form.
+
+As I said, this is based on pattern, I don't know the meaning of the prefixes
+that discriminate the different non-ва-suffix forms within the same
+translation group such as мешать, размешать, and перемешать.
+
   ==> TO DO
 
 ==================
