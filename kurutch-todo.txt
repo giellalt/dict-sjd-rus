@@ -735,7 +735,7 @@ Example
          </tg>
       </mg>
    </e>
-But note, that the LEXICONtag can also occur inside <XT> (example). For now we need the vonversion only for the <T> LEXICON </T>
+But note, that the LEXICONtag can also occur inside <XT> (example). For now we need the conversion only for the <T> LEXICON </T>
 	<E kur_ID="58">
 		<L>АДЖЬ</L>
 		<STEM>ажь</STEM>
