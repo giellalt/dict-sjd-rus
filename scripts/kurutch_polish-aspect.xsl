@@ -105,6 +105,24 @@
 		  <xsl:copy-of select="./@*"/>
 		  <xsl:copy-of select="./lg"/>
 		  <!-- here to implement the aspect issue -->
+		  <xsl:for-each select="./mg">
+		    <mg>
+		      <xsl:copy-of select="./@*"/>
+		      <xsl:for-each select="./tg">
+			<tg>
+			  <xsl:for-each select="./t">
+			    <xsl:if test="not(contains(., ' / '))">
+			      <xsl:copy-of select="."/>
+			    </xsl:if>
+			    <xsl:if test="contains(., ' / ')">
+			      <!-- baustelle -->
+			      <xsl:copy-of select="."/>
+			    </xsl:if>
+			  </xsl:for-each>
+			</tg>
+		      </xsl:for-each>
+		    </mg>
+		  </xsl:for-each>
 		</e>
 	      </xsl:if>
 	    </xsl:for-each>
