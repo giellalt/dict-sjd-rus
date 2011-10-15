@@ -119,6 +119,15 @@
 			    <xsl:if test="contains(., ' / ')">
 			      <!-- baustelle -->
 			      <xsl:variable name="chopped_content" select="tokenize(., ' / ')"/>
+
+			      <xsl:if test="not(count($chopped_content) =2)">
+				<xsl:message terminate="yes">
+				  <xsl:value-of select="concat('.................................', $nl)"/>
+				  <xsl:value-of select="concat('too many separators for aspect in entry kur_ID: ', ./@kur_ID, $nl)"/>
+				  <xsl:value-of select="'.................................'"/>
+				</xsl:message>
+			      </xsl:if>
+
 			      <counter>
 				<xsl:value-of select="count($chopped_content)"/>
 			      </counter>
