@@ -118,7 +118,16 @@
 			    </xsl:if>
 			    <xsl:if test="contains(., ' / ')">
 			      <!-- baustelle -->
-			      <xsl:copy-of select="."/>
+			      <xsl:variable name="chopped_content" select="tokenize(., ' / ')"/>
+			      <counter>
+				<xsl:value-of select="count($chopped_content)"/>
+			      </counter>
+			      <davor>
+				<xsl:copy-of select="$chopped_content[1]"/>
+			      </davor>
+			      <danach>
+				<xsl:copy-of select="$chopped_content[2]"/>
+			      </danach>
 			    </xsl:if>
 			  </xsl:for-each>
 			</tg>
