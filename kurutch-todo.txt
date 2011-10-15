@@ -692,6 +692,14 @@ As I said, this is based on pattern, I don't know the meaning of the prefixes
 that discriminate the different non-ва-suffix forms within the same
 translation group such as мешать, размешать, and перемешать.
 
+Problem: ambiguous slash content detected, i.e., a t-element whith two slashes!!!
+ 
+sjdrus>grep 'counter' polish_output/out_sm-unified_kurutch1985_sjdrus.xml | sort | uniq -c | sort -nr 
+ 742             <counter>2</counter>
+   1             <counter>3</counter>
+
+
+
   ==> TO DO
 
 ==================
