@@ -78,11 +78,9 @@
       <xsl:when test="doc-available($file)">
 	<xsl:variable name="file_out" as="element()">
 	  <r xml:lang="sjd">
-	    <!-- copy all entries that don't have slashes as aspect separator-->
 	    <xsl:for-each select="doc($file)/r/e">
-
-
-	      <xsl:if test="every $item in ./mg/tg/t satisfies not(contains($item, ' / '))">
+	      <!-- copy all entries that don't have flags for gender or number-->
+	      <xsl:if test="every $item in ./mg/tg/t satisfies not(contains($item, '_GENDER') or contains($item, '_NUMBER'))">
 		<xsl:if test="true()">
 		  <xsl:message terminate="no">
 		    <xsl:value-of select="concat('.................................', $nl)"/>
@@ -93,7 +91,7 @@
 		<xsl:copy-of select="."/>
 	      </xsl:if>
 
-	      <xsl:if test="some $item in ./mg/tg/t satisfies contains($item, ' / ')">
+	      <xsl:if test="some $item in ./mg/tg/t satisfies contains($item, '_GENDER') or contains($item, '_NUMBER')">
 		<xsl:if test="true()">
 		  <xsl:message terminate="no">
 		    <xsl:value-of select="concat('.................................', $nl)"/>
@@ -104,7 +102,7 @@
 		<e>
 		  <xsl:copy-of select="./@*"/>
 		  <xsl:copy-of select="./lg"/>
-		  <!-- here to implement the aspect issue -->
+		  <!-- here to implement the gender-nuber issue: Baustelle -->
 		  <xsl:for-each select="./mg">
 		    <mg>
 		      <xsl:copy-of select="./@*"/>
