@@ -108,6 +108,8 @@
 		  <xsl:for-each select="./mg">
 		    <mg>
 		      <xsl:copy-of select="./@*"/>
+		      <xsl:copy-of select="./semantics"/>
+		      <xsl:copy-of select="./tam"/>
 		      <xsl:for-each select="./tg">
 			<tg>
 			  <xsl:for-each select="./t">
