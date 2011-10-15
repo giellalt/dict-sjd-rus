@@ -130,18 +130,18 @@
 			      <xsl:variable name="head" select="normalize-space($chopped_content[1])"/>
 			      <xsl:variable name="tail" select="normalize-space($chopped_content[2])"/>
 			      <t>
-				<!-- simple case -->
 				<xsl:if test="not(contains($tail, ' '))">
-				  <xsl:attribute name="imperf_done">
+				  <xsl:attribute name="imperf">
 				    <xsl:value-of select="$tail"/>
 				  </xsl:attribute>
 				  <xsl:value-of select="$head"/>
 				</xsl:if>
 				<xsl:if test="contains($tail, ' ')">
-				  <xsl:attribute name="imperf_xxx">
-				    <xsl:value-of select="$tail"/>
+				  <xsl:attribute name="imperf">
+				    <xsl:value-of select="substring-before($tail, ' ')"/>
 				  </xsl:attribute>
 				  <xsl:value-of select="$head"/>
+				  <xsl:value-of select="concat(' ', substring-after($tail, ' '))"/>
 				</xsl:if>
 			      </t>
 			    </xsl:if>
