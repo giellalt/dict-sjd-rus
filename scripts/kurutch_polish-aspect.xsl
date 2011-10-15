@@ -121,6 +121,7 @@
 			  </xsl:for-each>
 			</tg>
 		      </xsl:for-each>
+		      <xsl:copy-of select="./xg"/>
 		    </mg>
 		  </xsl:for-each>
 		</e>
