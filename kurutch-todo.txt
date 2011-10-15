@@ -700,7 +700,7 @@ sjdrus>grep 'counter' polish_output/out_sm-unified_kurutch1985_sjdrus.xml | sort
 
 
 
-  ==> TO DO
+  ==> DONE
 
 ==================
 8. GENDER/NUMBER TAGS
