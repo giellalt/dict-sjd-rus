@@ -127,16 +127,23 @@
 				  <xsl:value-of select="'.................................'"/>
 				</xsl:message>
 			      </xsl:if>
-
-			      <counter>
-				<xsl:value-of select="count($chopped_content)"/>
-			      </counter>
-			      <davor>
-				<xsl:copy-of select="$chopped_content[1]"/>
-			      </davor>
-			      <danach>
-				<xsl:copy-of select="$chopped_content[2]"/>
-			      </danach>
+			      <xsl:variable name="head" select="normalize-space($chopped_content[1])"/>
+			      <xsl:variable name="tail" select="normalize-space($chopped_content[2])"/>
+			      <t>
+				<!-- simple case -->
+				<xsl:if test="not(contains($tail, ' '))">
+				  <xsl:attribute name="imperf_done">
+				    <xsl:value-of select="$tail"/>
+				  </xsl:attribute>
+				  <xsl:value-of select="$head"/>
+				</xsl:if>
+				<xsl:if test="contains($tail, ' ')">
+				  <xsl:attribute name="imperf_xxx">
+				    <xsl:value-of select="$tail"/>
+				  </xsl:attribute>
+				  <xsl:value-of select="$head"/>
+				</xsl:if>
+			      </t>
 			    </xsl:if>
 			  </xsl:for-each>
 			</tg>
