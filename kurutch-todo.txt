@@ -37,6 +37,16 @@ Something is not quite correct:
          </xg>
 
 These are in the example-context and I just copy the content of the examples without doing anything special.
+
+The same is true for *_gender and *_number:
+            <xt>инициалы pl_number, инициал sg_number m_gender</xt>
+            <xt>болтун, болтунья f_gender</xt>
+            <xt>селезень m_gender</xt>
+            <xt>сказитель m_gender, сказительница f_gender</xt>
+            <xt>полуночник m_gender, полуночница f_gender</xt>
+
+
+
 ==> DONE
 
 ==================
