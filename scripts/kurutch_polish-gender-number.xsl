@@ -53,7 +53,7 @@
   </xsl:function>
   
   <xsl:variable name="e" select="'xml'"/>
-  <xsl:variable name="outputDir" select="'polish_output'"/>
+  <xsl:variable name="outputDir" select="'genum_polish_output'"/>
   <xsl:variable name="debug" select="true()"/>
 
   <xsl:variable name="tab" select="'&#x9;'"/>
@@ -70,7 +70,7 @@
 
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="file" select="'../src/sm-unified_kurutch1985_sjdrus.xml'"/>
+  <xsl:param name="file" select="'../src/aspect_kurutch1985_sjdrus.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
   
   <xsl:template match="/" name="main">
@@ -91,7 +91,7 @@
 		<xsl:copy-of select="."/>
 	      </xsl:if>
 
-	      <xsl:if test="some $item in ./mg/tg/t satisfies contains($item, '_GENDER') or contains($item, '_NUMBER')">
+	      <xsl:if test="some $item in ./mg/tg/t satisfies (contains($item, '_GENDER') or contains($item, '_NUMBER'))">
 		<xsl:if test="true()">
 		  <xsl:message terminate="no">
 		    <xsl:value-of select="concat('.................................', $nl)"/>
@@ -102,7 +102,7 @@
 		<e>
 		  <xsl:copy-of select="./@*"/>
 		  <xsl:copy-of select="./lg"/>
-		  <!-- here to implement the gender-nuber issue: Baustelle -->
+		  <!-- here to implement the gender-number issues: Baustelle -->
 		  <xsl:for-each select="./mg">
 		    <mg>
 		      <xsl:copy-of select="./@*"/>
@@ -110,40 +110,42 @@
 		      <xsl:copy-of select="./tam"/>
 		      <xsl:for-each select="./tg">
 			<tg>
-			  <xsl:for-each select="./t">
-			    <xsl:if test="not(contains(., ' / '))">
-			      <xsl:copy-of select="."/>
-			    </xsl:if>
-			    <xsl:if test="contains(., ' / ')">
-			      <!-- baustelle -->
-			      <xsl:variable name="chopped_content" select="tokenize(., ' / ')"/>
+			  <problem>
+<!-- 			  <xsl:for-each select="./t"> -->
+			    <!-- baustelle -->
+<!-- 			    <xsl:if test="not(contains(., ' / '))"> -->
+<!-- 			      <xsl:copy-of select="."/> -->
+<!-- 			    </xsl:if> -->
+<!-- 			    <xsl:if test="contains(., ' / ')"> -->
+<!-- 			      <xsl:variable name="chopped_content" select="tokenize(., ' / ')"/> -->
 
-			      <xsl:if test="not(count($chopped_content) =2)">
-				<xsl:message terminate="yes">
-				  <xsl:value-of select="concat('.................................', $nl)"/>
-				  <xsl:value-of select="concat('too many separators for aspect in entry kur_ID: ', ./@kur_ID, $nl)"/>
-				  <xsl:value-of select="'.................................'"/>
-				</xsl:message>
-			      </xsl:if>
-			      <xsl:variable name="head" select="normalize-space($chopped_content[1])"/>
-			      <xsl:variable name="tail" select="normalize-space($chopped_content[2])"/>
-			      <t>
-				<xsl:if test="not(contains($tail, ' '))">
-				  <xsl:attribute name="imperf">
-				    <xsl:value-of select="$tail"/>
-				  </xsl:attribute>
-				  <xsl:value-of select="$head"/>
-				</xsl:if>
-				<xsl:if test="contains($tail, ' ')">
-				  <xsl:attribute name="imperf">
-				    <xsl:value-of select="substring-before($tail, ' ')"/>
-				  </xsl:attribute>
-				  <xsl:value-of select="$head"/>
-				  <xsl:value-of select="concat(' ', substring-after($tail, ' '))"/>
-				</xsl:if>
-			      </t>
-			    </xsl:if>
-			  </xsl:for-each>
+<!-- 			      <xsl:if test="not(count($chopped_content) =2)"> -->
+<!-- 				<xsl:message terminate="yes"> -->
+<!-- 				  <xsl:value-of select="concat('.................................', $nl)"/> -->
+<!-- 				  <xsl:value-of select="concat('too many separators for aspect in entry kur_ID: ', ./@kur_ID, $nl)"/> -->
+<!-- 				  <xsl:value-of select="'.................................'"/> -->
+<!-- 				</xsl:message> -->
+<!-- 			      </xsl:if> -->
+<!-- 			      <xsl:variable name="head" select="normalize-space($chopped_content[1])"/> -->
+<!-- 			      <xsl:variable name="tail" select="normalize-space($chopped_content[2])"/> -->
+<!-- 			      <t> -->
+<!-- 				<xsl:if test="not(contains($tail, ' '))"> -->
+<!-- 				  <xsl:attribute name="imperf"> -->
+<!-- 				    <xsl:value-of select="$tail"/> -->
+<!-- 				  </xsl:attribute> -->
+<!-- 				  <xsl:value-of select="$head"/> -->
+<!-- 				</xsl:if> -->
+<!-- 				<xsl:if test="contains($tail, ' ')"> -->
+<!-- 				  <xsl:attribute name="imperf"> -->
+<!-- 				    <xsl:value-of select="substring-before($tail, ' ')"/> -->
+<!-- 				  </xsl:attribute> -->
+<!-- 				  <xsl:value-of select="$head"/> -->
+<!-- 				  <xsl:value-of select="concat(' ', substring-after($tail, ' '))"/> -->
+<!-- 				</xsl:if> -->
+<!-- 			      </t> -->
+<!-- 			    </xsl:if> -->
+<!-- 			  </xsl:for-each> -->
+			  </problem>
 			</tg>
 		      </xsl:for-each>
 		      <xsl:copy-of select="./xg"/>
