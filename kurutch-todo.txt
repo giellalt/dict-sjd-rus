@@ -724,6 +724,22 @@ Pre-testing
 Found two instances of Cyrilic M in the flag: replaces in the very last transformation (src/aspect_kurutch1985_sjdrus.xml)
 Michael, please correct this in the inc-files (all tranformations should be run anew, but I suppose, this is not the last run like that)
 
+What about the only instance of NEUTER?
+http://www.russianlessons.net/lessons/lesson6_main.php
+
+Gender of nouns.
+
+1. Look at the last letter of the word:
+2. If it is a consonant, or “й”, the word is masculine.
+3. If it is “а” or “я” it is feminine.
+4. If it is “о” or “е” it is neuter.
+5. If it is a soft sign “ь” then it could be either masculine or feminine.
+
+ ==> changed the instance into F_GENDER (Michael, please correct if it is wrong!)
+
+
+
+
   ==> TO DO
 
 ====================================
