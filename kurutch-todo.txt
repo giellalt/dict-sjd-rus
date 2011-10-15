@@ -716,6 +716,8 @@ sjdrus>grep 'counter' polish_output/out_sm-unified_kurutch1985_sjdrus.xml | sort
 8. GENDER/NUMBER TAGS
 the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>;
 
+Caveat: Such tags occur also in the l-element (to be handled separately)
+
 Pre-testing
  src>grep _GENDER aspect_kurutch1985_sjdrus.xml | grep -v M_GENDER | grep -v F_GENDER  
             <t>ботинок SG_NUMBER М_GENDER</t>
