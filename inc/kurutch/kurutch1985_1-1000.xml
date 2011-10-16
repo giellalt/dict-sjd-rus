@@ -9925,7 +9925,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>___LEXICON управлять лодкой при помощи руля COMMA о рулевом SEMICOLON грести и править лодкой, о заднем гребце LEXICON___ </T>
+		<T>___LEXICON управлять лодкой при помощи руля COMMA о рулевом SEMICOLON грести и править лодкой COMMA о заднем гребце LEXICON___ </T>
 		<X>вӯһпьтэм а̄ррьй</X>
 		<XT>весло заднего гребца, рулевое весло</XT>
 		<X>мунн вӯһпьта, со̄нн сугк</X>
@@ -9945,7 +9945,7 @@
 		<STEM/>
 		<CLASS>I,1*</CLASS>
 		<POS/>
-		<T>___LEXICON управлять лодкой при помощи руля, о рулевом SEMICOLON грести и править лодкой, о заднем гребце LEXICON___ <TAM>POSTOJANNO</TAM>
+		<T>___LEXICON управлять лодкой при помощи руля, о рулевом SEMICOLON грести и править лодкой COMMA о заднем гребце LEXICON___ <TAM>POSTOJANNO</TAM>
 		</T>
 	</E>
 	<E>
@@ -9953,7 +9953,7 @@
 		<STEM/>
 		<CLASS>III</CLASS>
 		<POS/>
-		<T>___LEXICON управлять лодкой при помощи руля, о рулевом SEMICOLON грести и править лодкой, о заднем гребце LEXICON___ <TAM>INOGDA_BYVALO</TAM>
+		<T>___LEXICON управлять лодкой при помощи руля, о рулевом SEMICOLON грести и править лодкой COMMA о заднем гребце LEXICON___ <TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E kur_ID="693">
