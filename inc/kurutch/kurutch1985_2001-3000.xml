@@ -11221,7 +11221,7 @@
 		<L>лыһкэй</L>
 		<STEM>о.ч.</STEM>
 		<CLASS>V</CLASS>
-		<T>рабочий M_GENDER, рабочая F_GENDER (сущ.) ; труженик M_GENDER, труженица F_GENDER ; трудящиеся PL_NUMBER</T>
+		<T>рабочий N_POS M_GENDER, рабочая F_GENDER N_POS ; труженик N_POS M_GENDER, труженица N_POS F_GENDER ; трудящиеся N_POS PL_NUMBER</T>
 		<X>колхознэ по̄лянҍ лыһкэй</X>
 		<XT>труженики колхозных полей</XT>
 	</E>
