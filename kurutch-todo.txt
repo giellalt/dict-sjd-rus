@@ -749,11 +749,15 @@ sjdrus>grep '&gt;' src/interim_kurutch1985_sjdrus.xml | wc -l
       42
 sjdrus>grep '&gt;' inc/kurutch/*xml | wc -l 
        0
- ==> TO DO
+Of course so:
+kurutch>grep 'лыжи PL_NUMBER' * 
+kurutch1985_5001-6000.xml:		<T>лыжи PL_NUMBER>, лыжа F_GENDER</T>
+kurutch>grep 'T>xxx><' * | wc -l 
+      41
 
+     ==> it was as usual a typo (editing files manually is easily prone to typos): DONE
 
-
-  ==> TO DO
+  ==> DONE
 
 ====================================
 4. LEXICON GROUP
