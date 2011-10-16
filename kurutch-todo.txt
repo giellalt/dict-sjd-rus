@@ -49,6 +49,46 @@ Die type="xxx" wollte ich später manuell ersetzen, z.B.:
             <xt>разрешите преподнести вам цветы</xt>
          </xg>
 
+======================================================================
+Problem mit den jetztigen Beispielgruppen in den inc-Dateien
+======================================================================
+
+@cip: Die obigen Beispiele sind gueltige Beispiele fuer example groups, aber wie du jetzt in den inc-dateien jetzt abgæendert hast,
+ist nicht gut.
+
+Beispiel:
+
+Davor: immer ein Paar example-translation x-xt
+
+         <xg type="xxx">
+            <x>иммель лоаннҍт</x>
+            <xt>zoolоляпка ___lexicon букв. божья птичка semicolon по саамским поверьям эта птичка
+ принесла богу травинку comma с которой пошла земля lexicon___</xt>
+         </xg>
+
+Jetzt:
+        <xg type="xxx">
+            <x>иммель лоаннҍт</x>
+            <xt>sem_zool оляпка</xt>
+         </xg>
+
+Warum? Ganz einfach weil die Inputdatei nicht ok ist: crap in, crap out!
+
+1x:3tx - das ist ja kein Paar!
+
+        <E kur_ID="1347">
+                <L>ИММЕЛЬ</L>
+                <STEM>о.ч.</STEM>                <CLASS>V</CLASS>
+                <T>бог</T>
+                <X>иммель лоаннҍт</X>
+                <XT>SEM_ZOOL оляпка</XT>
+                <XT>___LIT___ божья птичка</XT>
+                <XT>___LEXICON по саамским поверьям эта птичка принесла богу травинку COMMA с кото
+рой пошла земля LEXICON___ </XT>
+        </E>
+======================================================================
+
+
 ==========
 Observation when working with the interim file:
 
