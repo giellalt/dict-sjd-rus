@@ -8889,6 +8889,8 @@
 	<E>
 	<L>эфт PL_NUMBER</L>
 	<CLASS>II</CLASS>
+	<POS>n</POS>
+	<DER type="SUBST">э̄ххт</DER>
 	<T>единица</T>
 		<X>соагкэ эфт</X>
 		<XT>получить единицу</XT>
