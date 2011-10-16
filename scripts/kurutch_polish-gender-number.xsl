@@ -110,13 +110,43 @@
 		      <xsl:copy-of select="./tam"/>
 		      <xsl:for-each select="./tg">
 			<tg>
-			  <problem>
-<!-- 			  <xsl:for-each select="./t"> -->
+			  <xsl:for-each select="./t">
+
 			    <!-- baustelle -->
-<!-- 			    <xsl:if test="not(contains(., ' / '))"> -->
-<!-- 			      <xsl:copy-of select="."/> -->
-<!-- 			    </xsl:if> -->
-<!-- 			    <xsl:if test="contains(., ' / ')"> -->
+
+			    <xsl:if test="not(contains(., '_GENDER') or contains(., '_NUMBER'))">
+			      <xsl:copy-of select="."/>
+			    </xsl:if>
+			    <xsl:if test="contains(., '_GENDER') or contains(., '_NUMBER')">
+			      <t>
+				<xsl:copy-of select="./@*"/>
+				<xsl:if test="contains(., 'F_GENDER')">
+				  <xsl:attribute name="gender">
+				    <xsl:value-of select="'f'"/>
+				  </xsl:attribute>
+				</xsl:if>
+				<xsl:if test="contains(., 'M_GENDER')">
+				  <xsl:attribute name="gender">
+				    <xsl:value-of select="'m'"/>
+				  </xsl:attribute>
+				</xsl:if>
+				<xsl:if test="contains(., 'SG_NUMBER')">
+				  <xsl:attribute name="number">
+				    <xsl:value-of select="'sg'"/>
+				  </xsl:attribute>
+				</xsl:if>
+				<xsl:if test="contains(., 'PL_NUMBER')">
+				  <xsl:attribute name="number">
+				    <xsl:value-of select="'pl'"/>
+				  </xsl:attribute>
+				</xsl:if>
+				
+				<!-- kur_ID="276" -->
+				<problem>
+				  <xsl:value-of select="."/>
+				</problem>
+			      </t>
+
 <!-- 			      <xsl:variable name="chopped_content" select="tokenize(., ' / ')"/> -->
 
 <!-- 			      <xsl:if test="not(count($chopped_content) =2)"> -->
@@ -143,9 +173,9 @@
 <!-- 				  <xsl:value-of select="concat(' ', substring-after($tail, ' '))"/> -->
 <!-- 				</xsl:if> -->
 <!-- 			      </t> -->
-<!-- 			    </xsl:if> -->
-<!-- 			  </xsl:for-each> -->
-			  </problem>
+
+			    </xsl:if>
+			  </xsl:for-each>
 			</tg>
 		      </xsl:for-each>
 		      <xsl:copy-of select="./xg"/>
