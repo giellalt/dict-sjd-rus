@@ -1,6 +1,55 @@
 Kurutch sjd-rus
 
+=========
+@Micha: eine Frage an den Lexikographen (eilt nicht).
 
+Wir haben nach der Konversion solche Beispielphrasen:
+         <xg type="xxx">
+            <x>а̄ннэ кнӣга</x>
+            <xt>просить книгу</xt>
+         </xg>
+         <xg type="xxx">
+            <x>пуада эмм та̄рьм, а ента</x>
+            <xt>[я] приду не сегодня, а завтра</xt>
+         </xg>
+         <xg type="sentence">
+            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
+            <xt>а кто тебе сказал об этом?</xt>
+         </xg>
+         <xg type="sentence">
+            <x>лӯшшьтэ аннҍтэ тыйе роазетҍ!</x>
+            <xt>разрешите преподнести вам цветы!</xt>
+         </xg>
+
+Die Regel war:
+	type="sentence" wenn <x> mit ?</x> oder !</x> endet
+	type="xxx" alle anderen Fälle
+	
+Macht es mehr Sinn spezifischer zu sein? Z.B.
+	type="question" wenn <x> mit ?</x> endet
+	type="imperative" wenn <x> mit !</x> endet
+
+Kann (oder sollte) man dann die Satzzeichen (? und !) dann weglassen? Groß geschrieben ist der Beispielsatz ja auch nicht. Ich vermute Großschreibung und Satzzeichen kann man bei der endgültigen Präsentation des Wörterbuchs (Druck, Internet, etc.) leicht automatisch herstellen, wenn die Attribute in der Datenbank stimmen. 
+
+Die type="xxx" wollte ich später manuell ersetzen, z.B.:
+         <xg type="phrase">
+            <x>а̄ннэ кнӣга</x>
+            <xt>просить книгу</xt>
+         </xg>
+         <xg type="proposition">
+            <x>пуада эмм та̄рьм, а ента</x>
+            <xt>[я] приду не сегодня, а завтра</xt>
+         </xg>
+         <xg type="question">
+            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс</x>
+            <xt>а кто тебе сказал об этом</xt>
+         </xg>
+         <xg type="imperative">
+            <x>лӯшшьтэ аннҍтэ тыйе роазетҍ</x>
+            <xt>разрешите преподнести вам цветы</xt>
+         </xg>
+
+==========
 Observation when working with the interim file:
 
 1. Is there a crucial difference between ___TE and ___te or are these just the same in meaning?
