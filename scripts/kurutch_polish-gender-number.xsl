@@ -143,10 +143,16 @@
 				
 				<!-- kur_ID="276" -->
 				<problem>
-				  <xsl:value-of select="replace(
+				  <xsl:value-of select="normalize-space(
 							  replace(
 							    replace(
-							      replace(., 'F_GENDER', ''), 'M_GENDER', ''), 'SG_NUMBER', ''), 'PL_NUMBER', '')"/>
+							      replace(
+							        replace(., 'F_GENDER', ''
+								), 'M_GENDER', ''
+							      ), 'SG_NUMBER', ''
+							    ), 'PL_NUMBER', ''
+							  )
+							)"/>
 				</problem>
 			      </t>
 
