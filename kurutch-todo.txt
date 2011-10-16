@@ -740,6 +740,17 @@ Gender of nouns.
  ==> changed the instance into F_GENDER (Michael, please correct if it is wrong!)
 
 
+Obervation: 
+sjdrus>grep '&gt;' src/aspect_kurutch1985_sjdrus.xml | wc -l 
+      42
+sjdrus>grep '&gt;' src/sm-unified_kurutch1985_sjdrus.xml | wc -l 
+      42
+sjdrus>grep '&gt;' src/interim_kurutch1985_sjdrus.xml | wc -l 
+      42
+sjdrus>grep '&gt;' inc/kurutch/*xml | wc -l 
+       0
+ ==> TO DO
+
 
 
   ==> TO DO
