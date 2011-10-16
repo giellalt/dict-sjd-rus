@@ -143,7 +143,10 @@
 				
 				<!-- kur_ID="276" -->
 				<problem>
-				  <xsl:value-of select="."/>
+				  <xsl:value-of select="replace(
+							  replace(
+							    replace(
+							      replace(., 'F_GENDER', ''), 'M_GENDER', ''), 'SG_NUMBER', ''), 'PL_NUMBER', '')"/>
 				</problem>
 			      </t>
 
