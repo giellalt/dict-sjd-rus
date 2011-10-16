@@ -70,7 +70,7 @@
 
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="file" select="'../src/aspect_kurutch1985_sjdrus.xml'"/>
+  <xsl:param name="file" select="'../src/03_aspect_kurutch1985_sjdrus.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
   
   <xsl:template match="/" name="main">
@@ -140,10 +140,7 @@
 				    <xsl:value-of select="'pl'"/>
 				  </xsl:attribute>
 				</xsl:if>
-				
-				<!-- kur_ID="276" -->
-				<problem>
-				  <xsl:value-of select="normalize-space(
+				<xsl:value-of select="normalize-space(
 							  replace(
 							    replace(
 							      replace(
@@ -153,36 +150,7 @@
 							    ), 'PL_NUMBER', ''
 							  )
 							)"/>
-				</problem>
 			      </t>
-
-<!-- 			      <xsl:variable name="chopped_content" select="tokenize(., ' / ')"/> -->
-
-<!-- 			      <xsl:if test="not(count($chopped_content) =2)"> -->
-<!-- 				<xsl:message terminate="yes"> -->
-<!-- 				  <xsl:value-of select="concat('.................................', $nl)"/> -->
-<!-- 				  <xsl:value-of select="concat('too many separators for aspect in entry kur_ID: ', ./@kur_ID, $nl)"/> -->
-<!-- 				  <xsl:value-of select="'.................................'"/> -->
-<!-- 				</xsl:message> -->
-<!-- 			      </xsl:if> -->
-<!-- 			      <xsl:variable name="head" select="normalize-space($chopped_content[1])"/> -->
-<!-- 			      <xsl:variable name="tail" select="normalize-space($chopped_content[2])"/> -->
-<!-- 			      <t> -->
-<!-- 				<xsl:if test="not(contains($tail, ' '))"> -->
-<!-- 				  <xsl:attribute name="imperf"> -->
-<!-- 				    <xsl:value-of select="$tail"/> -->
-<!-- 				  </xsl:attribute> -->
-<!-- 				  <xsl:value-of select="$head"/> -->
-<!-- 				</xsl:if> -->
-<!-- 				<xsl:if test="contains($tail, ' ')"> -->
-<!-- 				  <xsl:attribute name="imperf"> -->
-<!-- 				    <xsl:value-of select="substring-before($tail, ' ')"/> -->
-<!-- 				  </xsl:attribute> -->
-<!-- 				  <xsl:value-of select="$head"/> -->
-<!-- 				  <xsl:value-of select="concat(' ', substring-after($tail, ' '))"/> -->
-<!-- 				</xsl:if> -->
-<!-- 			      </t> -->
-
 			    </xsl:if>
 			  </xsl:for-each>
 			</tg>
@@ -193,7 +161,6 @@
 		</e>
 	      </xsl:if>
 	    </xsl:for-each>
-	    
 	  </r>
 	</xsl:variable>
 	
