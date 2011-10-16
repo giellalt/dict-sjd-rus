@@ -762,10 +762,10 @@ sjdrus>grep 'counter' polish_output/out_sm-unified_kurutch1985_sjdrus.xml | sort
   ==> DONE
 
 ==================
-8. GENDER/NUMBER TAGS
-the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>;
+8. GENDER/NUMBER/POS TAGS
+the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.), N_POS should be transfered into an attribute of <t>;
 
-Caveat: Such tags occur also in the l-element / xt-element (to be handled separately)
+Caveat: Such tags occur also in the l-element / xt-element (to be handled separately, see below)
 
 Pre-testing
  src>grep _GENDER aspect_kurutch1985_sjdrus.xml | grep -v M_GENDER | grep -v F_GENDER  
@@ -833,6 +833,33 @@ OUTPUT:
       </lg>
       …
    </e>
+   
+NUMBER/GENDER TAGS IN THE xt-ELEMENT
+INPUT:
+<T>рабочий N_POS M_GENDER, рабочая F_GENDER N_POS ; труженик N_POS M_GENDER, труженица N_POS F_GENDER ; трудящиеся N_POS PL_NUMBER</T>
+
+<XT>инициалы PL_NUMBER</XT>
+
+<XT>инициал SG_NUMBER M_GENDER</XT>
+
+OUTPUT:
+<tg>
+<t pos="n" gender="m">рабочий</t>
+<t pos="n" gender="f">рабочая</t>
+</tg>
+<tg>
+<t pos="n" gender="m">труженик</t>
+<t pos="n" gender="f">труженица</t>
+</tg>
+<tg>
+<t pos="n" number="pl">трудящиеся</t>
+</tg>
+
+
+<xt pos="n" number="pl">инициалы</xt>
+
+<xt pos="n" gender="m">инициал</xt>
+
 
 ====================================
 4. LEXICON GROUP
