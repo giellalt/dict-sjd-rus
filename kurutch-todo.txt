@@ -798,8 +798,21 @@ But note, that the LEXICONtag can also occur inside <XT> (example). For now we n
 		<XT>___LEXICON оленёнок (самка) или важенка COMMA подаренная отцом COMMA напр. дочери на свадьбу LEXICON___ </XT>
 	</E>
 
-@Micha: Note that a subpart of the LEXICON entried are flagged for the Lovozero training (LEXICON_LOV)	
+@Micha: Note that a subpart of the LEXICON entries are flagged for the Lovozero training (LEXICON_LOV)	
    
+
+As usual pre-test and ...
+
+sjdrus>grep 'LEXICON' src/04_gender-number_kurutch1985_sjdrus.xml | wc -l 
+      99
+sjdrus>grep 'LEXICON' src/04_gender-number_kurutch1985_sjdrus.xml | grep -v ___LEXICON | wc -l 
+       5
+sjdrus>grep 'LEXICON' src/04_gender-number_kurutch1985_sjdrus.xml | grep -v LEXICON___ | wc -l 
+       7
+
+ ... as usual errors ==> debug and correct: TO DO 
+
+
   ==> TO DO
 
 
