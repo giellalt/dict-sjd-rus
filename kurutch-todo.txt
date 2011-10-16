@@ -765,7 +765,7 @@ sjdrus>grep 'counter' polish_output/out_sm-unified_kurutch1985_sjdrus.xml | sort
 8. GENDER/NUMBER TAGS
 the tags x_GENDER (z.B. F_GENDER, etc.) x_NUMBER (z.B. PL_NUMBER, etc.) should be transfered into an attribute of <t>;
 
-Caveat: Such tags occur also in the l-element (to be handled separately)
+Caveat: Such tags occur also in the l-element / xt-element (to be handled separately)
 
 Pre-testing
  src>grep _GENDER aspect_kurutch1985_sjdrus.xml | grep -v M_GENDER | grep -v F_GENDER  
@@ -807,6 +807,32 @@ kurutch>grep 'T>xxx><' * | wc -l
      ==> it was as usual a typo (editing files manually is easily prone to typos): DONE
 
   ==> DONE
+  
+@Micha: I have flagged number and gender information as in the original dict, thus we have both
+a) <t gender="f">брошь</t> only gender
+b) <t number="pl">усы</t> only number
+c) <t gender="m" number="sg">ус</t> gender+number
+gender+number is perhaps redundant, because:
+in plural gender is never differentiated – gender is differentiated only in singular
+
+NUMBER TAGS IN THE l-ELEMENT
+INPUT:
+	<E>
+		<L>ко̄лм PL_NUMBER</L>
+		<CLASS>II</CLASS>
+		…
+	</E>
+
+OUTPUT:
+   <e kur_ID="xxx">
+      <lg>
+         <l number="pl">ко̄лм</l>
+         <infl>
+            <kur_infl class="II" ablaut="_x_" special="_x_"/>
+         </infl>
+      </lg>
+      …
+   </e>
 
 ====================================
 4. LEXICON GROUP
