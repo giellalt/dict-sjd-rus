@@ -1012,8 +1012,15 @@ Output:
  рогами LEXICON___ </T>
 
 
+(@micha: I'll rather do this manually during later edition of the dict)
+@cip: no, you can postedit manually in cases like 
 
-  ==> TO DO (@micha: I'll rather do this manually during later edition of the dict)
+<T>домашний олень ___LOOKUPа̄к COMMA а̄ллт COMMA амель COMMA ва̄жь COMMA вӯбресь COMMA вӯнял COMMA вӯссь COMMA е̄ррьк COMMA ко̄нтас COMMA лӯһпель COMMA ре̄ввт COMMA сарьвесь COMMA че̄пэркLOOKUP___ 
+
+sjdrus>grep LOOKUP inc/kurutch/*.xml | wc -l 
+      91
+
+  ==> TO DO 
 
 
 ==> DONE <==
