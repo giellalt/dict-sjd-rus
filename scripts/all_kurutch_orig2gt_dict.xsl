@@ -641,6 +641,7 @@
 			</xsl:if>
 		      </xsl:attribute>
 		      <xsl:copy-of select="."/>
+		      <!-- change script here to adapt to Michaels changes in the input data -->
 		      <xsl:copy-of select="following-sibling::xt[1]"/>
 		    </xg>
 		  </xsl:for-each>
