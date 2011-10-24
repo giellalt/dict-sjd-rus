@@ -289,7 +289,7 @@ and as one can see here, they just make truble for processing.
 kurutch>grep '>рӯц\-1\,\-2<' *.xml 
 kurutch1985_5001-6000.xml:		<L xxx="please_correct_me">рӯц-1,-2</L>
 
- ==> the conflict problems are now done
+ ==> the conflict problems are now solved
  
  @cip: DERivation element checked in all three types of entries before
  merging: no danger of overwriting, merging can be done just as a
@@ -732,7 +732,7 @@ OUTPUT:
 iChat-quotation: "Michael Rießler
 die erste form ist die grundform, die zweite das attribut"
  
-@cip: Ok, but I just want to point to somenthing that migh call for the reverse,
+@cip: Ok, but I just want to point to somenthing that might call for the reverse,
 namely the first part as attribute and the second as baseform.
 I don't have any idea about Russian, this is just by observing some pattern.
 
@@ -1000,7 +1000,7 @@ the preliminary tag LOOKUP marks a pointer to Kildin words in Russian text eleme
 this should somehow be converted into a link inside the final dict, like
 выделывать / выделать (шкуру крюком <LOOKUP xml:lang="sjd">крӯһкь</LOOKUP>
 
-  ==> CAN WAIT (@micha: I'll rather do this manually during later edition of the dict)
+  ==> TO DO (@micha: I'll rather do this manually during later edition of the dict)
 
 
 ==> DONE <==
