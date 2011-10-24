@@ -12,11 +12,11 @@ Wir haben nach der Konversion solche Beispielphrasen:
             <x>пуада эмм та̄рьм, а ента</x>
             <xt>[я] приду не сегодня, а завтра</xt>
          </xg>
-         <xg type="sentence">
-            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
-            <xt>а кто тебе сказал об этом?</xt>
+         <xg type="sentence" subtype="question">
+            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс</x>
+            <xt>а кто тебе сказал об этом</xt>
          </xg>
-         <xg type="sentence">
+         <xg type="sentence" subtype="exclamation">
             <x>лӯшшьтэ аннҍтэ тыйе роазетҍ!</x>
             <xt>разрешите преподнести вам цветы!</xt>
          </xg>
