@@ -1,6 +1,10 @@
 Kurutch sjd-rus
 
 =========
+Revert dictionary as soon as possible
+ ==> TO DO
+
+=========
 @Micha: eine Frage an den Lexikographen (eilt nicht).
 
 Wir haben nach der Konversion solche Beispielphrasen:
@@ -86,6 +90,9 @@ Warum? Ganz einfach weil die Inputdatei nicht ok ist: crap in, crap out!
                 <XT>___LEXICON по саамским поверьям эта птичка принесла богу травинку COMMA с кото
 рой пошла земля LEXICON___ </XT>
         </E>
+
+ ==> TO DO
+
 ======================================================================
 
 
