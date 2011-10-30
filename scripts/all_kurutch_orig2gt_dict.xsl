@@ -72,7 +72,7 @@
 
   <!-- get input dir -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="inDir" select="'../inc/kurutch'"/>
+  <xsl:param name="inDir" select="'../inc/little_kurutch'"/>
   <!--   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/> -->
   
   <xsl:template match="/" name="main">
@@ -642,7 +642,9 @@
 		      </xsl:attribute>
 		      <xsl:copy-of select="."/>
 		      <!-- change script here to adapt to Michaels changes in the input data -->
-		      <xsl:copy-of select="following-sibling::xt[1]"/>
+		      <xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
+		      <xsl:copy-of select="following-sibling::xt[position() &lt; $next_x]"/>
+		      <!-- xsl:copy-of select="following-sibling::xt[1]"/ -->
 		    </xg>
 		  </xsl:for-each>
 		  
@@ -650,7 +652,9 @@
 		    <xg type="idiom">
 		      <xsl:copy-of select="."/>
 		      <!-- adjust here: more than only the following xt node -->
-		      <xsl:copy-of select="following-sibling::xt[1]"/>
+		      <xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
+		      <xsl:copy-of select="following-sibling::xt[position() &lt; $next_x]"/>
+		      <!-- xsl:copy-of select="following-sibling::xt[1]"/ -->
 		    </xg>
 		  </xsl:for-each>
 		</xsl:if>
@@ -668,7 +672,9 @@
 		      </xsl:attribute>
 		      <xsl:copy-of select="."/>
 		      <!-- adjust here: more than only the following xt node -->
-		      <xsl:copy-of select="following-sibling::xt[1]"/>
+		      <xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
+		      <xsl:copy-of select="following-sibling::xt[position() &lt; $next_x]"/>
+		      <!-- xsl:copy-of select="following-sibling::xt[1]"/ -->
 		    </xg>
 		  </xsl:for-each>
 		</xsl:if>
