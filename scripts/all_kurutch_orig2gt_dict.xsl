@@ -649,6 +649,7 @@
 		  <xsl:for-each select="$exs/ex_group/idiom_boundary/following-sibling::x">
 		    <xg type="idiom">
 		      <xsl:copy-of select="."/>
+		      <!-- adjust here: more than only the following xt node -->
 		      <xsl:copy-of select="following-sibling::xt[1]"/>
 		    </xg>
 		  </xsl:for-each>
@@ -666,6 +667,7 @@
 			</xsl:if>
 		      </xsl:attribute>
 		      <xsl:copy-of select="."/>
+		      <!-- adjust here: more than only the following xt node -->
 		      <xsl:copy-of select="following-sibling::xt[1]"/>
 		    </xg>
 		  </xsl:for-each>
