@@ -1,7 +1,7 @@
 Kurutch sjd-rus
 
 =========
-Revert dictionary as soon as possible
+Revert dictionary not necessarily as soon as possible
  ==> TO DO
 
 =========
@@ -91,7 +91,7 @@ Warum? Ganz einfach weil die Inputdatei nicht ok ist: crap in, crap out!
 рой пошла земля LEXICON___ </XT>
         </E>
 
- ==> TO DO
+ ==> DONE
 
 ======================================================================
 
