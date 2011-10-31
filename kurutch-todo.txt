@@ -94,7 +94,42 @@ Warum? Ganz einfach weil die Inputdatei nicht ok ist: crap in, crap out!
 рой пошла земля LEXICON___ </XT>
         </E>
 
- ==> DONE
+
+@cip: Just observed something even more strange:
+
+<quotation>
+Author: michael
+Date: 2011-01-31 01:31:20 +0100 (vuos, 31 ođđj 2011)
+New Revision: 38991
+
+Modified:
+  trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml
+Log:
+getting rid of commas inside <T>-element which are not marking a new translation; also other commas inside parentheses
+
+Modified: trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml
+===================================================================
+--- trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml	2011-01-30 23:16:01 UTC (rev 38990)
++++ trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml	2011-01-31 00:31:20 UTC (rev 38991)
+@@ -55,7 +55,9 @@
+		<STEM>абьр</STEM>
+		<CLASS>II,1</CLASS>
+		<T>дождь м</T>
+-		<X>аббьр аббр (манн, ёадт)</X>
++		<X>аббьр аббр</X>
++		<X>аббьр манн</X>
++		<X>аббьр ёадт</X>
+		<XT>дождь идёт</XT>
+		<X>аббьр оалкхувэ</X>
+		<XT>дождь начался</XT>
+</quotation>
+
+First of all, the comment doesn't mach the first change in the data: it is not a change iside of <T>-elements but
+inside of <X>-elements. Second, why not use the same procedure as before COMMA-string?
+
+That means tha there is not only the case of 1x:Mxt but also Nx:Mxt. This is not workable!
+
+==> TO DO
 
 ======================================================================
 
