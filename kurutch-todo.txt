@@ -1,7 +1,7 @@
 Kurutch sjd-rus
 
 =========
-Revert dictionary not necessarily as soon as possible
+Revert dictionary not necessarily as soon as possible (or just forget it!)
  ==> TO DO
 
 =========
@@ -34,6 +34,9 @@ Macht es mehr Sinn spezifischer zu sein? Z.B.
 	type="imperative" wenn <x> mit !</x> endet
 
 Kann (oder sollte) man dann die Satzzeichen (? und !) dann weglassen? Groß geschrieben ist der Beispielsatz ja auch nicht. Ich vermute Großschreibung und Satzzeichen kann man bei der endgültigen Präsentation des Wörterbuchs (Druck, Internet, etc.) leicht automatisch herstellen, wenn die Attribute in der Datenbank stimmen. 
+@cip: ja, "wenn die Attribute in der Datenbank stimmen", das stimmt. Aber wie ich Michael schon gesagt habe, das ist nur eine Schönheitsoperation und
+als solches nicht unbedingt nötig. Ausserdem ist diese strikte Interpretation der Satzzeichen linguistisch nicht immer vorteilhaft: Nicht jeder Satz, der mit
+einem Fragezeichen endet, ist ein wirklich Fragesatz. Eine Sache ist, die Satzzeichen zu deuten, eine andere die Sätze selbst.
 
 Die type="xxx" wollte ich später manuell ersetzen, z.B.:
          <xg type="phrase">
