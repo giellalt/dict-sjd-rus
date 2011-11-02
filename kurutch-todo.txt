@@ -129,6 +129,20 @@ inside of <X>-elements. Second, why not use the same procedure as before COMMA-s
 
 That means tha there is not only the case of 1x:Mxt but also Nx:Mxt. This is not workable!
 
+
+<quotation>
+Author: michael
+Date: 2011-11-02 08:47:38 +0100 (gask, 02 skáb 2011)
+New Revision: 49259
+
+Modified:
+  trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml
+Log:
+correcting mistake (Revision: 38991), one x is always followed by one or multiple xt
+</quotation>
+
+@cip: make a systematic test that this is the case.
+
 ==> TO DO
 
 ======================================================================
