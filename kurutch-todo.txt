@@ -129,6 +129,27 @@ inside of <X>-elements. Second, why not use the same procedure as before COMMA-s
 
 That means tha there is not only the case of 1x:Mxt but also Nx:Mxt. This is not workable!
 
+@Micha: what I did was "getting rid of commas inside <T>-element which are not marking a new translation; also other commas inside parentheses". Most commas to getting rid of were inside <T>, however "<X>аббьр аббр (манн, ёадт)</X>" was one instance of a comma somewhere else, the bad thing I did was doing the "correction" wrong :-(, it is corrected now the following way:
+
+Original:
+<X>аббьр аббр (манн, ёадт)</X>
+<XT>дождь идёт</XT>
+
+Micha's "wrong correction":
+<X>аббьр аббр</X>
+<X>аббьр манн</X>
+<X>аббьр ёадт</X>
+<XT>дождь идёт</XT>
+
+RESULT:
+<X>аббьр аббр</X>
+<XT>дождь идёт</XT>
+<X>аббьр манн</X>
+<XT>дождь идёт</XT>
+<X>аббьр ёадт</X>
+<XT>дождь идёт</XT>
+
+My intention was to split the info from the parenthesis	into single <X>s, each with a following >XT> (i.a. 1x:1xt).
 
 <quotation>
 Author: michael
@@ -142,6 +163,7 @@ correcting mistake (Revision: 38991), one x is always followed by one or multipl
 </quotation>
 
 @cip: make a systematic test that this is the case.
+@Micha: I hope this was the only instance of (non-intended) Nx:Mxt, but yes, a test would be good
 
 ==> TO DO
 
