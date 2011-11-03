@@ -165,68 +165,6 @@ correcting mistake (Revision: 38991), one x is always followed by one or multipl
 @cip: make a systematic test that this is the case.
 @Micha: I hope this was the only instance of (non-intended) Nx:Mxt, but yes, a test would be good
 
-@cip: generate-id() problems with xt-elements with identical content?
-
-1. Example: ok
-
-   <e kur_ID="1">
-      <lg>
-         <l pos="xxx">а</l>
-      </lg>
-.......
-         <xg type="xxx">
-            <x>пуада эмм та̄рьм, а ента</x>
-           <xt>[я] приду не сегодня, а завтра</xt>
-         </xg>
-         <xg type="xxx">
-            <x>мунн лӣннче пӯдзэ пынньенҍ, а со̄нн ля̄ннч лӣхемь лаппьсъенҍ</x>
-           <xt>я буду оленеводом, а она будет дояркой</xt>
-         </xg>
-         <xg type="sentence">
-            <x>а ке̄ тоннӭ цӣӆькэ тэнн баяс?</x>
-           <xt>а кто тебе сказал об этом?</xt>
-.......
-  </e>
-
-2. Example: not ok
-
-   <e kur_ID="9">
-      <lg>
-         <l pos="n">аббьр</l>
-.......
-        <xg type="xxx">
-            <x>аббьр аббр</x>
-         </xg>
-         <xg type="xxx">
-            <x>аббьр манн</x>
-         </xg>
-         <xg type="xxx">
-            <x>аббьр ёадт</x>
-           <xt>дождь идёт</xt>
-         </xg>
-         <xg type="xxx">
-            <x>аббьр оалкхувэ</x>
-           <xt>дождь начался</xt>
-         </xg>
-         <xg type="xxx">
-            <x>эбьрэнҍ тӣвтэ пугк вӯметҍ</x>
-           <xt>водой залило все долины</xt>
-         </xg>
-         <xg type="xxx">
-            <x>аббьр-чалма</x>
-           <xt>капля дождя</xt>
-           <xt>___lit___ глазок дождя</xt>
-         </xg>
-        <xg type="xxx">
-            <x>коам аббьр</x>
-           <xt>проливной дождь</xt>
-           <xt>ливень</xt>
-         </xg>
-.......
-  </e>
-
-
-
 ==> TO DO
 
 ======================================================================
