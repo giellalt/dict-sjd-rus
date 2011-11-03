@@ -72,7 +72,7 @@
 
   <!-- get input dir -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="inDir" select="'../inc/little_kurutch'"/>
+  <xsl:param name="inDir" select="'../inc/kurutch'"/>
   <!--   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/> -->
   
   <xsl:template match="/" name="main">
