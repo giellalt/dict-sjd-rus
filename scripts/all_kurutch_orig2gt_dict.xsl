@@ -641,20 +641,81 @@
 			</xsl:if>
 		      </xsl:attribute>
 		      <xsl:copy-of select="."/>
-		      <!-- change script here to adapt to Michaels changes in the input data -->
-		      <xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
-		      <xsl:copy-of select="following-sibling::xt[position() &lt; $next_x]"/>
-		      <!-- xsl:copy-of select="following-sibling::xt[1]"/ -->
+
+		      <!-- group ab+ab+ab+ as such (ab+)(ab+)(ab+) -->
+		      <xsl:if test="following-sibling::xt">
+			<xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::x[1])=
+					      generate-id(current())][not(local-name() = 'x')]">
+
+			  <xsl:message terminate="no">
+			    <xsl:value-of select="concat('/////', $nl)"/>
+			    <xsl:value-of select="concat('here is: ', ., $nl)"/>
+			    <xsl:value-of select="'/////'"/>
+			  </xsl:message>
+
+			  <!-- change script here to adapt to Michaels changes in the input data -->
+			  <!-- xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
+			       
+			       <xsl:message terminate="no">
+			       <xsl:value-of select="concat('/////', $nl)"/>
+			       <xsl:value-of select="concat('next position is: ', $next_x, $nl)"/>
+			       <xsl:value-of select="'/////'"/>
+			       </xsl:message>
+			       
+			       <xsl:copy-of select="following-sibling::xt[position() &gt; $next_x]"/ -->
+			  <in_idiom_not_idiom/>
+
+			  <xsl:if test="self::*">
+			    <xsl:copy-of select="."/>
+			  </xsl:if>
+			  
+			  <!-- xsl:copy-of select="following-sibling::xt[1]"/ -->
+			  
+			</xsl:for-each>
+		      </xsl:if>
 		    </xg>
 		  </xsl:for-each>
 		  
 		  <xsl:for-each select="$exs/ex_group/idiom_boundary/following-sibling::x">
 		    <xg type="idiom">
 		      <xsl:copy-of select="."/>
+
 		      <!-- adjust here: more than only the following xt node -->
-		      <xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
-		      <xsl:copy-of select="following-sibling::xt[position() &lt; $next_x]"/>
+		      <!-- xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
+
+		      <xsl:message terminate="no">
+			<xsl:value-of select="concat('/////', $nl)"/>
+			<xsl:value-of select="concat('next position is: ', $next_x, $nl)"/>
+			<xsl:value-of select="'/////'"/>
+		      </xsl:message>
+
+		      <xsl:copy-of select="following-sibling::xt[position() &gt; $next_x]"/ -->
+
+		      <!-- xsl:copy-of select="following-sibling::xt"/ -->
+
 		      <!-- xsl:copy-of select="following-sibling::xt[1]"/ -->
+
+		      
+		      <!-- group ab+ab+ab+ as such (ab+)(ab+)(ab+) -->
+		      <xsl:if test="following-sibling::xt">
+			<xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::x[1])=
+					      generate-id(current())][not(local-name() = 'x')]">
+
+			  <xsl:message terminate="no">
+			    <xsl:value-of select="concat('/////', $nl)"/>
+			    <xsl:value-of select="concat('here is: ', ., $nl)"/>
+			    <xsl:value-of select="'/////'"/>
+			  </xsl:message>
+
+			  <in_idiom_but_idiom/>
+			  
+			  <xsl:if test="self::*">
+			    <xsl:copy-of select="."/>
+			  </xsl:if>
+			  
+			</xsl:for-each>
+		      </xsl:if>
+
 		    </xg>
 		  </xsl:for-each>
 		</xsl:if>
@@ -672,9 +733,40 @@
 		      </xsl:attribute>
 		      <xsl:copy-of select="."/>
 		      <!-- adjust here: more than only the following xt node -->
-		      <xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
-		      <xsl:copy-of select="following-sibling::xt[position() &lt; $next_x]"/>
+		      <!-- xsl:variable name="next_x" select="following-sibling::x[1]/position()"/>
+		      
+		      <xsl:message terminate="no">
+			<xsl:value-of select="concat('/////', $nl)"/>
+			<xsl:value-of select="concat('next position is: ', $next_x, $nl)"/>
+			<xsl:value-of select="'/////'"/>
+		      </xsl:message>
+		      
+		      <xsl:copy-of select="following-sibling::xt[position() &lt; $next_x]"/ -->
+		      
+		      <!-- xsl:copy-of select="following-sibling::xt"/ -->
+		      
 		      <!-- xsl:copy-of select="following-sibling::xt[1]"/ -->
+		      
+		      <!-- group ab+ab+ab+ as such (ab+)(ab+)(ab+) -->
+		      <xsl:if test="following-sibling::xt">
+			<xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::x[1])=
+					      generate-id(current())][not(local-name() = 'x')]">
+			  
+			  <xsl:message terminate="no">
+			    <xsl:value-of select="concat('/////', $nl)"/>
+			    <xsl:value-of select="concat('here is: ', ., $nl)"/>
+			    <xsl:value-of select="'/////'"/>
+			  </xsl:message>
+
+			  <no_idiom/>
+
+			  <xsl:if test="self::*">
+			    <xsl:copy-of select="."/>
+			  </xsl:if>
+			  
+			</xsl:for-each>
+		      </xsl:if>
+		      
 		    </xg>
 		  </xsl:for-each>
 		</xsl:if>
