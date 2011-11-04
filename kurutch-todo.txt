@@ -131,6 +131,14 @@ Side comment 3: What is this (тӣввтэ1+2): <t>___TOZHE_SHTO___тӣввтэ1
 ==> TO DO
 
 ======================================================================
+Transform back the punctuation marks in form of strings (COMMA, SEMICOLON, etc):
+======================================================================
+
+This issue is dependent of the previous transformation and restructuration processes.
+
+==> TO DO
+
+======================================================================
 Problem mit den jetztigen Beispielgruppen in den inc-Dateien
 ======================================================================
 
