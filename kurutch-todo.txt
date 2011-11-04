@@ -106,6 +106,17 @@ Always check for casing:
 7. ___LOOKUP LOOKUP___: <t>койб ___LOOKUPкоаммасLOOKUP___</t>
                                            <xt>надень тоборки ___lookupтубэркlookup___ с кожаными носками</xt>
 
+@cip's solution for LOOKUP (as discussed also with Michael in Lovozero):
+
+Input:
+<XT>над вежой ___LOOKUPкуэдтҍLOOKUP___ много искр (в дыме)</XT>
+
+Output:
+(name of the attribute and the internal structure of the attribute value are ad libitum)
+<XT lookup="вежой_rus:sjd_куэдтҍ">над вежой много искр (в дыме)</XT>
+
+Note: there is no element with more than one LOOKUP flag.
+
 8. ___idiom___: <xt>___idiom___ хочу - читаю, хочу - нет</xt>
 
 9. ___meaning___: <xt>___meaning___ на непутёвых детей надежда плохая</xt>
