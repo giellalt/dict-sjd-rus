@@ -645,7 +645,7 @@
 		      <!-- group ab+ab+ab+ as such (ab+)(ab+)(ab+) -->
 		      <xsl:if test="following-sibling::xt">
 			<xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::x[1])=
-					      generate-id(current())][not(local-name() = 'x')]">
+					      generate-id(current())][not((local-name() = 'x') or (local-name() = 'idiom_boundary'))]">
 			  
 			  <xsl:if test="false()">
 			    <xsl:message terminate="no">
@@ -671,7 +671,7 @@
 		      <!-- group ab+ab+ab+ as such (ab+)(ab+)(ab+) -->
 		      <xsl:if test="following-sibling::xt">
 			<xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::x[1])=
-					      generate-id(current())][not(local-name() = 'x')]">
+					      generate-id(current())][not((local-name() = 'x') or (local-name() = 'idiom_boundary'))]">
 			  
 			  <xsl:if test="false()">
 			    <xsl:message terminate="no">
@@ -708,7 +708,7 @@
 		      <!-- group ab+ab+ab+ as such (ab+)(ab+)(ab+) -->
 		      <xsl:if test="following-sibling::xt">
 			<xsl:for-each select="following-sibling::node()[generate-id(preceding-sibling::x[1])=
-					      generate-id(current())][not(local-name() = 'x')]">
+					      generate-id(current())][not((local-name() = 'x') or (local-name() = 'idiom_boundary'))]">
 			  
 			  <xsl:if test="false()">
 			    <xsl:message terminate="no">
