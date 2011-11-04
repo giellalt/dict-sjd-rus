@@ -1441,3 +1441,29 @@ two examples
          </infl>
       </lg>
 ==> DONE <==
+
+=======
+post-Kurutch sjd-rus
+
+@Micha: thoughts/ideas/questions how to procede further after conversion of kurutch sjd-rus
+* Corpus
+** I believe that the numerous Kildin examples will be useful for future corpus linguistic work, frequency analysis, parser testing, etc. We should thus think about copying them to the (bound)corpus
+* Idioms
+** Zhenya and me are already working on an idiomatic dictionary for Kildin. Many idioms (proverbs, expressions, etc.) are included (and flagged) in Kurutch. Zhenya has also collected proverbs from other sources. Many of them are even available from the DOBES archive as audio recordings.
+** include the whole proverb collection into the post-Kurutch-dict
+** create a printed Kildin-Russian idiomatic dictionary
+** create an electronic (online?) idiomatic dictionary with the audio
+* Dictionary
+** add the data from Kert 1986 (sjd-rus-sjd); we do not have this data available in open format, but can we hack Jurjev's dictionary program?
+** add the data from Sammallahti/Chvorostuchina 1991 (sme-sjd-sme); we do not have this data available electronically, but can we ask Pekka or scan and OCR this dict?
+** add the data from Kildin Loanword Typology Database (basic vocabulary >1000 words [eng/rus semantics]-sjd-[etymology])
+** add all small and large sjd word lists living somewhere on victorio
+** split the large dictfile into several files (according to PoS) and start editing the content (missing or wrong info on PoS, inflection, translation, etc.)
+** use the post-Kurutch sjd dict as base for all future GT sjd-dict projects (oahpa, apertium, etc.)
+* Copyright issues
+** we are not aiming at re-publishing Kurutch, Kert, Sammallahti et al., etc., so far we are only preparing a preliminary lexical database as the ground for our future work with lexicography for sjd
+** the final product will have a completely different lexicographic structure (it already has) as compared to the original Kurutch dict, there will be many new lemmas, there will be better morphological information (kurutch's classes are unnecessarily complicated), there will be some corrections and additions in <mg>s and <tg>s
+** I do not see any problems with the copyright once we have finished the post-Kurutch dict… 
+
+==> CAN WAIT
+
