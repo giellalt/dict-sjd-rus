@@ -135,8 +135,8 @@ Side comment 3: What is this (тӣввтэ1+2): <t>___TOZHE_SHTO___тӣввтэ1
 @Micha:
 * casing is irrelevant here
 * side comment 1: TOZHE_PEREN = also_figurative (i.e. meaning); I created this flag "TOZHE_PEREN" from the Russian abbreviation in the original dict, but did not know how this information should be integrated
-* side comment 2: Yes. I started transforming кого-что, чего, etc. into valency flags but later stopped doing this because it became so unclear to me to where this info has scopus
-* side comment 3: <t>__TOZHE_SHTO___тӣввтэ1+2</t> = <t>_also like_тӣввтэ1</t><t>_also like_тӣввтэ2</t>
+* side comment 2: Yes. I started transforming кого-что, чего, etc. into valency flags but later stopped doing this because it became so unclear to me to where this info has scopus, sometimes it has scope over <tg> sometimes not or it is in parenthesis or not… I would like to work on this, but how should I do it?
+* side comment 3: <t>__TOZHE_SHTO___тӣввтэ1+2</t> = <t>_also like_тӣввтэ1</t><t>_also like_тӣввтэ2</t>; it is possible that such stuff "lemma1+2+x" occurs elsewhere.
 
 
 ======================================================================
