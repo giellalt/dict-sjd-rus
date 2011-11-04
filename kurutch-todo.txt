@@ -57,33 +57,37 @@ Die type="xxx" wollte ich später manuell ersetzen, z.B.:
          </xg>
 
 ======================================================================
+Transform flags into slots for other elements than t:
+======================================================================
+
+sjdrus>grep -i '_NUMBER' src/03_aspect_kurutch1985_sjdrus.xml | grep -v '_NUMBER' 
+         <l pos="n">вя̄ррас pl_number</l>
+         <l pos="n">ко̄лм pl_number</l>
+         <l pos="n">мудтма pl_number</l>
+         <l pos="n">не̄льй pl_number</l>
+            <xt>инициалы pl_number</xt>
+            <xt>инициал sg_number m_gender</xt>
+         <l pos="n">эфт pl_number</l>
+
+sjdrus>grep -i '_GENDER' src/03_aspect_kurutch1985_sjdrus.xml | grep -v '_GENDER' 
+            <xt>инициал sg_number m_gender</xt>
+            <xt>болтун, болтунья f_gender</xt>
+            <xt>селезень m_gender</xt>
+            <xt>сказитель m_gender</xt>
+            <xt>сказительница f_gender</xt>
+            <xt>полуночник m_gender</xt>
+            <xt>полуночница f_gender</xt>
+
+ ==> TO DO
+
+======================================================================
 Problem mit den jetztigen Beispielgruppen in den inc-Dateien
 ======================================================================
 
 @cip: Die obigen Beispiele sind gueltige Beispiele fuer example groups, aber wie du jetzt in den inc-dateien jetzt abgæendert hast,
 ist nicht gut.
 
-Beispiel:
-
-Davor: immer ein Paar example-translation x-xt
-
-         <xg type="xxx">
-            <x>иммель лоаннҍт</x>
-            <xt>zoolоляпка ___lexicon букв. божья птичка semicolon по саамским поверьям эта птичка
- принесла богу травинку comma с которой пошла земля lexicon___</xt>
-         </xg>
-
-Jetzt:
-        <xg type="xxx">
-            <x>иммель лоаннҍт</x>
-            <xt>sem_zool оляпка</xt>
-         </xg>
-
-Warum? Ganz einfach weil die Inputdatei nicht ok ist: crap in, crap out!
-
-1x:3tx - das ist ja kein Paar!
-
-        <E kur_ID="1347">
+       <E kur_ID="1347">
                 <L>ИММЕЛЬ</L>
                 <STEM>о.ч.</STEM>                <CLASS>V</CLASS>
                 <T>бог</T>
@@ -93,63 +97,6 @@ Warum? Ganz einfach weil die Inputdatei nicht ok ist: crap in, crap out!
                 <XT>___LEXICON по саамским поверьям эта птичка принесла богу травинку COMMA с кото
 рой пошла земля LEXICON___ </XT>
         </E>
-
-
-@cip: Just observed something even more strange:
-
-<quotation>
-Author: michael
-Date: 2011-01-31 01:31:20 +0100 (vuos, 31 ođđj 2011)
-New Revision: 38991
-
-Modified:
-  trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml
-Log:
-getting rid of commas inside <T>-element which are not marking a new translation; also other commas inside parentheses
-
-Modified: trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml
-===================================================================
---- trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml	2011-01-30 23:16:01 UTC (rev 38990)
-+++ trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml	2011-01-31 00:31:20 UTC (rev 38991)
-@@ -55,7 +55,9 @@
-		<STEM>абьр</STEM>
-		<CLASS>II,1</CLASS>
-		<T>дождь м</T>
--		<X>аббьр аббр (манн, ёадт)</X>
-+		<X>аббьр аббр</X>
-+		<X>аббьр манн</X>
-+		<X>аббьр ёадт</X>
-		<XT>дождь идёт</XT>
-		<X>аббьр оалкхувэ</X>
-		<XT>дождь начался</XT>
-</quotation>
-
-First of all, the comment doesn't mach the first change in the data: it is not a change iside of <T>-elements but
-inside of <X>-elements. Second, why not use the same procedure as before COMMA-string?
-
-That means tha there is not only the case of 1x:Mxt but also Nx:Mxt. This is not workable!
-
-@Micha: what I did was "getting rid of commas inside <T>-element which are not marking a new translation; also other commas inside parentheses". Most commas to getting rid of were inside <T>, however "<X>аббьр аббр (манн, ёадт)</X>" was one instance of a comma somewhere else, the bad thing I did was doing the "correction" wrong :-(, it is corrected now the following way:
-
-Original:
-<X>аббьр аббр (манн, ёадт)</X>
-<XT>дождь идёт</XT>
-
-Micha's "wrong correction":
-<X>аббьр аббр</X>
-<X>аббьр манн</X>
-<X>аббьр ёадт</X>
-<XT>дождь идёт</XT>
-
-RESULT:
-<X>аббьр аббр</X>
-<XT>дождь идёт</XT>
-<X>аббьр манн</X>
-<XT>дождь идёт</XT>
-<X>аббьр ёадт</X>
-<XT>дождь идёт</XT>
-
-My intention was to split the info from the parenthesis	into single <X>s, each with a following >XT> (i.a. 1x:1xt).
 
 <quotation>
 Author: michael
