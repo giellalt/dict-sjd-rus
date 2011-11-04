@@ -70,7 +70,7 @@
 
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="file" select="'../src/interim_kurutch1985_sjdrus.xml'"/>
+  <xsl:param name="file" select="'../src/01_interim_kurutch1985_sjdrus.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
   
   <xsl:template match="/" name="main">
