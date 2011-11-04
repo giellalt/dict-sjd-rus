@@ -79,9 +79,12 @@ sjdrus>grep -i '_GENDER' src/03_aspect_kurutch1985_sjdrus.xml | grep -v '_GENDER
             <xt>полуночница f_gender</xt>
 
  ==> TO DO
+
  @Micha: these are very few instances, should I transform the flags manually? in which file? Explanation:
 * pl_number inside <l> are pluralia tantum derived from some other nominal (these worlds should all have a pointer to the base form nominal)
 * x_gender inside <xt> occurs when a Kildin expression in <x> is translated into two different Russian one-word-equivalents (normally about persons, professions, etc. that's why masc is differentiated from fem)
+
+@cip: I prefer to transform them via the script so that possible errors are systematically produced, I don't think there is much ado about that.
 
 ======================================================================
 Transform the remaining types of flags into slots:
@@ -109,6 +112,17 @@ Always check for casing:
 7. ___LOOKUP LOOKUP___: <t>койб ___LOOKUPкоаммасLOOKUP___</t>
                                            <xt>надень тоборки ___lookupтубэркlookup___ с кожаными носками</xt>
 
+@cip's solution for LOOKUP (as discussed also with Michael in Lovozero):
+
+Input:
+<XT>над вежой ___LOOKUPкуэдтҍLOOKUP___ много искр (в дыме)</XT>
+
+Output:
+(name of the attribute and the internal structure of the attribute value are ad libitum)
+<XT lookup="вежой_rus:sjd_куэдтҍ">над вежой много искр (в дыме)</XT>
+
+Note: there is no element with more than one LOOKUP flag.
+
 8. ___idiom___: <xt>___idiom___ хочу - читаю, хочу - нет</xt>
 
 9. ___meaning___: <xt>___meaning___ на непутёвых детей надежда плохая</xt>
@@ -134,6 +148,8 @@ Side comment 3: What is this (тӣввтэ1+2): <t>___TOZHE_SHTO___тӣввтэ1
 ==> TO DO
 @Micha:
 * casing is irrelevant here
+ (@cip: casing von flags ist fast überall irrelevant, damit habe ich nur gemeint, dass, wenn 
+ich die Flags tranformiere, nich aus Versehen die lower/upper cases vergesse!)
 * side comment 1: TOZHE_PEREN = also_figurative (i.e. meaning); I created this flag "TOZHE_PEREN" from the Russian abbreviation in the original dict, but did not know how this information should be integrated
 * side comment 2: Yes. I started transforming кого-что, чего, etc. into valency flags but later stopped doing this because it became so unclear to me to where this info has scopus, sometimes it has scope over <tg> sometimes not or it is in parenthesis or not… I would like to work on this, but how should I do it?
 * side comment 3: <t>__TOZHE_SHTO___тӣввтэ1+2</t> = <t>_also like_тӣввтэ1</t><t>_also like_тӣввтэ2</t>; it is possible that such stuff "lemma1+2+x" occurs elsewhere.
