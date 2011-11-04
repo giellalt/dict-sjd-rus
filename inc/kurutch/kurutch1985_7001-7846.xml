@@ -1750,7 +1750,7 @@
 	<E>
 		<L>чоагкэ</L>
 		<CLASS>I,1</CLASS>
-		<T tnumber="1">чесать ___VALENCY кого-что VALENCY___, расчёсывать / расчесать ___VALENCY кого-что VALENCY___, причёсывать / причесать ___VALENCY ___VALENCY кого-что VALENCY___ VALENCY___</T>
+		<T tnumber="1">чесать ___VALENCY кого-что VALENCY___, расчёсывать / расчесать ___VALENCY кого-что VALENCY___, причёсывать / причесать ___VALENCY кого-что VALENCY___</T>
 		<X>чоагкэ вуэйв чоагкмэнҍ</X>
 		<XT>чесать голову гребнем</XT>
 		<X>чоагкэ вӯптэтҍ</X>
@@ -1797,14 +1797,14 @@
 	<E>
 		<L>чо̄гнэ</L>
 		<CLASS>III</CLASS>
-		<T>чесать ___VALENCY кого-что VALENCY___, расчёсывать ___VALENCY кого-что VALENCY___, причёсывать ___VALENCY ___VALENCY кого-что VALENCY___ VALENCY___<TAM>POSTOJANNO</TAM>
+		<T>чесать ___VALENCY кого-что VALENCY___, расчёсывать ___VALENCY кого-что VALENCY___, причёсывать ___VALENCY кого-что VALENCY___<TAM>POSTOJANNO</TAM>
 			<TAM>INOGDA_BYVALO</TAM>
 		</T>
 	</E>
 	<E>
 		<L>чо̄гнэдтэ</L>
 		<CLASS>I,1*</CLASS>
-		<T tnumber="1">чесать ___VALENCY кого-что VALENCY___, расчёсывать ___VALENCY кого-что VALENCY___, причёсывать ___VALENCY ___VALENCY кого-что VALENCY___ VALENCY___ (в данный момент)</T>
+		<T tnumber="1">чесать ___VALENCY кого-что VALENCY___, расчёсывать ___VALENCY кого-что VALENCY___, причёсывать  ___VALENCY кого-что VALENCY___ (в данный момент)</T>
 		<T tnumber="2">причёсываться / причесаться</T>
 		<X>со̄нн чо̄гнэдэ маӈӈа лоавкнэдтмэсьт</X>
 		<XT>она причесалась после бани</XT>
