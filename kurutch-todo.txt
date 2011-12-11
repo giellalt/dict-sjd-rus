@@ -78,13 +78,20 @@ sjdrus>grep -i '_GENDER' src/03_aspect_kurutch1985_sjdrus.xml | grep -v '_GENDER
             <xt>полуночник m_gender</xt>
             <xt>полуночница f_gender</xt>
 
- ==> TO DO
+ ==> DONE
 
  @Micha: these are very few instances, should I transform the flags manually? in which file? Explanation:
 * pl_number inside <l> are pluralia tantum derived from some other nominal (these worlds should all have a pointer to the base form nominal)
 * x_gender inside <xt> occurs when a Kildin expression in <x> is translated into two different Russian one-word-equivalents (normally about persons, professions, etc. that's why masc is differentiated from fem)
 
 @cip: I prefer to transform them via the script so that possible errors are systematically produced, I don't think there is much ado about that.
+
+@cip: This has to be corrected if needed: to me, it seems that gender
+feature has the scope only the item after the comma.
+
+<             <xt gender="f">болтун, болтунья</xt>
+---
+>             <xt>болтун, болтунья f_gender</xt>
 
 ======================================================================
 Transform the remaining types of flags into slots:
