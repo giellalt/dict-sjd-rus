@@ -80,7 +80,11 @@
 	  <r xml:lang="sjd">
 	    <xsl:for-each select="doc($file)/r/e">
 	      <!-- copy all entries that don't have flags for gender or number-->
-	      <xsl:if test="every $item in ./mg/tg/t satisfies not(contains($item, '_GENDER') or contains($item, '_NUMBER'))">
+	      <xsl:if test="(every $item in ./mg/tg/t satisfies not(contains($item, '_GENDER') or contains($item, '_NUMBER'))) and 
+			    (every $item in ./lg/l satisfies not(contains($item, '_GENDER') or contains($item, '_NUMBER') or
+			    contains($item, '_gender') or contains($item, '_number'))) and 
+			    (every $item in ./mg/xg/xt satisfies not(contains($item, '_GENDER') or contains($item, '_NUMBER') or
+			    contains($item, '_gender') or contains($item, '_number')))">
 		<xsl:if test="true()">
 		  <xsl:message terminate="no">
 		    <xsl:value-of select="concat('.................................', $nl)"/>
@@ -91,7 +95,11 @@
 		<xsl:copy-of select="."/>
 	      </xsl:if>
 
-	      <xsl:if test="some $item in ./mg/tg/t satisfies (contains($item, '_GENDER') or contains($item, '_NUMBER'))">
+	      <xsl:if test="(some $item in ./mg/tg/t satisfies (contains($item, '_GENDER') or contains($item, '_NUMBER'))) or 
+			    (some $item in ./lg/l satisfies (contains($item, '_GENDER') or contains($item, '_NUMBER') or 
+			    contains($item, '_gender') or contains($item, '_number'))) or 
+			    (some $item in ./mg/xg/xt satisfies (contains($item, '_GENDER') or contains($item, '_NUMBER') or 
+			    contains($item, '_gender') or contains($item, '_number')))">
 		<xsl:if test="true()">
 		  <xsl:message terminate="no">
 		    <xsl:value-of select="concat('.................................', $nl)"/>
@@ -101,7 +109,12 @@
 		</xsl:if>
 		<e>
 		  <xsl:copy-of select="./@*"/>
-		  <xsl:copy-of select="./lg"/>
+		  <lg>
+		    <xsl:call-template name="tag2attribute">
+		      <xsl:with-param name="theNode" select="./lg/l"/>
+		    </xsl:call-template>
+		    <xsl:copy-of select="./lg/*[not(./local-name() = 'l')]"/>
+		  </lg>
 		  <!-- here to implement the gender-number issues: Baustelle -->
 		  <xsl:for-each select="./mg">
 		    <mg>
@@ -111,51 +124,24 @@
 		      <xsl:for-each select="./tg">
 			<tg>
 			  <xsl:for-each select="./t">
-
 			    <!-- baustelle -->
-
-			    <xsl:if test="not(contains(., '_GENDER') or contains(., '_NUMBER'))">
-			      <xsl:copy-of select="."/>
-			    </xsl:if>
-			    <xsl:if test="contains(., '_GENDER') or contains(., '_NUMBER')">
-			      <t>
-				<xsl:copy-of select="./@*"/>
-				<xsl:if test="contains(., 'F_GENDER')">
-				  <xsl:attribute name="gender">
-				    <xsl:value-of select="'f'"/>
-				  </xsl:attribute>
-				</xsl:if>
-				<xsl:if test="contains(., 'M_GENDER')">
-				  <xsl:attribute name="gender">
-				    <xsl:value-of select="'m'"/>
-				  </xsl:attribute>
-				</xsl:if>
-				<xsl:if test="contains(., 'SG_NUMBER')">
-				  <xsl:attribute name="number">
-				    <xsl:value-of select="'sg'"/>
-				  </xsl:attribute>
-				</xsl:if>
-				<xsl:if test="contains(., 'PL_NUMBER')">
-				  <xsl:attribute name="number">
-				    <xsl:value-of select="'pl'"/>
-				  </xsl:attribute>
-				</xsl:if>
-				<xsl:value-of select="normalize-space(
-							  replace(
-							    replace(
-							      replace(
-							        replace(., 'F_GENDER', ''
-								), 'M_GENDER', ''
-							      ), 'SG_NUMBER', ''
-							    ), 'PL_NUMBER', ''
-							  )
-							)"/>
-			      </t>
-			    </xsl:if>
+			    <xsl:call-template name="tag2attribute">
+			      <xsl:with-param name="theNode" select="."/>
+			    </xsl:call-template>
 			  </xsl:for-each>
 			</tg>
 		      </xsl:for-each>
-		      <xsl:copy-of select="./xg"/>
+		      <xsl:for-each select="xg">
+			<xg>
+			  <xsl:copy-of select="./@*"/>
+			  <xsl:copy-of select="./x"/>
+			  <xsl:for-each select="xt">
+			    <xsl:call-template name="tag2attribute">
+			      <xsl:with-param name="theNode" select="."/>
+			    </xsl:call-template>
+			  </xsl:for-each>
+			</xg>
+		      </xsl:for-each>
 		    </mg>
 		  </xsl:for-each>
 		</e>
@@ -173,6 +159,67 @@
 	<xsl:text>Cannot locate: </xsl:text><xsl:value-of select="$file"/><xsl:text>&#xa;</xsl:text>
       </xsl:otherwise>
     </xsl:choose>
+  </xsl:template>
+
+  <xsl:template name="tag2attribute">
+    <xsl:param name="theNode"/>
+
+    <xsl:if test="not(contains($theNode, '_GENDER') or contains($theNode, '_NUMBER') or 
+		  contains($theNode, '_gender') or contains($theNode, '_number'))">
+      <xsl:copy-of select="$theNode"/>
+    </xsl:if>
+    <xsl:if test="contains($theNode, '_GENDER') or contains($theNode, '_NUMBER') or
+		  contains($theNode, '_gender') or contains($theNode, '_number')">
+      <xsl:element name="{$theNode/local-name()}">
+	<xsl:copy-of select="$theNode/@*"/>
+	<xsl:if test="contains($theNode, 'F_GENDER') or contains($theNode, 'f_gender')">
+	  <xsl:attribute name="gender">
+	    <xsl:value-of select="'f'"/>
+	  </xsl:attribute>
+	</xsl:if>
+	<xsl:if test="contains($theNode, 'M_GENDER') or contains($theNode, 'm_gender')">
+	  <xsl:attribute name="gender">
+	    <xsl:value-of select="'m'"/>
+	  </xsl:attribute>
+	</xsl:if>
+	<xsl:if test="contains($theNode, 'SG_NUMBER') or contains($theNode, 'sg_number')">
+	  <xsl:attribute name="number">
+	    <xsl:value-of select="'sg'"/>
+	  </xsl:attribute>
+	</xsl:if>
+	<xsl:if test="contains($theNode, 'PL_NUMBER') or contains($theNode, 'pl_number')">
+	  <xsl:attribute name="number">
+	    <xsl:value-of select="'pl'"/>
+	  </xsl:attribute>
+	</xsl:if>
+	<xsl:if test="contains($theNode, '_GENDER') or contains($theNode, '_NUMBER')">
+	  <xsl:value-of select="normalize-space(
+	  		          replace(
+			            replace(
+			              replace(
+			                replace($theNode, 'F_GENDER', ''
+			                ), 'M_GENDER', ''
+			              ), 'SG_NUMBER', ''
+			            ), 'PL_NUMBER', ''
+			          )
+			        )"/>
+	</xsl:if>
+	<xsl:if test="contains($theNode, '_gender') or contains($theNode, '_number')">
+	  <xsl:value-of select="normalize-space(
+	  		          replace(
+			            replace(
+			              replace(
+			                replace($theNode, 'f_gender', ''
+			                ), 'm_gender', ''
+			              ), 'sg_number', ''
+			            ), 'pl_number', ''
+			          )
+			        )"/>
+	</xsl:if>
+      </xsl:element>
+    </xsl:if>
+    
+    
   </xsl:template>
 
   <xsl:template name="flatten_node">
