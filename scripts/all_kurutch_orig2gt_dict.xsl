@@ -55,7 +55,7 @@
   </xsl:function>
   
   <xsl:variable name="e" select="'xml'"/>
-  <xsl:variable name="outDir" select="'out_kt2gt'"/>
+  <xsl:variable name="outDir" select="'01_out'"/>
   <xsl:variable name="debug" select="true()"/>
 
   <xsl:variable name="tab" select="'&#x9;'"/>

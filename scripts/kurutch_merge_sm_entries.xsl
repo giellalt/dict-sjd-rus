@@ -53,7 +53,7 @@
   </xsl:function>
   
   <xsl:variable name="e" select="'xml'"/>
-  <xsl:variable name="outputDir" select="'merge_output'"/>
+  <xsl:variable name="outputDir" select="'02_merge_output'"/>
   <xsl:variable name="debug" select="true()"/>
 
   <xsl:variable name="tab" select="'&#x9;'"/>
