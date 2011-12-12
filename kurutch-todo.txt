@@ -88,11 +88,12 @@ sjdrus>grep -i '_GENDER' src/03_aspect_kurutch1985_sjdrus.xml | grep -v '_GENDER
 
 NB 01:
 @cip: This has to be corrected if needed: to me, it seems that gender
-feature has the scope only the item after the comma.
+feature has the scope only on the item after the comma.
 
 <             <xt gender="f">болтун, болтунья</xt>
 ---
 >             <xt>болтун, болтунья f_gender</xt>
+@micha: Yes, this is more than likely (because the first mentioned masc "base" form doesn't need to be marked)
 
 
 NB 02:
@@ -107,6 +108,8 @@ kurutch1985_1001-2000.xml:              <L>ко̄лм PL_NUMBER</L>
 kurutch1985_3001-4000.xml:              <L>мудтма PL_NUMBER</L>
 kurutch1985_3001-4000.xml:              <L>не̄льй PL_NUMBER</L>
 kurutch1985_7001-7846.xml:      <L>эфт PL_NUMBER</L>
+
+@micha: but those are so few, we can convert them as if the whole string "эфт PL_NUMBER" would be the lemma; later I'll fix this (if I understood the problem properly, did I?)
 
 ======================================================================
 Transform the remaining types of flags into slots:
