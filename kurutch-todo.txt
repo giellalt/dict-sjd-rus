@@ -111,6 +111,10 @@ kurutch1985_7001-7846.xml:      <L>эфт PL_NUMBER</L>
 
 @micha: but those are so few, we can convert them as if the whole string "эфт PL_NUMBER" would be the lemma; later I'll fix this (if I understood the problem properly, did I?)
 
+@cip: there is not need to fix them later, because this is what I do
+with the scripts, the point is not to have them in the very first step
+of processing because of unification.
+
 ======================================================================
 Transform the remaining types of flags into slots:
 ======================================================================
