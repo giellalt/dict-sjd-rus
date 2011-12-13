@@ -109,12 +109,15 @@ kurutch1985_3001-4000.xml:              <L>мудтма PL_NUMBER</L>
 kurutch1985_3001-4000.xml:              <L>не̄льй PL_NUMBER</L>
 kurutch1985_7001-7846.xml:      <L>эфт PL_NUMBER</L>
 
-@micha: but those are so few, we can convert them as if the whole string "эфт PL_NUMBER" would be the lemma; later I'll fix this (if I understood the problem properly, did I?)
+@micha: I corrected like this: 
+<L>эфт PL_NUMBER</L>
 
-@cip: there is not need to fix them later, because this is what I do
-with the scripts, the point is not to have them in the very first step
-of processing because of unification.
+-->
 
+<E>
+	<L>эфт</L>
+	<NUMBER>PL</NUMBER>
+</E>
 ======================================================================
 Transform the remaining types of flags into slots:
 ======================================================================
