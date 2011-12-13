@@ -11256,7 +11256,8 @@
 		<XT>три тысячи</XT>
 		</E>
 	<E>
-		<L>ко̄лм PL_NUMBER</L>
+		<L>ко̄лм</L>
+		 <NUMBER>PL</NUMBER>
 		<CLASS>II</CLASS>
 		<POS>n</POS>
 		<DER type="SUBST">ко̄ллм</DER>
