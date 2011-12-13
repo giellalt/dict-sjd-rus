@@ -3703,7 +3703,8 @@
 		<XT>говорить одно, а делать другое</XT>
 	</E>
 	<E>
-		<L>мудтма PL_NUMBER</L>
+		<L>мудтма</L>
+		<NUMBER>PL</NUMBER>
 		<CLASS>IV</CLASS>
 		<POS>n</POS>
 		<DER type="SUBST">мудта</DER>
@@ -5937,7 +5938,8 @@
 		<XT>четыре тысячи</XT>
 	</E>
 	<E>
-		<L>не̄льй PL_NUMBER</L>
+		<L>не̄льй</L>
+		<NUMBER>PL</NUMBER>
 		<CLASS>II,1</CLASS>
 		<POS>n</POS>
 		<DER type="SUBST">не̄лльй</DER>
