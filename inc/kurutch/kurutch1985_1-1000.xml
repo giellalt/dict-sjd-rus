@@ -7474,7 +7474,8 @@
 		<XT>этот человек мне чужой</XT>
 		</E>
 		<E>
-		<L>вя̄ррас PL_NUMBER</L>
+		<L>вя̄ррас</L>
+		<NUMBER>PL</NUMBER>
 		<CLASS>V</CLASS>
 		<POS>n</POS>
 		<DER type="SUBST">вӣресь</DER>
