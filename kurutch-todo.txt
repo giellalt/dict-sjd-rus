@@ -112,12 +112,14 @@ kurutch1985_7001-7846.xml:      <L>эфт PL_NUMBER</L>
 @micha: I corrected like this: 
 <L>эфт PL_NUMBER</L>
 
--->
-
 <E>
 	<L>эфт</L>
 	<NUMBER>PL</NUMBER>
 </E>
+
+@cip: Yes, this is the correction needed. When unifying we compare the
+whole string value in the element L. Thanks!
+
 ======================================================================
 Transform the remaining types of flags into slots:
 ======================================================================
