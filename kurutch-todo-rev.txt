@@ -1,1 +1,200 @@
 Kurutch sjd-rus revitalized
+
+* finish conversion "inc"-->"out"
+* freeze all "inc" and conversion scripts
+* split "out" into different pos
+* add missing pos
+* edit dict for publishing in apertium [Micha]
+** use flag usage="apert" (or the like)
+
+===========================
+ check whether the number info is propagated to subsequent steps (see kurutch-todo)
+==> TO DO
+
+======================================================================
+Transform the remaining types of flags into slots:
+======================================================================
+
+Always check for casing:
+
+7. ___LOOKUP LOOKUP___: <t>койб ___LOOKUPкоаммасLOOKUP___</t>
+                                           <xt>надень тоборки ___lookupтубэркlookup___ с кожаными носками</xt>
+
+@cip's solution for LOOKUP (as discussed also with Michael in Lovozero):
+
+Input:
+<XT>над вежой ___LOOKUPкуэдтҍLOOKUP___ много искр (в дыме)</XT>
+
+Output:
+(name of the attribute and the internal structure of the attribute value are ad libitum)
+<XT lookup="вежой_rus:sjd_куэдтҍ">над вежой много искр (в дыме)</XT>
+
+Note: there is no element with more than one LOOKUP flag.
+
+ ==>TODO
+
+1. ___lit___: <xt>___lit___ глазок дождя</xt>
+    *meaning of ___lit___ flag: "the following is a literal Russian translation"
+    *occurs after <t>
+    *occurs after <xt>
+    *??convert <(x)t>___lit___ --> <(x)t trans="lit">
+
+ ==>TODO
+
+
+2. ___TE TE___: <t gender="f">боль ___TE душевная TE___</t>
+                         <xt>жить с обидой ___te в душе te___</xt>
+    *meaning of ___TE TE___ flag: "the bracketed is an explanation to the translation (cf. <te>)"
+    *occurs in <t>
+    *??convert --> <t trans="exp">
+
+4. ___RE: <t>женщина ___RE замужняя RE___</t>
+    *meaning of ___RE RE___ flag: "the bracketed is an restriction to the translation (cf. <re>)"
+    *occurs in <t>
+    *??convert --> <t trans="res">
+
+
+5. ___WÖRTLICH+ÜBERTRAGEN___: <t>___WÖRTLICH+ÜBERTRAGEN___ опомниться</t>
+                                                        <xt>___wörtlich+übertragen___ стадо баранов</xt>
+                                                        <xt>___auch_übertragen___ схватиться за голову</xt>
+                                                        <t>___AUCH_ÜBERTRAGEN___ наполненный</t> 
+                                                        <t>___ÜBERTRAGEN___ биться над чем</t>
+                                                        <xt>___übertragen___ он подпрыгнул от радости до потолка</xt>
+
+8. ___idiom___: <xt>___idiom___ хочу - читаю, хочу - нет</xt>
+
+9. ___meaning___: <xt>___meaning___ на непутёвых детей надежда плохая</xt>
+
+10. ___VERSCH_BED___: <t>___VERSCH_BED___ звено</t>
+
+11. ___UNPERS___: <t>___UNPERS___ казаться кому</t>
+                            : <xt>___unpers___в боку колет</xt>
+
+12. ___VALENCY VALENCY___</t>: <t>щипать ___VALENCY кого-что VALENCY___</t>
+
+13. ___TOZHE_SHTO___: <t>___TOZHE_SHTO___ря̄гсэ</t>
+
+14. (TOZHE_PEREN): <T>поискать кого-что (TOZHE_PEREN)
+
+Side comment 1: Watch for format for TOZHE_PEREN!
+Side comment 2: <t>поискать кого-что (TOZHE_PEREN)</t>
+                           <t>искать кого-что COMMA чего (TOZHE_PEREN)</t>
+             Are these not an issue for valency marking?
+Side comment 3: What is this (тӣввтэ1+2): <t>___TOZHE_SHTO___тӣввтэ1+2</t>?
+
+
+==> TO DO
+@Micha:
+* casing is irrelevant here
+ (@cip: casing von flags ist fast überall irrelevant, damit habe ich nur gemeint, dass, wenn 
+ich die Flags tranformiere, nich aus Versehen die lower/upper cases vergesse!)
+* side comment 1: TOZHE_PEREN = also_figurative (i.e. meaning); I created this flag "TOZHE_PEREN" from the Russian abbreviation in the original dict, but did not know how this information should be integrated
+* side comment 2: Yes. I started transforming кого-что, чего, etc. into valency flags but later stopped doing this because it became so unclear to me to where this info has scopus, sometimes it has scope over <tg> sometimes not or it is in parenthesis or not… I would like to work on this, but how should I do it?
+* side comment 3: <t>__TOZHE_SHTO___тӣввтэ1+2</t> = <t>_also like_тӣввтэ1</t><t>_also like_тӣввтэ2</t>; it is possible that such stuff "lemma1+2+x" occurs elsewhere.
+
+
+======================================================================
+Transform back the punctuation marks in form of strings (COMMA, SEMICOLON, etc):
+======================================================================
+
+This issue is dependent of the previous transformation and restructuration processes.
+
+==> TO DO
+
+======================================================================
+Problem mit den jetztigen Beispielgruppen in den inc-Dateien
+======================================================================
+
+@cip: Die obigen Beispiele sind gueltige Beispiele fuer example groups, aber wie du jetzt in den inc-dateien jetzt abgæendert hast,
+ist nicht gut.
+
+       <E kur_ID="1347">
+                <L>ИММЕЛЬ</L>
+                <STEM>о.ч.</STEM>                <CLASS>V</CLASS>
+                <T>бог</T>
+                <X>иммель лоаннҍт</X>
+                <XT>SEM_ZOOL оляпка</XT>
+                <XT>___LIT___ божья птичка</XT>
+                <XT>___LEXICON по саамским поверьям эта птичка принесла богу травинку COMMA с кото
+рой пошла земля LEXICON___ </XT>
+        </E>
+
+<quotation>
+Author: michael
+Date: 2011-11-02 08:47:38 +0100 (gask, 02 skáb 2011)
+New Revision: 49259
+
+Modified:
+  trunk/words/dicts/sjdrus/inc/kurutch/kurutch1985_1-1000.xml
+Log:
+correcting mistake (Revision: 38991), one x is always followed by one or multiple xt
+</quotation>
+
+@cip: make a systematic test that this is the case.
+@Micha: I hope this was the only instance of (non-intended) Nx:Mxt, but yes, a test would be good
+
+==> TO DO
+
+=======================================================
+
+
+====================================
+4. LEXICON GROUP
+
+3. ___LEXICON: <t>аввель ___LEXICON...
+                         <xt>___lexicon оленёнок 
+
+there is a lot of comprehensive lexicon-like information included in the translations, these should go into a new group under <mg>
+rule: convert text between the tags ___LEXICON x LEXICON___ into 
+<mg>
+<lex_group>
+<lexicon>x</lexicon>
+</lex_group>
+</mg>
+Example
+<e kur_ID="6674">
+      <lg>
+         <l pos="MEZHD">уш-уш-уш</l>
+      </lg>
+      <mg km="g">
+         <semantics>
+            <stype>xxx</stype>
+         </semantics>
+         <lex_group>
+         <lexicon>возглас при ощущении холода</lex>
+         </lex_group>
+         <tg>
+            <t>ой!</t>
+            <t>ух!</t>
+         </tg>
+      </mg>
+   </e>
+But note, that the LEXICONtag can also occur inside <XT> (example). For now we need the conversion only for the <T> LEXICON </T>
+	<E kur_ID="58">
+		<L>АДЖЬ</L>
+		<STEM>ажь</STEM>
+		<CLASS>I,1</CLASS>
+		<POS/>
+		<T>отец</T>
+#
+<X>ажьнӣййт</X>
+		<XT>___LEXICON оленёнок (самка) или важенка COMMA подаренная отцом COMMA напр. дочери на свадьбу LEXICON___ </XT>
+	</E>
+
+@Micha: Note that a subpart of the LEXICON entries are flagged for the Lovozero training (LEXICON_LOV)	
+   
+
+As usual pre-test and ...
+
+sjdrus>grep 'LEXICON' src/04_gender-number_kurutch1985_sjdrus.xml | wc -l 
+      99
+sjdrus>grep 'LEXICON' src/04_gender-number_kurutch1985_sjdrus.xml | grep -v ___LEXICON | wc -l 
+       5
+sjdrus>grep 'LEXICON' src/04_gender-number_kurutch1985_sjdrus.xml | grep -v LEXICON___ | wc -l 
+       7
+
+ ... as usual errors ==> debug and correct: TO DO 
+
+
+  ==> TO DO
+
