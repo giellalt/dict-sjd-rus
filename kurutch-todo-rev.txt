@@ -9,7 +9,7 @@ Kurutch sjd-rus revitalized
 
 ===========================
  check whether the number info is propagated to subsequent steps (see kurutch-todo)
-==> TO DO
+==> TODO
 
 ======================================================================
 Transform the remaining types of flags into slots:
@@ -17,7 +17,9 @@ Transform the remaining types of flags into slots:
 
 Always check for casing:
 
-7. ___LOOKUP LOOKUP___: <t>койб ___LOOKUPкоаммасLOOKUP___</t>
+======================================================================
+
+___LOOKUP LOOKUP___: <t>койб ___LOOKUPкоаммасLOOKUP___</t>
                                            <xt>надень тоборки ___lookupтубэркlookup___ с кожаными носками</xt>
 
 @cip's solution for LOOKUP (as discussed also with Michael in Lovozero):
@@ -32,36 +34,76 @@ Output:
 Note: there is no element with more than one LOOKUP flag.
 
  ==>TODO
+ 
+=======================================================================
 
-1. ___lit___: <xt>___lit___ глазок дождя</xt>
-    *meaning of ___lit___ flag: "the following is a literal Russian translation"
-    *occurs after <t>
-    *occurs after <xt>
-    *??convert <(x)t>___lit___ --> <(x)t trans="lit">
+___lit___: <xt>___lit___ глазок дождя</xt>
+    *meaning of ___lit___ flag: "the following is a Russian gloss of the Kildin word/expression"
+    *occurs after <(x)t>
+    *convert:
+    <X>аббьр-чалма</X>
+		<XT>капля дождя</XT>
+		<XT>___LIT___ глазок дождя</XT>
+    ==>    
+    <xg type="xxx">
+            <x>аббьр-чалма</x>
+            <xt gloss="глазок дождя">капля дождя</xt>
+    </xg>
+
 
  ==>TODO
 
+===================================================
 
-2. ___TE TE___: <t gender="f">боль ___TE душевная TE___</t>
+___idiom___: <xt>___idiom___ хочу - читаю, хочу - нет</xt>
+
+    *meaning of ___idiom___ flag: "the following Russian translation is an idiomatic expression"
+    *does it only occur? after <xt>
+    *??convert <xt>___lit___ --> <(x)t trans="lit">
+
+ ==>TODO
+
+==================================================
+___TE TE___: <t gender="f">боль ___TE душевная TE___</t>
                          <xt>жить с обидой ___te в душе te___</xt>
     *meaning of ___TE TE___ flag: "the bracketed is an explanation to the translation (cf. <te>)"
     *occurs in <t>
     *??convert --> <t trans="exp">
 
-4. ___RE: <t>женщина ___RE замужняя RE___</t>
+ ==>TODO
+ 
+ =====================================================
+ 
+___RE: <t>женщина ___RE замужняя RE___</t>
     *meaning of ___RE RE___ flag: "the bracketed is an restriction to the translation (cf. <re>)"
     *occurs in <t>
     *??convert --> <t trans="res">
 
+ ==>TODO
 
-5. ___WÖRTLICH+ÜBERTRAGEN___: <t>___WÖRTLICH+ÜBERTRAGEN___ опомниться</t>
+======================================================
+
+___VALENCY VALENCY___</t>: <t>щипать ___VALENCY кого-что VALENCY___</t>
+    *convert into ==> <t valency="кого-что">щипать</t>
+    
+ ==>TODO
+
+======================================================
+
+first check scope!
+
+___WÖRTLICH+ÜBERTRAGEN___: <t>___WÖRTLICH+ÜBERTRAGEN___ опомниться</t>
                                                         <xt>___wörtlich+übertragen___ стадо баранов</xt>
                                                         <xt>___auch_übertragen___ схватиться за голову</xt>
                                                         <t>___AUCH_ÜBERTRAGEN___ наполненный</t> 
                                                         <t>___ÜBERTRAGEN___ биться над чем</t>
                                                         <xt>___übertragen___ он подпрыгнул от радости до потолка</xt>
-
-8. ___idiom___: <xt>___idiom___ хочу - читаю, хочу - нет</xt>
+                                                        
+    *??convert to
+    **___WÖRTLICH___ <(x)t trans="literal">
+    **___ÜBERTRAGEN___ <(x)t trans="figurative">
+    **___WÖRTLICH+ÜBERTRAGEN___ <(x)t trans="also_fig">
+                                                              
 
 9. ___meaning___: <xt>___meaning___ на непутёвых детей надежда плохая</xt>
 
@@ -69,8 +111,6 @@ Note: there is no element with more than one LOOKUP flag.
 
 11. ___UNPERS___: <t>___UNPERS___ казаться кому</t>
                             : <xt>___unpers___в боку колет</xt>
-
-12. ___VALENCY VALENCY___</t>: <t>щипать ___VALENCY кого-что VALENCY___</t>
 
 13. ___TOZHE_SHTO___: <t>___TOZHE_SHTO___ря̄гсэ</t>
 
@@ -83,7 +123,7 @@ Side comment 2: <t>поискать кого-что (TOZHE_PEREN)</t>
 Side comment 3: What is this (тӣввтэ1+2): <t>___TOZHE_SHTO___тӣввтэ1+2</t>?
 
 
-==> TO DO
+==> TODO
 @Micha:
 * casing is irrelevant here
  (@cip: casing von flags ist fast überall irrelevant, damit habe ich nur gemeint, dass, wenn 
@@ -99,7 +139,7 @@ Transform back the punctuation marks in form of strings (COMMA, SEMICOLON, etc):
 
 This issue is dependent of the previous transformation and restructuration processes.
 
-==> TO DO
+==> TODO
 
 ======================================================================
 Problem mit den jetztigen Beispielgruppen in den inc-Dateien
