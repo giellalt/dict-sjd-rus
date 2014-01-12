@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<r id="sjd2X" xml:lang="sjd">
+    <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by University of Freiburg, Giellatekno at UiT, and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> or <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+
+    <e meta="01">
+        <lg>
+            <l source="NEA" dialect="ars" pos="cc">lube</l>
+        </lg>
+        <mg>
+            <tg xml:lang="deu">
+                <t pos="cc">oder</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="cc">или</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="01">
+        <lg>
+            <l source="NEA" dialect="ars" pos="cc">ele=še</l>
+        </lg>
+        <mg>
+            <tg xml:lang="deu">
+                <t pos="cc">oder</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="cc">или</t>
+            </tg>
+        </mg>
+    </e>    <e meta="01">
+        <lg>
+            <l source="NEA" pos="n">ка̄рeтҍ-пэ̄ссем машина</l>
+        </lg>
+        <mg>
+            <tg xml:lang="deu">
+                <t pos="v">Geschirrspühlmaschine</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="01">
+        <lg>
+            <l source="NEA" dialect="ars" pos="v">sɨhke</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="v">чистить</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l source="NEA" dialect="kil_lov_vor" pos="v">sɨhke</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="v">sich mit Liebe beschäftigen</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="01">
+        <lg>
+            <l source="NEA" pos="n">нялльм-сыһкэм пымме</l>
+        </lg>
+        <mg>
+            <tg xml:lang="eng">
+                <t pos="n">paper napkin</t>
+            </tg>
+        </mg>
+    </e>
+
+</r>
