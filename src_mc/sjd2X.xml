@@ -25,6 +25,16 @@ For the full license text, see the link above.</lic>
 
     <e meta="01">
         <lg>
+            <l source="NEA" dialect="ars" pos="n">saːʲjːk</l>
+        </lg>
+        <mg>
+            <lexg xml:lang="deu">
+                <lex>Wolle vom Schaaf</lex>
+                </lexg>
+        </mg>
+    </e>
+    <e meta="01">
+        <lg>
             <l source="NEA" dialect="ars" pos="cc">lube</l>
         </lg>
         <mg>
