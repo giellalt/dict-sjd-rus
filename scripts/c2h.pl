@@ -11,12 +11,14 @@ while (<>)
 {
 	chomp ;
 	my ($lemma, $lemma2, $var, $CG, $POS, $trans, $trans2, $syn, $ex1, $extrans1, $ex2, $extrans2, $ex3, $extrans3) = split /\t/ ;
-	print STDOUT "  <p><b>$lemma $lemma2, $var $CG</b>\n";
+	print STDOUT "  <p>\n";
+	print STDOUT "  <div style=\"margin-left:1.1em;text-indent:-1.1em\"><b>$lemma $lemma2 $var $CG</b>\n";
 	print STDOUT "    <i>$POS</i>\n";
-	print STDOUT "     ▶︎ $trans $trans2 :\n";
+	print STDOUT "     ▸ $trans $trans2;\n";
 	print STDOUT "     <b>$syn $ex1</b> $extrans1\n";
 	print STDOUT "     <b>$ex2</b> $extrans2\n";
 	print STDOUT "     <b>$ex3</b> $extrans3\n";
+	print STDOUT "  </div>\n";
 	print STDOUT "  </p>\n";
 }
 
