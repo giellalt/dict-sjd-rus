@@ -10,7 +10,7 @@ print STDOUT "<html><body>\n";
 while (<>) 
 {
 	chomp ;
-	my ($lemma, $lemma2, $var, $CG, $POS, $trans, $trans2, $syn, $ex1, $extrans1, $ex2, $extrans2, $ex3, $extrans3) = split /\t/ ;
+	my ($lemma, $lemma2, $var, $CG, $POS, $trans, $trans2, $syn, $ex1, $extrans1, $ex2, $extrans2, $ex3, $extrans3, $ex4, $extrans4) = split /\t/ ;
 	print STDOUT "  <p>\n";
 	print STDOUT "  <div style=\"margin-left:1.1em;text-indent:-1.1em\"><b>$lemma $lemma2 $var $CG</b>\n";
 	print STDOUT "    <i>$POS</i>\n";
