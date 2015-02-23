@@ -262,4 +262,24 @@ For the full license text, see the link above.</lic>
             </tg>
         </mg>
     </e>
+    <e meta="01">
+        <lg source="afanaseva2010">
+            <l type="idiom" pos="S">Кугкесь та̄лльв лӣ не̄лькэсь па̄лль.</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t type="idiom" pos="S">Долгая зима – голодная пора.</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="01">
+        <lg source="afanaseva2010">
+            <l type="idiom" pos="S">Жоарр та̄хьтэтҍ эйй муррьт.</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t type="idiom" pos="S">Жара костей не ломит.</t>
+            </tg>
+        </mg>
+    </e>
 </r>
