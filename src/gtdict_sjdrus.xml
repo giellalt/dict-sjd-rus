@@ -2481,15 +2481,15 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">небо</t>
 			</tg>
 			<xg>
-				<x type="phrase">пэвлэнч элля альмэсьт</x>
+				<x type="Phrase">пэвлэнч элля альмэсьт</x>
 				<xt xml:lang="rus">на небе ни тучки</xt>
 			</xg>
 			<xg>
-				<x type="phrase">уһцэ алльмтоасьтэ карта</x>
+				<x type="Phrase">уһцэ алльмтоасьтэ карта</x>
 				<xt xml:lang="rus">изучать звёздную карту неба</xt>
 			</xg>
 			<xg>
-				<x type="phrase">аллма ка̄нтэ</x>
+				<x type="Phrase">аллма ка̄нтэ</x>
 				<xt xml:lang="rus">вверх ногами</xt>
 			</xg>
 		</mg>
@@ -2518,7 +2518,7 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">он поехал, когда была метель</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ча̄дзьалльм манн</x>
+				<x type="Phrase">ча̄дзьалльм манн</x>
 				<xt xml:lang="rus">идёт мокрый снег</xt>
 			</xg>
 		</mg>
@@ -3342,11 +3342,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг.">шуметь</t>
 			</tg>
 			<xg>
-				<x type="phrase">ва̄ррь вуэгк</x>
+				<x type="Phrase">ва̄ррь вуэгк</x>
 				<xt xml:lang="rus">лес шумит</xt>
 			</xg>
 			<xg>
-				<x type="phrase">самлёһт вуэгк</x>
+				<x type="Phrase">самлёһт вуэгк</x>
 				<xt xml:lang="rus">самолёт гудит</xt>
 			</xg>
 		</mg>
@@ -3809,7 +3809,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus">порыв</t>
 			</tg>
 			<xg>
-				<x type="phrase">пӣӊӊк вырант</x>
+				<x type="Phrase">пӣӊӊк вырант</x>
 				<xt xml:lang="rus">порыв ветра</xt>
 			</xg>
 		</mg>
@@ -3873,11 +3873,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">провалиться (куда-л.)</t>
 			</tg>
 			<xg>
-				<x type="phrase">выррэ вэ̄дзе, ӣӊ вуэлла</x>
+				<x type="Phrase">выррэ вэ̄дзе, ӣӊ вуэлла</x>
 				<xt xml:lang="rus">провалиться в снег, под лёд</xt>
 			</xg>
 			<xg>
-				<x type="phrase">выр-выр мэ̄ннэ</x>
+				<x type="Phrase">выр-выр мэ̄ннэ</x>
 				<xt xml:lang="rus">идти проваливаясь</xt>
 			</xg>
 		</mg>
@@ -4443,7 +4443,7 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">он так придёт, а ты так не можешь</xt>
 			</xg>
 			<xg>
-				<x type="phrase">выйе, дак выйе</x>
+				<x type="Phrase">выйе, дак выйе</x>
 				<xt xml:lang="rus">ехать, так ехать</xt>
 			</xg>
 		</mg>
@@ -4458,7 +4458,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">декабрь м</t>
 			</tg>
 			<xg>
-				<x type="phrase">шэ̄ннтэ декабресьт</x>
+				<x type="Phrase">шэ̄ннтэ декабресьт</x>
 				<xt xml:lang="rus">родиться в декабре</xt>
 			</xg>
 			<xg>
@@ -4519,7 +4519,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">делегат</t>
 			</tg>
 			<xg>
-				<x type="phrase">воалшэ делегаһтэнҍ</x>
+				<x type="Phrase">воалшэ делегаһтэнҍ</x>
 				<xt xml:lang="rus">избрать кого делегатом</xt>
 			</xg>
 		</mg>
@@ -4533,7 +4533,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="прилаг." state="опред.">демократический</t>
 			</tg>
 			<xg>
-				<x type="phrase">демократическэ республика</x>
+				<x type="Phrase">демократическэ республика</x>
 				<xt xml:lang="rus">демократическая республика</xt>
 			</xg>
 		</mg>
@@ -4559,7 +4559,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">демонстрация</t>
 			</tg>
 			<xg>
-				<x type="phrase">лыһкъетҍ демонстрация</x>
+				<x type="Phrase">лыһкъетҍ демонстрация</x>
 				<xt xml:lang="rus">демонстрация трудящихся</xt>
 			</xg>
 		</mg>
@@ -4574,11 +4574,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">депутат</t>
 			</tg>
 			<xg>
-				<x type="phrase">пайймусс совеһт депутаһт</x>
+				<x type="Phrase">пайймусс совеһт депутаһт</x>
 				<xt xml:lang="rus">депутат верховного совета</xt>
 			</xg>
 			<xg>
-				<x type="phrase">сыййт совеһт депутаһт</x>
+				<x type="Phrase">сыййт совеһт депутаһт</x>
 				<xt xml:lang="rus">депутат сельского совета</xt>
 			</xg>
 			<xg>
@@ -4597,11 +4597,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">диван</t>
 			</tg>
 			<xg>
-				<x type="phrase">диван альн вуэӈӈэ</x>
+				<x type="Phrase">диван альн вуэӈӈэ</x>
 				<xt xml:lang="rus">отдыхать на диване</xt>
 			</xg>
 			<xg>
-				<x type="phrase">диванн по̄дэшк</x>
+				<x type="Phrase">диванн по̄дэшк</x>
 				<xt xml:lang="rus">диванная подушка</xt>
 			</xg>
 		</mg>
@@ -4616,11 +4616,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">диктант</t>
 			</tg>
 			<xg>
-				<x type="phrase">кырьйхэ диктант</x>
+				<x type="Phrase">кырьйхэ диктант</x>
 				<xt xml:lang="rus">написать диктант</xt>
 			</xg>
 			<xg>
-				<x type="phrase">диктантэсьт ся̄гкнэгэтҍ вӯййкъе</x>
+				<x type="Phrase">диктантэсьт ся̄гкнэгэтҍ вӯййкъе</x>
 				<xt xml:lang="rus">исправить ошибки в диктанте</xt>
 			</xg>
 		</mg>
@@ -4645,11 +4645,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">директор</t>
 			</tg>
 			<xg>
-				<x type="phrase">шко̄ла директрэнҍ ро̄бхушшэ</x>
+				<x type="Phrase">шко̄ла директрэнҍ ро̄бхушшэ</x>
 				<xt xml:lang="rus">работать директором школы</xt>
 			</xg>
 			<xg>
-				<x type="phrase">директэр туэлль</x>
+				<x type="Phrase">директэр туэлль</x>
 				<xt xml:lang="rus">директорский стол</xt>
 			</xg>
 		</mg>
@@ -4664,7 +4664,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">дневник</t>
 			</tg>
 			<xg>
-				<x type="phrase">о̄һпнуввэй днивнэһкь</x>
+				<x type="Phrase">о̄һпнуввэй днивнэһкь</x>
 				<xt xml:lang="rus">ученический дневник</xt>
 			</xg>
 		</mg>
@@ -4679,11 +4679,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">доклад</t>
 			</tg>
 			<xg>
-				<x type="phrase">са̄ррнмуж доклад мӣлльтэ</x>
+				<x type="Phrase">са̄ррнмуж доклад мӣлльтэ</x>
 				<xt xml:lang="rus">прения по докладу</xt>
 			</xg>
 			<xg>
-				<x type="phrase">доклад выгкэй</x>
+				<x type="Phrase">доклад выгкэй</x>
 				<xt xml:lang="rus">докладчик</xt>
 			</xg>
 		</mg>
@@ -4713,7 +4713,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ." num="мн.">духи</t>
 			</tg>
 			<xg>
-				<x type="phrase">духа лэ̄гк</x>
+				<x type="Phrase">духа лэ̄гк</x>
 				<xt xml:lang="rus">запах духов</xt>
 			</xg>
 		</mg>
@@ -4731,11 +4731,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">трясина</t>
 			</tg>
 			<xg>
-				<x type="phrase">ва̄ннҍцэ пырр ва̄ррь дэбэнҍ</x>
+				<x type="Phrase">ва̄ннҍцэ пырр ва̄ррь дэбэнҍ</x>
 				<xt xml:lang="rus">обойти лесную трясину</xt>
 			</xg>
 			<xg>
-				<x type="phrase">выррэ дэбнӭ</x>
+				<x type="Phrase">выррэ дэбнӭ</x>
 				<xt xml:lang="rus">завязнуть в трясине</xt>
 			</xg>
 		</mg>
@@ -5549,11 +5549,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ." gen="ж">подруга</t>
 			</tg>
 			<xg>
-				<x type="phrase">па̄ррнэ па̄ллса ка̄ннҍц</x>
+				<x type="Phrase">па̄ррнэ па̄ллса ка̄ннҍц</x>
 				<xt xml:lang="rus">друг детства</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ка̄ннҍц тӣррвъвудт</x>
+				<x type="Phrase">ка̄ннҍц тӣррвъвудт</x>
 				<xt xml:lang="rus">дружеский привет</xt>
 			</xg>
 		</mg>
@@ -5567,15 +5567,15 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus">keine Transl. im Original</t>
 			</tg>
 			<xg>
-				<x type="phrase">ка̄ннҍц коанҍцэнэсь</x>
+				<x type="Phrase">ка̄ннҍц коанҍцэнэсь</x>
 				<xt xml:lang="rus">друг с другом</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ка̄ннҍц ка̄нҍцэсь мӣлльтэ</x>
+				<x type="Phrase">ка̄ннҍц ка̄нҍцэсь мӣлльтэ</x>
 				<xt xml:lang="rus">друг за другом</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ка̄ннҍц ка̄нҍцэсь эвтэсьт</x>
+				<x type="Phrase">ка̄ннҍц ка̄нҍцэсь эвтэсьт</x>
 				<xt xml:lang="rus">друг против друга</xt>
 			</xg>
 		</mg>
@@ -5818,11 +5818,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг.">1. прям., перен. хватать кого-что</t>
 			</tg>
 			<xg>
-				<x type="phrase">каһце кӣдэсьт</x>
+				<x type="Phrase">каһце кӣдэсьт</x>
 				<xt xml:lang="rus">хватать за руку</xt>
 			</xg>
 			<xg>
-				<x type="phrase">каһцемӣ поабпаһт</x>
+				<x type="Phrase">каһцемӣ поабпаһт</x>
 				<xt xml:lang="rus">хватать что попало</xt>
 			</xg>
 		</mg>
@@ -5840,7 +5840,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг.">3. чесать кого-что</t>
 			</tg>
 			<xg>
-				<x type="phrase">каһце се̄льк</x>
+				<x type="Phrase">каһце се̄льк</x>
 				<xt xml:lang="rus">чесатьспину</xt>
 			</xg>
 		</mg>
@@ -7709,7 +7709,7 @@ For the full license text, see the link above.</lic>
 				<te>прям., перен.</te>
 			</tg>
 			<xg>
-				<x type="phrase">кыннтсэнне чуввкэ чӯлм</x>
+				<x type="Phrase">кыннтсэнне чуввкэ чӯлм</x>
 				<xt xml:lang="rus">туго затянуть узел</xt>
 			</xg>
 			<xg>
@@ -7728,7 +7728,7 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">он воспитывает ребят в строгости</xt>
 			</xg>
 			<xg>
-				<x type="phrase">кыннтсэнне са̄ррнэ</x>
+				<x type="Phrase">кыннтсэнне са̄ррнэ</x>
 				<xt xml:lang="rus">говорить сквозь зубы; через силу, без желания</xt>
 			</xg>
 		</mg>
@@ -8096,7 +8096,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">интервал</t>
 			</tg>
 			<xg>
-				<x type="phrase">кугкесь кэ̄сск</x>
+				<x type="Phrase">кугкесь кэ̄сск</x>
 				<xt xml:lang="rus">дальнее расстояние</xt>
 			</xg>
 			<xg>
@@ -8104,7 +8104,7 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">далеко ли до леса?</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ко̄лм ыгса кэскэнҍ</x>
+				<x type="Phrase">ко̄лм ыгса кэскэнҍ</x>
 				<xt xml:lang="rus">с интервалом в три года</xt>
 			</xg>
 		</mg>
@@ -8120,11 +8120,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">середина</t>
 			</tg>
 			<xg>
-				<x type="phrase">та̄лльв, че̄ххч кэскэсьт</x>
+				<x type="Phrase">та̄лльв, че̄ххч кэскэсьт</x>
 				<xt xml:lang="rus">в середине зимы, осени</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ышт вэнс кэ̄сськэ</x>
+				<x type="Phrase">ышт вэнс кэ̄сськэ</x>
 				<xt xml:lang="rus">сядь в середине лодки</xt>
 			</xg>
 		</mg>
@@ -8322,15 +8322,15 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">речь ж, язык</t>
 			</tg>
 			<xg>
-				<x type="phrase">са̄мь, рӯшш кӣлл</x>
+				<x type="Phrase">са̄мь, рӯшш кӣлл</x>
 				<xt xml:lang="rus">саамская, русская речь</xt>
 			</xg>
 			<xg>
-				<x type="phrase">кӣлвӯййксэллэ</x>
+				<x type="Phrase">кӣлвӯййксэллэ</x>
 				<xt xml:lang="rus">исправлять речь</xt>
 			</xg>
 			<xg>
-				<x type="phrase">кӣл баяс те̄д тӣдтӭй</x>
+				<x type="Phrase">кӣл баяс те̄д тӣдтӭй</x>
 				<xt xml:lang="rus">языковед</xt>
 			</xg>
 		</mg>
@@ -8350,12 +8350,12 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">петля (в силках) для куропаток</xt>
 			</xg>
 			<xg>
-				<x type="phrase">кӣлле поабпхэ</x>
+				<x type="Phrase">кӣлле поабпхэ</x>
 				<xt xml:lang="rus">1. попасть в петлю</xt>
 				<xt xml:lang="rus">2. перен. попасть в трудное положение</xt>
 			</xg>
 			<xg>
-				<x type="phrase">кӣлле чоаӈӈэ</x>
+				<x type="Phrase">кӣлле чоаӈӈэ</x>
 				<xt xml:lang="rus">прям., перен. лезть в петлю</xt>
 			</xg>
 		</mg>
@@ -9135,7 +9135,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">1. перенести кого-что</t>
 			</tg>
 			<xg>
-				<x type="phrase">кӯннҍтэ парна кӣд альн</x>
+				<x type="Phrase">кӯннҍтэ парна кӣд альн</x>
 				<xt xml:lang="rus">нести ребёнка на руках</xt>
 			</xg>
 			<xg>
@@ -9150,7 +9150,7 @@ For the full license text, see the link above.</lic>
 				<te>перен.</te>
 			</tg>
 			<xg>
-				<x type="phrase">кӯннҍтэ грӣб ю̄лькэ альн</x>
+				<x type="Phrase">кӯннҍтэ грӣб ю̄лькэ альн</x>
 				<xt xml:lang="rus">перенести грипп на ногах</xt>
 			</xg>
 		</mg>
@@ -9165,7 +9165,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг.">1. телиться / отелиться, котиться / окотиться (о животных)</t>
 			</tg>
 			<xg>
-				<x type="phrase">кӯннҍтэм па̄лль</x>
+				<x type="Phrase">кӯннҍтэм па̄лль</x>
 				<xt xml:lang="rus">время отёла (окота)</xt>
 			</xg>
 			<xg>
@@ -9178,7 +9178,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг.">2. нестись (о птицах)</t>
 			</tg>
 			<xg>
-				<x type="phrase">ка̄нҍ кӯннҍтэв мэнӭтҍ</x>
+				<x type="Phrase">ка̄нҍ кӯннҍтэв мэнӭтҍ</x>
 				<xt xml:lang="rus">куры несутся</xt>
 			</xg>
 		</mg>
@@ -9510,7 +9510,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">магазин</t>
 			</tg>
 			<xg>
-				<x type="phrase">е̄весь ла̄ффьк</x>
+				<x type="Phrase">е̄весь ла̄ффьк</x>
 				<xt xml:lang="rus">продовольственный магазин</xt>
 			</xg>
 		</mg>
@@ -9526,15 +9526,15 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">шаг</t>
 			</tg>
 			<xg>
-				<x type="phrase">лыһкэ эфт ла̄фьк</x>
+				<x type="Phrase">лыһкэ эфт ла̄фьк</x>
 				<xt xml:lang="rus">сделать один шаг</xt>
 			</xg>
 			<xg>
-				<x type="phrase">кугкесь ла̄ффкава̄ннҍцэ</x>
+				<x type="Phrase">кугкесь ла̄ффкава̄ннҍцэ</x>
 				<xt xml:lang="rus">идти широким шагом</xt>
 			</xg>
 			<xg>
-				<x type="phrase">лоафькэтҍ саннҍтэ</x>
+				<x type="Phrase">лоафькэтҍ саннҍтэ</x>
 				<xt xml:lang="rus">идти чинно, медленно (букв. натягивать шаги)</xt>
 			</xg>
 		</mg>
@@ -9738,16 +9738,16 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">птица</t>
 			</tg>
 			<xg>
-				<x type="phrase">ча̄зесьт вӯйей лоанҍт</x>
+				<x type="Phrase">ча̄зесьт вӯйей лоанҍт</x>
 				<xt xml:lang="rus">водоплавающие птицы</xt>
 			</xg>
 			<xg>
-				<x type="phrase">кӣһче лоанҍтэ кырртмуж</x>
+				<x type="Phrase">кӣһче лоанҍтэ кырртмуж</x>
 				<xt xml:lang="rus">наблюдать полёт птиц
 				</xt>
 			</xg>
 			<xg>
-				<x type="phrase">лоанҍт вуэннч</x>
+				<x type="Phrase">лоанҍт вуэннч</x>
 				<xt xml:lang="rus">дичь</xt>
 			</xg>
 			<semantics_group>
@@ -9950,15 +9950,15 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг.">двигаясь</t>
 			</tg>
 			<xg>
-				<x type="phrase">лыгксэ нымьп сайя</x>
+				<x type="Phrase">лыгксэ нымьп сайя</x>
 				<xt xml:lang="rus">пересесть на другое место</xt>
 			</xg>
 			<xg>
-				<x type="phrase">лыгкэсьт туммпла</x>
+				<x type="Phrase">лыгкэсьт туммпла</x>
 				<xt xml:lang="rus">отодвинься подальше</xt>
 			</xg>
 			<xg>
-				<x type="phrase">оаррэ лыгксэханна</x>
+				<x type="Phrase">оаррэ лыгксэханна</x>
 				<xt xml:lang="rus">сидеть не шевелясь</xt>
 			</xg>
 		</mg>
@@ -10170,11 +10170,11 @@ For the full license text, see the link above.</lic>
 				<te>оленя</te>
 			</tg>
 			<xg>
-				<x type="phrase">ля̄шшкэ пӯдзэтҍ тӣһтэм гуэйкэ</x>
+				<x type="Phrase">ля̄шшкэ пӯдзэтҍ тӣһтэм гуэйкэ</x>
 				<xt xml:lang="rus">ловить оленей для клеймления</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ля̄шшкэм нӯррь</x>
+				<x type="Phrase">ля̄шшкэм нӯррь</x>
 				<xt xml:lang="rus">аркан</xt>
 			</xg>
 		</mg>
@@ -10388,15 +10388,15 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">горе</t>
 			</tg>
 			<xg>
-				<x type="phrase">поабпхэ моадта</x>
+				<x type="Phrase">поабпхэ моадта</x>
 				<xt xml:lang="rus">попасть в беду</xt>
 			</xg>
 			<xg>
-				<x type="phrase">пе̄ссьтэ ма̄дэсьт</x>
+				<x type="Phrase">пе̄ссьтэ ма̄дэсьт</x>
 				<xt xml:lang="rus">выручить кого из беды</xt>
 			</xg>
 			<xg>
-				<x type="phrase">пӯдӭ ма̄дт</x>
+				<x type="Phrase">пӯдӭ ма̄дт</x>
 				<xt xml:lang="rus">произошло несчастье</xt>
 			</xg>
 			<xg>
@@ -10404,15 +10404,15 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">с ним случилось несчастье</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ма̄дт я̄л</x>
+				<x type="Phrase">ма̄дт я̄л</x>
 				<xt xml:lang="rus">несчастная жизнь</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ӣджьсант ма̄дгуэйкэ</x>
+				<x type="Phrase">ӣджьсант ма̄дгуэйкэ</x>
 				<xt xml:lang="rus">на свою беду</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ма̄дт мыннӭ лӣ со̄нэнҍ</x>
+				<x type="Phrase">ма̄дт мыннӭ лӣ со̄нэнҍ</x>
 				<xt xml:lang="rus">беда мне с ним</xt>
 			</xg>
 			<xg>
@@ -10432,11 +10432,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">червь м, червяк</t>
 			</tg>
 			<xg>
-				<x type="phrase">е̄ммьне ма̄дт</x>
+				<x type="Phrase">е̄ммьне ма̄дт</x>
 				<xt xml:lang="rus">земляной червь</xt>
 			</xg>
 			<xg>
-				<x type="phrase">мӯрр ма̄дт</x>
+				<x type="Phrase">мӯрр ма̄дт</x>
 				<xt xml:lang="rus">древесный червь</xt>
 			</xg>
 			<xg>
@@ -10969,27 +10969,27 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">натереть кого-что чем-л.</t>
 			</tg>
 			<xg>
-				<x type="phrase">моашшэ сте̄нэтҍ поайнэнҍ</x>
+				<x type="Phrase">моашшэ сте̄нэтҍ поайнэнҍ</x>
 				<xt xml:lang="rus">мазать стены краской</xt>
 			</xg>
 			<xg>
-				<x type="phrase">моашшэ ле̄йп вӯенҍ</x>
+				<x type="Phrase">моашшэ ле̄йп вӯенҍ</x>
 				<xt xml:lang="rus">мазать хлеб маслом</xt>
 			</xg>
 			<xg>
-				<x type="phrase">моашшэ вӯй ле̄йп э̄л</x>
+				<x type="Phrase">моашшэ вӯй ле̄йп э̄л</x>
 				<xt xml:lang="rus">намазывать масло на хлеб</xt>
 			</xg>
 			<xg>
-				<x type="phrase">моашшэ кӣдэтҍ</x>
+				<x type="Phrase">моашшэ кӣдэтҍ</x>
 				<xt xml:lang="rus">мазать руки</xt>
 			</xg>
 			<xg>
-				<x type="phrase">моашшэ ра̄ӊь</x>
+				<x type="Phrase">моашшэ ра̄ӊь</x>
 				<xt xml:lang="rus">смазывать рану</xt>
 			</xg>
 			<xg>
-				<x type="phrase">моашшэ моазень ранҍт</x>
+				<x type="Phrase">моашшэ моазень ранҍт</x>
 				<xt xml:lang="rus">натереть мазью грудь</xt>
 			</xg>
 		</mg>
@@ -11125,7 +11125,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="прилаг.опред.">вселённая</t>
 			</tg>
 			<xg>
-				<x type="phrase">мыр шэ̄ннтмушш</x>
+				<x type="Phrase">мыр шэ̄ннтмушш</x>
 				<xt xml:lang="rus">происхождение мира</xt>
 			</xg>
 			<xg>
@@ -11133,7 +11133,7 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">всю-то я вселенную проехал (из песни)</xt>
 			</xg>
 			<xg>
-				<x type="phrase">мырр туарр</x>
+				<x type="Phrase">мырр туарр</x>
 				<xt xml:lang="rus">мировая война</xt>
 			</xg>
 		</mg>
@@ -11144,19 +11144,19 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">народ</t>
 			</tg>
 			<xg>
-				<x type="phrase">капиталистическэ мырр</x>
+				<x type="Phrase">капиталистическэ мырр</x>
 				<xt xml:lang="rus">капиталистический мир</xt>
 			</xg>
 			<xg>
-				<x type="phrase">социализм мырр</x>
+				<x type="Phrase">социализм мырр</x>
 				<xt xml:lang="rus">мир социализма</xt>
 			</xg>
 			<xg>
-				<x type="phrase">те̄д тӣдтӭй мырр</x>
+				<x type="Phrase">те̄д тӣдтӭй мырр</x>
 				<xt xml:lang="rus">научный мир</xt>
 			</xg>
 			<xg>
-				<x type="phrase">о̄ммп мырэнҍ выййтэ</x>
+				<x type="Phrase">о̄ммп мырэнҍ выййтэ</x>
 				<xt xml:lang="rus">выйти всем миром</xt>
 			</xg>
 			<xg>
@@ -11180,27 +11180,27 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">мир, спокойствие, согласие</t>
 			</tg>
 			<xg>
-				<x type="phrase">мырэсьт е̄лле</x>
+				<x type="Phrase">мырэсьт е̄лле</x>
 				<xt xml:lang="rus">жить в мире</xt>
 			</xg>
 			<xg>
-				<x type="phrase">нарэдэтҍ туарр мыр гуэйкэ</x>
+				<x type="Phrase">нарэдэтҍ туарр мыр гуэйкэ</x>
 				<xt xml:lang="rus">борьба народов за мир</xt>
 			</xg>
 			<xg>
-				<x type="phrase">мырр пя̄ллшэетҍ ёадтмушш</x>
+				<x type="Phrase">мырр пя̄ллшэетҍ ёадтмушш</x>
 				<xt xml:lang="rus">движение сторонников мира</xt>
 			</xg>
 			<xg>
-				<x type="phrase">мырэсьт я̄ллмушш</x>
+				<x type="Phrase">мырэсьт я̄ллмушш</x>
 				<xt xml:lang="rus">мирное сосуществование</xt>
 			</xg>
 			<xg>
-				<x type="phrase">мырр политика</x>
+				<x type="Phrase">мырр политика</x>
 				<xt xml:lang="rus">мирная политика</xt>
 			</xg>
 			<xg>
-				<x type="phrase">мырр соаррндэдтмушш</x>
+				<x type="Phrase">мырр соаррндэдтмушш</x>
 				<xt xml:lang="rus">мирный договор</xt>
 			</xg>
 			<xg>
@@ -17255,11 +17255,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ." gen="м">неприятель</t>
 			</tg>
 			<xg>
-				<x type="phrase">вуэjjтэ рӯцэтҍ</x>
+				<x type="Phrase">вуэjjтэ рӯцэтҍ</x>
 				<xt xml:lang="rus">победить врага</xt>
 			</xg>
 			<xg>
-				<x type="phrase">рӯһц вӣгк</x>
+				<x type="Phrase">рӯһц вӣгк</x>
 				<xt xml:lang="rus">вражеская сила</xt>
 			</xg>
 		</mg>
@@ -17275,7 +17275,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">финн</t>
 			</tg>
 			<xg>
-				<x type="phrase">рӯц кӣлл</x>
+				<x type="Phrase">рӯц кӣлл</x>
 				<xt xml:lang="rus">финский язык</xt>
 			</xg>
 		</mg>
@@ -20342,7 +20342,7 @@ For the full license text, see the link above.</lic>
 				<te>животного</te>
 			</tg>
 			<xg>
-				<x type="phrase">пӯдзэ туррьп</x>
+				<x type="Phrase">пӯдзэ туррьп</x>
 				<xt xml:lang="rus">морда оленя</xt>
 			</xg>
 		</mg>
@@ -20358,7 +20358,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">труба</t>
 			</tg>
 			<xg>
-				<x type="phrase">пе̄һц туррьп</x>
+				<x type="Phrase">пе̄һц туррьп</x>
 				<xt xml:lang="rus">дымовая труба</xt>
 			</xg>
 		</mg>
@@ -21144,11 +21144,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">фабрика</t>
 			</tg>
 			<xg>
-				<x type="phrase">пымме фа̄брика</x>
+				<x type="Phrase">пымме фа̄брика</x>
 				<xt xml:lang="rus">бумажная фабрика</xt>
-				<x type="phrase">лыһкэ фа̄брикасьт</x>
+				<x type="Phrase">лыһкэ фа̄брикасьт</x>
 				<xt xml:lang="rus">работать на фабрике</xt>
-				<x type="phrase">фа̄брикасьт лыһкэй</x>
+				<x type="Phrase">фа̄брикасьт лыһкэй</x>
 				<xt xml:lang="rus">фабричный рабочий</xt>
 			</xg>
 		</mg>
@@ -21163,13 +21163,13 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">фартук</t>
 			</tg>
 			<xg>
-				<x type="phrase">куаррэ о̄дт вӣллькесь фа̄ртэк</x>
+				<x type="Phrase">куаррэ о̄дт вӣллькесь фа̄ртэк</x>
 				<xt xml:lang="rus">сшить новый белый фартук</xt>
-				<x type="phrase">куаррэм фа̄ртэк</x>
+				<x type="Phrase">куаррэм фа̄ртэк</x>
 				<xt xml:lang="rus">фартук для шитья меховых изделий</xt>
-				<x type="phrase">пе̄рк чиннэм фа̄ртэк</x>
+				<x type="Phrase">пе̄рк чиннэм фа̄ртэк</x>
 				<xt xml:lang="rus">кухонный фартук</xt>
-				<x type="phrase">фа̄ртэк та̄вяр</x>
+				<x type="Phrase">фа̄ртэк та̄вяр</x>
 				<xt xml:lang="rus">ткань на фартук</xt>
 			</xg>
 		</mg>
@@ -21184,7 +21184,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">факультет</t>
 			</tg>
 			<xg>
-				<x type="phrase">историческэ факультеһт</x>
+				<x type="Phrase">историческэ факультеһт</x>
 				<xt xml:lang="rus">исторический факультет</xt>
 				<x type="compound">факультеһт-со̄бэр</x>
 				<xt xml:lang="rus">факультетское собрание</xt>
@@ -21250,7 +21250,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="прилаг." state="опред.">физкультурный</t>
 			</tg>
 			<xg>
-				<x type="phrase">физкультурнэ парадт</x>
+				<x type="Phrase">физкультурнэ парадт</x>
 				<xt xml:lang="rus">физкультурный парад</xt>
 			</xg>
 		</mg>
@@ -21275,9 +21275,9 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">флаг</t>
 			</tg>
 			<xg>
-				<x type="phrase">паййнэ флаг</x>
+				<x type="Phrase">паййнэ флаг</x>
 				<xt xml:lang="rus">поднять флаг</xt>
-				<x type="phrase">лӯшшьтэ фла̄г</x>
+				<x type="Phrase">лӯшшьтэ фла̄г</x>
 				<xt xml:lang="rus">спустить флаг</xt>
 			</xg>
 		</mg>
@@ -21292,7 +21292,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">флот</t>
 			</tg>
 			<xg>
-				<x type="phrase">фло̄тэсьт лӯшшэ</x>
+				<x type="Phrase">фло̄тэсьт лӯшшэ</x>
 				<xt xml:lang="rus">служить во флоте</xt>
 			</xg>
 		</mg>
@@ -21308,9 +21308,9 @@ For the full license text, see the link above.</lic>
 				<comment type="explan">одежда</comment>
 			</tg>
 			<xg>
-				<x type="phrase">оһпнуввэй фо̄рма</x>
+				<x type="Phrase">оһпнуввэй фо̄рма</x>
 				<xt xml:lang="rus">ученическая форма</xt>
-				<x type="phrase">ва̄ннҍцэ фо̄рмасьт</x>
+				<x type="Phrase">ва̄ннҍцэ фо̄рмасьт</x>
 				<xt xml:lang="rus">ходить в форме 
 </xt>
 			</xg>
@@ -21321,9 +21321,9 @@ For the full license text, see the link above.</lic>
 				<comment type="explan">приспособление для чего-л.</comment>
 			</tg>
 			<xg>
-				<x type="phrase">ле̄йп па̄шшьтэм фо̄рма</x>
+				<x type="Phrase">ле̄йп па̄шшьтэм фо̄рма</x>
 				<xt xml:lang="rus">форма для выпечки хлеба</xt>
-				<x type="phrase">лӣйпэтҍ па̄шшьтэм гуэйкэ фо̄рма</x>
+				<x type="Phrase">лӣйпэтҍ па̄шшьтэм гуэйкэ фо̄рма</x>
 				<xt xml:lang="rus">форма для выпечки хлеба</xt>
 			</xg>
 		</mg>
@@ -21351,7 +21351,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">фронт</t>
 			</tg>
 			<xg>
-				<x type="phrase">фронт чӯһкас</x>
+				<x type="Phrase">фронт чӯһкас</x>
 				<xt xml:lang="rus">фронтовые дороги</xt>
 			</xg>
 		</mg>
@@ -21366,7 +21366,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">фуражка</t>
 			</tg>
 			<xg>
-				<x type="phrase">соалтэх фуражка</x>
+				<x type="Phrase">соалтэх фуражка</x>
 				<xt xml:lang="rus">солдатская фуражка</xt>
 			</xg>
 		</mg>
@@ -21603,11 +21603,11 @@ For the full license text, see the link above.</lic>
 				<comment type="explan">прям., перен.</comment>
 			</tg>
 			<xg>
-				<x type="phrase">то̄лл хабпхэсс</x>
+				<x type="Phrase">то̄лл хабпхэсс</x>
 				<xt xml:lang="rus">вспышка огня</xt>
 			</xg>
 			<xg>
-				<x type="phrase">грӣбп хабпхэсс</x>
+				<x type="Phrase">грӣбп хабпхэсс</x>
 				<xt xml:lang="rus">вспышка гриппа</xt>
 			</xg>
 		</mg>
@@ -21628,11 +21628,11 @@ For the full license text, see the link above.</lic>
 			</tg>
 			<lexicon xml:lang="rus">шест длиной около трёх метров, диаметром 3–4 см для управления оленьей упряжкой; на более тонкий передний конец шеста надевается деревянный или костяной шарик, предохраняющий оленей от уколов</lexicon>
 			<xg>
-				<x type="phrase">харянҍ пӯдзэтҍ чо̄һкэ</x>
+				<x type="Phrase">харянҍ пӯдзэтҍ чо̄һкэ</x>
 				<xt xml:lang="rus">погонять оленей хореем</xt>
 			</xg>
 			<xg>
-				<x type="phrase">харя па̄лл</x>
+				<x type="Phrase">харя па̄лл</x>
 				<xt xml:lang="rus">шарик на конце хорея</xt>
 			</xg>
 		</mg>
@@ -21775,7 +21775,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">хозяин</t>
 			</tg>
 			<xg>
-				<x type="phrase">пӯдзэ хозенҍ</x>
+				<x type="Phrase">пӯдзэ хозенҍ</x>
 				<xt xml:lang="rus">хозяин оленей</xt>
 			</xg>
 			<xg>
@@ -21825,7 +21825,7 @@ For the full license text, see the link above.</lic>
 				<re>о вороне</re>
 			</tg>
 			<xg>
-				<x type="phrase">ка̄рьнэсь хоӈкэрь</x>
+				<x type="Phrase">ка̄рьнэсь хоӈкэрь</x>
 				<xt xml:lang="rus">ворона каркнула</xt>
 			</xg>
 		</mg>
@@ -22309,11 +22309,11 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="глаг." aspect="xxx">надеть что</t>
 			</tg>
 			<xg>
-				<x type="phrase">ца̄гь то̄ҏк</x>
+				<x type="Phrase">ца̄гь то̄ҏк</x>
 				<xt xml:lang="rus">надень шубу</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ца̄гке сӯррм-куэдҍ це̄һпе</x>
+				<x type="Phrase">ца̄гке сӯррм-куэдҍ це̄һпе</x>
 				<xt xml:lang="rus">надеть напёрсток на палец</xt>
 			</xg>
 		</mg>
@@ -22536,7 +22536,7 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">он сегодня преодолел лень</xt>
 			</xg>
 			<xg>
-				<x type="phrase">цыӈӈьк олма</x>
+				<x type="Phrase">цыӈӈьк олма</x>
 				<xt xml:lang="rus">ленивый человек</xt>
 			</xg>
 		</mg>
@@ -22704,7 +22704,7 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">час</t>
 			</tg>
 			<xg>
-				<x type="phrase">маӈӈнэ ча̄сс пайя</x>
+				<x type="Phrase">маӈӈнэ ча̄сс пайя</x>
 				<xt xml:lang="rus">опоздать на час</xt>
 			</xg>
 			<xg>
@@ -22712,7 +22712,7 @@ For the full license text, see the link above.</lic>
 				<xt xml:lang="rus">который час?</xt>
 			</xg>
 			<xg>
-				<x type="phrase">лӯшшьтэ нымьп ча̄ссрайя</x>
+				<x type="Phrase">лӯшшьтэ нымьп ча̄ссрайя</x>
 				<xt xml:lang="rus">отпустить до двух часов</xt>
 			</xg>
 		</mg>
@@ -22727,19 +22727,19 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ." num="мн.">часы</t>
 			</tg>
 			<xg>
-				<x type="phrase">кӣдт ча̄сс</x>
+				<x type="Phrase">кӣдт ча̄сс</x>
 				<xt xml:lang="rus">ручные часы</xt>
 			</xg>
 			<xg>
-				<x type="phrase">сте̄нн ча̄сс</x>
+				<x type="Phrase">сте̄нн ча̄сс</x>
 				<xt xml:lang="rus">стенные часы</xt>
 			</xg>
 			<xg>
-				<x type="phrase">вуэссьтэ о̄дт ча̄ссэтҍ</x>
+				<x type="Phrase">вуэссьтэ о̄дт ча̄ссэтҍ</x>
 				<xt xml:lang="rus">купить новые часы</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ча̄ссэтҍ лыһкэмзаводт</x>
+				<x type="Phrase">ча̄ссэтҍ лыһкэмзаводт</x>
 				<xt xml:lang="rus">часовой завод</xt>
 			</xg>
 		</mg>
@@ -25853,15 +25853,15 @@ For the full license text, see the link above.</lic>
 				<te xml:lang="rus" pos="сущ.">брат матери</te>
 			</tg>
 			<xg>
-				<x type="phrase">ӣнан кабперь</x>
+				<x type="Phrase">ӣнан кабперь</x>
 				<xt xml:lang="rus">дядина (моего дяди) шапка</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ӣнант пӯдзэ</x>
+				<x type="Phrase">ӣнант пӯдзэ</x>
 				<xt xml:lang="rus">олени твоего дяди</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ӣнэсь выйем пӯдзэ</x>
+				<x type="Phrase">ӣнэсь выйем пӯдзэ</x>
 				<xt xml:lang="rus">упряжка его дяди</xt>
 			</xg>
 			<xg>
@@ -25889,23 +25889,23 @@ For the full license text, see the link above.</lic>
 				<t xml:lang="rus" pos="сущ.">голос</t>
 			</tg>
 			<xg>
-				<x type="phrase">тоавас ӣнн</x>
+				<x type="Phrase">тоавас ӣнн</x>
 				<xt xml:lang="rus">сильный голос</xt>
 			</xg>
 			<xg>
-				<x type="phrase">чӯйесь ӣннӭ са̄ррнэ</x>
+				<x type="Phrase">чӯйесь ӣннӭ са̄ррнэ</x>
 				<xt xml:lang="rus">говорить звонким голосом</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ла̄ввл кудтҍ ӣн гуэйкэ</x>
+				<x type="Phrase">ла̄ввл кудтҍ ӣн гуэйкэ</x>
 				<xt xml:lang="rus">песня для двух голосов</xt>
 			</xg>
 			<xg>
-				<x type="phrase">пайнэ ӣн мыр пыннем гуэйкэ</x>
+				<x type="Phrase">пайнэ ӣн мыр пыннем гуэйкэ</x>
 				<xt xml:lang="rus">поднять голос в защиту мира</xt>
 			</xg>
 			<xg>
-				<x type="phrase">ӣнн рӯстэ</x>
+				<x type="Phrase">ӣнн рӯстэ</x>
 				<xt xml:lang="rus">голос охрип (букв. заржавел)</xt>
 			</xg>
 			<xg>
